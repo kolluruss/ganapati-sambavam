@@ -1,0 +1,139 @@
+/* ══════════════════════════════════════════════════════════════════
+   verse.css  —  Ganapati Sambavam single-verse PDF layout
+   Used by: publishing/verse_to_pdf.py
+   Font paths are relative to this file (publishing/ directory).
+
+   Differences from book.css:
+     - Larger title (18pt vs 16pt) and image (3.5in vs 2.8in)
+     - Slightly more padding on sections and prose
+     - No .verse-page / .first-verse-page page-break rules needed
+       (single verse, no multi-page sequencing)
+   ══════════════════════════════════════════════════════════════════ */
+
+
+/* ── Font declarations ─────────────────────────────────────────── */
+
+@font-face {
+  font-family: 'Ponnala';
+  src: url('fonts_cache/Ponnala.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gidugu';
+  src: url('fonts_cache/Gidugu.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* ── Page setup ────────────────────────────────────────────────── */
+
+@page {
+  size: 5.5in 8.5in;
+  margin: 0.75in 0.85in 1.0in 0.85in;
+
+  @bottom-left {
+    content: "గణపతి సంభవము";
+    font-family: 'Gidugu', sans-serif;
+    font-size: 8pt;
+    color: #888;
+    border-top: 0.5pt solid #ccc;
+    padding-top: 4pt;
+  }
+  @bottom-right {
+    content: counter(page);
+    font-family: 'Gidugu', sans-serif;
+    font-size: 8pt;
+    color: #888;
+    border-top: 0.5pt solid #ccc;
+    padding-top: 4pt;
+  }
+}
+
+
+/* ── Base ──────────────────────────────────────────────────────── */
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Gidugu', sans-serif;
+  font-size: 9pt;
+  line-height: 1.6;
+  color: #111;
+  background: #fff;
+}
+
+
+/* ── Verse title ───────────────────────────────────────────────── */
+
+.verse-title {
+  font-family: 'Ponnala', sans-serif;
+  font-size: 18pt;
+  text-align: center;
+  margin-bottom: 0.3in;
+  color: #1b5e20;
+  page-break-after: avoid;
+}
+
+
+/* ── Illustration ──────────────────────────────────────────────── */
+
+.verse-image { text-align: center; margin-bottom: 0.25in; }
+.verse-image img {
+  max-width: 3.5in;
+  max-height: 3in;
+  border: 1.5pt solid #ccc;
+  padding: 6pt;
+}
+
+
+/* ── Section box ───────────────────────────────────────────────── */
+
+.section {
+  border-radius: 4pt;
+  padding: 0.12in 0.15in;
+  margin-bottom: 0.18in;
+  page-break-inside: avoid;
+}
+
+/* Colours: background + left-border accent per section number */
+.sec-1 { background-color: #f1f8e9; border-left: 4px solid #558b2f; } /* మూల శ్లోకము  – leaf green  */
+.sec-2 { background-color: #fff8e1; border-left: 4px solid #f9a825; } /* అర్థము       – amber       */
+.sec-3 { background-color: #fce4ec; border-left: 4px solid #c62828; } /* అనునాదము     – rose        */
+.sec-4 { background-color: #e8eaf6; border-left: 4px solid #3949ab; } /* అనువాదము     – indigo      */
+
+
+/* ── Section label (the ### heading) ──────────────────────────── */
+
+.sec-label {
+  font-family: 'Ponnala', sans-serif;
+  font-size: 9.5pt;
+  color: #333;
+  margin-bottom: 0.08in;
+  page-break-after: avoid;
+}
+
+
+/* ── Verse lines (shloka / anunada / anuvada) ──────────────────── */
+
+.verse-body { margin-top: 0.04in; }
+.verse-line {
+  font-family: 'Gidugu', sans-serif;
+  font-size: 11pt;
+  line-height: 1.7;
+  padding-left: 0.1in;
+}
+
+
+/* ── Prose paragraphs (artham / meaning) ──────────────────────── */
+
+.prose-body { margin-top: 0.04in; }
+.prose-para {
+  font-family: 'Gidugu', sans-serif;
+  font-size: 9pt;
+  line-height: 1.6;
+  text-align: justify;
+  margin-bottom: 0.06in;
+}
