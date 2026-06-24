@@ -50,17 +50,27 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r publishing/requirements.txt
 
+      - name: Download images from Google Drive
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: |
+          python3.9 -c "
+          import sys; sys.path.insert(0, 'publishing')
+          from make_pdf_book import sync_images_from_gdrive
+          sync_images_from_gdrive()
+          "
+
       - name: Build Vol. 1 — Demy sargas 1–5
-        run: python3.9 publishing/make_pdf_book.py --vol 1
+        run: python3.9 publishing/make_pdf_book.py --vol 1 --no-download
 
       - name: Build Vol. 2 — Demy sargas 6–10
-        run: python3.9 publishing/make_pdf_book.py --vol 2
+        run: python3.9 publishing/make_pdf_book.py --vol 2 --no-download
 
       - name: Build Combined — A4 all sargas
-        run: python3.9 publishing/make_pdf_book.py --vol all
+        run: python3.9 publishing/make_pdf_book.py --vol all --no-download
 
       - name: Build Combined — Demy compact
-        run: python3.9 publishing/make_pdf_book.py --vol demy
+        run: python3.9 publishing/make_pdf_book.py --vol demy --no-download
 
       - name: Publish to GitHub Release
         uses: softprops/action-gh-release@v2

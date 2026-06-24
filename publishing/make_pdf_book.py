@@ -33,10 +33,13 @@ from html import escape as esc
 SCRIPT_DIR = Path(__file__).resolve().parent          # publishing/
 REPO_ROOT  = SCRIPT_DIR.parent                        # ganapati-sambavam/
 MD_BASE    = REPO_ROOT / "markdown" / "telugu"        # markdown/telugu/
+IMG_DIR    = REPO_ROOT / "images"                     # images/
 FONTS_DIR  = SCRIPT_DIR / "fonts_cache"               # publishing/fonts_cache/
 CSS_FILE   = SCRIPT_DIR / "book.css"                  # publishing/book.css
 YAML_PATH  = MD_BASE / "meta_data" / "chapter_topics.yaml"
 OUTPUT_DIR = REPO_ROOT / "pdfs"
+
+GDRIVE_FOLDER_ID = "16VenM_V9VNMFQScM5H5s3WZJLb8APP6b"  # images source on Google Drive
 
 # page_size: Demy octavo for vol-1/2/demy, A4 for combined
 # margins: (inner, outer, top, bottom) — inner = spine side
@@ -128,6 +131,74 @@ def download_fonts():
         subprocess.run(["fc-cache", "-fv", str(_system_font_dir())],
                        capture_output=True)
     print("  Fonts ready.")
+
+
+# ── Google Drive image sync ───────────────────────────────────────
+
+def _ensure_packages(*packages):
+    import sys
+    _pkg_imports = {
+        "google-api-python-client": "googleapiclient",
+    }
+    for pkg in packages:
+        import_name = _pkg_imports.get(pkg, pkg.replace("-", "_"))
+        try:
+            __import__(import_name)
+        except ImportError:
+            print(f"  Installing {pkg}…", flush=True)
+            subprocess.run([sys.executable, "-m", "pip", "install", pkg, "-q"])
+
+
+def sync_images_from_gdrive(force: bool = False):
+    """Download all images from the Google Drive folder into images/.
+    Requires GOOGLE_API_KEY env var; the Drive folder must be shared as
+    'Anyone with the link' (Viewer).
+    """
+    import os
+    existing = list(IMG_DIR.glob("*.png"))
+    if existing and not force:
+        print(f"  Images cached: {len(existing)} files in {IMG_DIR}")
+        return
+
+    api_key = os.environ.get("GOOGLE_API_KEY")
+    if not api_key:
+        print("  WARNING: GOOGLE_API_KEY not set — skipping image download")
+        return
+
+    _ensure_packages("google-api-python-client")
+    from googleapiclient.discovery import build
+    from googleapiclient.http import MediaIoBaseDownload
+    import io
+
+    IMG_DIR.mkdir(exist_ok=True)
+    service = build("drive", "v3", developerKey=api_key)
+
+    print(f"  Downloading images from Drive folder {GDRIVE_FOLDER_ID}…", flush=True)
+    files, page_token = [], None
+    while True:
+        resp = service.files().list(
+            q=f"'{GDRIVE_FOLDER_ID}' in parents and trashed=false",
+            fields="nextPageToken, files(id, name)",
+            pageSize=1000,
+            pageToken=page_token,
+        ).execute()
+        files.extend(resp.get("files", []))
+        page_token = resp.get("nextPageToken")
+        if not page_token:
+            break
+
+    pngs = [f for f in files if f["name"].endswith(".png")]
+    print(f"  Found {len(pngs)} images", flush=True)
+    for f in pngs:
+        dest = IMG_DIR / f["name"]
+        req  = service.files().get_media(fileId=f["id"])
+        buf  = io.FileIO(dest, mode="wb")
+        dl   = MediaIoBaseDownload(buf, req)
+        done = False
+        while not done:
+            _, done = dl.next_chunk()
+        print(f"    {f['name']}", flush=True)
+    print(f"  Downloaded {len(pngs)} images.")
 
 
 # ── Dynamic CSS (@page rules with Telugu sarga names) ─────────────
@@ -497,6 +568,14 @@ def main():
         help=("1 = sargas 1-5 (Demy), 2 = sargas 6-10 (Demy), "
               "all = complete book (A4), demy = complete book (Demy, compact ప్రతిపదార్థము)")
     )
+    parser.add_argument(
+        "--no-download", action="store_true",
+        help="Skip Google Drive image download (use locally cached images)"
+    )
+    parser.add_argument(
+        "--force-download", action="store_true",
+        help="Re-download images from Google Drive even if already cached"
+    )
     args = parser.parse_args()
 
     vol_sargas, output_filename, vol_label, page_size, margins, compact_pratipa = VOL_CONFIG[args.vol]
@@ -509,6 +588,10 @@ def main():
 
     print("Checking fonts…")
     download_fonts()
+
+    if not args.no_download:
+        print("Syncing images…")
+        sync_images_from_gdrive(force=args.force_download)
 
     print("Reading YAML…")
     with open(YAML_PATH, encoding='utf-8') as f:
