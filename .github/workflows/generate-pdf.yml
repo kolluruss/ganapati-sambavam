@@ -5,6 +5,9 @@ on:
     branches: [main]
     paths:
       - 'markdown/**.md'
+      - 'images/**'
+      - 'publishing/**.py'
+      - 'publishing/book.css'
       - 'publishing/VERSION'
   workflow_dispatch:
 
@@ -41,15 +44,23 @@ jobs:
           sudo apt-get install -y -qq \
             libpango-1.0-0 libpangoft2-1.0-0 \
             libcairo2 libgobject-2.0-0 \
-            libharfbuzz0b libfribidi0
+            libharfbuzz0b libfribidi0 \
+            fontconfig
 
       - name: Install Python dependencies
         run: pip install -r publishing/requirements.txt
 
-      - name: Download images and generate PDF
-        env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-        run: python3.9 publishing/make_book.py
+      - name: Build Vol. 1 — Demy sargas 1–5
+        run: python3.9 publishing/make_pdf_book.py --vol 1
+
+      - name: Build Vol. 2 — Demy sargas 6–10
+        run: python3.9 publishing/make_pdf_book.py --vol 2
+
+      - name: Build Combined — A4 all sargas
+        run: python3.9 publishing/make_pdf_book.py --vol all
+
+      - name: Build Combined — Demy compact
+        run: python3.9 publishing/make_pdf_book.py --vol demy
 
       - name: Publish to GitHub Release
         uses: softprops/action-gh-release@v2
@@ -57,7 +68,14 @@ jobs:
           tag_name: ${{ env.RELEASE_VERSION }}
           name: "Ganapati Sambavam ${{ env.RELEASE_VERSION }}"
           body: |
-            Auto-generated PDF from the latest markdown content.
+            Auto-generated PDFs from the latest markdown content.
+
+            | File | Description |
+            |------|-------------|
+            | `ganapati_sambhavam_vol1.pdf` | Vol. 1 sargas 1–5 (Demy 5.5×8.5in) |
+            | `ganapati_sambhavam_vol2.pdf` | Vol. 2 sargas 6–10 (Demy 5.5×8.5in) |
+            | `ganapati_sambhavam.pdf` | Complete book (A4) |
+            | `ganapati_sambhavam_demy.pdf` | Complete book — Demy compact |
 
             **Commit:** ${{ github.sha }}
             **Triggered by:** ${{ github.event_name }}
