@@ -250,6 +250,7 @@ def build_dynamic_css(sargas_meta, page_size, margins):
     m = margins
     css = build_font_face_css()
     css += f"@page {{ size: {page_size}; }}\n"
+    css += f"@page cover-pg {{ size: {page_size}; margin: 0; }}\n"
     css += _page_rules('front-matter-pg', 'గణపతి సంభవమ్',    m['inner'], m['outer'], m['top'], m['bottom'])
     css += _page_rules('toc-pg',          'విషయానుక్రమణిక', m['inner'], m['outer'], m['top'], m['bottom'])
     for sm in sargas_meta:
@@ -607,7 +608,10 @@ def main():
     for sf in s0_files:
         sec_id, title, content = parse_sarga0_file(sf)
         s0_entries.append((sec_id, title))
-        s0_html_parts.append(f'<div class="front-matter-section">{content}</div>')
+        # Files with no H1 title (e.g. image galleries) get a compact no-break wrapper
+        inner = (f'<div class="s0-gallery">{content}</div>'
+                 if title == sf.stem else content)
+        s0_html_parts.append(f'<div class="front-matter-section">{inner}</div>')
 
     # ── Sargas ─────────────────────────────────────────────────────
     sarga_topic_ids   = {}
@@ -644,6 +648,15 @@ def main():
     dynamic_css = build_dynamic_css([sargas[n] for n in vol_sargas], page_size, margins)
 
     # ── Assemble HTML ──────────────────────────────────────────────
+    cover_front = REPO_ROOT / 'images' / 'cover_front.png'
+    cover_back  = REPO_ROOT / 'images' / 'cover_back.png'
+    front_html  = (f'<div class="cover-pg">'
+                   f'<img src="{cover_front.as_uri()}" alt="front cover">'
+                   f'</div>') if cover_front.exists() else ''
+    back_html   = (f'<div class="cover-pg">'
+                   f'<img src="{cover_back.as_uri()}" alt="back cover">'
+                   f'</div>') if cover_back.exists() else ''
+
     html = f"""<!DOCTYPE html>
 <html lang="te">
 <head>
@@ -652,9 +665,11 @@ def main():
   <style>{dynamic_css}</style>
 </head>
 <body>
+{front_html}
 {''.join(s0_html_parts)}
 {toc_html}
 {''.join(sarga_html_parts)}
+{back_html}
 </body>
 </html>"""
 
