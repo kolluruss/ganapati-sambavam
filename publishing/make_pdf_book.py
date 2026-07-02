@@ -63,7 +63,7 @@ FONT_URLS = {
         "https://fonts.gstatic.com/s/gidugu/v21/L0x8DFMkk1Sn6gFLJBKv.ttf",
 }
 
-GFONT_FAMILIES = {}  # no variable-font families needed for Gidugu
+GFONT_FAMILIES = {}
 
 SKIP_SECTIONS = {"**పదచ్ఛేదము**"}
 SECTION_MAP   = {
@@ -285,6 +285,7 @@ def parse_sarga0_file(path):
     """Convert a sarga-0 markdown file to HTML. Returns (sec_id, title, html)."""
     sarga0_dir = path.parent
     text  = path.read_text(encoding='utf-8')
+    text  = text.replace('** **', '**\n**')
     lines = text.split('\n')
     buf   = []
     sec_id  = path.stem
@@ -380,6 +381,7 @@ def parse_sarga0_file(path):
 def parse_topic(path, sarga_dir, topic_id, compact_pratipa=False):
     """Parse a topic .md file. Returns dict with topic_id, title, image_src, image_alt, html."""
     text  = path.read_text(encoding='utf-8')
+    text  = text.replace('** **', '**\n**')
     lines = text.split('\n')
     buf   = []
     title = path.stem

@@ -92,8 +92,8 @@ body { font-family: 'Gidugu', sans-serif; font-size: 14pt; line-height: 1.45; co
 .s0-gallery                { page-break-inside: avoid; }
 .s0-gallery .s0-h2         { margin: 0.08in 0 0.04in 0; text-align: center; }
 .s0-gallery .s0-h3         { margin: 0.06in 0 0.02in 0; text-align: center; }
-.s0-gallery .s0-img        { margin: 0.06in 0; }
-.s0-gallery .s0-img img    { max-height: 1.4in; border: 1pt solid #aaa; padding: 4pt; }
+.s0-gallery .s0-img        { margin: 0.06in auto; width: 90%; border: 1pt solid #aaa; padding: 4pt; }
+.s0-gallery .s0-img img    { width: 100%; height: auto; display: block; }
 .img-caption { font-size: 9pt; font-style: italic; color: #555; margin-top: 0.1in; }
 
 
@@ -134,8 +134,7 @@ body { font-family: 'Gidugu', sans-serif; font-size: 14pt; line-height: 1.45; co
     page-break-inside: avoid;
 }
 .img-pg img {
-    max-width: 100%; max-height: 4.5in;
-    width: auto; height: auto;
+    width: 90%; height: auto;
     display: block; margin: 0 auto;
 }
 
