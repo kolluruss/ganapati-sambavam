@@ -205,23 +205,20 @@ def sync_images_from_gdrive(force: bool = False):
 
 FOOTER_STYLE = (
     "font-family:'Gidugu',sans-serif; font-size:8pt; color:#333;"
-    "border-top:0.6pt solid #555; padding-top:5pt; margin-top:14pt;"
-    "vertical-align:top;"
+    "padding-top:5pt; margin-top:14pt; vertical-align:top;"
 )
 
 def _page_rules(page_name, footer_txt, inner, outer, top, bottom):
     return f"""
 @page {page_name}:left {{
     margin: {top} {outer} {bottom} {inner};
-    @bottom-left   {{ content: counter(page); {FOOTER_STYLE} }}
-    @bottom-center {{ content: ""; border-top: 0.6pt solid #555; margin-top: 14pt; padding-top: 5pt; }}
-    @bottom-right  {{ content: "{footer_txt}"; {FOOTER_STYLE} text-align: right; }}
+    @bottom-left  {{ content: counter(page); {FOOTER_STYLE} }}
+    @bottom-right {{ content: "{footer_txt}"; {FOOTER_STYLE} text-align: right; }}
 }}
 @page {page_name}:right {{
     margin: {top} {inner} {bottom} {outer};
-    @bottom-left   {{ content: "{footer_txt}"; {FOOTER_STYLE} }}
-    @bottom-center {{ content: ""; border-top: 0.6pt solid #555; margin-top: 14pt; padding-top: 5pt; }}
-    @bottom-right  {{ content: counter(page); {FOOTER_STYLE} text-align: right; }}
+    @bottom-left  {{ content: "{footer_txt}"; {FOOTER_STYLE} }}
+    @bottom-right {{ content: counter(page); {FOOTER_STYLE} text-align: right; }}
 }}"""
 
 
@@ -251,6 +248,22 @@ def build_dynamic_css(sargas_meta, page_size, margins):
     css = build_font_face_css()
     css += f"@page {{ size: {page_size}; }}\n"
     css += f"@page cover-pg {{ size: {page_size}; margin: 0; }}\n"
+
+    # Give .cover-pg explicit dimensions so height:100% on img resolves correctly.
+    pg_w, pg_h = page_size.split()
+    css += f".cover-pg {{ width: {pg_w}; height: {pg_h}; }}\n"
+
+    # Single position:fixed rule draws one unbroken horizontal line across every page
+    # at the top of the bottom-margin area.  z-index is auto (0), so .cover-pg
+    # (z-index:1) renders on top and hides the line on cover pages.
+    css += (
+        f".footer-line-rule {{\n"
+        f"    position: fixed; left: 0; right: 0;\n"
+        f"    bottom: calc({m['bottom']} - 14pt);\n"
+        f"    height: 0; border-top: 0.6pt solid #555;\n"
+        f"}}\n"
+    )
+
     css += _page_rules('front-matter-pg', 'గణపతి సంభవమ్',    m['inner'], m['outer'], m['top'], m['bottom'])
     css += _page_rules('toc-pg',          'విషయానుక్రమణిక', m['inner'], m['outer'], m['top'], m['bottom'])
     for sm in sargas_meta:
@@ -609,7 +622,8 @@ def main():
     s0_entries    = []
     for sf in s0_files:
         sec_id, title, content = parse_sarga0_file(sf)
-        s0_entries.append((sec_id, title))
+        if title != sf.stem:  # skip gallery/image-only files (no H1 heading)
+            s0_entries.append((sec_id, title))
         # Files with no H1 title (e.g. image galleries) get a compact no-break wrapper
         inner = (f'<div class="s0-gallery">{content}</div>'
                  if title == sf.stem else content)
@@ -672,6 +686,7 @@ def main():
 {toc_html}
 {''.join(sarga_html_parts)}
 {back_html}
+<div class="footer-line-rule" aria-hidden="true"></div>
 </body>
 </html>"""
 
