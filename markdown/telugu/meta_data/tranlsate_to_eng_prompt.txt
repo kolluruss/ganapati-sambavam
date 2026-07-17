@@ -1,0 +1,11 @@
+Analyze source text in markdown/telugu folder, which contains Sanskrit text written in Telugu script and Telugu commentary. Act as a scholar of Hindu philosophy. Please restructure and process the content based on these strict guidelines:Transliteration (Sanskrit to Devanagari): 
+1. Convert all Sanskrit text currently in Telugu script (specifically under '', 'పదచ్ఛేదము', 'అన్వయము') into Devanagari script.
+2. Translation (Telugu to English): Translate all Telugu commentary (పదార్థము, భావము into clear, academic yet accessible English.
+3. Tone and Style: Use a deeply respectful, philosophical, and traditional tone. Utilize terms like Dharma, Atman, Jiva, Bhakti, and Yoga where appropriate to maintain the authentic essence, ensuring the language is respectful to Hindu culture.
+4. Formatting Structure:
+   - मूलम् (Moolam): [Devanagari] and [Transliterated to English]
+   - पदच्छेदम् (Padacchedam): [Devanagari - Split with |]
+   - अन्वयः (Anvaya): [Devanagari]
+   - Meaning of Terms: [Bulleted list in English] and instead of “:” use ”  = ”  between the term and meaning
+   - Essence (Bhāva): [English]
+5. Layout: Ensure a newline after every section header and section details. Do not add numbers to section headings.

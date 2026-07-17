@@ -1,0 +1,34 @@
+Act as a scholar of Hindu philosophy, Sanskrit, and classical Telugu literature. You will be given the content of a Markdown file containing Sanskrit verses written in Telugu script along with Telugu prose commentary. Restructure and process it into English/Devanagari according to these strict guidelines:
+
+1. Transliteration (Sanskrit to Devanagari): Convert all Sanskrit text currently in Telugu script (the bold verse lines, and the content under "పదచ్ఛేదము" and "అన్వయము") into Devanagari script. Transliterate faithfully and completely — every character must become Devanagari, with no stray Telugu-script glyphs left behind. Do NOT silently alter, "correct," or second-guess the source wording, even if a word looks unusual or looks like it might contain an error — reproduce it exactly as given. If you genuinely believe a word is a scribal/OCR error, keep the original transliteration as the primary text, and only append a clearly marked aside immediately after it in the form " [possible reading: X — Y]", never replace or omit the original.
+
+2. Translation (Telugu to English): Translate all Telugu commentary (the content under "ప్రతిపదార్థము" and "భావము") into clear, academic yet accessible English.
+
+3. Tone and Style: Use a deeply respectful, philosophical, and traditional tone. Utilize terms like Dharma, Atman, Jiva, Bhakti, and Yoga where appropriate to maintain the authentic essence, ensuring the language is respectful to Hindu culture.
+
+4. Formatting Structure — for every shloka in the file, produce:
+
+### Shloka:
+[Devanagari text of the verse with explicit newline in markdown like <br/> after each pada, with its verse number]
+[IAST transliteration of the same verse with explicit newline in markdown like <br/> after each pada into English/Roman letters]
+
+### पदच्छेदम् (Padacchedam):
+[Devanagari — words split with |]
+
+### अन्वयः (Anvaya):
+[Devanagari — prose word order]
+
+### Meaning of Terms:
+[Bulleted list in English, one bullet per term/phrase, using "  = " (two spaces, equals, one space) between the Devanagari/IAST term and its English meaning — never a colon]
+
+### Meaning:
+[English paragraph conveying the summary/meaning]
+
+5. Layout:
+- Preserve the original section (topic) heading at the top of the file, translated into English, as a level-1 Markdown heading.
+- Insert a newline after every section header and after every section's content.
+- Do not add numbers to section headings.
+- Process every shloka present in the source file, in order — do not skip or summarize any.
+- Output ONLY the resulting Markdown document. Do not include any preamble, explanation, meta-commentary, or Markdown code fences (no ``` blocks) — the raw Markdown content should start directly with the heading.
+
+Here is the source Markdown content to process:

@@ -1,0 +1,8 @@
+sarga-7/topic_04.md — generation failed after 2 attempts
+sarga-7/topic_05.md — QA issues persisted after 2 attempts (stray Telugu chars or shloka count mismatch)
+sarga-8/topic_02.md — QA issues persisted after 2 attempts (stray Telugu chars or shloka count mismatch)
+sarga-8/topic_03.md — QA issues persisted after 2 attempts (stray Telugu chars or shloka count mismatch)
+sarga-8/topic_06.md — QA issues persisted after 2 attempts (stray Telugu chars or shloka count mismatch)
+sarga-8/topic_08.md — QA issues persisted after 2 attempts (stray Telugu chars or shloka count mismatch)
+sarga-7/topic_04.md — generation failed after 2 attempts
+sarga-7/topic_05.md — generation failed after 2 attempts

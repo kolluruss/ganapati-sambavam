@@ -1,18 +1,18 @@
-name: Generate PDF
+name: Generate PDF — Telugu
 
 on:
   push:
     branches: [main]
     paths:
-      - 'markdown/**.md'
+      - 'markdown/telugu/**.md'
       - 'images/**'
-      - 'publishing/**.py'
+      - 'publishing/make_pdf_book.py'
       - 'publishing/book.css'
       - 'publishing/VERSION'
   workflow_dispatch:
 
 jobs:
-  generate-pdf:
+  generate-pdf-telugu:
     runs-on: ubuntu-latest
     permissions:
       contents: write   # needed to create GitHub Releases
@@ -78,7 +78,7 @@ jobs:
           tag_name: ${{ env.RELEASE_VERSION }}
           name: "Ganapati Sambavam ${{ env.RELEASE_VERSION }}"
           body: |
-            Auto-generated PDFs from the latest markdown content.
+            Auto-generated Telugu-edition PDFs from the latest markdown content.
 
             | File | Description |
             |------|-------------|
@@ -87,7 +87,14 @@ jobs:
             | `ganapati_sambhavam.pdf` | Complete book (A4) |
             | `ganapati_sambhavam_demy.pdf` | Complete book — Demy compact |
 
+            (The English/Devanagari edition is published separately by the
+            "Generate PDF — English" workflow; see other release assets.)
+
             **Commit:** ${{ github.sha }}
             **Triggered by:** ${{ github.event_name }}
-          files: pdfs/*.pdf
+          files: |
+            pdfs/ganapati_sambhavam_vol1.pdf
+            pdfs/ganapati_sambhavam_vol2.pdf
+            pdfs/ganapati_sambhavam.pdf
+            pdfs/ganapati_sambhavam_demy.pdf
           make_latest: true
