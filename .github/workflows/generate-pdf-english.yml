@@ -7,6 +7,7 @@ on:
       - 'markdown/english/**.md'
       - 'images/**'
       - 'publishing/make_pdf_book_english.py'
+      - 'publishing/make_pdf_book_english_easyread.py'
       - 'publishing/book_english.css'
       - 'publishing/VERSION'
   workflow_dispatch:
@@ -63,22 +64,28 @@ jobs:
       - name: Build English/Devanagari edition — A4
         run: python3.9 publishing/make_pdf_book_english.py
 
+      - name: Build English/Devanagari edition — Easy Read
+        run: python3.9 publishing/make_pdf_book_english_easyread.py
+
       - name: Publish to GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ env.RELEASE_VERSION }}
           name: "Ganapati Sambavam ${{ env.RELEASE_VERSION }}"
           body: |
-            Auto-generated English/Devanagari edition PDF from the latest markdown content.
+            Auto-generated English/Devanagari edition PDFs from the latest markdown content.
 
             | File | Description |
             |------|-------------|
             | `ganapati_sambhavam_english.pdf` | English/Devanagari edition (A4) |
+            | `ganapati_sambhavam_english_easyread.pdf` | Easy Read edition — shloka + meaning on odd pages, anvaya + word-meanings on facing even pages (A4) |
 
             (Telugu-edition PDFs are published separately by the
             "Generate PDF — Telugu" workflow; see other release assets.)
 
             **Commit:** ${{ github.sha }}
             **Triggered by:** ${{ github.event_name }}
-          files: pdfs/ganapati_sambhavam_english.pdf
+          files: |
+            pdfs/ganapati_sambhavam_english.pdf
+            pdfs/ganapati_sambhavam_english_easyread.pdf
           make_latest: true

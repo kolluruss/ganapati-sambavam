@@ -86,14 +86,46 @@ body { font-family: 'Gidugu', sans-serif; font-size: 14pt; line-height: 1.45; co
 .s0-bullet { margin: 0.03in 0 0 0.2in; }
 .s0-img    { text-align: center; margin: 0.15in 0; page-break-inside: avoid; }
 .s0-img img { max-width: 100%; max-height: 2.5in; width: auto; height: auto; display: block; margin: 0 auto; }
+.s0-caption { font-style: italic; font-size: 9.5pt; color: #444; text-align: center; margin: 0.05in 0 0.08in 0; }
 
-/* Gallery: all images forced onto one page with compact sizing */
+/* Plain front-matter gallery wrapper (no-h1 files): normal block stacking,
+   centered heading/caption/image. Used for single-image pages (e.g. the
+   author bio portrait) as well as anything not matching the multi-photo
+   grid below. */
 .s0-gallery                { page-break-inside: avoid; }
 .s0-gallery .s0-h2         { margin: 0.08in 0 0.04in 0; text-align: center; }
 .s0-gallery .s0-h3         { margin: 0.06in 0 0.02in 0; text-align: center; }
+.s0-gallery .s0-bold       { text-align: center; }
 .s0-gallery .s0-img        { margin: 0.06in auto; width: 90%; border: 1pt solid #aaa; padding: 4pt; }
 .s0-gallery .s0-img img    { max-width: 100%; width: auto; height: auto; display: block; margin: 0 auto; }
 .img-caption { font-size: 9pt; font-style: italic; color: #555; margin-top: 0.1in; }
+
+/* 2x2 photo-tile grid (e.g. front-matter family-photos page). Each
+   caption+image pair is grouped into a .family-cell by the parser; the
+   cells then wrap two-per-row as fixed-width flex items so they tile
+   2x2 regardless of each photo's own aspect ratio. */
+.s0-photo-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 0.3in;
+}
+.s0-photo-grid > *:first-child {
+    flex: 0 0 100%;
+    margin: 0 0 0.15in 0;
+    text-align: center;
+}
+.s0-photo-grid .family-cell {
+    flex: 0 0 47%;
+    max-width: 47%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.s0-photo-grid .s0-caption { width: 100%; margin: 0 0 0.06in 0; }
+.s0-photo-grid .s0-img     { width: 100%; margin: 0; padding: 0; border: none; text-align: center; }
+.s0-photo-grid .s0-img img { max-width: 100%; max-height: 4.3in; width: auto; height: auto; display: block; margin: 0 auto; border: 1pt solid #aaa; padding: 3pt; }
+.s0-photo-grid .img-caption { display: none; }
 
 
 /* ── Table of contents ───────────────────────────────────────────── */

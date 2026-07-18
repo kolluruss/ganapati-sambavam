@@ -154,6 +154,7 @@ def build_dynamic_css(sargas_meta):
     pg_w, pg_h = PAGE_SIZE.split()
     css += f".cover-pg {{ width: {pg_w}; height: {pg_h}; }}\n"
     css += _page_rules('front-matter-pg', 'Ganapati Sambhavam', m['inner'], m['outer'], m['top'], m['bottom'])
+    css += _page_rules('back-matter-pg',  'Ganapati Sambhavam', m['inner'], m['outer'], m['top'], m['bottom'])
     css += _page_rules('toc-pg',          'Contents',           m['inner'], m['outer'], m['top'], m['bottom'])
     for sm in sargas_meta:
         n = sm['number']
@@ -462,9 +463,38 @@ def parse_sarga0_file(path):
     return sec_id, title, ''.join(buf)
 
 
+def parse_frontback_dir(dir_path):
+    """Parse all markdown files in a front/back-matter-style directory
+    (sarga-0 or sarga-11: prose narrative pages plus optional no-h1
+    photo-gallery pages, in the same inline-bold-label format). Returns
+    (entries, inner_html_parts): entries is the [(sec_id, title), ...]
+    list of TOC-worthy pages (those with a real heading); inner_html_parts
+    is the per-file HTML, already wrapped in its .s0-gallery/.s0-photo-grid
+    div where applicable — the caller still needs to wrap each in its own
+    page-section div (front-matter-section / back-matter-section)."""
+    entries = []
+    inner_parts = []
+    if not dir_path.is_dir():
+        return entries, inner_parts
+    for sf in sorted(dir_path.glob('*.md')):
+        sec_id, entry_title, content = parse_sarga0_file(sf)
+        if entry_title != sf.stem:  # skip gallery/image-only files (no H1 heading)
+            entries.append((sec_id, entry_title))
+        if entry_title == sf.stem:
+            # No-h1 file: either a multi-photo grid (family-cell markup
+            # present -> tile it) or a single-image page (e.g. author
+            # bio) -> plain centered gallery styling.
+            gallery_cls = 's0-gallery s0-photo-grid' if 'family-cell' in content else 's0-gallery'
+            inner = f'<div class="{gallery_cls}">{content}</div>'
+        else:
+            inner = content
+        inner_parts.append(inner)
+    return entries, inner_parts
+
+
 # ── TOC builder ───────────────────────────────────────────────────
 
-def build_toc(s0_entries, sargas_topics):
+def build_toc(s0_entries, sargas_topics, s11_entries=()):
     lines = ['<div class="toc-section"><h1 class="toc-heading">Table of Contents</h1>']
     if s0_entries:
         lines.append('<div class="toc-sarga-hdr">Front Matter</div>')
@@ -492,6 +522,16 @@ def build_toc(s0_entries, sargas_topics):
                 f'<a href="#{topic_id}">{esc(topic_title)}</a>'
                 f'<span class="toc-dots"></span>'
                 f'<span class="toc-pgnum"><a href="#{topic_id}"></a></span>'
+                f'</div>'
+            )
+    if s11_entries:
+        lines.append('<div class="toc-sarga-hdr">Back Matter</div>')
+        for sec_id, entry_title in s11_entries:
+            lines.append(
+                f'<div class="toc-entry">'
+                f'<a href="#{sec_id}">{esc(entry_title)}</a>'
+                f'<span class="toc-dots"></span>'
+                f'<span class="toc-pgnum"><a href="#{sec_id}"></a></span>'
                 f'</div>'
             )
     lines.append('</div>')
@@ -581,23 +621,12 @@ def main():
     vol_sargas = list(range(1, 11))
 
     print("Parsing sarga-0 (front matter)…")
-    s0_dir = MD_BASE / 'sarga-0'
-    s0_html_parts = []
-    s0_entries = []
-    if s0_dir.is_dir():
-        for sf in sorted(s0_dir.glob('*.md')):
-            sec_id, entry_title, content = parse_sarga0_file(sf)
-            if entry_title != sf.stem:  # skip gallery/image-only files (no H1 heading)
-                s0_entries.append((sec_id, entry_title))
-            if entry_title == sf.stem:
-                # No-h1 file: either a multi-photo grid (family-cell markup
-                # present -> tile it) or a single-image page (e.g. author
-                # bio) -> plain centered gallery styling.
-                gallery_cls = 's0-gallery s0-photo-grid' if 'family-cell' in content else 's0-gallery'
-                inner = f'<div class="{gallery_cls}">{content}</div>'
-            else:
-                inner = content
-            s0_html_parts.append(f'<div class="front-matter-section">{inner}</div>')
+    s0_entries, s0_inners = parse_frontback_dir(MD_BASE / 'sarga-0')
+    s0_html_parts = [f'<div class="front-matter-section">{inner}</div>' for inner in s0_inners]
+
+    print("Parsing sarga-11 (back matter)…")
+    s11_entries, s11_inners = parse_frontback_dir(MD_BASE / 'sarga-11')
+    s11_html_parts = [f'<div class="back-matter-section">{inner}</div>' for inner in s11_inners]
 
     sarga_topic_ids = {}
     for n in vol_sargas:
@@ -606,7 +635,7 @@ def main():
         sarga_topic_ids[n] = collect_topic_ids(sargas[n], sd)
 
     print("Building TOC…")
-    toc_html = build_toc(s0_entries, [(sargas[n], sarga_topic_ids[n]) for n in vol_sargas])
+    toc_html = build_toc(s0_entries, [(sargas[n], sarga_topic_ids[n]) for n in vol_sargas], s11_entries)
 
     sarga_html_parts = []
     for n in vol_sargas:
@@ -636,6 +665,7 @@ def main():
 {''.join(s0_html_parts)}
 {toc_html}
 {''.join(sarga_html_parts)}
+{''.join(s11_html_parts)}
 {back_html}
 </body>
 </html>"""

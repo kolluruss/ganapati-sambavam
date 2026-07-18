@@ -306,6 +306,7 @@ def parse_sarga0_file(path):
     state   = 'body'
     in_vb   = False
     skipping = False
+    img_count = 0
 
     def close_vb():
         nonlocal in_vb
@@ -340,6 +341,7 @@ def parse_sarga0_file(path):
             if m:
                 src = (sarga0_dir / m.group(2)).resolve()
                 if src.exists():
+                    img_count += 1
                     buf.append(
                         f'<div class="s0-img">'
                         f'<img src="{src}" alt="{esc(m.group(1))}">'
@@ -359,6 +361,13 @@ def parse_sarga0_file(path):
             continue
 
         if skipping:
+            continue
+
+        # Standalone italic line, e.g. a photo caption: "*text*" (not "**bold**"
+        # and not a "* " bullet, which requires a space after the asterisk).
+        if s.startswith('*') and s.endswith('*') and not s.startswith('**') and len(s) > 2:
+            close_vb()
+            buf.append(f'<p class="s0-caption">{esc(s[1:-1])}</p>')
             continue
 
         if s.startswith('- ') or s.startswith('* '):
@@ -386,6 +395,22 @@ def parse_sarga0_file(path):
             buf.append(f'<p class="s0-body">{inline(s)}</p>')
 
     close_vb()
+
+    if title == path.stem and img_count > 1 and len(buf) > 1:
+        # Multi-photo gallery file (no top-level heading, more than one
+        # image): group each caption+image pair that follows the title into
+        # one wrapper cell, so CSS can tile them (e.g. 2x2). Single-image
+        # "no-h1" files (e.g. an author bio with one portrait) are left
+        # alone here and keep the plain centered .s0-gallery styling.
+        head, rest = buf[0], buf[1:]
+        cells, i = [], 0
+        while i < len(rest) - 1:
+            cells.append(f'<div class="family-cell">{rest[i]}{rest[i + 1]}</div>')
+            i += 2
+        if i < len(rest):
+            cells.append(f'<div class="family-cell">{rest[i]}</div>')
+        return sec_id, title, head + ''.join(cells)
+
     return sec_id, title, ''.join(buf)
 
 
@@ -624,9 +649,14 @@ def main():
         sec_id, title, content = parse_sarga0_file(sf)
         if title != sf.stem:  # skip gallery/image-only files (no H1 heading)
             s0_entries.append((sec_id, title))
-        # Files with no H1 title (e.g. image galleries) get a compact no-break wrapper
-        inner = (f'<div class="s0-gallery">{content}</div>'
-                 if title == sf.stem else content)
+        if title == sf.stem:
+            # No-h1 file: either a multi-photo grid (family-cell markup
+            # present -> tile it) or a single-image page (e.g. author
+            # bio) -> plain centered gallery styling.
+            gallery_cls = 's0-gallery s0-photo-grid' if 'family-cell' in content else 's0-gallery'
+            inner = f'<div class="{gallery_cls}">{content}</div>'
+        else:
+            inner = content
         s0_html_parts.append(f'<div class="front-matter-section">{inner}</div>')
 
     # ── Sargas ─────────────────────────────────────────────────────
@@ -664,8 +694,8 @@ def main():
     dynamic_css = build_dynamic_css([sargas[n] for n in vol_sargas], page_size, margins)
 
     # ── Assemble HTML ──────────────────────────────────────────────
-    cover_front = REPO_ROOT / 'images' / 'cover_front.png'
-    cover_back  = REPO_ROOT / 'images' / 'cover_back.png'
+    cover_front = REPO_ROOT / 'images' / 'cover_front_telugu.png'
+    cover_back  = REPO_ROOT / 'images' / 'cover_back_telugu.png'
     front_html  = (f'<div class="cover-pg">'
                    f'<img src="{cover_front.as_uri()}" alt="front cover">'
                    f'</div>') if cover_front.exists() else ''

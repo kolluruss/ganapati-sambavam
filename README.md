@@ -8,6 +8,11 @@ Content is authored in Markdown, illustrated with AI-generated images, and autom
 
 **[Download latest PDF](https://github.com/kolluruss/ganapati-sambavam/releases/latest/download/ganapati-sambavam.pdf)**
 
+Also available — the English/Devanagari edition, and an **Easy Read** edition of it that puts the shloka (Devanagari + IAST) and its English meaning on odd (right-hand) pages, with the Anvaya and word-by-word Meaning of Terms on the facing even (left-hand) pages, so you can read straight through and glance at the grammatical detail only when you want it:
+
+- **[Download English/Devanagari PDF](https://github.com/kolluruss/ganapati-sambavam/releases/latest/download/ganapati_sambhavam_english.pdf)**
+- **[Download English/Devanagari PDF — Easy Read edition](https://github.com/kolluruss/ganapati-sambavam/releases/latest/download/ganapati_sambhavam_english_easyread.pdf)**
+
 ---
 
 ## Table of Contents
