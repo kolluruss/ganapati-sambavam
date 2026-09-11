@@ -51,7 +51,13 @@ jobs:
           "
 
       - name: Build site data from markdown
+        # Also syncs verse-recitation audio from its own Drive folder
+        # (tools/build_data.py's sync_audio_from_gdrive) — same API key,
+        # different folder, incremental (only fetches files not already
+        # committed in audio/).
         working-directory: ganapati-sambhavam-site
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: python3 tools/build_data.py
 
       - name: Commit and push if content changed

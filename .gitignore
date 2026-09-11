@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 pdfs/
 images/
+audio/
 raw/
 publishing/gdrive_credentials.json
 publishing/gdrive_token.json
