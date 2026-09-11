@@ -32,8 +32,23 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install build dependency
-        run: pip install pyyaml
+      - name: Install build dependencies
+        run: pip install pyyaml google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+
+      - name: Download images from Google Drive
+        # images/ is gitignored in ganapati-sambavam (see its .gitignore) and
+        # normally populated by publishing/make_pdf_book.py's own PDF workflow;
+        # a fresh checkout here has none, so build_data.py would otherwise
+        # silently drop every illustration. Reuses that same sync function.
+        working-directory: ganapati-sambavam
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: |
+          python3 -c "
+          import sys; sys.path.insert(0, 'publishing')
+          from make_pdf_book import sync_images_from_gdrive
+          sync_images_from_gdrive()
+          "
 
       - name: Build site data from markdown
         working-directory: ganapati-sambhavam-site
