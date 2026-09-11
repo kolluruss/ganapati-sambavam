@@ -19,6 +19,11 @@
     src: url('fonts_cache/Gidugu.ttf') format('truetype');
     font-weight: normal; font-style: normal;
 }
+@font-face {
+    font-family: 'Tiro Telugu';
+    src: url('fonts_cache/TiroTelugu.ttf') format('truetype');
+    font-weight: normal; font-style: normal;
+}
 
 
 /* ── Image page (footers suppressed; size inherits from @page) ─── */
@@ -62,8 +67,8 @@
 /* ── Base ────────────────────────────────────────────────────────── */
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
-html { font-size: 14pt; }
-body { font-family: 'Gidugu', sans-serif; font-size: 14pt; line-height: 1.45; color: #111; }
+html { font-size: 12pt; }
+body { font-family: 'Gidugu', sans-serif; font-size: 12pt; line-height: 1.45; color: #111; }
 
 
 /* ── Sarga-0 front matter ────────────────────────────────────────── */
@@ -163,6 +168,7 @@ body { font-family: 'Gidugu', sans-serif; font-size: 14pt; line-height: 1.45; co
 .img-pg {
     text-align: center; margin: 0.15in 0;
     page-break-inside: avoid;
+    page-break-after: always;
 }
 .img-pg img {
     width: 90%; height: auto;
@@ -194,8 +200,8 @@ body { font-family: 'Gidugu', sans-serif; font-size: 14pt; line-height: 1.45; co
 /* over the body base (body: 1.45 at 10pt = 14.5pt;                 */
 /* +0.05in = +3.6pt → 18.1pt ÷ 11pt ≈ 1.65 → rounded to 1.65).    */
 
-.verse-block { margin-top: 0.06in; margin-bottom: 0.18in; padding-left: 0.35in; page-break-inside: avoid; }
-.verse       { font-family: 'Gidugu', sans-serif; font-weight: bold; font-size: 15pt; line-height: 1.2; }
+.verse-block { margin-top: 0.06in; margin-bottom: 0.18in; page-break-inside: avoid; }
+.verse       { font-family: 'Tiro Telugu', sans-serif; font-weight: bold; font-size: 11pt; line-height: 1.3; }
 
 
 /* ── Section headers (అన్వయము, ప్రతిపదార్థము, భావము) ───────────── */
@@ -208,7 +214,7 @@ body { font-family: 'Gidugu', sans-serif; font-size: 14pt; line-height: 1.45; co
 
 /* ── Body text ───────────────────────────────────────────────────── */
 
-.body-text  { font-size: 14pt; line-height: 1.45; margin: 0.02in 0; }
+.body-text  { font-size: 12pt; line-height: 1.45; margin: 0.02in 0; }
 
 
 /* ── Spacer after bhavamu (separates successive shlokas) ─────────── */
@@ -218,9 +224,9 @@ body { font-family: 'Gidugu', sans-serif; font-size: 14pt; line-height: 1.45; co
 
 /* ── Pratipadarttham (word-by-word meaning list) ─────────────────── */
 
-.pratipa-item        { font-size: 14pt; line-height: 1.38; margin: 0.015in 0 0 0.12in; }
+.pratipa-item        { font-size: 12pt; line-height: 1.38; margin: 0.015in 0 0 0.12in; }
 .pratipa-item strong { font-weight: bold; }
-.pratipa-compact     { font-size: 14pt; line-height: 1.45; margin: 0.04in 0 0.04in 0.12in; }
+.pratipa-compact     { font-size: 12pt; line-height: 1.45; margin: 0.04in 0 0.04in 0.12in; }
 .pratipa-compact strong { font-weight: bold; }
 
 

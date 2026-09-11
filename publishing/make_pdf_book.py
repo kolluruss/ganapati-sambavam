@@ -65,6 +65,10 @@ FONT_URLS = {
 
 GFONT_FAMILIES = {}
 
+# Fonts already bundled in fonts_cache/ (no download needed) that must still
+# be installed into the system font dir for Pango to find them.
+LOCAL_FONTS = ["TiroTelugu.ttf"]
+
 SKIP_SECTIONS = {"**పదచ్ఛేదము**"}
 SECTION_MAP   = {
     "**అన్వయము**":       ("anvaya",  "అన్వయము"),
@@ -127,6 +131,10 @@ def download_fonts():
             else:
                 print(f"  WARNING: could not resolve URL for {fname}")
         any_installed |= _install_system_font(fp)
+    for fname in LOCAL_FONTS:
+        fp = FONTS_DIR / fname
+        if fp.exists():
+            any_installed |= _install_system_font(fp)
     if any_installed and platform.system() != "Darwin":
         subprocess.run(["fc-cache", "-fv", str(_system_font_dir())],
                        capture_output=True)
@@ -239,6 +247,11 @@ def build_font_face_css():
     src: url('{f("Gidugu.ttf")}') format('truetype');
     font-weight: normal; font-style: normal;
 }}
+@font-face {{
+    font-family: 'Tiro Telugu';
+    src: url('{f("TiroTelugu.ttf")}') format('truetype');
+    font-weight: normal; font-style: normal;
+}}
 """
 
 
@@ -275,6 +288,9 @@ def build_dynamic_css(sargas_meta, page_size, margins):
 
 # ── Inline helpers ─────────────────────────────────────────────────
 
+BR_RE = re.compile(r'<br\s*/?>\n?', re.IGNORECASE)
+
+
 def inline(text):
     """Convert **bold** markdown and clean backslash escapes to HTML."""
     text = re.sub(r'\\([=\-!.,:()\[\]/])', r'\1', text)
@@ -292,6 +308,34 @@ def slug(text):
     return re.sub(r'[^a-zA-Z0-9_-]', '_', text)[:40]
 
 
+def _mark_verse_lines(lines):
+    """Return the set of line indices that belong to a shloka block, i.e. a
+    contiguous run of full-bold lines immediately (blank-line-separated)
+    followed by a standalone '**పదచ్ఛేదము**' line. Detecting verse lines
+    this way (rather than by checking for a '|' danda inside the line) is
+    robust to padas that lack a danda mark in the source."""
+    n = len(lines)
+    verse_idx = set()
+    i = 0
+    while i < n:
+        s = lines[i].strip()
+        if s.startswith('**') and s.endswith('**') and len(s) > 4:
+            j = i
+            block = []
+            while j < n and lines[j].strip() != '':
+                block.append(j)
+                j += 1
+            k = j
+            while k < n and lines[k].strip() == '':
+                k += 1
+            if k < n and lines[k].strip() == '**పదచ్ఛేదము**':
+                verse_idx.update(block)
+                i = j
+                continue
+        i += 1
+    return verse_idx
+
+
 # ── Sarga-0 (front matter) parser ────────────────────────────────
 
 def parse_sarga0_file(path):
@@ -299,6 +343,7 @@ def parse_sarga0_file(path):
     sarga0_dir = path.parent
     text  = path.read_text(encoding='utf-8')
     text  = text.replace('** **', '**\n**')
+    text  = BR_RE.sub('\n', text)
     lines = text.split('\n')
     buf   = []
     sec_id  = path.stem
@@ -420,7 +465,9 @@ def parse_topic(path, sarga_dir, topic_id, compact_pratipa=False):
     """Parse a topic .md file. Returns dict with topic_id, title, image_src, image_alt, html."""
     text  = path.read_text(encoding='utf-8')
     text  = text.replace('** **', '**\n**')
+    text  = BR_RE.sub('\n', text)
     lines = text.split('\n')
+    verse_idx = _mark_verse_lines(lines)
     buf   = []
     title = path.stem
     skipping  = False
@@ -442,7 +489,7 @@ def parse_topic(path, sarga_dir, topic_id, compact_pratipa=False):
             )
             pratipa_items.clear()
 
-    for line in lines:
+    for idx, line in enumerate(lines):
         s = line.strip()
         if not s:
             continue
@@ -492,19 +539,20 @@ def parse_topic(path, sarga_dir, topic_id, compact_pratipa=False):
                 buf.append(f'<div class="pratipa-item">{inline(s[2:])}</div>')
             continue
 
+        if idx in verse_idx:
+            if not in_vb:
+                if state == 'భావము':
+                    buf.append('<div class="bhava-spacer"></div>')
+                buf.append('<div class="verse-block">')
+                in_vb = True
+            buf.append(f'<div class="verse">{inline(s)}</div>')
+            state = 'verse'
+            continue
+
         if s.startswith('**') and s.endswith('**') and len(s) > 4:
             inner_txt = s[2:-2]
-            if '|' in inner_txt:
-                if not in_vb:
-                    if state == 'భావము':
-                        buf.append('<div class="bhava-spacer"></div>')
-                    buf.append('<div class="verse-block">')
-                    in_vb = True
-                buf.append(f'<div class="verse">{inline(s)}</div>')
-                state = 'verse'
-            else:
-                close_vb()
-                buf.append(f'<div class="trans-label">{esc(inner_txt)}</div>')
+            close_vb()
+            buf.append(f'<div class="trans-label">{esc(inner_txt)}</div>')
             continue
 
         if state == 'header':
