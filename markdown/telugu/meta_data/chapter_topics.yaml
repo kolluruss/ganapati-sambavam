@@ -5,13 +5,14 @@ book:
   total_sargas: 10
 sargas:
 - number: 1
-  name: హిమగిరి పరిచయము
+  name: హిమగిరిపరిచయము
   title: హిమగిరిపరిచయోనామ ప్రథమః సర్గః
   description: ఉత్తరదిశకు రక్షగా నిలచిన హిమగిరి వైభవము, కాశ్మీర్-నేపాల్ దేశముల ప్రకృతి సౌందర్యము, అమరనాథ్, పశుపతినాథ్, కేదారనాథ్,
     బద్రీనాథ్ పుణ్యక్షేత్రముల మహిమ మరియు హిమాలయ తీరమందు సేవలో నిలచిన భారత వీరభటుల వర్ణన.
   end_matter: "మ. మ. వి. వా. కవిశిరోమణినా అలవరతతారపురాభిజనేన దిల్లీనివాసినా \n పం. ప్రభుదత్త శాస్త్రిణా ప్రణీతే ‘గణపతి సమ్భవే’\
     \ హిమగిరిపరిచయోనామ ప్రథమః సర్గః సమాప్తః ।"
-  name_transliteration: Himagiri Parichayamu
+  name_transliteration: Himagiri-Parichaya
+  name_translation: Introduction to the Himalayas
   shloka_range:
     start: 1
     end: 98
@@ -62,13 +63,13 @@ sargas:
     name: పశుపతినాథ్
     shloka_range:
       start: 55
-      end: 61
+      end: 65
     description: నేపాల్‌లోని పశుపతినాథ్ స్వామి మహిమ మరియు నామార్థం.
   - number: 9
     name: ఖాట్మండు & మహేంద్ర
     shloka_range:
       start: 66
-      end: 78
+      end: 84
     description: ఖాట్మండు, గోర్ఖాల శౌర్యం మరియు మహారాజ మహేంద్ర పరిచయం.
   - number: 10
     name: కేదార్‌నాథ్ & బద్రీనాథ్
@@ -77,13 +78,14 @@ sargas:
       end: 98
     description: కేదార్‌నాథ్, బద్రీనాథ్ క్షేత్రాలు మరియు శంకరాచార్యుల ప్రస్తావన.
 - number: 2
-  name: గిరిశ గిరిజా పాణిగ్రహణము
+  name: గిరిశ-గిరిజా-పాణిగ్రహణము
   title: గిరిశగిరిజాపాణిగ్రహోనామ ద్వితీయః సర్గః
   description: హిమవంతుని వివాహము, పార్వతీదేవి జననము, ఆమె కఠోర తపస్సు, శివుని రాక మరియు వివాహ సంప్రదాయాలు - అశ్మారోహణము, లాజహోమము,
     సప్తపది, అగ్ని ప్రదక్షిణలు - పార్వతీదేవి కైలాసమునకు పయనము వరకు వర్ణించు సర్గ.
   end_matter: "మ. మ. వి. వా. కవిశిరోమణినా అలవరతతారపురాభిజనేన దిల్లీనివాసినా \n పం. ప్రభుదత్త శాస్త్రిణా ప్రణీతే 'గణపతి సమ్భవే'\
     \ గిరిశగిరిజాపాణిగ్రహోనామ ద్వితీయః సర్గః సమాప్తః ।"
-  name_transliteration: Girisha Girija Panigrahanamu
+  name_transliteration: Girisha-Girija-Panigrahana
+  name_translation: The Wedding of Shiva and Parvati
   shloka_range:
     start: 1
     end: 78
@@ -151,8 +153,9 @@ sargas:
       end: 78
     description: శివునితో కలిసి పార్వతి నందిపై కైలాసానికి పయనం (ప్రయాణోత్సవం).
 - number: 3
-  name: యోగశక్తి చమత్కృతి
-  name_transliteration: Yogashakti Chamatkriti
+  name: యోగశక్తి-చమత్కృతి
+  name_transliteration: Yogashakti-Chamatkriti
+  name_translation: The Wonder of Yogic Power
   shloka_range:
     start: 1
     end: 96
@@ -211,8 +214,9 @@ sargas:
   end_matter: "మ. మ. వి. వా. కవిశిరోమణినా అలవరతతారపురాభిజనేన దిల్లీనివాసినా \n పం. ప్రభుదత్త శాస్త్రిణా ప్రణీతే 'గణపతి సమ్భవే'\
     \ యోగశక్తి చమత్కృతిర్నామ తృతీయః సర్గః సమాప్తః ।"
 - number: 4
-  name: శాస్త్రార్థ శస్త్రీభావము
-  name_transliteration: Shastraartha Shastribeevamu
+  name: శాస్త్రార్థశస్త్రీభావము
+  name_transliteration: Shastraartha-Shastribhava
+  name_translation: The Debate, and Its Turn to Arms
   shloka_range:
     start: 1
     end: 89
@@ -265,8 +269,9 @@ sargas:
   end_matter: "మ. మ. వి. వా. కవిశిరోమణినా అలవరతతారపురాభిజనేన దిల్లీనివాసినా \n పం. ప్రభుదత్త శాస్త్రిణా ప్రణీతే 'గణపతి సమ్భవే'\
     \ శాస్త్రార్థ శస్త్రీభావో నామ చతుర్థః సర్గః సమాప్తః ।"
 - number: 5
-  name: గజమనుజ యోజనోత్సవము
-  name_transliteration: Gajamanuja Yojanothsavamu
+  name: గజమనుజయోజనోత్సవము
+  name_transliteration: Gaja-manuja-yojanothsava
+  name_translation: The Union of Elephant and Man
   shloka_range:
     start: 1
     end: 78
@@ -278,7 +283,7 @@ sargas:
       end: 18
     description: పార్వతిని ఓదార్చి, బాలుడిని బ్రతికిస్తానని శివుడు మాటిచ్చుట.
   - number: 2
-    name: గజ మస్తకం కోసం అన్వేషణ
+    name: గజమస్తకాన్వేషణ
     shloka_range:
       start: 19
       end: 36
@@ -320,8 +325,9 @@ sargas:
   end_matter: "మ. మ. వి. వా. కవిశిరోమణినా అలవరతతారపురాభిజనేన దిల్లీనివాసినా \n పం. ప్రభుదత్త శాస్త్రిణా ప్రణీతే 'గణపతి సమ్భవే'\
     \ గజమనుజయోజనోత్సవో నామ పంచమః సర్గః సమాప్తః ।"
 - number: 6
-  name: తాన్తైకదంత ప్రసంగము
-  name_transliteration: Tanaaikadanta Prasangamu
+  name: తాన్తైకదంతప్రసంగము
+  name_transliteration: Tanaaikadanta-Prasanga
+  name_translation: The Episode of the Single Tusk
   shloka_range:
     start: 1
     end: 88
@@ -380,14 +386,15 @@ sargas:
   end_matter: "మ. మ. వి. వా. కవిశిరోమణినా అలవరతతారపురాభిజనేన దిల్లీనివాసినా \n పం. ప్రభుదత్త శాస్త్రిణా ప్రణీతే 'గణపతి సమ్భవే'\
     \ తానైకదంత ప్రసంగో నామ షష్ఠః సర్గః సమాప్తః ।"
 - number: 7
-  name: మహాభారత లేఖాఖ్యానము
-  name_transliteration: Mahabharata Lekhakhyanamu
+  name: మహాభారతలేఖనాఖ్యానము
+  name_transliteration: Mahabharata-Lekhanaakhyana
+  name_translation: The Tale of the Writing of the Mahabharata
   shloka_range:
     start: 1
     end: 94
   topics:
   - number: 1
-    name: వ్యాస మహర్షి పరిచయం
+    name: వ్యాసమహర్షి పరిచయం
     shloka_range:
       start: 1
       end: 5
@@ -434,8 +441,9 @@ sargas:
   end_matter: "మ. మ. వి. వా. కవిశిరోమణినా అలవరతతారపురాభిజనేన దిల్లీనివాసినా \n పం. ప్రభుదత్త శాస్త్రిణా ప్రణీతే 'గణపతి సమ్భవే'\
     \ మహాభారత లేఖాఖ్యానో నామ సప్తమః సర్గః సమాప్తః ।"
 - number: 8
-  name: దేవమోదకోపహార గ్రహము
-  name_transliteration: Devamodakopahara Grahamu
+  name: దేవమోదకోపహారగ్రహము
+  name_transliteration: Devamodakopaharagraha
+  name_translation: The Divine Offering of the Modaka
   shloka_range:
     start: 1
     end: 73
@@ -495,7 +503,8 @@ sargas:
     \ దేవమోదకోపహార గ్రహో నామ అష్టమః సర్గః సమాప్తః ।"
 - number: 9
   name: గణశాసనోత్కర్షము
-  name_transliteration: Ganashanothkarshhamu
+  name_transliteration: Ganashanothkarshha
+  name_translation: The Rule of the Ganas
   shloka_range:
     start: 1
     end: 66
@@ -553,15 +562,16 @@ sargas:
     shloka_range:
       start: 59
       end: 66
-    description: భారతమాత పవిత్ర ధూళికి నమస్కారం, దేశం కోసం ప్రాణత్యాగం చేసిన వీరులకు (శహీదులకు) ఘనమైన నివాళి.
-  title: గణశాసనోత్కర్షో నామ నవమః సర్గః
+    description: భారతమాత పవిత్ర ధూళికి నమస్కారం, దేశం కోసం ప్రాణత్యాగం చేసిన అమర వీరులకు ఘననివాళి.
+  title: గణశాసనోత్కర్షోనామ నవమః సర్గః
   description: గణపతి తత్త్వాన్ని ఆధునిక గణతంత్ర రాజ్యంతో పోల్చుట, ఆదర్శ పాలన, స్త్రీ-పురుష సమానత్వం, ధర్మనిరపేక్షత, గణేశ అక్షరమాల
     మరియు భారతమాత వందనం వర్ణించు సర్గ.
   end_matter: "మ. మ. వి. వా. కవిశిరోమణినా అలవరతతారపురాభిజనేన దిల్లీనివాసినా \n పం. ప్రభుదత్త శాస్త్రిణా ప్రణీతే 'గణపతి సమ్భవే'\
-    \ గణశాసనోత్కర్షో నామ నవమః సర్గః సమాప్తః ।"
+    \ గణశాసనోత్కర్షోనామ నవమః సర్గః సమాప్తః ।"
 - number: 10
   name: కావ్యాంతర పుష్పార్పణము
-  name_transliteration: Kavyantara Pushparpanamu
+  name_transliteration: KavyantaraPushparpana
+  name_translation: An Offering of Flowers from His Other Works
   shloka_range:
     start: 1
     end: 90
@@ -573,7 +583,7 @@ sargas:
       end: 12
     description: రాజస్థాన్, ఆల్వార్ నగరాలు మరియు తతార్‌పూర్ వైభవం.
   - number: 2
-    name: కవి స్వీయ చరిత్ర
+    name: కవి స్వీయచరిత్ర
     shloka_range:
       start: 13
       end: 26
@@ -597,7 +607,7 @@ sargas:
       end: 60
     description: భారత జాతీయ జెండా (రాష్ట్రధ్వజం) రూపకల్పన, మహాత్మా గాంధీని గాధి మహర్షితో పోల్చడం, మరియు చరఖా స్తుతి.
   - number: 6
-    name: శ్రీరామ కీర్తి కౌస్తుభం
+    name: శ్రీరామకీర్తికౌస్తుభం
     shloka_range:
       start: 61
       end: 65
