@@ -1,22 +1,15 @@
 # The War of Words
 
 ### Shloka:
-निष्प्रश्नं तु सुतैः स्वतातजननी-<br/>
-स्थानेऽपि नेष्टा गतिः |<br/>
-विद्यामात्रगुरोर्गृहे प्रविशतः<br/>
-नेयं क्रिया युज्यते ? ||<br/>
-मा वैक्षीरत एव यावदहकं<br/>
-पृष्ट्वोत्तरं नार्पये |<br/>
-पर्शुं भूमितले निपात्य तदुप-<br/>
-र्यातिष्ठ तावत् सुखम् ||<br/>
-niṣpraśnaṃ tu sutaiḥ svatātajananī-<br/>
-sthāne'pi neṣṭā gatiḥ |<br/>
-vidyāmātragurorgṛhe praviśataḥ<br/>
-neyaṃ kriyā yujyate ? ||<br/>
-mā vaikṣīrata eva yāvadahakaṃ<br/>
-pṛṣṭvottaraṃ nārpaye |<br/>
-parśuṃ bhūmitale nipātya tadupa-<br/>
-ryātiṣṭha tāvat sukham ||
+निष्प्रश्नं तु सुतैः स्वतातजननीस्थानेऽपि नेष्टा गतिः | <br/>
+विद्यामात्रगुरोर्गृहे प्रविशतः नेयं क्रिया युज्यते ? || <br/>
+मा वैक्षीरत एव यावदहकं पृष्ट्वोत्तरं नार्पये | <br/>
+पर्शुं भूमितले निपात्य तदुपर्यातिष्ठ तावत् सुखम् || <br/>
+
+niṣpraśnaṃ tu sutaiḥ svatātajananīsthāne'pi neṣṭā gatiḥ | <br/>
+vidyāmātragurorgṛhe praviśataḥ neyaṃ kriyā yujyate ? || <br/>
+mā vaikṣīrata eva yāvadahakaṃ pṛṣṭvottaraṃ nārpaye | <br/>
+parśuṃ bhūmitale nipātya taduparyātiṣṭha tāvat sukham || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 निष्प्रश्नम् | तु | सुतैः | स्वतातजननीस्थाने | अपि | न | इष्टा | गतिः | विद्यामात्रगुरोः | गृहे | प्रविशतः | न | इयम् | क्रिया | युज्यते | मा | वैक्षीरत | एव | यावत् | अहकम् | पृष्ट्वा | उत्तरम् | न | अर्पये | पर्शुम् | भूमितले | निपात्य | तदुपरी | आतिष्ठ | तावत् | सुखम्
@@ -38,22 +31,15 @@ ryātiṣṭha tāvat sukham ||
 Even children do not approach their own parents without seeking permission. Your act of entering the house of the Guru of knowledge, Shiva, without such inquiry is entirely improper. Therefore, do not enter until I have gone inside, asked, and returned with an answer for you. Cast your axe upon the ground and sit comfortably upon it until that time.
 
 ### Shloka:
-इत्युक्त्वा गणपोऽचलत् स्वपितरं<br/>
-प्रष्टुं प्रवेशाय यत् |<br/>
-रुन्धन् मूर्ख ! गजश्रवोऽद्य शृणु मे<br/>
-वाचं ततैः कर्णकैः ||<br/>
-इत्याक्रुध्य विरोध्य तस्य गमनं<br/>
-प्रोवाच रामः स्फुरद् |<br/>
-दन्ताच्छादनयुग्मकः स्वपरशुं<br/>
-विभ्रामयन् भाययन् ||<br/>
-ityuktvā gaṇapo'calat svapitaraṃ<br/>
-praṣṭuṃ praveśāya yat |<br/>
-rundhan mūrkha ! gajaśravo'dya śṛṇu me<br/>
-vācaṃ tataiḥ karṇakaiḥ ||<br/>
-ityākrudhya virodhya tasya gamanaṃ<br/>
-provāca rāmaḥ sphurad |<br/>
-dantācchādanayugmakaḥ svaparaśuṃ<br/>
-vibhrāmayan bhāyayan ||
+इत्युक्त्वा गणपोऽचलत् स्वपितरं प्रष्टुं प्रवेशाय यत् | <br/>
+रुन्धन् मूर्ख ! गजश्रवोऽद्य शृणु मे वाचं ततैः कर्णकैः || <br/>
+इत्याक्रुध्य विरोध्य तस्य गमनं प्रोवाच रामः स्फुरद् | <br/>
+दन्ताच्छादनयुग्मकः स्वपरशुं विभ्रामयन् भाययन् || <br/>
+
+ityuktvā gaṇapo'calat svapitaraṃ praṣṭuṃ praveśāya yat | <br/>
+rundhan mūrkha ! gajaśravo'dya śṛṇu me vācaṃ tataiḥ karṇakaiḥ || <br/>
+ityākrudhya virodhya tasya gamanaṃ provāca rāmaḥ sphurad | <br/>
+dantācchādanayugmakaḥ svaparaśuṃ vibhrāmayan bhāyayan || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 इति | उक्त्वा | गणपः | अचलत् | स्वपितरम् | प्रष्टुम् | प्रवेशाय | यत् | रुन्धन् | मूर्ख | गजश्रवः | अद्य | शृणु | मे | वाचम् | ततैः | कर्णकैः | इति | आक्रुध्य | विरोध्य | तस्य | गमनम् | प्रोवाच | रामः | स्फुरत् | दन्ताच्छादनयुग्मकः | स्वपरशुम् | विभ्रामयन् | भाययन्
@@ -74,22 +60,15 @@ vibhrāmayan bhāyayan ||
 Having said this, as Ganapati moved to enter to ask his father, Parashurama blocked his path, saying, "O fool! O one with elephant ears! Listen to my words today with those large ears of yours." Thus, in anger, obstructing his path, and with his lips trembling in rage, Parashurama swung his axe and spoke, attempting to intimidate him.
 
 ### Shloka:
-प्रोक्तं यत् त्वयकाऽद्य तातजननी-<br/>
-स्थानेऽपि नेष्टागतिः |<br/>
-तत्त्वं गच्छसि मूर्ख ! तत्र किमयं<br/>
-व्याघातदोषो न ते ? ||<br/>
-वन्ध्याया स्तनयोऽस्म्यहं प्रकथयन्<br/>
-यो मातरं स्थापयेत् |<br/>
-नैतद् वेत्ति कुतो ह्यभूव महकं<br/>
-मातैव वन्ध्यास्ति चेत् ||<br/>
-proktaṃ yat tvayakā'dya tātajananī-<br/>
-sthāne'pi neṣṭāgatiḥ |<br/>
-tattvaṃ gacchasi mūrkha ! tatra kimayaṃ<br/>
-vyāghātadoṣo na te ? ||<br/>
-vandhyāyā stanayo'smyahaṃ prakathayan<br/>
-yo mātaraṃ sthāpayet |<br/>
-naitad vetti kuto hyabhūva mahakaṃ<br/>
-mātaiva vandhyāsti cet ||
+प्रोक्तं यत् त्वयकाऽद्य तातजननीस्थानेऽपि नेष्टागतिः | <br/>
+तत्त्वं गच्छसि मूर्ख ! तत्र किमयं व्याघातदोषो न ते ? || <br/>
+वन्ध्याया स्तनयोऽस्म्यहं प्रकथयन् यो मातरं स्थापयेत् | <br/>
+नैतद् वेत्ति कुतो ह्यभूव महकं मातैव वन्ध्यास्ति चेत् || <br/>
+
+proktaṃ yat tvayakā'dya tātajananīsthāne'pi neṣṭāgatiḥ | <br/>
+tattvaṃ gacchasi mūrkha ! tatra kimayaṃ vyāghātadoṣo na te ? || <br/>
+vandhyāyā stanayo'smyahaṃ prakathayan yo mātaraṃ sthāpayet | <br/>
+naitad vetti kuto hyabhūva mahakaṃ mātaiva vandhyāsti cet || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 प्रोक्तम् | यत् | त्वयका [possible reading: त्वया — you] | अद्य | तातजननीस्थाने | अपि | न | इष्टागतिः | तत् | त्वम् | गच्छसि | मूर्ख | तत्र | किम् | अयम् | व्याघातदोषः | न | ते | वन्ध्यायाः | तनयः | अस्मि | अहम् | प्रकथयन् | यः | मातरम् | स्थापयेत् | न | एतत् | वेत्ति | कुतः | हि | अभूवम् | अहकम् | माता | एव | वन्ध्या | अस्ति | चेत्
@@ -111,22 +90,15 @@ mātaiva vandhyāsti cet ||
 You just said that one should not enter the presence of parents without permission. O fool! Then why are you going there? Is this not a logical contradiction in your own words? One who tries to defend his mother by claiming "I am the son of a barren woman" does not even possess the basic knowledge of how he came to be born, if his mother is indeed barren.
 
 ### Shloka:
-मत्प्रश्नच्छलतो विशैस्तिरयसे<br/>
-चेदात्मनो दूषणम् |<br/>
-तत्त्वं तिष्ठ स्वयं तवापि विषये<br/>
-पृष्ट्वा त्वराऽयान्यहम् ||<br/>
-त्वं तत्पुत्र इति प्रयासि तदहं<br/>
-शिष्यत्वतो यामि भोः |<br/>
-पुत्रः शिष्य इति द्विकन्तु पर्यायम्<br/>
-मन्यते भावुकैः ||<br/>
-matpraśnacchalato viśaistirayase<br/>
-cedātmano dūṣaṇam |<br/>
-tattvaṃ tiṣṭha svayaṃ tavāpi viṣaye<br/>
-pṛṣṭvā tvarā'yānyaham ||<br/>
-tvaṃ tatputra iti prayāsi tadahaṃ<br/>
-śiṣyatvato yāmi bhoḥ |<br/>
-putraḥ śiṣya iti dvikantu paryāyam<br/>
-manyate bhāvukaiḥ ||
+मत्प्रश्नच्छलतो विशैस्तिरयसे चेदात्मनो दूषणम् | <br/>
+तत्त्वं तिष्ठ स्वयं तवापि विषये पृष्ट्वा त्वराऽयान्यहम् || <br/>
+त्वं तत्पुत्र इति प्रयासि तदहं शिष्यत्वतो यामि भोः | <br/>
+पुत्रः शिष्य इति द्विकन्तु पर्यायम् मन्यते भावुकैः || <br/>
+
+matpraśnacchalato viśaistirayase cedātmano dūṣaṇam | <br/>
+tattvaṃ tiṣṭha svayaṃ tavāpi viṣaye pṛṣṭvā tvarā'yānyaham || <br/>
+tvaṃ tatputra iti prayāsi tadahaṃ śiṣyatvato yāmi bhoḥ | <br/>
+putraḥ śiṣya iti dvikantu paryāyam manyate bhāvukaiḥ || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 मत्प्रश्नच्छलतः | विशैः [possible reading: विशन् — entering] | तिरयसे | चेत् | आत्मनः | दूषणम् | तत् | त्वम् | तिष्ठ | स्वयम् | तव | अपि | विषये | पृष्ट्वा | त्वरा | आयानि | अहम् | त्वम् | तत्पुत्रः | इति | प्रयासि | तत् | अहम् | शिष्यत्वतः | यामि | भोः | पुत्रः | शिष्यः | इति | द्विकम् | तु | पर्यायम् | मन्यते | भावुकैः
@@ -149,23 +121,15 @@ manyate bhāvukaiḥ ||
 If you are trying to hide your own fault by entering under the pretext of asking about me, then you wait. I will go and ask about you myself and return quickly. You are going because you are his son; then I shall go because I am his disciple. The wise consider both son and disciple to be synonymous.
 
 ### Shloka:
-सोऽवोचद् बुधपाद ! कुत्र पठितो<br/>
-न्यायो नवोऽयं त्वया ? |<br/>
-ख्याता द्वारपता चिराद् गृहपते-<br/>
-राज्ञैव मूर्तेव या ||<br/>
-नाहं यामि भवानिव प्रवचनी-<br/>
-काराऽज्ञया गम्यते |<br/>
-वामं पादमहं नमामि भवतो<br/>
-बुद्धेर्द्वयो र्भग्नयोः ||<br/>
+सोऽवोचद् बुधपाद ! कुत्र पठितो न्यायो नवोऽयं त्वया ? | <br/>
+ख्याता द्वारपता चिराद् गृहपतेराज्ञैव मूर्तेव या || <br/>
+नाहं यामि भवानिव प्रवचनीकाराऽज्ञया गम्यते | <br/>
+वामं पादमहं नमामि भवतो बुद्धेर्द्वयो र्भग्नयोः || <br/>
 
-so'vocad budhapāda ! kutra paṭhito<br/>
-nyāyo navo'yaṃ tvayā ? |<br/>
-khyātā dvārapatā cirād gṛhapate-<br/>
-rājñaiva mūrteva yā ||<br/>
-nāhaṃ yāmi bhavāniva pravacanī-<br/>
-kārā'jñayā gamyate |<br/>
-vāmaṃ pādamahaṃ namāmi bhavato<br/>
-buddherdvayo rbhagnayoḥ ||
+so'vocad budhapāda ! kutra paṭhito nyāyo navo'yaṃ tvayā ? | <br/>
+khyātā dvārapatā cirād gṛhapaterājñaiva mūrteva yā || <br/>
+nāhaṃ yāmi bhavāniva pravacanīkārā'jñayā gamyate | <br/>
+vāmaṃ pādamahaṃ namāmi bhavato buddherdvayo rbhagnayoḥ || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 सः | अवोचत् | बुधपाद | कुत्र | पठितः | न्यायः | नवः | अयम् | त्वया | ख्याता | द्वारपता | चिरात् | गृहपतेः | आज्ञा | एव | मूर्ता | इव | या | न | अहम् | यामि | भवान् | इव | प्रवचनीकाराज्ञया | गम्यते | वामम् | पादम् | अहम् | नमामि | भवतः | बुद्धेः | द्वयोः | भग्नयोः
@@ -187,23 +151,15 @@ buddherdvayo rbhagnayoḥ ||
 Then Ganesha said: "O learned one! Where have you studied this new logic? Since ancient times, the gatekeeper is considered the embodiment of the master's command. I am not entering like you (without permission); I am proceeding only according to their command. Of the two feet of your broken intellect, I bow to at least the left foot." (This is a sarcastic remark implying that the sage's intellect is crippled).
 
 ### Shloka:
-यन्मे द्वारपते र्गतागतिविधिः<br/>
-स्वीये करे गृह्यते |<br/>
-शोधक्रोधविरोधबोधविषयोऽ<br/>
-प्यद्यैव शेशिक्ष्यते ||<br/>
-धारा पर्शुभवा करोति नयने<br/>
-चाक्चिक्यजा मन्धताम् |<br/>
-तद् दण्डोऽपि च दारुजः स्वसदृशीं<br/>
-वा मन्धतां बन्धताम् ||<br/>
+यन्मे द्वारपते र्गतागतिविधिः स्वीये करे गृह्यते | <br/>
+शोधक्रोधविरोधबोधविषयोऽ प्यद्यैव शेशिक्ष्यते || <br/>
+धारा पर्शुभवा करोति नयने चाक्चिक्यजा मन्धताम् | <br/>
+तद् दण्डोऽपि च दारुजः स्वसदृशीं वा मन्धतां बन्धताम् || <br/>
 
-yanme dvārapate rgatāgatividhiḥ<br/>
-svīye kare gṛhyate |<br/>
-śodhakrodhavirodhabodhaviṣayo' <br/>
-pyadyaiva śeśikṣyate ||<br/>
-dhārā parśubhavā karoti nayane<br/>
-cākcikyajām mandhatām |<br/>
-tad daṇḍo'pi ca dārujaḥ svasadṛśīṃ<br/>
-vā mandhatāṃ bandhatām ||
+yanme dvārapate rgatāgatividhiḥ svīye kare gṛhyate | <br/>
+śodhakrodhavirodhabodhaviṣayo' pyadyaiva śeśikṣyate || <br/>
+dhārā parśubhavā karoti nayane cākcikyajām mandhatām | <br/>
+tad daṇḍo'pi ca dārujaḥ svasadṛśīṃ vā mandhatāṃ bandhatām || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 यत् | मे | द्वारपतेः | गतागतिविधिः | स्वीये | करे | गृह्यते | शोधक्रोधविरोधबोधविषयः | अपि | अद्य | एव | शेशिक्ष्यते | धारा | पर्शुभवा | करोति | नयने | चाक्चिक्यजाम् | अन्धताम् | तत् | दण्डः | अपि | च | दारुजः | स्वसदृशीम् | वा | मन्धताम् | बन्धताम्
@@ -225,23 +181,15 @@ vā mandhatāṃ bandhatām ||
 "Are you taking my duties as a gatekeeper into your own hands? You are teaching me today about matters like investigation, anger, and opposition. The edge of your axe causes blindness in the eyes due to its glare, and the wooden staff attached to it causes dullness and sterility, just like itself."
 
 ### Shloka:
-अग्नि र्जामदग्निदारुजनितो<br/>
-नग्नीभवन् क्रोधतः |<br/>
-प्रोचे वस्तुत एव दैव-वशजे<br/>
-मग्नो मदे वर्तसे ||<br/>
-यत् पञ्चाननपञ्चिकान्तर्गतं<br/>
-प्रोचे न चैकाननम् |<br/>
-तत् त्वं केवलशुण्डमात्रबलतो<br/>
-ब्रूषे कठोरं वचः ||<br/>
+अग्नि र्जामदग्निदारुजनितो नग्नीभवन् क्रोधतः | <br/>
+प्रोचे वस्तुत एव दैव-वशजे मग्नो मदे वर्तसे || <br/>
+यत् पञ्चाननपञ्चिकान्तर्गतं प्रोचे न चैकाननम् | <br/>
+तत् त्वं केवलशुण्डमात्रबलतो ब्रूषे कठोरं वचः || <br/>
 
-agni rjāmadagnidārujanito<br/>
-nagnībhavan krodhataḥ |<br/>
-proce vastuta eva daiva-vaśaje<br/>
-magno made vartase ||<br/>
-yat pañcānanapañcikāntargataṃ<br/>
-proce na caikānanam |<br/>
-tat tvaṃ kevalaśuṇḍamātrabalato<br/>
-brūṣe kaṭhoraṃ vacaḥ ||
+agni rjāmadagnidārujanito nagnībhavan krodhataḥ | <br/>
+proce vastuta eva daiva-vaśaje magno made vartase || <br/>
+yat pañcānanapañcikāntargataṃ proce na caikānanam | <br/>
+tat tvaṃ kevalaśuṇḍamātrabalato brūṣe kaṭhoraṃ vacaḥ || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 अग्निः | जाामदग्निदारुजनितः | नग्नीभवन् | क्रोधतः | प्रोचे | वस्तुतः | एव | दैववशजे | मग्नः | मदे | वर्तसे | यत् | पञ्चाननपञ्चिकान्तर्गतम् | प्रोचे | न | च | एकाननम् | तत् | त्वम् | केवलशुण्डमात्रबलतः | ब्रूषे | कठोरम् | वचः
@@ -261,23 +209,15 @@ brūṣe kaṭhoraṃ vacaḥ ||
 The fire born from the wood called Jamadagni (Parashurama), blazing with anger, spoke: "Truly, you are immersed in an arrogance born of destiny. Your five-faced father did not say such things with even one of his faces, yet you, merely by the strength of your trunk, are speaking such harsh words."
 
 ### Shloka:
-अक्ष्णा दिक्षु निरीक्ष्य सेक्षुगणहा<br/>
-ऽप्राक्षीद् द्विजं दाक्ष्यतः |<br/>
-काठोर्यं परशौ यथा तदधिकं<br/>
-क्षत्रक्षयिन् ! वाचि मे ? ||<br/>
-प्रेष्ठास्ते स्वगुरो र्वन्ति नियमान्<br/>
-शिष्याः प्रशिष्याश्च वा |<br/>
-मर्यादा-हनने रतास्तु निहता<br/>
-देवाः ससेवा नराः ||<br/>
+अक्ष्णा दिक्षु निरीक्ष्य सेक्षुगणहा ऽप्राक्षीद् द्विजं दाक्ष्यतः | <br/>
+काठोर्यं परशौ यथा तदधिकं क्षत्रक्षयिन् ! वाचि मे ? || <br/>
+प्रेष्ठास्ते स्वगुरो र्वन्ति नियमान् शिष्याः प्रशिष्याश्च वा | <br/>
+मर्यादा-हनने रतास्तु निहता देवाः ससेवा नराः || <br/>
 
-akṣṇā dikṣu nirīkṣya sekṣugaṇahā<br/>
-'prākṣīd dvijaṃ dākṣyataḥ |<br/>
-kāṭhoryaṃ paraśau yathā tadadhikaṃ<br/>
-kṣatrakṣayin ! vāci me ? ||<br/>
-preṣṭhāste svaguro rvanti niyamān<br/>
-śiṣyāḥ praśiṣyāśca vā |<br/>
-maryādā-hanane ratāstu nihatā<br/>
-devāḥ sasevā narāḥ ||
+akṣṇā dikṣu nirīkṣya sekṣugaṇahā 'prākṣīd dvijaṃ dākṣyataḥ | <br/>
+kāṭhoryaṃ paraśau yathā tadadhikaṃ kṣatrakṣayin ! vāci me ? || <br/>
+preṣṭhāste svaguro rvanti niyamān śiṣyāḥ praśiṣyāśca vā | <br/>
+maryādā-hanane ratāstu nihatā devāḥ sasevā narāḥ || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 अक्ष्णा | दिक्षु | निरीक्ष्य | सेक्षुगणहा | अप्राक्षीत् | द्विजम् | दाक्ष्यतः | काठोर्यम् | परशौ | यथा | तदधिकम् | क्षत्रक्षयिन् | वाचि | मे | प्रेष्ठाः | ते | स्वगुरोः | अवन्ति | नियमान् | शिष्याः | प्रशिष्याः | च | वा | मर्यादाहनने | रताः | तु | निहताः | देवाः | ससेवाः | नराः
@@ -300,23 +240,15 @@ devāḥ sasevā narāḥ ||
 Ganesha, holding the sugarcane stalks, looked in all directions and asked the Brahmana (Parashurama) with cleverness: "O destroyer of the Kshatriya race! Is there more harshness in my speech than there is in your axe? Whether they are disciples or grand-disciples, those who follow the rules are most dear to their Guru. But those who are intent on violating Dharma, even if they are gods or humans with servants, are surely destroyed."
 
 ### Shloka:
-लज्जा-संवरणाय चेन्निजगृहे<br/>
-वासांसि धत्तेऽम्बिका |<br/>
-पत्या वापि युता भवेद्रसवशा<br/>
-तत्रापि यातासि किम् ? ||<br/>
-गार्हस्थ्यं न च सेवितं कुविधितो<br/>
-नापीक्षितं वा क्वचित् ? |<br/>
-तेनैवं परिधावसीव सदने<br/>
-कान्तारवद् गेहिनाम् ||
+लज्जा-संवरणाय चेन्निजगृहे वासांसि धत्तेऽम्बिका | <br/>
+पत्या वापि युता भवेद्रसवशा तत्रापि यातासि किम् ? || <br/>
+गार्हस्थ्यं न च सेवितं कुविधितो नापीक्षितं वा क्वचित् ? | <br/>
+तेनैवं परिधावसीव सदने कान्तारवद् गेहिनाम् || <br/>
 
-Lajjā-saṃvaraṇāya cennijagṛhe<br/>
-vāsāṃsi dhatte'mbikā |<br/>
-patyā vāpi yutā bhavedrasavaśā<br/>
-tatrāpi yātāsi kim ? ||<br/>
-Gārhasthyaṃ na ca sevitaṃ kuvidhito<br/>
-nāpīkṣitaṃ vā kvacit ? |<br/>
-tenaivaṃ paridhāvasīva sadane<br/>
-kāntāravad gehinām ||
+Lajjā-saṃvaraṇāya cennijagṛhe vāsāṃsi dhatte'mbikā | <br/>
+patyā vāpi yutā bhavedrasavaśā tatrāpi yātāsi kim ? || <br/>
+Gārhasthyaṃ na ca sevitaṃ kuvidhito nāpīkṣitaṃ vā kvacit ? | <br/>
+tenaivaṃ paridhāvasīva sadane kāntāravad gehinām || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 लज्जा-संवरणाय | चेत् | निज-गृहे | वासांसि | धत्ते | अम्बिका | पत्या | वा | अपि | युता | भवेत् | रस-वशा | तत्र | अपि | यातासि | किम् | गार्हस्थ्यम् | न | च | सेवितम् | कु-विधितः | न | अपि | ईक्षितम् | वा | क्वचित् | तेन | एवम् | परिधावसि | इव | सदने | कान्तार-वत् | गेहिनाम्
@@ -340,23 +272,15 @@ If the Mother is in her private quarters wearing garments to preserve her modest
 ***
 
 ### Shloka:
-आस्तां किं बहुवाचया ? समजनो<br/>
-रोध्योऽपि दण्ड्योऽपि मे |<br/>
-द्वाःपत्वं मुकुटोऽतिकण्टकमयः<br/>
-पित्रैव शीर्षेऽर्पितः ||<br/>
-पित्रो र्वाक्परिपालने यदि भवेत्<br/>
-प्राणक्षयोऽपि क्वचित् |<br/>
-सर्वं तं सहसा सहेय न च मे<br/>
-भीतिः प्रदर्श्या त्वया ||
+आस्तां किं बहुवाचया ? समजनो रोध्योऽपि दण्ड्योऽपि मे | <br/>
+द्वाःपत्वं मुकुटोऽतिकण्टकमयः पित्रैव शीर्षेऽर्पितः || <br/>
+पित्रो र्वाक्परिपालने यदि भवेत् प्राणक्षयोऽपि क्वचित् | <br/>
+सर्वं तं सहसा सहेय न च मे भीतिः प्रदर्श्या त्वया || <br/>
 
-Āstāṃ kiṃ bahuvācayā ? Samajano<br/>
-rodhyo'pi daṇḍyo'pi me |<br/>
-dvāḥpatvaṃ mukuṭo'tikaṇṭakamayaḥ<br/>
-pitraiva śīrṣe'rpitaḥ ||<br/>
-Pitror vākparipālane yadi bhavet<br/>
-prāṇakṣayo'pi kvacit |<br/>
-sarvaṃ taṃ sahasā saheya na ca me<br/>
-bhītiḥ pradarśyā tvayā ||
+Āstāṃ kiṃ bahuvācayā ? Samajano rodhyo'pi daṇḍyo'pi me | <br/>
+dvāḥpatvaṃ mukuṭo'tikaṇṭakamayaḥ pitraiva śīrṣe'rpitaḥ || <br/>
+Pitror vākparipālane yadi bhavet prāṇakṣayo'pi kvacit | <br/>
+sarvaṃ taṃ sahasā saheya na ca me bhītiḥ pradarśyā tvayā || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 आस्ताम् | किम् | बहु-वाचया | सम-जनः | रोध्यः | अपि | दण्ड्यः | अपि | मे | द्वाः-पत्वम् | मुकुटः | अति-कण्टक-मयः | पित्रा | एव | शीर्षे | अर्पितः | पित्रोः | वाक्-परिपालने | यदि | भवेत् | प्राण-क्षयः | अपि | क्वचित् | सर्वम् | तम् | सहसा | सहेय | न | च | मे | भीतिः | प्रदर्श्या | त्वया

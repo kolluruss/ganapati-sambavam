@@ -3,9 +3,15 @@
 A description of the earrings and white tusks of Ganapati.
 
 ### Shloka:
-गण्डौ चुम्बितुमक्षमे लघुतया<br/>दीर्घेक्षिणी अक्षिणी |<br/>पक्ष्माऽऽकारमिलिन्दबृन्दमिलितौ<br/>नेत्रायमानौ च यौ ||<br/>चुम्बं चुम्बमलम् विलम्बरहितौ<br/>गण्डस्थलं मङ्गलम् |<br/>चक्षुलाघवदुःखहौ शिवशिशो-<br/>र्वन्दे प्रियौ कुण्डलौ || १ ||
+गण्डौ चुम्बितुमक्षमे लघुतया दीर्घेक्षिणी अक्षिणी | <br/>
+पक्ष्माऽऽकारमिलिन्दबृन्दमिलितौ नेत्रायमानौ च यौ || <br/>
+चुम्बं चुम्बमलम् विलम्बरहितौ गण्डस्थलं मङ्गलम् | <br/>
+चक्षुलाघवदुःखहौ शिवशिशोर्वन्दे प्रियौ कुण्डलौ || १ || <br/>
 
-Gaṇḍau cumbitumakṣame laghutayā<br/>dīrghekṣiṇī akṣiṇī |<br/>pakṣmā''kāramilindabṛndamilitau<br/>netrāyamānau ca yau ||<br/>cumbaṃ cumbamalam vilambarahitau<br/>gaṇḍasthalaṃ maṅgalam |<br/>cakṣulāghavaduḥkhahau śivaśiśo-<br/>rvande priyau kuṇḍalau || 1 ||
+Gaṇḍau cumbitumakṣame laghutayā dīrghekṣiṇī akṣiṇī | <br/>
+pakṣmā''kāramilindabṛndamilitau netrāyamānau ca yau || <br/>
+cumbaṃ cumbamalam vilambarahitau gaṇḍasthalaṃ maṅgalam | <br/>
+cakṣulāghavaduḥkhahau śivaśiśorvande priyau kuṇḍalau || 1 || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 गण्डौ | चुम्बितुम् | अक्षमे | लघुतया | दीर्घेक्षिणी | अक्षिणी | पक्ष्माकारमिलिन्दबृन्दमिलितौ | नेत्रायमानौ | च | यौ | चुम्बम् | चुम्बम् | अलम् | विलम्बरहितौ | गण्डस्थलम् | मङ्गलम् | चक्षुलाघवदुःखहौ | शिवशिशोः | वन्दे | प्रियौ | कुण्डलौ
@@ -30,9 +36,15 @@ Gaṇḍau cumbitumakṣame laghutayā<br/>dīrghekṣiṇī akṣiṇī |<br/>p
 Although the eyes can see far, they were unable to kiss the cheeks due to their small size. Therefore, joining with a swarm of bees that resemble eyelashes, the earrings themselves became like eyes. Without any delay, they repeatedly kiss the auspicious cheeks, thereby removing the sorrow caused by the smallness of the eyes. I bow to those beloved earrings of the child of Shiva.
 
 ### Shloka:
-कम्पं कम्पमरं स-शम्पजलमुक्<br/>खण्डप्रभा भासकौ |<br/>स्मेरास्यौ इव मातृपितृनयनै-<br/>रालोकितौ स्तोकतः ||<br/>कुम्भाऽम्भः कणकान् निजान् इव च यौ<br/>स्वेदा निवोधोषकौ |<br/>सन्दर्श्येव मुहुः शिवाय सुखदौ<br/>वन्दामहे कुण्डलौ || २ ||
+कम्पं कम्पमरं स-शम्पजलमुक् खण्डप्रभा भासकौ | <br/>
+स्मेरास्यौ इव मातृपितृनयनैरालोकितौ स्तोकतः || <br/>
+कुम्भाऽम्भः कणकान् निजान् इव च यौ स्वेदा निवोधोषकौ | <br/>
+सन्दर्श्येव मुहुः शिवाय सुखदौ वन्दामहे कुण्डलौ || २ || <br/>
 
-Kampaṃ kampamaraṃ sa-śampajalamuk<br/>khaṇḍaprabhā bhāsakau |<br/>smerāsyau iva mātṛpitṛnayanai-<br/>rālokitau stokataḥ ||<br/>kumbhā'mbhaḥ kaṇakān nijān iva ca yau<br/>svedā nivodhoṣakau |<br/>sandarśyeva muhuḥ śivāya sukhadau<br/>vandāmahe kuṇḍalau || 2 ||
+Kampaṃ kampamaraṃ sa-śampajalamuk khaṇḍaprabhā bhāsakau | <br/>
+smerāsyau iva mātṛpitṛnayanairālokitau stokataḥ || <br/>
+kumbhā'mbhaḥ kaṇakān nijān iva ca yau svedā nivodhoṣakau | <br/>
+sandarśyeva muhuḥ śivāya sukhadau vandāmahe kuṇḍalau || 2 || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 कम्पम् | कम्पम् | अरम् | स-शम्पजलमुक् | खण्डप्रभा | भासकौ | स्मेरास्यौ | इव | मातृपितृनयनैः | आलोकितौ | स्तोकतः | कुम्भाऽम्भःकणकान् | निजान् | इव | च | यौ | स्वेदान् | इव | उद्घोषकौ | सन्दर्श्य | एव | मुहुः | शिवाय | सुखदौ | वन्दामहे | कुण्डलौ
@@ -55,9 +67,15 @@ Kampaṃ kampamaraṃ sa-śampajalamuk<br/>khaṇḍaprabhā bhāsakau |<br/>sme
 Moving rapidly and repeatedly, they shine like fragments of clouds accompanied by lightning. When seen slightly by the eyes of his parents, Parvati and Parameshwara, they appear as if they are smiling. They seem to proclaim the water droplets falling from his frontal globe as their own sweat, and by repeatedly showing these to Shiva, they provide him with joy. We offer our salutations to those earrings of Ganapati.
 
 ### Shloka:
-भृङ्गाक्रान्तिवशाद् क्षणद्युतिधरे<br/>केशाऽम्बुदैरावृते |<br/>नानारत्नभयेन्द्रगोपलसिते<br/>कुण्डस्थचक्रप्रिये ||<br/>मत्सीबालवपुःप्रभे चपलुता-<br/>झञ्झाधरे प्रायशः |<br/>मेघाऽऽडम्बरभे निरम्बरम् इभा-<br/>स्यस्य स्तुमः कुण्डले || ३ ||
+भृङ्गाक्रान्तिवशाद् क्षणद्युतिधरे केशाऽम्बुदैरावृते | <br/>
+नानारत्नभयेन्द्रगोपलसिते कुण्डस्थचक्रप्रिये || <br/>
+मत्सीबालवपुःप्रभे चपलुताझञ्झाधरे प्रायशः | <br/>
+मेघाऽऽडम्बरभे निरम्बरम् इभास्यस्य स्तुमः कुण्डले || ३ || <br/>
 
-Bhṛṅgākrāntivaśād kṣaṇadyutidhare<br/>keśā'mbudairāvṛte |<br/>nānāratnabhayendragopalasite<br/>kuṇḍasthacakrapriye ||<br/>matsībālavapuḥprabhe capalatā-<br/>jhañjhādhare prāyaśaḥ |<br/>meghā''ḍambarabhe nirambaram ibhā-<br/>syasya stumaḥ kuṇḍale || 3 ||
+Bhṛṅgākrāntivaśād kṣaṇadyutidhare keśā'mbudairāvṛte | <br/>
+nānāratnabhayendragopalasite kuṇḍasthacakrapriye || <br/>
+matsībālavapuḥprabhe capalatājhañjhādhare prāyaśaḥ | <br/>
+meghā''ḍambarabhe nirambaram ibhāsyasya stumaḥ kuṇḍale || 3 || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 भृङ्गाक्रान्तिवशात् | क्षणद्युतिधरे | केशाऽम्बुदैः | आवृते | नानारत्नभयेन्द्रगोपलसिते | कुण्डस्थचक्रप्रिये | मत्सीबालवपुःप्रभे | चपलुता-झञ्झाधरे | प्रायशः | मेघाऽऽडम्बरभे | निरम्बरम् | इभास्यस्य | स्तुमः | कुण्डले
@@ -80,9 +98,15 @@ Bhṛṅgākrāntivaśād kṣaṇadyutidhare<br/>keśā'mbudairāvṛte |<br/>n
 Due to the bees landing on them, they shine like lightning. Covered by the clouds of his hair, they sparkle like Indragopa insects with various gems. They are fond of the circular shape of a pond, possess the luster of a small fish, and are characterized by a whirlwind of restlessness. We praise these earrings of the elephant-faced one, which display the grandeur of clouds even in a clear sky.
 
 ### Shloka:
-मित्रे किन्तु बृहच्छिरो व्यवहृतेः<br/>सङ्गन्तु मेवाऽऽतुरे |<br/>मन्ये तेन सकम्पने धृतिधिया<br/>शान्ते प्रतान्ते मुहुः ||<br/>कान्ते विस्तृतये परस्परमिव<br/>स्पर्धां दधाने घनाम् |<br/>शुण्डा तुण्डसुकुण्डलीकृतिविधौ<br/>ईषत् स्वभाभासके || ४ ||
+मित्रे किन्तु बृहच्छिरो व्यवहृतेः सङ्गन्तु मेवाऽऽतुरे | <br/>
+मन्ये तेन सकम्पने धृतिधिया शान्ते प्रतान्ते मुहुः || <br/>
+कान्ते विस्तृतये परस्परमिव स्पर्धां दधाने घनाम् | <br/>
+शुण्डा तुण्डसुकुण्डलीकृतिविधौ ईषत् स्वभाभासके || ४ || <br/>
 
-Mitre kintu bṛhacchiro vyavahṛteḥ<br/>saṅgantu mevā''ture |<br/>manye tena sakampane dhṛtidhiyā<br/>śānte pratānte muhuḥ ||<br/>kānte vistṛtaye parasparamiva<br/>spardhāṃ dadhāne ghanām |<br/>śuṇḍā tuṇḍasukuṇḍalīkṛtividhau<br/>īṣat svabhābhāsake || 4 ||
+Mitre kintu bṛhacchiro vyavahṛteḥ saṅgantu mevā''ture | <br/>
+manye tena sakampane dhṛtidhiyā śānte pratānte muhuḥ || <br/>
+kānte vistṛtaye parasparamiva spardhāṃ dadhāne ghanām | <br/>
+śuṇḍā tuṇḍasukuṇḍalīkṛtividhau īṣat svabhābhāsake || 4 || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 मित्रे | किन्तु | बृहच्छिरो-व्यवहृतेः | सङ्गन्तुम् | एव | आतुरे | मन्ये | तेन | सकम्पने | धृतिधिया | शान्ते | प्रतान्ते | मुहुः | कान्ते | विस्तृतये | परस्परम् | इव | स्पर्धाम् | दधाने | घनाम् | शुण्डा-तुण्ड-सुकुण्डलीकृतिविधौ | ईषत् | स्वभाभासके
@@ -218,23 +242,15 @@ Snihyed yena gajoṣamo'pi manujaḥ kimvā'grajo vā 'nujaḥ ||
 I believe these two unyielding tusks were fashioned by the Creator himself out of pearl-powder, perhaps to teach the world that pearls reside within the elephant's forehead. Through them, a human may become one whose mind is adorned with the pearls of noble thoughts. Seeing them, even a man as mighty as an elephant becomes affectionate; what then to speak of the elders or the younger ones!
 
 ### Shloka:
-वन्दे शम्भुसुतस्य तौ सुरदनौ<br/>
-हंसेन्दु कुन्दप्रभौ |<br/>
-नीर क्षीर विवेचनाय तमसो<br/>
-हृत्यै सुगन्धाप्तये ||<br/>
-तीक्ष्णाग्रावपि दीन हीन जनतानां<br/>
-तक्षणे निःक्षणौ |<br/>
-दुष्टव्यूहविभङ्गकुन्तमुखभौ<br/>
-सद्रक्षणो द्यत्पणौ ||
+वन्दे शम्भुसुतस्य तौ सुरदनौ हंसेन्दु कुन्दप्रभौ | <br/>
+नीर क्षीर विवेचनाय तमसो हृत्यै सुगन्धाप्तये || <br/>
+तीक्ष्णाग्रावपि दीन हीन जनतानां तक्षणे निःक्षणौ | <br/>
+दुष्टव्यूहविभङ्गकुन्तमुखभौ सद्रक्षणो द्यत्पणौ || <br/>
 
-vande śambhusutasya tau suradanau<br/>
-haṃsendu kundaprabhau |<br/>
-nīra kṣīra vivecanāya tamaso<br/>
-hṛtyai sugandhāptaye ||<br/>
-tīkṣṇāgrāvapi dīna hīna janatānāṃ<br/>
-takṣaṇe niḥkṣaṇau |<br/>
-duṣṭavyūhavibhaṅgakuntamukhabhau<br/>
-sadrakṣaṇo dyatpaṇau ||
+vande śambhusutasya tau suradanau haṃsendu kundaprabhau | <br/>
+nīra kṣīra vivecanāya tamaso hṛtyai sugandhāptaye || <br/>
+tīkṣṇāgrāvapi dīna hīna janatānāṃ takṣaṇe niḥkṣaṇau | <br/>
+duṣṭavyūhavibhaṅgakuntamukhabhau sadrakṣaṇo dyatpaṇau || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 वन्दे | शम्भुसुतस्य | तौ | सुरदनौ | हंसेन्दुकुन्दप्रभौ | नीरक्षीरविवेकनाय | तमसः | हृत्यै | सुगन्धाप्तये | तीक्ष्णाग्रौ | अपि | दीनहीनजनतानाम् | तक्षणे | निःक्षणौ | दुष्टव्यूहविभङ्गकुन्तमुखभौ | सद्रक्षणोद्यत्पणौ
@@ -257,23 +273,15 @@ sadrakṣaṇo dyatpaṇau ||
 I offer my salutations to the beautiful tusks of the son of Shambhu, which shine with the purity of swans, the moon, and jasmine flowers. They exist to discern between water and milk, to dispel the darkness of ignorance, and to spread the fragrance of virtue. Although they possess sharp points, they have no inclination to harm the poor and the destitute. Resembling the tips of spears that shatter the formations of the wicked, they stand firm in their vow to protect the righteous.
 
 ### Shloka:
-आनन्दोन्मदसुक्षणेषु तु मनाग्<br/>
-वप्रक्रियाकारिणौ |<br/>
-वन्दे मोदककन्दुकेषु च चतु-<br/>
-र्वेदिप्रभाधारिणौ ||<br/>
-शम्भो र्वा जननीपितुःश्च यशसो-<br/>
-र्मन्ये प्रतीकौ द्वयोः |<br/>
-यद् वा तद्वपुषोः सितत्वगुणतः<br/>
-सुस्मारणाऽचारिणौ ||
+आनन्दोन्मदसुक्षणेषु तु मनाग् वप्रक्रियाकारिणौ | <br/>
+वन्दे मोदककन्दुकेषु च चतुर्वेदिप्रभाधारिणौ || <br/>
+शम्भो र्वा जननीपितुःश्च यशसोर्मन्ये प्रतीकौ द्वयोः | <br/>
+यद् वा तद्वपुषोः सितत्वगुणतः सुस्मारणाऽचारिणौ || <br/>
 
-ānandonmadasukṣaṇeṣu tu manāg<br/>
-vaprakriyākāriṇau |<br/>
-vande modakakandukeṣu ca catu-<br/>
-rvediprabhādhāriṇau ||<br/>
-śambho rvā jananīpituḥśca yaśaso-<br/>
-rmanye pratīkau dvayoḥ |<br/>
-yad vā tadvapuṣoḥ sitatvaguṇataḥ<br/>
-susmāraṇā'cāriṇau ||
+ānandonmadasukṣaṇeṣu tu manāg vaprakriyākāriṇau | <br/>
+vande modakakandukeṣu ca caturvediprabhādhāriṇau || <br/>
+śambho rvā jananīpituḥśca yaśasormanye pratīkau dvayoḥ | <br/>
+yad vā tadvapuṣoḥ sitatvaguṇataḥ susmāraṇā'cāriṇau || <br/>
 
 ### पदच्छेदम् (Padacchedam):
 आनन्दोन्मदसुक्षणेषु | तु | मनाग् | वप्रक्रियाकारिणौ | वन्दे | मोदककन्दुकेषु | च | चतुर्वेदिप्रभाधारिणौ | शम्भोः | वा | जननीपितुः | च | यशसः | मन्ये | प्रतीकौ | द्वयोः | यद्वा | तद्वपुषोः | सितत्वगुणतः | सुस्मारणाचारिणौ
