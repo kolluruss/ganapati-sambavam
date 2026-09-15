@@ -7,6 +7,7 @@ Interpretations and commentaries on certain difficult (kūṭa) verses from the 
 मित्रात्मजारिजनकारिसुताङ्कसंस्थः । <br/>
 पार्थाग्रजाग्रजनकाशनशत्रुपत्र- <br/>
 ज्येष्ठो ददाति कुचुमध्यमुखः सुखं नः ॥ ६३ ॥<br/>
+
 viprādhipāriripusūnuvirodhitātaḥ <br/>
 mitrātmajārijanakārisutāṅkasaṃsthaḥ | <br/>
 pārthāgrajāgrajanakāśanaśatrupatra- <br/>
@@ -122,7 +123,7 @@ Vidvadbhiḥ kā sadāvandyā? Ādyantākṣara muttaram|| 67 ||
 ### Meaning:
 Who is the most tranquil among women? Who became the king best among those possessing virtues? Who is always worthy of worship by the learned? The answer to these three questions is found by combining the first and last letters of each respective line: 1. Sītā, 2. Rāmaḥ, 3. Vidyā.
 
----
+
 
 ### Shloka:
 इत्याकारकभावभावितपदा अष्टौ सहस्राणि यत् |<br/>
@@ -153,7 +154,7 @@ So'yaṃ kūṭapatho'calad gaṇapate rbodhāya rodhāya vā || 68 ||
 ### Meaning:
 The Bhagavan (Vyasa) composed eight thousand and eight hundred such Kūṭa verses in the Mahabharata. To quote them all here would lead to an unnecessary expansion of the work; therefore, they should be studied within the epic itself. This path of Kūṭa verses was set in motion either to enlighten Ganapati or to check his speed.
 
----
+
 
 ### Shloka:
 जाटाजूटसमाः शिवस्य यदिमे गङ्गाभुजङ्गाङ्ग भाः |<br/>
@@ -183,7 +184,7 @@ Tad vākyārthasuśabdavarṇa vidhitaḥ kūṭatrikūṭācalaḥ || 69 ||
 ### Meaning:
 These Kūṭa verses, resembling the matted locks of Shiva—adorned with the Ganga, serpents, and the moon—have become a source of delight for other excellent poets. Like mountain peaks, these Kūṭas are not easily accessible to ordinary students. Through the three-fold classification of Vākya (sentence), Śabda (word), and Varṇa (letter), these Kūṭas stand like the Trikūṭa mountain.
 
----
+
 
 ### Shloka:
 कूटा एव च कूटनीतिलतिकाबीजा नवाप्सुर्भवे |<br/>

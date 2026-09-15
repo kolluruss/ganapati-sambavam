@@ -408,7 +408,7 @@ sthānā'bhāvakathitāḥ pathigatāḥ kinno daśeyu rjanān ? || 60 ||
 ### Meaning:
 (The benefits of mice): It is through these mice, who reveal the art of digging the earth, that humans learned about the nature of the subterranean world. Observing them, humans began to excavate the earth under the name of "tunnels." If these mice were to delay in digging their burrows, the snakes—distressed by the lack of space—would roam about and surely bite the people traveling on the paths.
 
----
+
 
 ### Shloka:
 लोकेनश्चयतो विवृद्धिमयिता स्याच्चे न्महामारिका |<br/>
@@ -438,7 +438,7 @@ svodyogena milatsu vastuṣu rasasyācūṣakā mūṣakāḥ || 61 ||
 ### Meaning:
 If a great epidemic spreads due to the collective sins of the people, these mice sacrifice their own lives first, thereby causing the people to flee and save themselves from the danger. Unlike beggars at the doorstep, they do not pester anyone with constant begging. Through their own industrious efforts, they merely extract the essence from the items they find.
 
----
+
 
 ### Shloka:
 यत्र स्यादधिकं धनं निधिगतं तत्राधिकं कूर्दकाः |<br/>
@@ -468,7 +468,7 @@ manye hāsa vikāsa varṣaṇakarā tallobhatobhogyataḥ || 62 ||
 ### Meaning:
 Wherever there is a great deal of wealth hidden away, there the mice frolic the most. They possess the playful nature of the ascetic-thieves of old. They steal within the house and keep the loot within the house; they are intent on exposing the negligence of the householder. I believe they are the bringers of laughter and are destined to act against the greed of such owners.
 
----
+
 
 ### Shloka:
 कि मन्मूषक पुच्छ मुच्छ विषये मीमांसया तुच्छया ? |<br/>

@@ -171,7 +171,7 @@ kuḍyāropitakīlacitrasadṛśaṃ śrīśambhupadmāsanam ||
 ### Meaning:
 The knees, which scholars of physiognomy have praised as resembling the mouth of a fish, have now, by virtue of sitting in the Padmasana, forgotten their distinction of left and right and have become intertwined. The hands, bearing beautiful fingers like sprouts, appear like lotus buds. Thus, the Padmasana of Lord Shiva shines with the stability of a picture hung upon a nail driven into a wall.
 
----
+
 
 ### Shloka:
 किं शम्भुः कमलं बभूव ? कमलं शम्भुर्बुभूष्वस्ति वा ? |<br/>
@@ -213,7 +213,7 @@ tattvānveṣaparaṃ nivṛttamadhupaṃ śrīśambhupadmāsanam ||
 ### Meaning:
 Has Shiva himself become a lotus? Or does the lotus desire to become Shiva? How did this lotus, devoid of water and stalk, attain a human form? Bees hovered around this Padmasana, seeing the poison in his throat which matched their own dark color. Later, searching for the truth and realizing it was not a flower, the bees retreated. Such is the splendor of Lord Shiva's Padmasana.
 
----
+
 
 ### Shloka:
 यस्यानुष्ठिततः प्रसुप्तमपि सत् हृत्पद्ममुन्मील्यते |<br/>
@@ -249,7 +249,7 @@ svāptyai vardhitavāsanaṃ taditarasyonnāśanaṃ yacchanaiḥ |<br/>
 ### Meaning:
 By practicing the Padmasana, the dormant heart-lotus blossoms. It surpasses the blossoming of even the lotuses that grow in water. It slowly increases the longing for the attainment of the Self while destroying all other worldly tendencies. This Padmasana of Lord Shiva appears like a pearl-oyster shell containing the pearl of supreme auspiciousness (Sham).
 
----
+
 
 ### Sevenfold Devotion (Saptabhir-bhavabhaktibhiḥ)
 
@@ -462,7 +462,7 @@ te haṃsāḥ paramāḥ sucinmayasarasvatyāḥ priyā vāhanāḥ ||
 ### Meaning:
 Yogis devoted to Prāṇāyāma perceive a pure, formless Swan—devoid of physical beak, feet, or wings—within their own breath as it flows in and out, echoing the sound 'Haṃ-Saḥ' (the So'ham mantra). Those who observe these radiant breaths, which resemble beautiful pearls, attain the state of Paramahaṃsa. Such realized souls become the beloved vehicles of Goddess Sarasvatī, the embodiment of pure knowledge.
 
----
+
 
 ### Shloka:
 हंसोऽयं परिवर्तितोऽपि कुरुते 'सोऽहं'पदस्यास्पदम् |<br/>
@@ -496,7 +496,7 @@ bhūyo jñānijanapriyo'pi ca bhavet saṃyogavān 'sena' cet |<br/>
 ### Meaning:
 When the word 'Haṃsa' is reversed, it becomes 'So'ham' (I am that Supreme Brahman), a path cherished by the wise. However, by prefixing the syllable 'Dā', it becomes 'Dāso'ham' (I am the servant of the Lord), which is dear to the devotees. By adding 'Sa' to this, it becomes 'Sadāso'ham' (I am always Brahman), returning to the path of the Jñānīs. Finally, by adding 'Dā' once more, it becomes 'Dāsadāso'ham' (I am the servant of the servant), which brings great joy to the devotees. Such is the wonderful play of the syllables within the breath.
 
----
+
 
 ### Shloka:
 ब्रह्म व्याकरणे नपुंसक मिति प्रोक्तं मनः प्रेम वा |<br/>
@@ -529,7 +529,7 @@ tacced draṣṭu miheṣyate kavijanaiḥ sevyaḥ samādhiḥ sadā ||
 ### Meaning:
 In Sanskrit grammar, the words 'Brahma' (the Absolute), 'Manas' (the mind), and 'Prema' (love) are all classified as neuter gender. By good fortune, if these three neuter entities unite, they do nothing but dance, for that is the nature of such a union. If poets and seekers wish to witness this divine dance, they must always resort to the state of Samādhi.
 
----
+
 
 ### Shloka:
 एवं चिन्तनवृत्तिरूपदयिता-पाणिग्रहे तत्परम् |<br/>

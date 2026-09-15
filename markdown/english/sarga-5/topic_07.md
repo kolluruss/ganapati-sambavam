@@ -143,7 +143,7 @@ tathā stumaścatuḥkramai rbhavanta maṅgulīyakam || 70 ||
 ### Meaning:
 First, the daughter of the mountain (Parvati) is worthy of praise. Thereafter, her ring finger is worthy of praise. Then, the golden ring worn on that finger is worthy of praise. Following that, the new gems set within it, which shine with great brilliance, are worthy of praise. In this same manner, we praise you in the form of the ring through these four sequences.
 
----
+
 
 ### Shloka:
 पदस्थकर्दमान्वितं झणत्कृतं मुहुर्मुहुः |<br/>
@@ -171,7 +171,7 @@ stumo'dya taṃ girīndrajāpādāravindanūpuram || 71 ||
 ### Meaning:
 We praise that anklet of the lotus-feet of the daughter of the mountain (Parvati), which was stained with the mud of the feet, which previously jingled repeatedly in the presence of Shiva, which broke due to negligence, and which was later restored and refined through exquisite craftsmanship.
 
----
+
 
 ### Shloka:
 जय जय गिरिजा-धन ! हे ! जय जय साधन-बन ! हे |<br/>
@@ -202,7 +202,7 @@ jaya bhārata-bhā'vana ! he ! jaya jaya gaṇa śāsana ! he || 72 ||
 ### Meaning:
 O wealth of Girija! O forest of spiritual practices! O cloud that showers happiness! O day that bestows auspiciousness! O crocodile in the waters of victory! O touchstone for the heap of gold! O protector of the glory of Bharat! O ruler of the Ganas! Victory, victory to you!
 
----
+
 
 ### Shloka:
 भस्मोच्चयै गिरिसुतां सुसितै व्यलिम्पन् |<br/>

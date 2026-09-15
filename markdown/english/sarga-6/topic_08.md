@@ -35,7 +35,7 @@ jagrāhāṅghriyugaṃ śivasya saśivasyānte gaṇeśasya saḥ || 83 ||<br/>
 ### Meaning:
 Alas! The axe became blunt upon striking the tip of the tusk. When an axe and a tree are brought into conflict, both are destined to perish. Realizing that this axe was no longer fit to be wielded, Parashurama placed it at the feet of Shiva and Parvati. He then bowed down, taking hold of the lotus feet of Shiva (who is accompanied by Parvati) and finally, the feet of Ganesha.
 
----
+
 
 ### Shloka:
 पीत्वाऽम्बा सुतशिष्ययोः शिवमुखादैक्यप्रकाशात्मकम्<br/>
@@ -69,7 +69,7 @@ saṃnyāsīva vane cacāra manasā vismārayastāṃ kathām || 84 ||<br/>
 ### Meaning:
 Having listened to the discourse from Shiva’s own lips that illuminated the unity between her son and the disciple, Mother Parvati felt her heart swell with joy. Parashurama, his eyelashes glistening with tears of joy like pearls, sought to erase the memory of the conflict from his mind and wandered into the forest like a Sannyasi.
 
----
+
 
 ### Shloka:
 संयोज्येव स केतकं परिहसन् दन्तान्तरं दर्शयन्<br/>
@@ -103,7 +103,7 @@ ekenaiva radena sarvavaradaḥ pāyād gaṇeśaḥ śriyam || 85 ||<br/>
 ### Meaning:
 Ganesha, smiling, displays his broken tusk as if he has attached a Ketaki flower there, appearing as though he is inaugurating the practice of wearing artificial teeth. Or, I believe he is consoling the toothless elderly and children. May that Ganesha, the bestower of all boons, who possesses only one tusk, grant us prosperity and protect us.
 
----
+
 
 ### Shloka:
 जनको गिरिजामाता गिरिजा माता च यस्य विख्याता<br/>

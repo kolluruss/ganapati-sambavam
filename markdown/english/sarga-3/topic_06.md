@@ -36,7 +36,7 @@ pāthōjē calitē vidhātṛcalanaṃ dṛṣṭaṃ bhavēdvā śrutam || 68 |
 ### Meaning:
 As the child was drinking milk, the mouse began to lick the drops that had fallen. Filled with joy, the mouse began to jump, and in doing so, it tossed the child about as if he were a ball. The sight of both of them jumping, caused by the mouse's leaps, was truly wondrous. It was as if, when a lotus moves, the Creator Brahma sitting upon it also moves—a phenomenon one might have heard of or seen, and this scene was just like that.
 
----
+
 
 ### Shloka:
 हारिद्वारिकजन्हुजापयसि वा पालाशपत्रस्थिते |<br/>
@@ -71,7 +71,7 @@ svā'khusthē svasutē ca nṛtyati purō dṛśyaṃ śivāyyāśca tat || 69 |
 ### Meaning:
 In the evening, devotees offer lamps placed on Palasha leaves into the waters of the Ganga at Haridwar. The sight of these lamps floating and flowing along the waves is always a delight to the eyes of those who behold the Ganga. Similarly, the sight of her son dancing while seated upon his vehicle, the mouse, before Parvati, brought the same level of joy to her eyes.
 
----
+
 
 ### Shloka:
 दर्शदर्शमियं स्म चुम्बति मुखं वक्षःस्थलस्थापनैः |<br/>
@@ -108,7 +108,7 @@ tēnōvāca vinaiva śikṣaṇamayaṃ vācaṃ manōhāriṇīm || 70 ||
 ### Meaning:
 Parvati, the daughter of the mountain, looked at the child repeatedly, kissing his face and pressing him to her bosom, fulfilling the natural affection of a mother. The son, too, performed the endearing gestures appropriate for a child. The nectar known as milk entered his heart and stimulated his eloquence. Consequently, without any formal training, he began to speak in a most enchanting manner.
 
----
+
 
 ### Shloka:
 कां कुर्या मयि ! मातः रद्य भवतीचेतोऽनुरूपां क्रियाम् |<br/>

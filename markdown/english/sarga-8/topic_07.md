@@ -162,7 +162,7 @@ bibbīḍāpi jahāsa cāpi girijā dṛṣṭvābhinītiṃ navām || 56 ||<br/
 ### Meaning:
 Due to the intense heat, the Moon residing upon Lord Shiva’s head melted and released nectar from above. Upon receiving this nectar, the lion-skin, which served as the sacred seat for the Five-Faced Lord, suddenly came to life and roared. Terrified by this sound, the Bull (Nandi) fled the scene. Witnessing this novel and unexpected performance, Goddess Parvati could not help but laugh, even while feeling a sense of shyness.
 
----
+
 
 ### Shloka:
 अन्यैर्हासविकासभूमपरिषण्मध्येस्थितैर्व्याहृतम् <br/>
@@ -193,7 +193,7 @@ saivā'dyāvirabhūt śivotsavadine mūrtī bhavantī sphuṭam || 57 ||<br/>
 ### Meaning:
 The others present in the assembly, where laughter was blooming, remarked, "Perhaps because it saw the poison in Shiva’s throat, the nectar in his home has also turned into poison." It is a natural law that some distortion often arises from association. That very phenomenon manifested itself clearly in a physical form today, on the auspicious festival day of Lord Shiva.
 
----
+
 
 ### Shloka:
 लोके गाङ्गजलञ्जलान्तर्गतं तद्रूपमाप्तं श्रुतम् <br/>
@@ -227,7 +227,7 @@ atra syāttu sudhā viṣaṃ viṣamayī syādvā sudhā tatkṣaṇam <br/>
 ### Meaning:
 It is known in the world that when Ganga water mixes with other water, it takes on that form, or conversely, if other water mixes with the Ganga, it becomes pure Ganga water. However, here in Shiva’s abode, nectar can turn into poison, or poison can turn into nectar in an instant. Like the pans of a balance moving up and down, nothing here is stable; everything changes from moment to moment.
 
----
+
 
 ### Shloka:
 एवं मोदकवान् बभूव गणवान् स्वभ्रातृभक्त्याग्रहात् <br/>
@@ -294,7 +294,7 @@ haste dhārayate'dya yāvadapi tacchāntiṃ vidhatte'niśam || 60 ||<br/>
 ### Meaning:
 The extremely fickle Goddess Lakshmi and the aged Lord Brahma both used lotuses as their seats, and consequently, the lotuses were crushed under their heavy, gourd-shaped buttocks. Seeing the distress and withered state of these lotuses, Lord Vishnu and the charming Ganesha took them into their hands. Even today, they hold them day and night, providing them with solace.
 
----
+
 
 ### Shloka:
 चन्द्रं चापि ययाच कर्हिचिदयं स्वां मातरं मोदयन्<br/>
@@ -328,7 +328,7 @@ nā'dadyuścalabālakā iti dhiyā procchasthalasthīkṛtam || 61 ||<br/>
 ### Meaning:
 Once, Ganesha, wishing to delight his mother, asked for the moon, saying, "Mother, give me this new modaka that is shining brilliantly on all sides!" The mother replied, "No, my child, no! This is food arranged for the Chakora birds. It has been placed in such a high place with the intention that mischievous children should not take it."
 
----
+
 
 ### Shloka:
 कि न्नैवात्ति चकोरतः पर इमं कश्चिद् धरित्रीजनः ?<br/>
@@ -359,7 +359,7 @@ kintarhyatra pipīlakaugha ivayo brūte kalaṅkaṃ jagat<br/>
 ### Meaning:
 (Ganesha asked) "Does no one else on earth eat this except the Chakora birds? If so, what is that which looks like a swarm of ants here, which the world calls a 'stain'?" (Parvati replied) "My child, it is the shadow of the sling in which the modaka hangs that has fallen upon it. Just as the walls of the bank are always reflected in the water of a lake, so is this reflection."
 
----
+
 
 ### Shloka:
 यद्वावैतत् सुलभं यदा पितृशिरो गङ्गाङ्क‌बिम्बप्रदम्<br/>

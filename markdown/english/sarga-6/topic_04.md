@@ -566,7 +566,7 @@ Māturme purataḥ sadaiva vinayī yadvā bhayārto'sti saḥ || 47 ||
 ### Meaning:
 My father remembers the dedication I showed in the past toward obeying my mother’s commands. If he were to see any laxity in the execution of his own command now, he would surely sever my head. And if he did, whose head would he attach to my neck again and again? This is because my father is always humble or filled with fear in the presence of my mother.
 
----
+
 
 ### Shloka:
 शीर्षत्रित्वधरं बुभुषति न मे चेतः स्वयं ताततः <br/>
@@ -605,7 +605,7 @@ Kastāto na ca putramastakahṛtaśchindyāttvarā mastakam || 48 ||
 ### Meaning:
 My mind does not desire to bear a third head by being decapitated by my father. That is a different matter; however, if my head were to be severed by the blow of your axe, then you too would fully experience the pleasure of being struck by the Khatvanga. What father would not immediately sever the head of one who has taken his son's head?
 
----
+
 
 ### Shloka:
 कृत्वा क्षत्रियपुत्रपौत्रहननं शान्तिर्न चाद्यावधौ <br/>
@@ -643,7 +643,7 @@ Nāgānāṃ tu kapolayoḥ priyatamā tīkṣnānanā aṅkuśāḥ || 49 ||
 ### Meaning:
 Even after slaughtering the sons and grandsons of Kshatriyas, you have found no peace until today. Because of the arrogance of that axe, your anger has not yet subsided. Having attained the form of an elephant, my mind now desires to relish the taste of its blows; for, to elephants, sharp-pointed goads are indeed most beloved.
 
----
+
 
 ### Shloka:
 द्रक्ष्यत्यद्य भवद्गुरुर्मम पिता साम्बो निजैर्यम्बकैः <br/>
@@ -719,7 +719,7 @@ Taikṣṇyaṃ kintu parīkṣyate tulanayā tattvaṃ yathecchaṃ kuru || 51 
 ### Meaning:
 Therefore, I shall escape from the mouth of the Rahu that is your arm-strength, just as the moon escapes an eclipse. By this, the world shall once again be able to behold me in my purified state. I possess a small axe, while you possess a great one; however, it is through comparison that sharpness is truly tested. Therefore, do as you desire.
 
----
+
 
 ### Shloka:
 प्राहायं भृगुवंश्यताभवमहागर्वैरखर्वक्रियः <br/>
@@ -759,7 +759,7 @@ Tat kurve guru-putra eva madataḥ matte vinā-śāstrakam || 52 ||<br/>
 ### Meaning:
 Parashurama, filled with the great pride of his Bhrigu lineage and ready for mighty deeds, spoke thus: "Take up your weapon in your hand now; what is destined by the Divine cannot be avoided. The scripture which states that the child of a Guru must be respected as the Guru himself has restrained me until now. But now, I shall use that very scripture as a weapon of destruction against this pride-intoxicated son of the Guru."
 
----
+
 
 ### Shloka:
 शम्भो! श्री गुरुदेव! मृष्य तमिमं मन्तुं मदीयं नवम् <br/>
@@ -797,7 +797,7 @@ Paścād-astu padāravinda-yugale sāṣṭāṅga-daṇḍā-natiḥ || 53 ||<b
 ### Meaning:
 O Shambhu, O Divine Guru! Forgive this new offense of mine. Alas, I have been insulted and rendered helpless by your elephant-faced son. Today, I offer the fruits of the knowledge you bestowed upon me to you, who are in the form of a son. Afterwards, may my prostration with eight limbs be at your lotus feet.
 
----
+
 
 ### Shloka:
 शोभा ते प्रथमप्रहारकरणे बालोऽसि लाल्यो गुरोः <br/>

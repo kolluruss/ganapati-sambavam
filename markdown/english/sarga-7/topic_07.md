@@ -32,7 +32,7 @@ yuñjānena suyoginā samatamo'lekhīn mahābhāratam || 79 ||
 ### Meaning:
 We have heard that in ancient times, Goddess Saraswati, pleased by the worship of Mantras, used to write the works of many poets in an invisible form. But here, the compassionate Ganapati himself became a disciple of Vyasa and, with the concentration of a great Yogi absorbed in meditation, wrote the Mahabharata.
 
----
+
 
 ### Shloka:
 एवं बुद्धिश्च तेजश्च प्रतिपत्तिश्च भारत !<br/>
@@ -86,7 +86,7 @@ etacchreyo hi vo manye paramaṃ bharatarṣabha ! || 83 ||
 ### Meaning:
 "O Arjuna! In this way, intellect, brilliance, and attainment flourish during favorable times, but they perish during adverse times. Time itself, by divine will, takes everything back. A man who is powerful becomes weak again due to the influence of time. One who was a master here is again commanded by others. The weapons, having fulfilled their purpose, have returned to the source from which they came. When the time is right, they will return to your hands. O Arjuna! The time has arrived for all of you to depart for the ultimate path. O best of the Bharata lineage! I consider this to be the highest good for you."
 
----
+
 
 ### Shloka:
 श्वश्रूः पुत्रवधूं प्रशास्ति दुहिता गृह्णाति तच्छेङ्गितैः<br/>
@@ -121,7 +121,7 @@ jātā me kṛtisiddhayo gaṇapate ! prasthīyatāṃ sve gṛhe || 84 ||
 ### Meaning:
 Just as a daughter understands the gestures when a mother-in-law commands a daughter-in-law, and just as one cannot help but see the cloth tied to the neck of a conch-shaped pot when looking at the pot itself, so too, the sage Vyasa, while telling Arjuna to depart, indirectly expressed to the elephant-faced Ganapati: "O Ganapati! My literary works are accomplished; you may now depart to your own abode."
 
----
+
 
 ### Shloka:
 श्रुत्वा पार्थ मिषात् प्रोक्तां यानानुज्ञां द्विपाननः<br/>

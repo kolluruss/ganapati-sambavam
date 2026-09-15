@@ -231,6 +231,6 @@ In the first sarga, in describing the Himalayas — red with flowers, green with
 
 — Ganapati Sambhavam
 
----
+
 
 If Kalidasa's 'Kumarasambhavam' stands as a sacred foundation for Sanskrit literature, then Pandit Prabhudatta Shastri's 'Ganapati Sambhavam' is the modern temple devotedly built atop that very foundation. Without abandoning classical poetic conventions, and while nourishing Kalidasa's own poetic flavors, Pandit Prabhudatta Shastri is a rare craftsman who shaped modern nationalist sentiment, the spirit of India's freedom struggle, and modern political thought into Sanskrit verse. There can be no doubt that this work is a golden bridge between the ancient and the modern.

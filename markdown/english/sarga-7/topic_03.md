@@ -1,6 +1,9 @@
 # The Arrival of Ganapati & The Conditions
 
-The arrival of Ganapati and his agreement to serve as the scribe, establishing the conditions between the two: "one must write without pausing" and "one must write only after understanding."
+The arrival of Ganapati and his agreement to serve as the scribe, establishing the conditions between the two: 
+
+1. "one must write without pausing" 
+2. "one must write only after understanding."
 
 ### Shloka:
 यच्चाधीत्य न कोऽपि नार्पयदिह स्वात्मानमत्र श्रमे<br/>
@@ -325,7 +328,7 @@ karṇābhyarṇanivāsinī lasatu me haste dṛḍhā lekhanī || 19 ||<br/>
 ### Meaning:
 May that firm pen shine in my hand, which possesses a golden-adorned head, is crafted from a tree branch, is neither too short nor too long, moves blindly yet swiftly like a bird, stands steady in this battle of writing to bestow the fame of Yudhiṣṭhira and Arjuna, is sharp as the spear-tip of Pāṇḍu, and resides always near my ear. (The poet skillfully employs double meanings/śleṣa using characters from the Mahābhārata).
 
----
+
 
 ### Shloka:
 स्थौल्यं मेऽस्ति गुणः स लेखनकृतां प्रातिस्विको मन्यते<br/>
@@ -363,7 +366,7 @@ procyante ca 'munīmajī'tyupapadāstatsadguṇāḍhyo'smyaham || 20 ||<br/>
 ### Meaning:
 My stoutness is a great virtue for me, considered an inherent quality for scribes. Because of this, the written sentence does not waver forward or backward, preserving the beauty of the script. Therefore, all those engaged in writing are naturally stout, and they are called 'Munīmajī' (those who have conquered the silence of the sages). I am fully endowed with all those excellent qualities.
 
----
+
 
 ### Shloka:
 किञ्चाखुस्थितिमानहं तदपरो मेऽयं गुणो गण्यताम्<br/>
@@ -402,7 +405,7 @@ tanmad yājita 'lekha' nāma yajanaṃ prārabhyatāṃ pāvanam || 21 ||<br/>
 ### Meaning:
 Furthermore, consider this other quality of mine: I have a mouse as my vehicle. This mouse gnaws at the writer's day-long labor (the papers) at night. However, I keep it under my feet, holding it in my control night and day. Therefore, let the sacred sacrifice of 'Lekhana' (writing), conducted by me, now begin.
 
----
+
 
 ### Shloka:
 किञ्चैकोऽस्ति पणो वदामि पणवध्वानै स्तदाकर्ण्यताम्<br/>
@@ -621,7 +624,7 @@ tat syād vaktṛpariśramo'tiviphalaḥ kuntī ca kuttī bhavet || 27 ||<br/>
 ### Meaning:
 The wise declare that even if a speaker utters a hundred words, one should not write a single one without proper comprehension. This establishes that a scribe must write with great deliberation. If there is even a slight omission of an anusvara (dot) or a visarga in any letter, the entire labor of the speaker becomes futile. For instance, the noble name 'Kunti' could be transformed into 'Kutti' (a dog), which is a grave error.
 
----
+
 
 # On the Speed of Composition
 
@@ -661,7 +664,7 @@ granthe bhāratanāmake na ca kathaṃ tūphānamelo bhavet ? || 28 ||<br/>
 ### Meaning:
 Or, as long as your true capability remains untested, what is the use of these explanations today? You have exhibited a speed double that which I had noted in the announcement. If there exist fast trains like the 'Toofan Mail' traveling across the land of Bharat, why should there not be a similar 'Toofan Mail' speed within this book titled 'Bharata'?
 
----
+
 
 # The Discipline of the Scribe
 

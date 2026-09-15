@@ -181,7 +181,7 @@ Vākye'bhūt sa vikalpato'pi rucitaḥ kāryadvayasvīkṛteḥ ||
 ### Meaning:
 Lord Shiva’s three eyes are well-united with the radiance of the Sun, Moon, and Fire. Just as consonants unite with vowels, the radiance of Goddess Gauri’s eyes merged with the radiance of Shiva’s eyes. This 'Sandhi' (union) remains eternal within the words (padas) of those servants standing in the front row. However, in the context of sentences (vākya), this union is accepted as optional, depending on the choice between two grammatical possibilities.
 
----
+
 
 ### Shloka:
 धातूंनामपि गैरिंकादिकपदाख्यानां स नित्यायितः |<br/>
@@ -213,7 +213,7 @@ Vākyānāṃ kramato'kramādapi ca yo vaikalpyavān jalpane ||
 ### Meaning:
 Just as Gairika (red ochre) and other minerals are used to draw Swastikas and Lotuses, and their addition or removal is constant, so too is the 'Sandhi' (union) eternal in verbal roots and prefixes. The same union, which is optional when speaking sentences due to order or disorder, shines eternally in the context of the 'Samasa' (compound) of Shiva and Parvati, where their radiances are mutually intertwined.
 
----
+
 
 ### Shloka:
 वीनां कर्बुरभाभृतां गिरिजया मोदाय योऽभूद् ग्रहः |<br/>
@@ -245,7 +245,7 @@ Vedāntodita 'tattva'mādipadago vaibhaktikajo vigrahaḥ ||
 ### Meaning:
 The act of Goddess Parvati catching colorful birds for amusement is called 'Vigraha' (a play on words: Vi = birds, Graha = catching). Alternatively, the birds' own eagerness to be caught by her is also 'Vigraha'. Furthermore, 'Vigraha' refers to the conflict arising from the crowding of those rushing forward. In the context of Vedanta, 'Vigraha' refers to the grammatical analysis (Vigraha-vakya) of terms like 'Tattvamasi' through the application of case endings (vibhakti).
 
----
+
 
 ### Shloka:
 विग्रो योऽपि गतो विधातृवशतः प्रातः स दृष्टो यदा |<br/>
@@ -463,7 +463,7 @@ prāptaṃ tanmayā''sanena viditaḥ svīyāsanaṃ saukhyadam ||
 ### Meaning:
 I am here in Kailasa, resplendent with gold, silver, and clusters of crystal gems. With fine woolen blankets, I provide warmth to the feet of the two Divinities, Shiva and Parvati. My name is chanted repeatedly during various auspicious yogic postures such as the Padma and Svastika. By the grace of destiny, I, the seat, have attained my own blissful abode here.
 
----
+
 
 ### Shloka:
 दन्ताग्रान् परिदर्शयन् निजमनो दौर्बल्यं मापादयन् |<br/>
@@ -500,7 +500,7 @@ tasmādapyadhiko'bhavaṃ hatamanaḥ dhik saṃśrayākhyāminām ||
 ### Meaning:
 'Samshraya' (the act of seeking refuge) expresses its inner state: Whenever someone sought refuge in another while cringing and displaying the weakness of their own mind, my heart felt only distress. When a seeker begged of me and yet did not find success, I felt even more broken-hearted. Alas, shame upon this name of mine, 'Samshraya'!
 
----
+
 
 ### Shloka:
 नत्या दण्डसमानयाऽवनि तलाऽऽलिङ्ग्यङ्गयाऽभङ्गया |<br/>
@@ -534,7 +534,7 @@ na nyūnatvakaraḥ svasampadudayānāṃ kārakaḥ'yaṃ sadā |<br/>
 ### Meaning:
 One should seek the refuge of Girija and Shambhu through a flawless prostration, where one falls like a staff, embracing the earth with one's limbs, to destroy the fatigue of worldly existence. Such a refuge does not cause any sense of inferiority; rather, it is always the cause of one's own prosperity and stirs the waves of the nectar-ocean of Self-bliss within the mind.
 
----
+
 
 ### Shloka:
 द्वैधं मित्रविभेदकं पिशुनतासंपोषकं केवलम् |<br/>

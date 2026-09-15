@@ -1,6 +1,9 @@
-# The Birth of Ganapati
+# The Birthday of Ganapati
+
+Ganapti playing in childhood
 
 ### Shloka:
+
 एवं नैकजयोपलब्धिमुदितः स्तम्बेरमास्याः शिशुः <br/>
 हेरम्बः स्वगणैर्युतः प्रियतमैश्चिक्रीड नानाविधम् <br/>
 जन्माहे च बभौ शिवाननलसत् हासांशुलिप्तोऽप्यलम् <br/>

@@ -199,7 +199,7 @@ hā kāruṇyarase kathaṃ na navame dāruṇyakaṃ te'dravat || 64 ||<br/>
 ### Meaning:
 You wear a long, white sacred thread made of nine strands; you inhabit a body endowed with nine apertures; you have mastered the nine vowels of speech; and during the nine nights, you worship the Divine Mother in her nine forms. Alas! Why is it that your cruelty, despite being surrounded by the number nine in all these ways, has not melted away in the ninth rasa—the essence of compassion? This is truly a matter of sorrow.
 
----
+
 
 ### Shloka:
 प्राणत्राणसमुद्रफेनसदृशः स्वच्छन्दतास्वाच्छ्यदः<br/>
@@ -236,7 +236,7 @@ hā ! kāruṇyarasaḥ kuśiṣya ! bhavatā svapnē'pi nāsvāditaḥ || 65 ||
 ### Meaning:
 The essence of compassion is like the foam upon the ocean of life-protection; it grants purity to spontaneity; it arrives through the gateway of the eyes in the form of tears to save one like the river Ganga; it is like the deity Varuna incarnate, showering coolness even upon eyes reddened by distress. Alas, O wicked student, this compassion has not been tasted by you even in a dream.
 
----
+
 
 ### Shloka:
 हिंसाकारिनृशंसमानसमहाकूपे जलस्रावकः<br/>
@@ -272,7 +272,7 @@ hā ! hā ! hā ! karuṇō rasaḥ sa taruṇaḥspṛṣṭō na dṛṣṭast
 ### Meaning:
 Compassion is that which causes the waters of grace to flow even into the deep, dark wells of cruel and violent minds; it spreads greenery in the forest of spiritual thrill and makes it tremble with life; it brings detachment regarding one's own ego and grants success to life. That youthful essence of compassion has neither been seen nor touched by you. Alas, alas, alas!
 
----
+
 
 ### Shloka:
 पत्नीत्यागकरब्रतस्तुतिसुखानां लिप्सयाऽऽकुलः<br/>

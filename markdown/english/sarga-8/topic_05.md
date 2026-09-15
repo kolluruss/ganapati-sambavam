@@ -1,4 +1,4 @@
-# Ganapati Pradakshina
+# Ganapati performing Pradakshina 
 
 Ganapati, through his wisdom, circumambulates his parents and attains the merit of circumambulating the entire Earth.
 
