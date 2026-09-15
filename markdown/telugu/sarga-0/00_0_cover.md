@@ -1,0 +1,1 @@
+![](../../../images/cover_front_telugu.png)

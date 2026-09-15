@@ -301,22 +301,5 @@ Vividha vidhibalairyo prāṇadānābhimānī || 89 ||
 ### Meaning:
 May that Mahadeva be victorious—He who bears the moon, who fearlessly embraces the poor, who sports even amidst the play of deceit and impurity, who bears upon his head the Ganga as the embodied form of his heart's compassion, and who takes pride in his power to restore life through various divine methods.
 
-### Shloka:
-(Note: As the provided source text contained only the introductory biographical title and no specific shloka, I have processed the provided text as the heading. Please provide the shlokas for full structural processing.)
 
-### पदच्छेदम् (Padacchedam):
-महामहोपाध्यायः | विद्वान् | कविशिरोमणीत्यादि | बिरुद | विभूषितेन | अलवर-ततारपुर-मिश्र-वंशावतंसेन
-
-### अन्वयः (Anvaya):
-महामहोपाध्यायः विद्वान् कविशिरोमणीत्यादि बिरुदविभूषितेन अलवर-ततारपुर-मिश्र-वंशावतंसेन (कृतम्)
-
-### Meaning of Terms:
-* महामहोपाध्यायः (Mahāmahopādhyāyaḥ)  = The great teacher of teachers, a supreme title of scholarly excellence.
-* विद्वान् (Vidvān)  = One who possesses deep knowledge; a learned scholar.
-* कविशिरोमणीत्यादि (Kaviśiromaṇītyādi)  = Beginning with the title 'Kaviśiromaṇi' (Crest-jewel of poets).
-* बिरुद (Biruda)  = Titles or honorifics bestowed upon a person of merit.
-* विभूषितेन (Vibhūṣitena)  = Adorned or decorated with.
-* अलवर-ततारपुर-मिश्र-वंशावतंसेन (Alavara-tātārapura-miśra-vaṃśāvataṃsena)  = By the one who is the crest-jewel (the most distinguished member) of the Alavara-Tatarapura-Mishra lineage.
-
-### Meaning:
-This text is authored by a scholar of immense distinction, adorned with prestigious titles such as Mahamahopadhyaya, Vidvan, and Kavishiromani. He stands as the most illustrious figure—the crest-jewel—of the noble Alavara-Tatarapura-Mishra lineage, a family deeply rooted in the preservation of Dharma and the pursuit of Vedic wisdom.
+**End of chapter-4**
