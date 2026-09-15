@@ -131,12 +131,12 @@ Although the two earrings are friends, because the large head stands between the
 कालिन्दीजलजप्रभे मधुपकैर्गाङ्गेयजे जन्मतः |<br/>
 शोणे रत्नकरश्मिभिर्श्च जटितैर्मन्ये त्रिवेणीभवे ||<br/>
 शृङ्गाटाख्यफले त्रिवर्णलसिते सम्पूर्णकर्णोत्सुके |<br/>
-कोणग्राहसुखेन नृत्यत इवैभास्ये स्तुमः कुण्डले ||
+कोणग्राहसुखेन नृत्यत इवैभास्ये स्तुमः कुण्डले || 5 ||
 
 Kālindījalajaprabhe madhupakairgāṅgeyaje janmataḥ |<br/>
 Śoṇe ratnakaraśmibhirśca jaṭitairmanye triveṇībhave ||<br/>
 Śṛṅgāṭākhyaphale trivarṇalasite sampūrṇakarṇotsuke |<br/>
-Koṇagrāhasukhena nṛtyata ivaibhāsye stumaḥ kuṇḍale ||
+Koṇagrāhasukhena nṛtyata ivaibhāsye stumaḥ kuṇḍale || 5 ||
 
 ### पदच्छेदम् (Padacchedam):
 कालिन्दीजलजप्रभे | मधुपकैः | गाङ्गेयजे | जन्मतः | शोणे | रत्नकरश्मिभिः | च | जटितैः | मन्ये | त्रिवेणीभवे | शृङ्गाटाख्यफले | त्रिवर्णलसिते | सम्पूर्णकर्णोत्सुके | कोणग्राहसुखेन | नृत्यतः | इव | ऐभास्ये | स्तुमः | कुण्डले
@@ -160,12 +160,12 @@ These earrings, dark like the lotuses of the Yamuna due to the bees hovering ove
 चञ्चत् केतक पुष्पदण्ड सदृशौ विक्षुक्षुपाऽऽभौ च वा |<br/>
 यौ लेढुं युगपद् धृतौ स्ववदने लायात् षडास्यो न यत् ||<br/>
 श्वैत्ये पङ्कजनालभौ वपि च यौ कामं प्रयोगे दृढौ |<br/>
-वन्दे विघ्नमहीध्रखण्डनकरौ दन्तौ बहिर्निर्गतौ ||
+वन्दे विघ्नमहीध्रखण्डनकरौ दन्तौ बहिर्निर्गतौ || 6 ||
 
 Cañcat ketaka puṣpadaṇḍa sadṛśau vikṣukṣupā''bhau ca vā |<br/>
 Yau leḍhuṃ yugapad dhṛtau svavadane lāyāt ṣaḍāsyo na yat ||<br/>
 Śvaitye paṅkajanālabhau vapi ca yau kāmaṃ prayoge dṛḍhau |<br/>
-Vande vighnamahīdhrakhaṇḍanakarau dantau bahirnirgatau ||
+Vande vighnamahīdhrakhaṇḍanakarau dantau bahirnirgatau || 6 ||
 
 ### पदच्छेदम् (Padacchedam):
 चञ्चत्केतकपुष्पदण्डसदृशौ | इक्षुक्षुपाभौ | च | वा | यौ | लेढुम् | युगपत् | धृतौ | स्ववदने | लायात् | षडास्यः | न | यत् | श्वैत्ये | पङ्कजनालभौ | अपि | च | यौ | कामम् | प्रयोगे | दृढौ | वन्दे | विघ्नमहीध्रखण्डनकरौ | दन्तौ | बहिर्निर्गतौ
@@ -188,12 +188,12 @@ The two protruding tusks appear like the stalks of blooming Ketaka flowers or su
 यद् वा शर्करेयेव शुक्लतमया मिष्टान्नकैर्निर्मितौ |<br/>
 दण्डौ द्वौच चुचूषिषा सुखकृते दीपावली सन्निधौ ||<br/>
 बालत्वाद युगपन्मुखे धृतचरौ तेषां सु भक्त्या च वा |<br/>
-हस्ताभ्यां प्रपिबन्ति वारि बहवो द्वाभ्यां पिपासातुराः ||
+हस्ताभ्यां प्रपिबन्ति वारि बहवो द्वाभ्यां पिपासातुराः || 7 ||
 
 Yad vā śarkareyeva śuklatamayā miṣṭānnakairnirmitau |<br/>
 Daṇḍau dvauca cucūṣiṣā sukhakṛte dīpāvalī sannidhau ||<br/>
 Bālatvād yugapanmukhe dhṛtacarau teṣāṃ su bhaktyā ca vā |<br/>
-Hastābhyāṃ prapibanti vāri bahavo dvābhyāṃ pipāsāturāḥ ||
+Hastābhyāṃ prapibanti vāri bahavo dvābhyāṃ pipāsāturāḥ || 7 ||
 
 ### पदच्छेदम् (Padacchedam):
 यद्वा | शर्करेयेव | शुक्लतमया | मिष्टान्नकैः | निर्मितौ | दण्डौ | द्वौ | च | चुचूषिषासुखकृते | दीपावलीसन्निधौ | बालत्वात् | युगपत् | मुखे | धृतचरौ | तेषाम् | सुभक्त्या | च | वा | हस्ताभ्याम् | प्रपिबन्ति | वारि | बहवः | द्वाभ्याम् | पिपासातुराः
@@ -216,12 +216,12 @@ Or, it is as if, with the approach of Deepavali, confectioners have fashioned tw
 मन्ये मौक्तिक पिष्टिका विरचितौ दन्ता वदान्ता विमौ |<br/>
 मुक्ता मस्तकता प्रबोधनधिया धात्रेव सत्रा स्वयम् ||<br/>
 येन स्यात् सुविचार मौक्तिक तति श्रीमस्तको मानवः |<br/>
-स्निह्येद येन गजोषमोऽपि मनुजः किम्वाऽग्रजो वा ऽनुजः ||
+स्निह्येद येन गजोषमोऽपि मनुजः किम्वाऽग्रजो वा ऽनुजः || 8 ||
 
 Manye mauktika piṣṭikā viracitau dantā vadāntā vimau |<br/>
 Muktā mastakatā prabodhanadhiyā dhātreva satrā svayam ||<br/>
 Yena syāt suvicāra mauktika tati śrīmastako mānavaḥ |<br/>
-Snihyed yena gajoṣamo'pi manujaḥ kimvā'grajo vā 'nujaḥ ||
+Snihyed yena gajoṣamo'pi manujaḥ kimvā'grajo vā 'nujaḥ || 8 ||
 
 ### पदच्छेदम् (Padacchedam):
 मन्ये | मौक्तिकपिष्टिकाविरचितौ | दन्तौ | अदान्तौ | इमौ | मुक्तामस्तकताप्रबोधनधिया | धात्रा | इव | सत्रा | स्वयम् | येन | स्यात् | सुविचारमौक्तिकततिश्रीमस्तको | मानवः | स्निह्येत | येन | गजोषमः | अपि | मनुजः | किम् | वा | अग्रजः | वा | अनुजः
@@ -245,12 +245,12 @@ I believe these two unyielding tusks were fashioned by the Creator himself out o
 वन्दे शम्भुसुतस्य तौ सुरदनौ हंसेन्दु कुन्दप्रभौ | <br/>
 नीर क्षीर विवेचनाय तमसो हृत्यै सुगन्धाप्तये || <br/>
 तीक्ष्णाग्रावपि दीन हीन जनतानां तक्षणे निःक्षणौ | <br/>
-दुष्टव्यूहविभङ्गकुन्तमुखभौ सद्रक्षणो द्यत्पणौ || <br/>
+दुष्टव्यूहविभङ्गकुन्तमुखभौ सद्रक्षणो द्यत्पणौ || 9 ||<br/>
 
 vande śambhusutasya tau suradanau haṃsendu kundaprabhau | <br/>
 nīra kṣīra vivecanāya tamaso hṛtyai sugandhāptaye || <br/>
 tīkṣṇāgrāvapi dīna hīna janatānāṃ takṣaṇe niḥkṣaṇau | <br/>
-duṣṭavyūhavibhaṅgakuntamukhabhau sadrakṣaṇo dyatpaṇau || <br/>
+duṣṭavyūhavibhaṅgakuntamukhabhau sadrakṣaṇo dyatpaṇau || 9 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 वन्दे | शम्भुसुतस्य | तौ | सुरदनौ | हंसेन्दुकुन्दप्रभौ | नीरक्षीरविवेकनाय | तमसः | हृत्यै | सुगन्धाप्तये | तीक्ष्णाग्रौ | अपि | दीनहीनजनतानाम् | तक्षणे | निःक्षणौ | दुष्टव्यूहविभङ्गकुन्तमुखभौ | सद्रक्षणोद्यत्पणौ
@@ -276,12 +276,12 @@ I offer my salutations to the beautiful tusks of the son of Shambhu, which shine
 आनन्दोन्मदसुक्षणेषु तु मनाग् वप्रक्रियाकारिणौ | <br/>
 वन्दे मोदककन्दुकेषु च चतुर्वेदिप्रभाधारिणौ || <br/>
 शम्भो र्वा जननीपितुःश्च यशसोर्मन्ये प्रतीकौ द्वयोः | <br/>
-यद् वा तद्वपुषोः सितत्वगुणतः सुस्मारणाऽचारिणौ || <br/>
+यद् वा तद्वपुषोः सितत्वगुणतः सुस्मारणाऽचारिणौ || 10 ||<br/>
 
 ānandonmadasukṣaṇeṣu tu manāg vaprakriyākāriṇau | <br/>
 vande modakakandukeṣu ca caturvediprabhādhāriṇau || <br/>
 śambho rvā jananīpituḥśca yaśasormanye pratīkau dvayoḥ | <br/>
-yad vā tadvapuṣoḥ sitatvaguṇataḥ susmāraṇā'cāriṇau || <br/>
+yad vā tadvapuṣoḥ sitatvaguṇataḥ susmāraṇā'cāriṇau || 10 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 आनन्दोन्मदसुक्षणेषु | तु | मनाग् | वप्रक्रियाकारिणौ | वन्दे | मोदककन्दुकेषु | च | चतुर्वेदिप्रभाधारिणौ | शम्भोः | वा | जननीपितुः | च | यशसः | मन्ये | प्रतीकौ | द्वयोः | यद्वा | तद्वपुषोः | सितत्वगुणतः | सुस्मारणाचारिणौ

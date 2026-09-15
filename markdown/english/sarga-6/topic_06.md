@@ -6,12 +6,12 @@ The worlds tremble at the sight of the broken tusk, and Parvati burns with inten
 हा! हा! हेति जगाद देवनिवहो यो व्योमगोऽभूत्तदा <br/>
 हेरम्बस्य हतो रदोऽपि समदैस्तैः संस्तुतः स्पर्धया <br/>
 भूमिः कम्पनामापिता भयमिता दध्रुर्दरां कन्दराः <br/>
-चिंगारं व्यदधुर्गजाः शिखिगुणा गावो महिष्यो हयाः <br/>
+चिंगारं व्यदधुर्गजाः शिखिगुणा गावो महिष्यो हयाः ॥ 60 ॥<br/>
 
 Hā! Hā! Heti jagāda devanivaho yo vyomago’bhūttadā <br/>
 Herambasya hato rado’pi samadaistaiḥ saṃstutaḥ spardhayā <br/>
 Bhūmiḥ kampanāmāpitā bhayamitā dadhrurdarāṃ kandarāḥ <br/>
-Ciṅgāraṃ vyadadhurgajāḥ śikhigaṇā gāvo mahiṣyo hayāḥ <br/>
+Ciṅgāraṃ vyadadhurgajāḥ śikhigaṇā gāvo mahiṣyo hayāḥ || 60 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 हा | हा | हा | इति | जगाद | देवनिवहः | यः | व्योमगः | अभूत् | तदा | हेरम्बस्य | हतः | रदः | अपि | समदैः | तैः | संस्तुतः | स्पर्धया | भूमिः | कम्पनाम् | आपिता | भयमिता | दध्रुः | दरम् | कन्दराः | चिंगारम् | व्यदधुः | गजाः | शिखिगुणाः | गावः | महिष्यः | हयाः
@@ -48,12 +48,12 @@ At that moment, the multitude of Devas traversing the heavens cried out in lamen
 मातर्धाव हिमाद्रिजे! कुहगता? पुत्रोऽभवन्नी रदः <br/>
 रेकुम्भोदर! हे निकुम्भ! भव रे! तस्मै द्रुतं नीरदः <br/>
 अस्मिन् दुःसमये स्वयं सुकृतिवत् कश्चिद् भवेत् क्षीरदः <br/>
-दन्तोन्मूलन-ज क्षते भवताद् वैद्यो नवोशीरदः <br/>
+दन्तोन्मूलन-ज क्षते भवताद् वैद्यो नवोशीरदः ॥ 61 ॥<br/>
 
 Mātardhāva Himādrije! Kuhagatā? Putro’bhavannī radaḥ <br/>
 Rekumbhodara! He nikumbha! Bhava re! Tasmai drutaṃ nīradaḥ <br/>
 Asmin duḥsamaye svayaṃ sukṛtivat kaścid bhavet kṣīradaḥ <br/>
-Dantonmūlana-ja kṣate bhavatād vaidyo navośīradaḥ <br/>
+Dantonmūlana-ja kṣate bhavatād vaidyo navośīradaḥ || 61 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 मातः | धाव | हिमाद्रिजे | कुह | गता | पुत्रः | अभवत् | नीरदः | रेकुम्भोदर | हे | निकुम्भ | भव | रे | तस्मै | द्रुतम् | नीरदः | अस्मिन् | दुःसमये | स्वयम् | सुकृतिवत् | कश्चित् | भवेत् | क्षीरदः | दन्तोन्मूलनजक्षते | भवतात् | वैद्यः | नवोशीरदः
@@ -89,12 +89,12 @@ The celestial voice spoke thus: "O Mother Parvati! Run, where have you gone? You
 इत्थं खेचर वाग भू दित इतो व्याप्ता समाप्ता न या <br/>
 प्राप्ता चापि शिवेन चिन्तितवता पुत्रे स्वशिष्ये च वा <br/>
 धावं धावमुपेत्य तत्र गिरिजा चिन्ताचितान्तः स्थिता <br/>
-वक्षोजस्रवदुष्णदुग्धधवला श्वेतेव भीत्यानया <br/>
+वक्षोजस्रवदुष्णदुग्धधवला श्वेतेव भीत्यानया ॥ 62 ॥<br/>
 
 Itthaṃ khecara vāga bhū dita ito vyāptā samāptā na yā <br/>
 Prāptā cāpi śivena cintitavatā putre svaśiṣye ca vā <br/>
 Dhāvaṃ dhāvamupetya tatra girijā cintācitāntaḥ sthitā <br/>
-Vakṣojasravaduṣṇadugdhadhavalā śveteva bhītyānayā <br/>
+Vakṣojasravaduṣṇadugdhadhavalā śveteva bhītyānayā || 62 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 इत्थम् | खेचरवाक् | अभूत् | इतः | इतः | व्याप्ता | समाप्ता | न | या | प्राप्ता | च | अपि | शिवेन | चिन्तितवता | पुत्रे | स्वशिष्ये | च | वा | धावम् | धावम् | उपेत्य | तत्र | गिरिजा | चिन्ताचितान्तःस्थिता | वक्षोजस्रवदुष्णदुग्धधवला | श्वेता | इव | भीत्या | अनया
@@ -125,12 +125,12 @@ In this manner, the words of the celestials spread in all directions and did not
 ऊचे भार्गव! वृद्धतां मिव गता बुद्धिस्त्वदीयाऽद्य रे! <br/>
 स्वस्मात् क्षुल्लशशे शिशौ यदकरोः पर्षुं कलङ्काङ्कितम् <br/>
 वात्सल्यं न कदापि धास्यसि हृदि ब्राह्मण्यभूषाकरम् <br/>
-कारुण्यं न च वा व्यनक्षि कुहचिद् हत्याैव मत्यां स्थिता <br/>
+कारुण्यं न च वा व्यनक्षि कुहचिद् हत्याैव मत्यां स्थिता ॥ 63 ॥<br/>
 
 Ūce bhārgava! Vṛddhatāṃ miva gatā buddhistvadīyā’dya re! <br/>
 Svasmāt kṣullaśaśe śiśau yadakaroḥ parṣuṃ kalaṅkāṅkitam <br/>
 Vātsalyaṃ na kadāpi dhāsyasi hṛdi brāhmaṇyabhūṣākaram <br/>
-Kāruṇyaṃ na ca vā vyanakṣi kuhacid hatyāiva matyāṃ sthitā <br/>
+Kāruṇyaṃ na ca vā vyanakṣi kuhacid hatyāiva matyāṃ sthitā || 63 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 ऊचे | भार्गव | वृद्धताम् | इव | गता | बुद्धिः | त्वदीया | अद्य | रे | स्वस्मात् | क्षुल्लशशे | शिशौ | यत् | अकरोः | पर्षुम् | कलङ्काङ्कितम् | वात्सल्यम् | न | कदापि | धास्यसि | हृदि | ब्राह्मण्यभूषाकरम् | कारुण्यम् | न | च | वा | व्यनक्षि | कुहचित् | हत्या | एव | मत्याम् | स्थिता
@@ -162,12 +162,12 @@ Gauri spoke thus: "O Bhargava! Your intellect seems to have become senile today.
 दीर्घं यन्नवतन्तुनिर्मित मथा यज्ञोपवीतं सितम्<br/>
 देहं वा नव-खं दधासि नवधैवाधीतवान् वाक् स्वरान्<br/>
 रात्रीणां नवकेऽरचनानि कुरुषे शक्ते नवाकारतः<br/>
-हा कारुण्यरसे कथं न नवमे दारुण्यकं तेऽद्रवत्<br/>
+हा कारुण्यरसे कथं न नवमे दारुण्यकं तेऽद्रवत् ॥ 64 ॥<br/>
 
 dīrghaṃ yannavatantunirmita mathā yajñopavītaṃ sitam<br/>
 dehaṃ vā nava-khaṃ dadhāsi navadhaivādhītavān vāk svarān<br/>
 rātrīṇāṃ navake'rcanāni kuruṣe śakte navākārataḥ<br/>
-hā kāruṇyarase kathaṃ na navame dāruṇyakaṃ te'dravat<br/>
+hā kāruṇyarase kathaṃ na navame dāruṇyakaṃ te'dravat || 64 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 दीर्घम् | यत् | नवतन्तुनिर्मितम् | अथाः | यज्ञोपवीतम् | सितम् | देहम् | वा | नव-खम् | दधासि | नवधा | एव | अधीतवान् | वाक् | स्वरान् | रात्रीणाम् | नवके | अर्चनानि | कुरुषे | शक्तेः | नवाकारतः | हा | कारुण्यरसे | कथम् | न | नवमे | दारुण्यकम् | ते | अद्रवत्
@@ -205,12 +205,12 @@ You wear a long, white sacred thread made of nine strands; you inhabit a body en
 प्राणत्राणसमुद्रफेनसदृशः स्वच्छन्दतास्वाच्छ्यदः<br/>
 नेत्रद्वारकमेल्य नीरवपुषा गङ्गा वदुद्धारकः<br/>
 साकारो वरुणोऽरुणेऽपि नयने शैशिर्यसंवर्षकः<br/>
-हा ! कारुण्यरसः कुशिष्य ! भवता स्वप्नेऽपि नास्वादितः<br/>
+हा ! कारुण्यरसः कुशिष्य ! भवता स्वप्नेऽपि नास्वादितः ॥ 65 ॥<br/>
 
 prāṇatrāṇasamudraphēnasadṛśaḥ svacchandatāsvācchyadaḥ<br/>
 nētradvārakamētya nīravapuṣā gaṅgā vaduddhārakaḥ<br/>
 sākārō varuṇō'ruṇē'pi nayanē śaiśiryasaṃvarṣakaḥ<br/>
-hā ! kāruṇyarasaḥ kuśiṣya ! bhavatā svapnē'pi nāsvāditaḥ<br/>
+hā ! kāruṇyarasaḥ kuśiṣya ! bhavatā svapnē'pi nāsvāditaḥ || 65 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 प्राणत्राणसमुद्रफेनसदृशः | स्वच्छन्दतास्वाच्छ्यदः | नेत्रद्वारकम् | एत्य | नीरवपुषा | गङ्गावत [possible reading: गङ्गा वत् — Ganga-vat] | उद्धारकः | साकारः | वरुणः | अरुणे | अपि | नयने | शैशिर्यसंवर्षकः | हा | कारुण्यरसः | कुशिष्य | भवता | स्वप्ने | अपि | न | आस्वादितः
@@ -242,12 +242,12 @@ The essence of compassion is like the foam upon the ocean of life-protection; it
 हिंसाकारिनृशंसमानसमहाकूपे जलस्रावकः<br/>
 रोमाञ्चाभिधकानने ! हरिततां विस्तार्य तत्कम्पकः<br/>
 स्वप्राणाऽवनतो विरक्तिबहुलः साफल्यदो जीवने<br/>
-हा ! हा ! हा ! करुणो रसः स तरुणःस्पृष्टो न दृष्टस्त्वया<br/>
+हा ! हा ! हा ! करुणो रसः स तरुणःस्पृष्टो न दृष्टस्त्वया ॥ 66 ॥<br/>
 
 hiṃsākārinṛśaṃsamānasamahākūpē jalasrāvakaḥ<br/>
 rōmāñcābhidhakānanē ! haritatāṃ vistārya tatkampakaḥ<br/>
 svaprāṇā'vanatō viraktibahulaḥ sāphalyadō jīvanē<br/>
-hā ! hā ! hā ! karuṇō rasaḥ sa taruṇaḥspṛṣṭō na dṛṣṭastvayā<br/>
+hā ! hā ! hā ! karuṇō rasaḥ sa taruṇaḥspṛṣṭō na dṛṣṭastvayā || 66 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 हिंसाकारी | नृशंसमानसमहाकूपे | जलस्रावकः | रोमाञ्चाभिधकानने | हरितताम् | विस्तार्य | तत्कम्पकः | स्वप्राणाऽवनतः | विरक्तिबहुलः | साफल्यदः | जीवने | हा | हा | हा | करुणः | रसः | सः | तरुणः | स्पृष्टः | न | दृष्टः | त्वया
@@ -278,12 +278,12 @@ Compassion is that which causes the waters of grace to flow even into the deep, 
 पत्नीत्यागकरब्रतस्तुतिसुखानां लिप्सयाऽऽकुलः<br/>
 मन्ये त्वं करुणाभिधां सुतरुणीं नैवोडवान् मूढ ! रे !<br/>
 नानारोदनजध्वनिश्रवणकृत् रक्तं पिबन्ती नवम्<br/>
-पृष्ठं ते न च मुञ्चते कुवनिता हिंसापिशाची त्वियम्<br/>
+पृष्ठं ते न च मुञ्चते कुवनिता हिंसापिशाची त्वियम् ॥ 67 ॥<br/>
 
 patnītyāgakarabratastutisukhānāṃ lipsayā'kulāḥ<br/>
 manyē tvaṃ karuṇābhidhāṃ sutaruṇīṃ naivōḍhavān mūḍha ! rē !<br/>
 nānārōdanajadhvaniśravaṇakṛt raktaṃ pibantī navam<br/>
-pṛṣṭhaṃ tē na ca muñcatē kuvanitā hiṃsāpiśācī tviyam<br/>
+pṛṣṭhaṃ tē na ca muñcatē kuvanitā hiṃsāpiśācī tviyam || 67 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 पत्नीत्यागकरब्रतस्तुतिसुखानाम् | लिप्सया | एव | आकुलः | मन्ये | त्वम् | करुणाभिधाम् | सुतरुणीम् | न | एव | ऊढवान् | मूढ | रे | नानारोदनजध्वनिश्रवणकृत् | रक्तम् | पिबन्ती | नवम् | पृष्ठम् | ते | न | च | मुञ्चते | कुवनिता | हिंसापिशाची | तु | इयम्
@@ -311,12 +311,12 @@ O fool! I believe that you have not married the beautiful maiden named 'Compassi
 त्वं रौद्राख्यरसं वहन् क्षिपसि तच्छेषानशेषान् क्वचित्<br/>
 शेषास्ये रसनाद्वयेन विषदे स्वीयाद् हठाद् वक्षि रे<br/>
 रुद्रो मद् गुरुरस्ति तद्धृत-रसं वाञ्छामि नान्यं सहे<br/>
-मौढ्यं ते स तु नित्यमेव भजते नानारसानां रसाम्<br/>
+मौढ्यं ते स तु नित्यमेव भजते नानारसानां रसाम् ॥ 68 ॥<br/>
 
 tvaṃ raudrākhyarasam vahan kṣipasi taccheṣānaśeṣān kvacit<br/>
 śeṣāsye rasanādvayena viṣade svīyād haṭhād vakṣi re<br/>
 rudro mad gururasti taddhṛta-rasam vāñchāmi nānyam sahe<br/>
-mauḍhyam te sa tu nityameva bhajate nānārasānām rasām<br/>
+mauḍhyam te sa tu nityameva bhajate nānārasānām rasām || 68 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 त्वम् | रौद्राख्यरसम् | वहन् | क्षिपसि | तच्छेषान् | अशेषान् | क्वचित् | शेषास्ये | रसनाद्वयेन | विषदे | स्वीयात् | हठात् | वक्षि | रे | रुद्रः | मद् | गुरुः | अस्ति | तद्धृत-रसम् | वाञ्छामि | न | अन्यम् | सहे | मौढ्यम् | ते | सः | तु | नित्यम् | एव | भजते | नानारसानाम् | रसाम्
@@ -353,12 +353,12 @@ O! You, bearing only the Raudra (furious) Rasa, are casting all other remaining 
 शृङ्गारी स मयास्ति लोकविदितो रौद्रो ऽन्धकादौ स्मृतः<br/>
 हासेऽट्टे स-रसः, समाधिषु च यः शान्तो नितान्तं सदा<br/>
 वीरश्चास्ति वरप्रदानसमये कारुण्यवान् पन्नते<br/>
-बीभत्सः करिसिंहचर्मधरणे भीदस्त्रिशूलाननैः<br/>
+बीभत्सः करिसिंहचर्मधरणे भीदस्त्रिशूलाननैः ॥ 69 ॥<br/>
 
 śṛṅgārī sa mayāsti lokavidito raudro 'ndhakādau smṛtaḥ<br/>
 hāse'ṭṭe sa-rasaḥ, samādhiṣu ca yaḥ śānto nitāntam sadā<br/>
 vīraścāsti varapradānasamaye kāruṇyavān pannate<br/>
-bībhatsaḥ karisiṃhacarmadharaṇe bhīdastriśūlānanaiḥ<br/>
+bībhatsaḥ karisiṃhacarmadharaṇe bhīdastriśūlānanaiḥ || 69 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 शृङ्गारी | सः | मया | अस्ति | लोकविदितः | रौद्रः | अन्धकादौ | स्मृतः | हासे | अट्टे | स-रसः | समाधिषु | च | यः | शान्तः | नितान्तम् | सदा | वीरः | च | अस्ति | वरप्रदानसमये | कारुण्यवान् | पन्नते | बीभत्सः | करिसिंहचर्मधरणे | भीदः | त्रिशूलाननैः
@@ -396,12 +396,12 @@ It is known to the world that He is the Shringari (the aesthetic one) when He is
 वात्सल्यं विपुलं त्वयि प्रणिददे स्वीयास्त्रविद्यां यतः<br/>
 गङ्गाचन्द्रधनाञ्जयादिनयनै र्विस्मापकाग्रेसरः<br/>
 रुद्रं रौद्ररसं वदन् भगवतस्त्वं रुद्रतोऽसि च्युतः<br/>
-तस्मात् सर्वरसाधिपः प्रभुरयं नेनिन्द्यसे तं वृथा<br/>
+तस्मात् सर्वरसाधिपः प्रभुरयं नेनिन्द्यसे तं वृथा ॥ 70 ॥<br/>
 
 vātsalyam vipulam tvayi praṇidade svīyāstravidyām yataḥ<br/>
 gaṅgācandradhanañjayādinayanair vismāpakāgresaraḥ<br/>
 rudram raudrarasam vadan bhagavatastvam rudrato'si cyutaḥ<br/>
-tasmāt sarvarasādhipaḥ prabhurayam nenindyase tam vṛthā<br/>
+tasmāt sarvarasādhipaḥ prabhurayam nenindyase tam vṛthā || 70 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 वात्सल्यम् | विपुलम् | त्वयि | प्रणिददे | स्वीयास्त्रविद्याम् | यतः | गङ्गाचन्द्रधनाञ्जयादिनयनैः | विस्मापकाग्रेसरः | रुद्रम् | रौद्ररसम् | वदन् | भगवतः | त्वम् | रुद्रतः | असि | च्युतः | तस्मात् | सर्वरसाधिपः | प्रभुः | अयम् | नेनिन्द्यसे | तम् | वृथा

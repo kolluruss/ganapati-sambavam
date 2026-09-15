@@ -4,12 +4,12 @@
 एकेनैव दता रिपुप्रहरणे शक्तोऽस्त्यहो दद् द्वयम् ? | <br/>
 वंशादेरपि यष्टिकां त्यजति नो द्वाः पः स एवोत्तमः || <br/>
 यस्याङ्गे स्थिरशुण्डदन्तवपुषो निर्मुष्टयो यष्टयः | <br/>
-स स्याद् द्वारपति र्विसृष्टिसमये भृत्यस्य तत् स्यात् प्रियम् || <br/>
+स स्याद् द्वारपति र्विसृष्टिसमये भृत्यस्य तत् स्यात् प्रियम् || 11 ||<br/>
 
 ekenaiva datā ripupraharaṇe śakto'styaho dad dvayam ? | <br/>
 vaṃśāderapi yaṣṭikāṃ tyajati no dvāḥ paḥ sa evottamaḥ || <br/>
 yasyāṅge sthiraśuṇḍadantavapuṣo nirmuṣṭayo yaṣṭayaḥ | <br/>
-sa syād dvārapati rvisṛṣṭisamaye bhṛtyasya tat syāt priyam || <br/>
+sa syād dvārapati rvisṛṣṭisamaye bhṛtyasya tat syāt priyam || 11 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 एकेन | एव | दता | रिपुप्रहरणे | शक्तः | अस्ति | अहो | दद्द्वयम् | वंशादेः | अपि | यष्टिकाम् | त्यजति | न | द्वाःपः | सः | एव | उत्तमः | यस्य | अङ्गे | स्थिरशुण्डदन्तवपुषः | निर्मुष्टयः | यष्टयः | सः | स्यात् | द्वारपतिः | विसृष्टिसमये | भृत्यस्य | तत् | स्यात् | प्रियम्
@@ -32,12 +32,12 @@ Oh! Is this Ganapati not capable of attacking enemies with just one tusk? Moreov
 गेहद्वारी सुखं रसन्ति शिशवो दृष्ट्वा सदाऽऽगन्तुकान् | <br/>
 तन्नानानुकृतिव्रताः प्रहसनै र्निर्हेतुकै रसिकाः || <br/>
 तद् रोधेऽपिच तुष्टता मुपगता बोधे तु तत्सेवकाः | <br/>
-तां लीलां स शिवाज्ञयैव स-गणो द्वारीस्थितो व्यातनोत् || <br/>
+तां लीलां स शिवाज्ञयैव स-गणो द्वारीस्थितो व्यातनोत् || 12 ||<br/>
 
 gehadvārī sukhaṃ rasanti śiśavo dṛṣṭvā sadā''gantukān | <br/>
 tannānānukṛtivratāḥ prahasanai rnirhetukai rasikāḥ || <br/>
 tad rodhe'pica tuṣṭatā mupagatā bodhe tu tatsevakāḥ | <br/>
-tāṃ līlāṃ sa śivājñayaiva sa-gaṇo dvārīsthito vyātanot || <br/>
+tāṃ līlāṃ sa śivājñayaiva sa-gaṇo dvārīsthito vyātanot || 12 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 गेहद्वारी | सुखम् | रसन्ति | शिशवः | दृष्ट्वा | सदा | आगन्तुकान् | तन्नानानुकृतिव्रताः | प्रहसनैः | निर्हेतुकैः | रसिकाः | तद्रोधे | अपि | च | तुष्टताम् | उपगताः | बोधे | तु | तत्सेवकाः | ताम् | लीलाम् | सः | शिवाज्ञया | एव | सगणः | द्वारीस्थितः | व्यातनोत्
@@ -59,12 +59,12 @@ Children feel great joy upon seeing visitors at the threshold of the house. They
 क्षुद्रं क्षुद्रमिवात्य कारणकुलं त्वं त्वं करा स्त्रिक्षणैः | <br/>
 युध्यन्तेऽपि परस्परं लघुतरैराभासैः प्रहासोद्भवैः || <br/>
 अन्यांस्तत् प्रपलाय्य शुण्ड हतिभिः सर्वान् स्वसार्धं स्थितान् | <br/>
-चक्रे द्वारपतां स एव मुदितः पित्राज्ञया गर्वितः || <br/>
+चक्रे द्वारपतां स एव मुदितः पित्राज्ञया गर्वितः || 13 ||<br/>
 
 kṣudraṃ kṣudramivātya kāraṇakulaṃ tvaṃ tvaṃ karā strikṣaṇaiḥ | <br/>
 yudhyante'pi parasparaṃ laghutarairābhāsaiḥ prahāsodbhavaiḥ || <br/>
 anyāṃstat prapalāyya śuṇḍa hatibhiḥ sarvān svasārthaṃ sthitān | <br/>
-cakre dvāratāṃ sa eva muditaḥ pitrājñayā garvitaḥ || <br/>
+cakre dvāratāṃ sa eva muditaḥ pitrājñayā garvitaḥ || 13 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 क्षुद्रम् | क्षुद्रम् | इव | एत्य | कारणकुलम् | त्वम् | त्वम् | कराः | त्रिक्षणैः [possible reading: त्रिक्षणैः — trikṣaṇaiḥ] | युध्यन्ते | अपि | परस्परम् | लघुतरैः | आभासैः | प्रहासोद्भवैः | अन्यान् | तत् | प्रपलाय्य | शुण्डहतिभिः | सर्वान् | स्वसार्धम् | स्थितान् | चक्रे | द्वारपताम् | सः | एव | मुदितः | पित्राज्ञया | गर्वितः
@@ -87,12 +87,12 @@ Grasping at trivial reasons, children challenge each other within moments and fi
 काकीं किं ! चटकാം पिपीलकवधूम् रुन्धे स्म नेत्राग्रगाम् | <br/>
 सूक्ष्मं वस्तु निरीक्षितुं तु मनुजाः सूक्ष्मीकरा श्चक्षुषाम् || <br/>
 स्वाभाव्या ल्लघुचक्षुरेष तदमुष्याग्रे विशेत् कः पुनः ? | <br/>
-मन्ये ऽयं मृगयुपमः प्रतिबभौ तद् दर्शनाऽकांक्षिणे || <br/>
+मन्ये ऽयं मृगयुपमः प्रतिबभौ तद् दर्शनाऽकांक्षिणे || 14 ||<br/>
 
 kākīṃ kiṃ ! caṭakāṃ pipīlakavadhūm rundhe sma netrāgragām | <br/>
 sūkṣmaṃ vastu nirīkṣituṃ tu manujāḥ sūkṣmīkarā ścakṣuṣām || <br/>
 svābhāvyā llaghucakṣureṣa tadamuṣyāgre viśet kaḥ punaḥ ? | <br/>
-manye 'yaṃ mṛgayupamaḥ pratibabhau tad darśanā'kāṅkṣiṇe || <br/>
+manye 'yaṃ mṛgayupamaḥ pratibabhau tad darśanā'kāṅkṣiṇe || 14 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 काकीम् | किम् | चटकाम् | पिपीलकवधूम् | रुन्धे | स्म | नेत्राग्रगाम् | सूक्ष्मम् | वस्तु | निरीक्षितुम् | तु | मनुजाः | सूक्ष्मीकराः | चक्षुषाम् [possible reading: चक्षुषाम् — cakṣuṣām] | स्वाभाव्यात् | लघुचक्षुः | एषः | तत् | अमुष्याग्रे | विशेत् | कः | पुनः | मन्ये | अयम् | मृगयुपमः | प्रतिबभौ | तद्दर्शनाकांक्षिणे
@@ -114,12 +114,12 @@ He blocks not just the crow or the sparrow, but even the tiny ant passing before
 मातृद्वारि कृता क्रियेव सकला तस्मिन्नवैक्षीत् पुनः | <br/>
 विद्याऽभ्यस्तचरी सती च दयिता वा पुण्यपापद्वयी || <br/>
 सम्बध्नन्ति जनं गते परिचये ऽपि च्छिन्नतां छन्नताम् | <br/>
-तत् किं प्राग् विहितं विशेन्न मनुजेऽर्धे कुञ्जरे निर्जरे ? || <br/>
+तत् किं प्राग् विहितं विशेन्न मनुजेऽर्धे कुञ्जरे निर्जरे ? || 15 ||<br/>
 
 Mātṛdvāri kṛtā kriyeva sakalā Tasminnavaikṣīt punaḥ | <br/>
 Vidyābhyastacarī satī ca dayitā Vā puṇyapāpadvayī || <br/>
 Sambadhnanti janaṃ gate paricaye 'pi cchinnatāṃ channatām | <br/>
-Tat kiṃ prāg vihitaṃ viśenna manuje'rdhe kuñjare nirjare ? || <br/>
+Tat kiṃ prāg vihitaṃ viśenna manuje'rdhe kuñjare nirjare ? || 15 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 मातृद्वारि | कृता | क्रिया | इव | सकला | तस्मिन् | अवैक्षीत् | पुनः | विद्याऽभ्यस्तचरी | सती | च | दयिता | वा | पुण्यपापद्वयी | सम्बध्नन्ति | जनम् | गते | परिचये | अपि | च्छिन्नताम् | छन्नताम् | तत् | किम् | प्राक् | विहितम् | विशेत् | न | मनुजेऽर्धे | कुञ्जरे | निर्जरे
@@ -146,12 +146,12 @@ It is as if all the actions performed at the mother’s threshold in a previous 
 शक्तिः कापि हरे रियम्विजयते संयोजिका या मिथः | <br/>
 रम्भापत्रसमानपुस्तकदलं पार्श्वेऽपि धत्ते न सा || <br/>
 नो गृह्णाति च लेखनीं द्विरसनां नो वा द्विवर्णां मसीम् | <br/>
-जानाति स्वयमेव यत्र स गतस्तत्रैव यायाति तम् || <br/>
+जानाति स्वयमेव यत्र स गतस्तत्रैव यायाति तम् || 16 ||<br/>
 
 Śaktiḥ kāpi hare riyaṃ vijayate Saṃyojikā yā mithaḥ | <br/>
 Rambhāpatrasamānapustakadalaṃ Pārśve'pi dhatte na sā || <br/>
 No gṛhṇāti ca lekhanīṃ dvirasanāṃ No vā dvivarṇāṃ masīm | <br/>
-Jānāti svayameva yatra sa gataStatraiva yāyāti tam || <br/>
+Jānāti svayameva yatra sa gataStatraiva yāyāti tam || 16 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 शक्तिः | कापि | हरेः | इयम् | विजयते | संयोजिका | या | मिथः | रम्भापत्रसमानपुस्तकदलम् | पार्श्वे | अपि | धत्ते | न | सा | नो | गृह्णाति | च | लेखनीम् | द्विरसनाम् | नो | वा | द्विवर्णाम् | मसीम् | जानाति | स्वयम् | एव | यत्र | सः | गतः | तत्र | एव | यायाति | तम्
@@ -175,12 +175,12 @@ The invisible power of the Divine, which connects one thing to another, is alway
 नो साक्ष्ये प्रतिवेशिनः स-कपटैः प्रश्नै र्दुनोत्यन्वहम् | <br/>
 यद्वन्नायगृहे नरान् छलयुताः दुन्वन्ति वाक्कीलकाः || <br/>
 दीर्घाकारकपाटसंवृतगृहं छन्नाननं चेलकैः | <br/>
-पत्न्यालितवक्षसं च पुरुषं गृह्णाति सा सुस्मिता || <br/>
+पत्न्यालितवक्षसं च पुरुषं गृह्णाति सा सुस्मिता || 17 ||<br/>
 
 No sākṣye prativeśinaḥ sa-kapaṭaiḥ Praśnai rdunotyanvaham | <br/>
 Yadvannāyagṛhe narān chalayutāḥ Dunvanti vākkīlakāḥ || <br/>
 Dīrghākārakapāṭasaṃvṛtagṛhaṃ Channānanaṃ celakaiḥ | <br/>
-Patnyāliṅgitavakṣasaṃ ca puruṣaṃ Gṛhṇāti sā susmitā || <br/>
+Patnyāliṅgitavakṣasaṃ ca puruṣaṃ Gṛhṇāti sā susmitā || 17 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 नो | साक्ष्ये | प्रतिवेशिनः | सकपटैः | प्रश्नैः | दुनोति | अन्वहम् | यद्वत् | न्यायगृहे | नरान् | छलयुताः | दुन्वन्ति | वाक्कीलकाः | दीर्घाकारकपाटसंवृतगृहम् | छन्नाननम् | चेलकैः | पत्न्यालिङ्गितवक्षसम् | च | पुरुषम् | गृह्णाति | सा | सुस्मिता
@@ -206,12 +206,12 @@ Just as deceitful lawyers in a court of law harass people with tricky questions 
 कंसादेरपि लीलया भवजना नाल्हादयन्तेऽनिशम् | <br/>
 रक्षो वानर देव मानव वपुर्हसन्तो नराः || <br/>
 नो तेषां क्षयमेति पूर्वमहिमा तत् किं गणेशस्य सः | <br/>
-प्राग् रूपे ऽम्बिकयाऽपतो विहतिभाक् स्यात् केन सम्भाव्यते ? || <br/>
+प्राग् रूपे ऽम्बिकयाऽपतो विहतिभाक् स्यात् केन सम्भाव्यते ? || 18 ||<br/>
 
 Kaṃsāderapi līlayā bhavajanā Nālhādayante'niśam | <br/>
 Rakṣo vānara deva mānava vapuRhasanto narāḥ || <br/>
 No teṣāṃ kṣayameti pūrvamahimā Tat kiṃ gaṇeśasya saḥ | <br/>
-Prāg rūpe 'mbikayā'pato vihatibhāk Syāt kena sambhāvyate ? || <br/>
+Prāg rūpe 'mbikayā'pato vihatibhāk Syāt kena sambhāvyate ? || 18 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 कंसादेः | अपि | लीलया | भवजनाः | नाल्हादयन्ते [possible reading: नाल्हादयन्ते — nālhādayante] | अनिशम् [possible reading: अनिशम् — aniśam] | रक्षोवानरदेवमानववपुः | हसन्तः | नराः | नो | तेषाम् | क्षयम् | एति | पूर्वमहिमा | तत् | किम् | गणेशस्य | सः | प्राग्रूपे [possible reading: प्राग्रूपे — prāgrūpe] | अम्बिकया | अपतः | विहतिभाक् | स्यात् | केन | सम्भाव्यते

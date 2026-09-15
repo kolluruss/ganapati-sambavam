@@ -4,12 +4,12 @@
 त्रिःसप्तावधिदुष्टभूपकुलहा पर्श्वेकमात्रास्त्रतः | <br/>
 रामाख्यो जमदग्निजोऽग्नि सदृशः फुल्लाननो मोदतः || <br/>
 नन्तुं स्वीय गुरोः शिवस्य स-शिवस्याङ्घ्रिद्वयेऽत्राययौ | <br/>
-साफल्ये गुरुपादपद्मनमनं शिष्यस्य धर्मो यतः || <br/>
+साफल्ये गुरुपादपद्मनमनं शिष्यस्य धर्मो यतः || 19 ||<br/>
 
 triḥsaptāvadhiduṣṭabhūpakulahā parśvekamātrāstrataḥ | <br/>
 rāmākhyo jamadagnijo'gni sadṛśaḥ phullānano modataḥ || <br/>
 nantuṃ svīya guroḥ śivasya sa-śivasyāṅghridvaye'trāyayau | <br/>
-sāphalye gurupādapadmanamanaṃ śiṣyasya dharmo yataḥ || <br/>
+sāphalye gurupādapadmanamanaṃ śiṣyasya dharmo yataḥ || 19 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 त्रिः | सप्तावधि | दुष्टभूपकुलहा | पर्श्वेकमात्रास्त्रतः | रामाख्यः | जमदग्निः | अग्निसदृशः | फुल्लाननः | मोदतः | नन्तुम् | स्वीयगुरोः | शिवस्य | सशिवस्य | अङ्घ्रिद्वये | अत्र | आययौ | साफल्ये | गुरुपादपद्मनमनम् | शिष्यस्य | धर्मः | यतः
@@ -32,12 +32,12 @@ He who destroyed the lineages of wicked kings twenty-one times with only a singl
 अयमासीत् शिव देहली स्थिति करो बिभ्रत् स्वपर्शुं लघुम् | <br/>
 सिन्दूरारुणदेहभून्नयनयोरारुण्यवान् द्वारे नरे || <br/>
 दृश्यः प्राग् गज मानुषोऽक्षिभिरयं नालोऽकितोऽनेन सः | <br/>
-शैघ्याच्च व्यग्रो न पश्यति नरो वस्त्वन्तरं स्वेष्टतः || <br/>
+शैघ्याच्च व्यग्रो न पश्यति नरो वस्त्वन्तरं स्वेष्टतः || 20 ||<br/>
 
 ayamāsīt śiva dehalī sthiti karo bibhrat svaparśuṃ laghum | <br/>
 sindūrāruṇadehabhūnnayanayorāruṇyavān dvāre nare || <br/>
 dṛśyaḥ prāg gaja mānuṣo'kṣibhirayaṃ nālo'kito'nena saḥ | <br/>
-śaighryācca vyagro na paśyati naro vastvantaraṃ sveṣṭataḥ || <br/>
+śaighryācca vyagro na paśyati naro vastvantaraṃ sveṣṭataḥ || 20 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 अयम् | आसीत् | शिवदेहलीस्थितिकरः | बिभ्रत् | स्वपर्शुम् | लघुम् | सिन्दूरारुणदेहभूत् | नयनयोः | आरुण्यवान् | द्वारे | नरे | दृश्यः | प्राक् | गजमानुषः | अक्षिभिः | अयम् | न | अलोकितः | तेन | सः | शैघ्यात् | च | व्यग्रः | न | पश्यति | नरः | वस्त्वन्तरम् | स्वेष्टतः
@@ -60,12 +60,12 @@ Ganesha stood at the threshold of Shiva, holding his small axe. His body was red
 किं सोऽयं गुरुराजशम्भुतनयः ! किञ्चि च्चिचिन्ताप सः | <br/>
 तस्य स्याद् गुरुदेवपार्श्व सदने सच्चित्रपत्रेस्थितिः || <br/>
 द्वारे तस्य न युज्यते स्थितिरियं भृत्याऽर्हितायां गता | <br/>
-रुन्धन्त्येव च भिक्षवोऽपि सदनं द्वारं सदा श्रीमथाम् || <br/>
+रुन्धन्त्येव च भिक्षवोऽपि सदनं द्वारं सदा श्रीमथाम् || 21 ||<br/>
 
 kiṃ so'yaṃ gururājaśambhutanayaḥ ! kiñci ccicintāpa saḥ | <br/>
 tasya syād gurudevapārśva sadane saccitrapatresthitiḥ || <br/>
 dvāre tasya na yujyate sthitiriyaṃ bhṛtyā'rhitāyāṃ gatā | <br/>
-rundhantyeva ca bhikṣavo'pi sadanaṃ dvāraṃ sadā śrīmatām || <br/>
+rundhantyeva ca bhikṣavo'pi sadanaṃ dvāraṃ sadā śrīmatām || 21 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 किम् | सः | अयम् | गुरुराजशम्भुतनयः | किञ्चित् | चिचिन्त | अपि | सः | तस्य | स्यात् | गुरुदेवपार्श्वसदने | सच्चित्रपत्रे | स्थितिः | द्वारे | तस्य | न | युज्यते | स्थितिः | इयम् | भृत्याऽर्हितायाम् | गता | रुन्धन्ति | एव | च | भिक्षवः | अपि | सदनम् | द्वारम् | सदा | श्रीमथाम्
@@ -90,12 +90,12 @@ He (Parashurama) thought for a moment, "Is this the son of the Guru of Kings, Sh
 आस्तां कोऽपि यतः कपित्थफलवान् ? जम्बष्टिमान् यष्टिमान् | <br/>
 मद्वद् वा गुरुपूजनाय च परः शिष्यश्च वाऽऽजग्मिवान् || <br/>
 यद् वा कौतुकिलोक मण्डल गुरुः कश्चिद् विपश्चिद् भवेत् ? | <br/>
-साश्चर्यस्य शिवस्य नेत्र पुरतः स्वाश्चर्यसन्दर्शकः || <br/>
+साश्चर्यस्य शिवस्य नेत्र पुरतः स्वाश्चर्यसन्दर्शकः || 22 ||<br/>
 
 āstāṃ ko'pi yataḥ kapitthaphalavān ? jambaṣṭimān yaṣṭimān | <br/>
 madvad vā gurupūjanāya ca paraḥ śiṣyaśca vā''jagmi vān || <br/>
 yad vā kautukiloka maṇḍala guruḥ kaścid vipaścid bhavet ? | <br/>
-sāścaryasya śivasya netra purataḥ svāścaryasandarśakaḥ || <br/>
+sāścaryasya śivasya netra purataḥ svāścaryasandarśakaḥ || 22 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 आस्ताम् | कः | अपि | यतः | कपित्थफलवान् | जम्बष्टिमान् | यष्टिमान् | मद्वत् | वा | गुरुपूजनाय | च | परः | शिष्यः | च | वा | आजग्मिवान् | यद्वा | कौतुकिलोक मण्डल गुरुः | कश्चित् | विपश्चित् | भवेत् | साश्चर्यस्य | शिवस्य | नेत्रपुरतः | स्वाश्चर्यसन्दर्शकः
@@ -118,12 +118,12 @@ Whoever it may be, he possesses wood-apple fruits, Java plum seeds, and a staff.
 प्रेष्ठोऽप्यत्र मनो विनोदविधये नाना नृणां सङ्गमः | <br/>
 योगाङ्गा दुपरम्य मानसविनोदोऽपि प्रियो योगिनाम् || <br/>
 आहूतोऽपि च सम्भवेत् परमयं त्यक्त्वाऽऽगतोऽनेहसम् | <br/>
-आगन्तु र्वशगा न योगिसमया वश्याश्च ते योगिनाम् || <br/>
+आगन्तु र्वशगा न योगिसमया वश्याश्च ते योगिनाम् || 23 ||<br/>
 
 Preṣṭho'pyatra mano vinodavidhaye nānā nṛṇāṃ saṅgamaḥ | <br/>
 yogāṅgā duparamya mānasavinodo'pi priyo yoginām || <br/>
 āhūto'pi ca sambhavet paramayaṃ tyaktvā''gato'nehasam | <br/>
-āgantu rvaśagā na yogisamayā vaśyāśca te yoginām || <br/>
+āgantu rvaśagā na yogisamayā vaśyāśca te yoginām || 23 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 प्रेष्ठः | अपि | अत्र | मनोविनोदविधये | नानानृणाम् | सङ्गमः | योगाङ्गात् | उपरम्य | मानसविनोदः | अपि | प्रियः | योगिनाम् | आहूतः | अपि | च | सम्भवेत् | परम् | अयम् | त्यक्त्वा | आगतः | अनेहसम् | आगन्तुवशगाः | न | योगिसमयाः | वश्याः | च | ते | योगिनाम्
@@ -150,12 +150,12 @@ The gathering of various people here may indeed be pleasant, for even those esta
 अज्ञात्वाऽस्य पदाधिकार विषयं रामोऽविशद् द्वारके | <br/>
 कस्मिँश्चित् समये निरीक्षितचरे नी रक्षि बन्धादिके || <br/>
 व्यस्नार्षोदय मात्मनस्तरुणतां कारुण्यदारुण्यकाम् | <br/>
-त्यक्त्वैकं स-शिवं शिवं जगदिदं भुङ्क्ते जरां दुर्हराम् || <br/>
+त्यक्त्वैकं स-शिवं शिवं जगदिदं भुङ्क्ते जरां दुर्हराम् || 24 ||<br/>
 
 Ajñātvā'sya padādhikāra viṣayaṃ rāmo'viśad dvārake | <br/>
 kasmiṃścit samaye nirīkṣitacare nī rakṣi bandhādike || <br/>
 vyasnārṣodaya mātmanastaruṇatāṃ kāruṇyadāruṇyakām | <br/>
-tyaktvaikaṃ sa-śivaṃ śivaṃ jagadidaṃ bhuṅkte jarāṃ durharām || <br/>
+tyaktvaikaṃ sa-śivaṃ śivaṃ jagadidaṃ bhuṅkte jarāṃ durharām || 24 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 अज्ञात्वा | अस्य | पदाधिकारविषयम् | रामः | अविशत् | द्वारके | कस्मिंश्चित् | समये | निरीक्षितचरे | नीरक्षिबन्धादिके [possible reading: नीरक्षिबन्धादिके — nirakṣibandhādike] | व्यस्नार्षोदयम् [possible reading: व्यस्नार्षोदयम् — vyasnārṣodayam] | आत्मनः | तरुणताम् | कारुण्यदारुण्यकाम् | त्यक्त्वा | एकम् | सशिवम् | शिवम् | जगत् | इदम् | भुङ्क्ते | जराम् | दुर्हराम्
@@ -182,12 +182,12 @@ Without inquiring about the nature of the authority at the gate, Parashurama ent
 तं प्रोचे स शिशुः शिवस्य रभसं भ्रातश्च यातः ! शृणु | <br/>
 स्थित्वा द्वारमुखे क्षणं दिशि दिशि द्रष्टव्य मेवागतैः || <br/>
 अन्वेष्योऽस्ति च रक्षकः सविनयं पृच्छेलिम श्चाप्यथम् | <br/>
-आज्ञाऽऽदान मिहास्ति बन्धनपणस्त्वं नाग्रहीः स्वभ्रमैः || <br/>
+आज्ञाऽऽदान मिहास्ति बन्धनपणस्त्वं नाग्रहीः स्वभ्रमैः || 25 ||<br/>
 
 Taṃ proce sa śiśuḥ śivasya rabhasaṃ bhrātaśca yātaḥ ! śṛṇu | <br/>
 sthitvā dvāramukhe kṣaṇaṃ diśi diśi draṣṭavya mevāgataiḥ || <br/>
 anveṣyo'sti ca rakṣakaḥ savinayaṃ pṛcchelima ścāpyatham | <br/>
-ājñā''dāna mihāsti bandhanapaṇatvaṃ nāgrahīḥ svabhramaiḥ || <br/>
+ājñā''dāna mihāsti bandhanapaṇatvaṃ nāgrahīḥ svabhramaiḥ || 25 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 तम् | प्रोचे | सः | शिशुः | शिवस्य | रभसम् | भ्रातः | च | यातः | शृणु | स्थित्वा | द्वारमुखे | क्षणम् | दिशि दिशि | द्रष्टव्यम् | एव | आगतैः | अन्वेष्यः | अस्ति | च | रक्षकः | सविनयम् | पृच्छेलिमः | च | अपि | अथम् | आज्ञादानम् | इह | अस्ति | बन्धनपणः | त्वम् | न | अग्रहीः | स्वभ्रमैः
@@ -215,12 +215,12 @@ The child of Shiva (Ganesha) spoke swiftly to the entering Parashurama: "O trave
 भो भोः पण्डितराज ! राजकजनग्राह्यं स्वपर्शुं धरन् | <br/>
 ब्रह्मक्षत्रमयं व्यनक्षि वपुषा स्व-स्थं नवं सङ्करम् || <br/>
 किन्त्वन्तर्गतयेऽस्त्यमेऽधिकृतिका प्रच्छ्योऽस्म्यहं तत् त्यथा | <br/>
-तत्त्यक्त्वा न विशेत् त्रिवर्ग इह किं त्वादृक् द्विवर्णः पुनः || <br/>
+तत्त्यक्त्वा न विशेत् त्रिवर्ग इह किं त्वादृक् द्विवर्णः पुनः || 26 ||<br/>
 
 Bho bhoḥ paṇḍitarāja ! rājakajanagrāhyaṃ svaparśuṃ dharan | <br/>
 brahmakṣatramayaṃ vyanakṣi vapuṣā sva-sthaṃ navaṃ saṅkaram || <br/>
 kintvantargataye'styame'dhikṛtikā pracchyo'smyahaṃ tat tyathā | <br/>
-tattyaktvā na viśet trivarga iha kiṃ tvādṛk dvivarṇaḥ punaḥ || <br/>
+tattyaktvā na viśet trivarga iha kiṃ tvādṛk dvivarṇaḥ punaḥ || 26 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 भो भोः | पण्डितराज | राजकजनग्राह्यम् | स्वपर्शुम् | धरन् | ब्रह्मक्षत्रमयम् | व्यनक्षि | वपुषा | स्वस्थम् | नवम् | सङ्करम् | किन्तु | अन्तर्गतये | अस्ति | मे | अधिकृतिका | प्रच्छ्यः | अस्मि | अहम् | तत् | त्यथा [possible reading: तद्यथा — tadyathā] | तत् | त्यक्त्वा | न | विशेत् | त्रिवर्गः | इह | किम् | त्वादृक् | द्विवर्णः | पुनः
@@ -246,12 +246,12 @@ tattyaktvā na viśet trivarga iha kiṃ tvādṛk dvivarṇaḥ punaḥ || <br/
 त्रैपुण्ड्रयं च मनश्चमत्कृतिकरं यद् भस्मना शोभितम् | <br/>
 पर्शुः किन्तु भयंकरः सच तवान्तरोधको भाति मे || <br/>
 तत्त्वां स-क्षम मर्थये द्विजपते ! पृष्ट्वा गृहान्तर विशेः | <br/>
-एकान्तप्रिय एव नैव च मनाक् सम्मर्द गर्धेः शिवः || <br/>
+एकान्तप्रिय एव नैव च मनाक् सम्मर्द गर्धेः शिवः || 27 ||<br/>
 
 traipuṇḍrayaṃ ca manaścamatkṛtikaraṃ yad bhasmanā śobhitam | <br/>
 parśuḥ kintu bhayaṅkaraḥ saca tavāntarodhako bhāti me || <br/>
 tattvāṃ sa-kṣama marthaye dvijapate ! pṛṣṭvā gṛhāntar viśeḥ | <br/>
-ekāntapriya eva naiva ca manāk sammarda gardheḥ śivaḥ || <br/>
+ekāntapriya eva naiva ca manāk sammarda gardheḥ śivaḥ || 27 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 त्रैपुण्ड्र्यम् | च | मनश्चमत्कृतिकरम् | यत् | भस्मना | शोभितम् | पर्शुः | किन्तु | भयंकरः | सः | च | तव | अन्तरोधकः | भाति | मे | तत् | त्वाम् | सक्षमम् | अर्थये | द्विजपते | पृष्ट्वा | गृहान्तः | विशेः | एकान्तप्रियः | एव | न | एव | च | मनाक् | सम्मर्दगर्धेः | शिवः
@@ -277,12 +277,12 @@ The Tripundra mark on your forehead, adorned with sacred ash, is truly a wonder 
 प्रोवाचैष गुर्गृहं मम शिवस्येदं शिवास्वामिनः | <br/>
 प्रश्नस्यात्र कदापि काप्यजनि नो चर्चाऽद्य केयं विधा ? || <br/>
 किञ्च त्वं प्रहसन् ब्रवीषि तदिदं मौर्ख्यं न सह्यं मया | <br/>
-मौख्यात् कुट्टनकेऽस्त्ययं सुमुसलः पर्शुः प्रसिद्धिं गतः || <br/>
+मौख्यात् कुट्टनकेऽस्त्ययं सुमुसलः पर्शुः प्रसिद्धिं गतः || 28 ||<br/>
 
 provācaiṣa gurgṛhaṃ mama śivasyedaṃ śivāsvāminaḥ | <br/>
 praśnasyātra kadāpi kāpyajani no carcā'dya keyaṃ vidhā ? || <br/>
 kiñca tvaṃ prahasan bravīṣi tadidaṃ maurkhyaṃ na sahyaṃ mayā | <br/>
-maukhyāt kuṭṭanake'styayaṃ sumusalaḥ parśuḥ prasiddhiṃ gataḥ || <br/>
+maukhyāt kuṭṭanake'styayaṃ sumusalaḥ parśuḥ prasiddhiṃ gataḥ || 28 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 प्रोवाच | एषः | गुरोः | गृहम् | मम | शिवस्य | इदम् | शिवास्वामिनः | प्रश्नस्य | अत्र | कदापि | कापि | अजनि | नो | चर्चा | अद्य | का | इयम् | विधा | किञ्च | त्वम् | प्रहसन् | ब्रवीषि | तत् | इदम् | मौर्ख्यम् | न | सह्यम् | मया | मौख्यात् | कुट्टनके | अस्ति | अयम् | सुमुसलः | पर्शुः | प्रसिद्धिम् | गतः
@@ -307,12 +307,12 @@ He (Parashurama) replied: "This is the abode of my Guru, Shiva, the Lord of Parv
 नो जानाति शिवाऽन्तरङ्गजनतां नो बाह्यभूतां च वा | <br/>
 मत्तः केवल मात्मकर्मबलो मूर्खस्ततः कोऽपरः ? || <br/>
 कामं स्याद् गुडभक्षकोऽपि लगुडानामेव योग्यऽस्ति सः | <br/>
-हासाऽऽकाशविलासवान् कसनवान् क्षारस्वभावात् स्वतः || <br/>
+हासाऽऽकाशविलासवान् कसनवान् क्षारस्वभावात् स्वतः || 29 ||<br/>
 
 no jānāti śivā'ntaraṅgajanatāṃ no bāhyabhūtāṃ ca vā | <br/>
 mattaḥ kevala mātmakarmabalo mūrkhastataḥ ko'paraḥ ? || <br/>
 kāmaṃ syād guḍabhakṣako'pi laguḍānāmeva yogya'sti saḥ | <br/>
-hāsā'kāśavilāsavān kasanavān kṣārasvabhāvāt svataḥ || <br/>
+hāsā'kāśavilāsavān kasanavān kṣārasvabhāvāt svataḥ || 29 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 नो | जानाति | शिवाऽन्तरङ्गजनताम् | नो | बाह्यभूताम् | च | वा | मत्तः | केवलम् | आत्मकर्मबलतः | मूर्खः | ततः | कः | अपरः | कामम् | स्यात् | गुडभक्षकः | अपि | लगुडानाम् | एव | योग्यः | अस्ति | सः | हासाऽऽकाशविलासवान् | कसनवान् | क्षारस्वभावात् | स्वतः
@@ -337,12 +337,12 @@ He who does not recognize the inner circle of Shiva, nor the external beings, an
 एकान्तौकसि चेद् गुरावपि गते किं येय मेव त्वया ! | <br/>
 चेत् स्या च्छिन्तनसङ्गभङ्गजनिता हानि र्गुरो रप्रिया || <br/>
 वार्तासु स्थितयोः कयोरपि च वा स्त्रीपुंसयोरालये | <br/>
-प्रश्नप्रेषण पूर्वमेव गमनं तस्योत्तरे चागते || <br/>
+प्रश्नप्रेषण पूर्वमेव गमनं तस्योत्तरे चागते || 30 ||<br/>
 
 ekāntaukasi ced gurāvapi gate kiṃ yeya meva tvayā ! | <br/>
 cet syā cchintanasaṅgabhaṅgajanitā hāni rguro rapriyā || <br/>
 vārtāsu sthitayoḥ kayorapi ca vā strīpuṃsayorālaye | <br/>
-praśnapreṣaṇa pūrvameva gamanaṃ tasyottare cāgate || <br/>
+praśnapreṣaṇa pūrvameva gamanaṃ tasyottare cāgate || 30 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 एकान्तौकसि | चेत् | गुरौ | अपि | गते | किम् | येयम् | एव | त्वया | चेत् | स्यात् | चिन्तनसङ्गभङ्गजनिता | हानिः | गुरोः | अप्रिया | वार्तासु | स्थितयोः | कयोर्अपि | च | वा | स्त्रीपुंसयोः | आलये | प्रश्नप्रेषणपूर्वम् | एव | गमनम् | तस्य | उत्तरे | च | आगते

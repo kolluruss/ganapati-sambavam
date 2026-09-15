@@ -6,12 +6,12 @@ The arrival of Sri Hari to pacify the situation and his instruction regarding th
 यातो हा! गुरुशिष्ययोश्चिरतनो व्यवहार एव क्षयम् <br/>
 दीपेनापि गृहस्य गेहदहनं दुर्दैवतो वाऽभवत् <br/>
 कं कं किं कथयामि? भार्गवकरात् पुत्रस्य दन्तो हतः <br/>
-शुण्डान्तश्च पिपीलकस्य गमनात् हस्ती हतो मंस्यते <br/>
+शुण्डान्तश्च पिपीलकस्य गमनात् हस्ती हतो मंस्यते ॥ 71 ॥<br/>
 
 yāto hā! guruśiṣyayościratano vyavahāra eva kṣayam <br/>
 dīpenāpi gṛhasya gehadahanaṃ durdaivato vā'bhavat <br/>
 kaṃ kaṃ kiṃ kathayāmi? bhārgavakarāt putrasya danto hataḥ <br/>
-śuṇḍāntaśca pipīlakasya gamanāt hastī hato maṃsyate <br/>
+śuṇḍāntaśca pipīlakasya gamanāt hastī hato maṃsyate || 71 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 यातः | हा | गुरुशिष्ययोः | चिरतनः | व्यवहारः | एव | क्षयम् | दीपेन | अपि | गृहस्य | गेहदहनम् | दुर्दैवतः | वा | अभवत् | कम् | कम् | किम् | कथयामि | भार्गवकरात् | पुत्रस्य | दन्तः | हतः | शुण्डान्तः | च | पिपीलकस्य | गमनात् | हस्ती | हतः | मंस्यते |
@@ -39,12 +39,12 @@ Alas! The long-standing, sacred bond between the Guru and the disciple has peris
 शम्भुश्चापि पिनाकदत्तनयनः शिष्यं विलोक्याग्रतः <br/>
 उष्णश्वासविमोचनादुपरतस्तूष्णीं स्थितः केवलम् <br/>
 कान्तापुत्रकसान्त्वनः कथितवान् शिष्याः स्खलन्ति क्वचित् <br/>
-किं ते दण्ड्यतमाः? न ना श्रुतचरः यो निष्प्रमादो भवेत् <br/>
+किं ते दण्ड्यतमाः? न ना श्रुतचरः यो निष्प्रमादो भवेत् ॥ 72 ॥<br/>
 
 śambhuścāpi pinākadattanayanaḥ śiṣyaṃ vilokyāgrataḥ <br/>
 uṣṇaśvāsavimocanāduparatastūṣṇīṃ sthitaḥ kevalam <br/>
 kāntāputrakasāntvanaḥ kathitavān śiṣyāḥ skhalanti kvacit <br/>
-kiṃ te daṇḍyatamāḥ? na nā śrutacaraḥ yo niṣpramādo bhavet <br/>
+kiṃ te daṇḍyatamāḥ? na nā śrutacaraḥ yo niṣpramādo bhavet || 72 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 शम्भुः | च | अपि | पिनाकदत्तनयनः | शिष्यम् | विलोक्य | अग्रतः | उष्णश्वासविमोचनात् | उपरत | तूष्णीम् | स्थितः | केवलम् | कान्तापुत्रकसान्त्वनः | कथितवान् | शिष्याः | स्खलन्ति | क्वचित् | किम् | ते | दण्ड्यतमाः | न | ना | श्रुतचरः | यः | निष्प्रमादः | भवेत् |
@@ -72,12 +72,12 @@ Shiva, too, initially fixed his gaze upon his bow, Pinaka, but upon seeing his d
 विष्णोः सुस्मरणं कुरु प्रियतमेऽपर्णे! सुपर्णस्निहः <br/>
 सोऽत्रागत्य हितां विधास्यति विधां मन्येत यामुत्तमाम् <br/>
 तस्यैवांशविशेष एष परशोर्धर्ता च शिष्योऽस्ति मे <br/>
-यस्यांशः स्खलनं करोति स उपालम्भाय सम्भाष्यते <br/>
+यस्यांशः स्खलनं करोति स उपालम्भाय सम्भाष्यते ॥ 73 ॥<br/>
 
 viṣṇoḥ susmaraṇaṃ kuru priyatame'parṇe! suparṇasnihaḥ <br/>
 so'trāgatya hitāṃ vidhāsyati vidhāṃ manyeta yāmuttamām <br/>
 tasyaivāṃśaviśeṣa eṣa paraśordhartā ca śiṣyo'sti me <br/>
-yasyāṃśaḥ skhalanaṃ karoti sa upālambhāya sambhāṣyate <br/>
+yasyāṃśaḥ skhalanaṃ karoti sa upālambhāya sambhāṣyate || 73 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 विष्णोः | सुस्मरणम् | कुरु | प्रियतमे | अपर्णे | सुपर्णस्निहः | सः | अत्र | आगत्य | हिताम् | विधास्यति | विधाम् [possible reading: विधां] | मन्येत | याम् [possible reading: याम्] | उत्तमाम् | तस्य | एव | अंशविशेषः | एषः | परशोः | धर्ता | च | शिष्यः | अस्ति | मे | यस्य | अंशः | स्खलनम् | करोति | सः | उपालम्भाय | सम्भाष्यते |
@@ -104,12 +104,12 @@ yasyāṃśaḥ skhalanaṃ karoti sa upālambhāya sambhāṣyate <br/>
 आगत्यैव हरिः सुपर्णनिलयः प्रोचे न युद्धं हितम् <br/>
 कुर्वन्त्येव मिथः प्रमादवशतो हानिं निजां बन्धवः <br/>
 दन्तोदन्तनिमित्तमेष भविता पूज्यो विशेषाद् भवे <br/>
-भायादेकत एव चेद्दशनतो द्वाभ्यां पुनः किं भवेत्? <br/>
+भायादेकत एव चेद्दशनतो द्वाभ्यां पुनः किं भवेत्? ॥ 74 ॥<br/>
 
 āgatyaiva hariḥ suparṇanilayaḥ proce na yuddhaṃ hitam <br/>
 kurvantyeva mithaḥ pramādavaśato hāniṃ nijāṃ bandhavaḥ <br/>
 dantodantanimittameṣa bhavitā pūjyo viśeṣād bhave <br/>
-bhāyādekata eva ceddaśanato dvābhyāṃ punaḥ kiṃ bhavet? <br/>
+bhāyādekata eva ceddaśanato dvābhyāṃ punaḥ kiṃ bhavet? || 74 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 आगत्य | एव | हरिः | सुपर्णनिलयः | प्रोचे | न | युद्धम् | हितम् | कुर्वन्ति | एव | मिथः | प्रमादवशतः | हानिम् | निजाम् | बन्धवः | दन्तोदन्तनिमित्तम् | एषः | भविता | पूज्यः | विशेषात् | भवे | भायात् | एकतः | एव | चेत् | दशनतः | द्वाभ्याम् | पुनः | किम् | भवेत् |
@@ -135,12 +135,12 @@ Hari, who rides upon Garuda, arrived and declared, "War is not beneficial. Relat
 दन्तं यद्यपि योजयेयमअनघे शम्भुश्च योक्तुं प्रभुः<br/>
 श्रीमत्या अपि शक्तिरस्ति विदिता स्वस्याऽस्य शक्तिश्च वा<br/>
 कीर्तेः कर्तनकारिणी परमियं दद्योजना कृत्रिमा<br/>
-लोके कीर्तिकरा भवन्ति महतां देहेक्षिताः सुक्षताः<br/>
+लोके कीर्तिकरा भवन्ति महतां देहेक्षिताः सुक्षताः ॥ 75 ॥<br/>
 
 dantaṃ yadyapi yojayeyamanaghe śambhuśca yoktuṃ prabhuḥ<br/>
 śrīmatyā api śaktirasti viditā svasyā'sya śaktiśca vā<br/>
 kīrteḥ kartanakāriṇī paramiyaṃ dadyojanā kṛtrimā<br/>
-loke kīrtikarā bhavanti mahatāṃ dehekṣitāḥ sukṣatāḥ<br/>
+loke kīrtikarā bhavanti mahatāṃ dehekṣitāḥ sukṣatāḥ || 75 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 दन्तम् | यद्यपि | योजयेयम् | अनघे | शम्भुः | च | योक्तुम् | प्रभुः | श्रीमत्याः | अपि | शक्तिः | अस्ति | विदिता | स्वस्य | अस्य | शक्तिः | च | वा | कीर्तेः | कर्तनकारिणी | परम् | इयम् | दद्योजना | कृत्रिमा | लोके | कीर्तिकराः | भवन्ति | महताम् | देहेक्षिताः | सुक्षताः
@@ -168,12 +168,12 @@ loke kīrtikarā bhavanti mahatāṃ dehekṣitāḥ sukṣatāḥ<br/>
 प्राग्युद्धे गतवान् क्वचिद् रिपुदलान्तरदन्तमारोपयत्<br/>
 स्वस्यैवोर्ग्रबलेन दन्तमुसलः भेदं गतो भास्यति<br/>
 स्वौष्ठौ चर्वति मानवो रिपुगणं हन्तुं प्रवृत्तो रणे<br/>
-सैषा कीर्तिसुकामिनी गणपतिं वृत्वेव नर्तिष्यति<br/>
+सैषा कीर्तिसुकामिनी गणपतिं वृत्वेव नर्तिष्यति ॥ 76 ॥<br/>
 
 prāgyuddhe gatavān kvacid ripudalāntardantamāropayat<br/>
 svasyaivograbalena dantamusalaḥ bhedaṃ gato bhāsyati<br/>
 svauṣṭhau carvati mānavo ripugaṇaṃ hantuṃ pravṛtto raṇe<br/>
-saiṣā kīrtisukāminī gaṇapatiṃ vṛtveva nartiṣyati<br/>
+saiṣā kīrtisukāminī gaṇapatiṃ vṛtveva nartiṣyati || 76 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 प्राक् | युद्धे | गतवान् | क्वचित् | रिपुदलान्तः | दन्तम् | आरोपयत् | स्वस्य | एव | उग्रबलेन | दन्तमुसलः | भेदम् | गतः | भास्यति | स्वौष्ठौ | चर्वति | मानवः | रिपुगणम् | हन्तुम् | प्रवृत्तः | रणे | सा | एषा | कीर्तिसुकामिनी | गणपतिम् | वृत्वा | इव | नर्तिष्यति
@@ -203,12 +203,12 @@ saiṣā kīrtisukāminī gaṇapatiṃ vṛtveva nartiṣyati<br/>
 लीलायुद्धकरोऽक्षिणि चेल्लघुरपि भ्राताऽङ्गुलिं पातयेत्<br/>
 काणत्वेऽधिगतेऽपि बान्धवजनो द्विष्टे न यावद् वयः<br/>
 माता नापि पिता च कुप्यति तमां दत्तः समाधिं मुहुः<br/>
-तत्कस्मै कतरः किमर्थमथवा तत्पूर्वजोऽपि ज्वरेत्<br/>
+तत्कस्मै कतरः किमर्थमथवा तत्पूर्वजोऽपि ज्वरेत् ॥ 77 ॥<br/>
 
 līlāyuddhakaro'kṣiṇi cellaghurapi bhrātā'ṅguliṃ pātayet<br/>
 kāṇatve'dhigate'pi bāndhavajano dviṣṭe na yāvad vayaḥ<br/>
 mātā nāpi pitā ca kupyati tamāṃ dattaḥ samādhiṃ muhuḥ<br/>
-tatkasmai kataraḥ kimarthamathavā tatpūrvajo'pi jvaret<br/>
+tatkasmai kataraḥ kimarthamathavā tatpūrvajo'pi jvaret || 77 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 लीलायुद्धकरः | अक्षिणि | चेत् | लघुः | अपि | भ्राता | अङ्गुलिम् | पातयेत् | काणत्वे | अधिगते | अपि | बान्धवजनः | द्विष्टे | न | यावत् | वयः | माता | न | अपि | पिता | च | कुप्यति तमाम् | दत्तः | समाधिम् | मुहुः | तत् | कस्मै | कतरः | किमर्थम् | अथवा | तत्पूर्वजः | अपि | ज्वरेत्
@@ -237,12 +237,12 @@ tatkasmai kataraḥ kimarthamathavā tatpūrvajo'pi jvaret<br/>
 शम्भुश्चापि स पर्शुरामवदने दृष्ट्वेव मालीन्यकम्<br/>
 शान्तेः कान्तिमिवा क्षिपन् स्मितततिं चक्रे समाश्वासनम्<br/>
 सञ्जातेऽपि पुनर्भूवां रणविधौ खण्डेलिमः को भवेत्<br/>
-जिह्वां चर्वति दद्गणे भवति किं तेभ्यः प्रनोद्यो बहिः<br/>
+जिह्वां चर्वति दद्गणे भवति किं तेभ्यः प्रनोद्यो बहिः ॥ 78 ॥<br/>
 
 śambhuścāpi sa parśurāmavadane dṛṣṭveva mālīnyakam<br/>
 śānteḥ kāntimivā kṣipan smitatatiṃ cakre samāśvāsanam<br/>
 sañjāte'pi punarbhūvāṃ raṇavidhau khaṇḍelimaḥ ko bhavet<br/>
-jihvāṃ carvati dadgaṇe bhavati kiṃ tebhyaḥ pranodyo bahiḥ<br/>
+jihvāṃ carvati dadgaṇe bhavati kiṃ tebhyaḥ pranodyo bahiḥ || 78 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 शम्भुः | च | अपि | सः | पर्शुरामवदने | दृष्ट्वा | इव | मालीन्यकम् | शान्तेः | कान्तिम् | इव | क्षिपन् | स्मितततिम् | चक्रे | समाश्वासनम् | सञ्जाते | अपि | पुनर्भूवाम् | रणविधौ | खण्डेलिमः | कः | भवेत् | जिह्वाम् | चर्वति | दद्गणे | भवति | किम् | तेभ्यः | प्रनोद्यः | बहिः
@@ -270,12 +270,12 @@ jihvāṃ carvati dadgaṇe bhavati kiṃ tebhyaḥ pranodyo bahiḥ<br/>
 अंशो विष्णुमयोऽस्त्ययं परशुभृत् पूर्णश्च विष्णुः स्वयम्<br/>
 द्राङ्नौ सान्त्वयितुं समागत इतः को वास्ति हर्षः परः ?<br/>
 आवामेकवपुर्धरौ प्रियसखौ भेदाऽसहौ वस्तुतः<br/>
-अन्योऽन्यस्य सहायकौ नयनवद् वा हस्तवत् पादवत्<br/>
+अन्योऽन्यस्य सहायकौ नयनवद् वा हस्तवत् पादवत् ॥ 79 ॥<br/>
 
 aṃśo viṣṇumayo'styayaṃ paraśubhṛt pūrṇaśca viṣṇuḥ svayam<br/>
 drāṅnau sāntvayituṃ samāgata itaḥ ko vāsti harṣaḥ paraḥ ?<br/>
 āvāmekavapurdharau priyasakhau bhedā'sahau vastutaḥ<br/>
-anyo'nyasya sahāyakau nayanavad vā hastavat pādavat<br/>
+anyo'nyasya sahāyakau nayanavad vā hastavat pādavat || 79 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 अंशः | विष्णुमयः | अस्ति | अयम् | परशुभृत् | पूर्णः | च | विष्णुः | स्वयम् | द्राक् | नौ | सान्त्वयितुम् | समागतः | इतः | कः | वा | अस्ति | हर्षः | परः | आवाम् | एकवपुर्धरौ | प्रियसखौ | भेदासहौ | वस्तुतः | अन्योन्यस्य | सहायकौ | नयनवत् | वा | हस्तवत् | पादवत्
@@ -307,12 +307,12 @@ This Parashurama is also born with the essence of Vishnu. The Lord Vishnu Himsel
 योऽज्ञानाच्च हरौ हरे मयि च वा भेदं विधत्ते द्वयोः<br/>
 मन्ये प्रत्ययमात्रभेदविवशो दूरे प्रकृत्याश्च सः<br/>
 सव्ये चाप्युपवीतधारिणि करे पूतो न किं दक्षिणः ?<br/>
-सव्ये भोजनके रतेऽपि च परो वामो न किं पुष्यते<br/>
+सव्ये भोजनके रतेऽपि च परो वामो न किं पुष्यते ॥ 80 ॥<br/>
 
 yo'jñānācca harau hare mayi ca vā bhedaṃ vidhatte dvayoḥ<br/>
 manye pratyayamātrabhedavivaśo dūre prakṛtyāśca saḥ<br/>
 savye cāpyupavītadhāriṇi kare pūto na kiṃ dakṣiṇaḥ ?<br/>
-savye bhojanake rate'pi ca paro vāmo na kiṃ puṣyate<br/>
+savye bhojanake rate'pi ca paro vāmo na kiṃ puṣyate || 80 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 यः | अज्ञानात् | च | हरौ | हरे | मयि | च | वा | भेदम् | विधत्ते | द्वयोः | मन्ये | प्रत्ययमात्रभेदविवशः | दूरे | प्रकृत्याः | च | सः | सव्ये | च | अपि | उपवीतधारिणि | करे | पूतः | न | किम् | दक्षिणः | सव्ये | भोजनके | रते | अपि | च | परः | वामः | न | किम् | पुष्यते
@@ -343,12 +343,12 @@ He who, out of ignorance, creates a distinction between Hari and Hara, or betwee
 चापाऽकर्षणकर्मणस्तु समये वामः सदैवग्रगः<br/>
 बाणोन्मोचनके क्षणे प्रगतिकृद् हस्तो भवेद् दक्षिणः<br/>
 द्वावेवास्य जगद्भवस्य मनुजस्याऽवश्यकौ स्तः करौ<br/>
-यौ नो लेशतया मिथः स्वकृतिषु गुप्तिप्रियौ तस्करौ<br/>
+यौ नो लेशतया मिथः स्वकृतिषु गुप्तिप्रियौ तस्करौ ॥ 81 ॥<br/>
 
 cāpā'karṣaṇakarmaṇastu samaye vāmaḥ sadaivāgragaḥ<br/>
 bāṇonmocanake kṣaṇe pragatikṛd hasto bhaved dakṣiṇaḥ<br/>
 dvāvevāsya jagadbhavasya manujasyā'vaśyakau staḥ karau<br/>
-yau no leśatayā mithaḥ svakṛtiṣu guptipriyau taskarau<br/>
+yau no leśatayā mithaḥ svakṛtiṣu guptipriyau taskarau || 81 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 चापाकर्षणकर्मणः | तु | समये | वामः | सदा | एव | अग्रगः | बाणोन्मोचनके | क्षणे | प्रगतिकृत् | हस्तः | भवेत् | दक्षिणः | द्वौ | एव | अस्य | जगद्भवस्य | मनुजस्य | आवश्यकौ | स्तः | करौ | यौ | नो | लेशतया | मिथः | स्वकृतिषु | गुप्तिप्रियौ | तस्करौ
@@ -377,12 +377,12 @@ When drawing the bow, the left hand is always in front; at the moment of releasi
 यातः श्रीहरिरात्मवाहनगरुत्कौशेयशय्यास्थितः<br/>
 आयाताऽध्वनि चञ्चला स्वदयिता स्वे कौशिकाऽख्ये खगे<br/>
 द्रष्टुं तं रणरङ्गमङ्गविलसद्विद्युत्प्रभाडम्बरा<br/>
-प्रत्यावृत्तिमियाय सापि हरिणा तुष्टा भवन्ती हृदा<br/>
+प्रत्यावृत्तिमियाय सापि हरिणा तुष्टा भवन्ती हृदा ॥ 82 ॥<br/>
 
 yātaḥ śrīharirātmavāhanagarutkauśeyaśayyāsthitaḥ<br/>
 āyātā'dhvani cañcalā svadayitā sve kauśikā'khye khage<br/>
 draṣṭuṃ taṃ raṇaraṅgamaṅgavilasadvidyutprabhāḍambarā<br/>
-pratyāvṛttimiyāya sāpi hariṇā tuṣṭā bhavantī hṛdā<br/>
+pratyāvṛttimiyāya sāpi hariṇā tuṣṭā bhavantī hṛdā || 82 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 यातः | श्रीहरिः | आत्मवाहनगरुत्कौशेयशय्यास्थितः | आयाता | अध्वनि | चञ्चला | स्वदयिता | स्वे | कौशिकाख्ये | खगे | द्रष्टुम् | तम् | रणरङ्गम् | अङ्गविलसद्विद्युत्प्रभाडम्बरा | प्रत्यावृत्तिम् | इयाय | सा | अपि | हरिणा | तुष्टा | भवन्ती | हृदा

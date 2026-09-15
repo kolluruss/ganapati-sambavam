@@ -4,12 +4,12 @@
 पर्शुश्चापि स दन्तकान्तनिहतास्यो हन्त ! हन्ताऽभवत्<br/>
 द्वावेव क्षयतः कुठारधवकौ सङ्घर्षणं प्रापितौ<br/>
 पर्शुं तं शिवयोर्न्यधाच्चरणयोरग्राह्यमग्रे पुनः<br/>
-जग्राहान्घ्रियुगं शिवस्य सशिवस्यान्ते गणेशस्य सः<br/>
+जग्राहान्घ्रियुगं शिवस्य सशिवस्यान्ते गणेशस्य सः ॥ 83 ॥<br/>
 
 Parśuścāpi sa dantakāntanihatāsyo hanta ! hantābhavat<br/>
 dvāveva kṣayataḥ kuṭhāradhavakau saṅgharṣaṇaṃ prāpitau<br/>
 parśuṃ taṃ śivayornyadhāccaraṇayoragrāhyamagre punaḥ<br/>
-jagrāhāṅghriyugaṃ śivasya saśivasyānte gaṇeśasya saḥ<br/>
+jagrāhāṅghriyugaṃ śivasya saśivasyānte gaṇeśasya saḥ || 83 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 पर्शुः | च | अपि | सः | दन्तकान्तनिहतास्यः | हन्त | हन्ता | अभवत् | द्वौ | एव | क्षयतः | कुठारधवकौ | सङ्घर्षणम् | प्रापितौ | पर्शुम् | तम् | शिवयोः | न्यधात् | चरणयोः | अग्राह्यम् | अग्रे | पुनः | जग्राह | अङ्घ्रियुगम् | शिवस्य | सशिवस्य | अन्ते | गणेशस्य | सः
@@ -41,12 +41,12 @@ Alas! The axe became blunt upon striking the tip of the tusk. When an axe and a 
 पीत्वाऽम्बा सुतशिष्ययोः शिवमुखादैक्यप्रकाशात्मकम्<br/>
 व्याख्यानं गिरराजजा कृतवती सन्तोषपोषं हृदः<br/>
 श्रीरामोऽपि मुदश्रुमौक्तिकलसत्पक्षावलीलक्षितः<br/>
-संन्यासीव वने चचार मनसा विस्मारयस्तां कथाम्<br/>
+संन्यासीव वने चचार मनसा विस्मारयस्तां कथाम् ॥ 84 ॥<br/>
 
 Pītvāmbā sutaśiṣyayoḥ śivamukhādaikyaprakāśātmakam<br/>
 vyākhyānaṃ girirājajā kṛtavatī santoṣapoṣaṃ hṛdaḥ<br/>
 śrīrāmo'pi mudaśrumauktikalasatpakṣāvalīlakṣitaḥ<br/>
-saṃnyāsīva vane cacāra manasā vismārayastāṃ kathām<br/>
+saṃnyāsīva vane cacāra manasā vismārayastāṃ kathām || 84 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 पीत्वा | अम्बा | सुतशिष्ययोः | शिवमुखात् | ऐक्यप्रकाशात्मकम् | व्याख्यानम् | गिरराजजा | कृतवती | सन्तोषपोषम् | हृदः | श्रीरामः | अपि | मुदश्रुमौक्तिकलसत्पक्षावलीलक्षितः | संन्यासी | इव | वने | चचार | मनसा | विस्मारयन् | ताम् | कथाम्
@@ -75,12 +75,12 @@ Having listened to the discourse from Shiva’s own lips that illuminated the un
 संयोज्येव स केतकं परिहसन् दन्तान्तरं दर्शयन्<br/>
 चक्रे कृत्रिमदन्तधारणविधेरुद्घाटनाख्योत्सवम्<br/>
 मन्ये सान्त्वयतेऽदतः स्म जरतो बालान्श्च वा नीरदान्<br/>
-एकेनैव रदेन सर्ववरदः पायाद् गणेशः श्रियम्<br/>
+एकेनैव रदेन सर्ववरदः पायाद् गणेशः श्रियम् ॥ 85 ॥<br/>
 
 Saṃyojyeva sa ketakaṃ parihasan dantāntaraṃ darśayan<br/>
 cakre kṛtrimadantadhāraṇavidherudghāṭanākhyotsavam<br/>
 manye sāntvayate'dataḥ sma jarato bālāṃśca vā nīradān<br/>
-ekenaiva radena sarvavaradaḥ pāyād gaṇeśaḥ śriyam<br/>
+ekenaiva radena sarvavaradaḥ pāyād gaṇeśaḥ śriyam || 85 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 संयोज्य | इव | सः | केतकम् | परिहसन् | दन्तान्तरम् | दर्शयन् | चक्रे | कृत्रिमदन्तधारणविधेः | उद्घाटनाख्योत्सवम् | मन्ये | सान्त्वयते | अदतः | स्म | जरतः | बालान् | च | वा | नीरदान् | एकेन | एव | रदेन | सर्ववरदः | पायात् | गणेशः | श्रियम्
@@ -107,10 +107,10 @@ Ganesha, smiling, displays his broken tusk as if he has attached a Ketaki flower
 
 ### Shloka:
 जनको गिरिजामाता गिरिजा माता च यस्य विख्याता<br/>
-वन्दे परमेकरदं परमे करदं क्रियाब्धौ वरदम्<br/>
+वन्दे परमेकरदं परमे करदं क्रियाब्धौ वरदम् ॥ 86 ॥<br/>
 
 Janako girijāmātā girijā mātā ca yasya vikhyātā<br/>
-vande paramekaradaṃ parame karadaṃ kriyābdhau varadam<br/>
+vande paramekaradaṃ parame karadaṃ kriyābdhau varadam || 86 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 जनकः | गिरिजामाता | गिरिजा | माता | च | यस्य | विख्याता | वन्दे | परम् | एकरदम् | परमे | करदम् | क्रियाब्धौ | वरदम्
@@ -133,12 +133,12 @@ I bow to that supreme Single-Tusked Lord, whose father is the son-in-law of the 
 दशनशकलजातं लेखनीनां सहस्रम् <br/>
 स्वगणशतकरस्थं यो निरीक्ष्य प्रसन्नः <br/>
 स्वयमपि लिखनोत्को यः परेभ्यो ययाचे <br/>
-स जयतु गजवक्त्रो लेखविद्याप्रवीणः <br/>
+स जयतु गजवक्त्रो लेखविद्याप्रवीणः ॥ 87 ॥<br/>
 
 daśanaśakalajātaṃ lekhanīnāṃ sahasram <br/>
 svagaṇaśatakarasthaṃ yo nirīkṣya prasannaḥ <br/>
 svayamapi likhanotko yaḥ parebhyo yayāce <br/>
-sa jayatu gajavaktro lekhavidyāpravīṇaḥ <br/>
+sa jayatu gajavaktro lekhavidyāpravīṇaḥ || 87 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 दशनशकलजातम् | लेखनीनाम् | सहस्रम् | स्वगणशतकरस्थम् | यः | निरीक्ष्य | प्रसन्नः | स्वयम् | अपि | लिखनोत्कः | यः | परेभ्यः | ययाचे | सः | जयतु | गजवक्त्रः | लेखविद्याप्रवीणः
@@ -164,12 +164,12 @@ May that elephant-faced Lord (Ganesha), who is an expert in the art of writing, 
 यो देवद्रुमशाखिकेव वदने भातिस्म देवार्पिता <br/>
 भक्तेभ्यश्च प्रदीयमानवरवाग्वल्याश्चकन्दोऽथवा <br/>
 आईदानीन्तनदन्तमञ्जनमयैर्लेपैः प्रलिप्तो यथा <br/>
-श्वेतोऽद्यावधि राजते गणपतेरेकोऽपि दन्तस्तथा <br/>
+श्वेतोऽद्यावधि राजते गणपतेरेकोऽपि दन्तस्तथा ॥ 88 ॥<br/>
 
 yo devadrumaśākhikeva vadane bhātisma devārpitā <br/>
 bhaktebhyaśca pradīyamānavaravāgvalyāścakando'thavā <br/>
 aidānīntanadantamañjanamayairlepaiḥ pralipto yathā <br/>
-śveto'dyāvadhi rājate gaṇapatereko'pi dantastathā <br/>
+śveto'dyāvadhi rājate gaṇapatereko'pi dantastathā || 88 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 यः | देवद्रुमशाखिका | इव | वदने | भातिस्म | देवार्पिता | भक्तेभ्यः | च | प्रदीयमानवरवाक् | वल्याः | च | कन्दः | अथवा | आईदानीन्तनदन्तमञ्जनमयैः | लेपैः | प्रलिप्तः | यथा | श्वेतः | अद्यावधि | राजते | गणपतेः | एकः | अपि | दन्तः | तथा

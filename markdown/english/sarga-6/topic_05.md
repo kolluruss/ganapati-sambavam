@@ -4,12 +4,12 @@
 सस्ये नो परशुप्रहार उचितः किं मक्षिकायामसिः<br/>
 इत्याचिन्तकमेनमेष गणपो ज्ञात्वा हृदन्तः स्मितः<br/>
 पश्याघो! सितपक्ष्मकाक्षसुषिरैर्बालोस्म्यबालोथवा<br/>
-दुश्छेद्यः पविना शिलोच्चयमयः पुंजोथवास्म्यद्भुतः<br/>
+दुश्छेद्यः पविना शिलोच्चयमयः पुंजोथवास्म्यद्भुतः ॥ 57 ॥<br/>
 
 Sasye no parashuprahāra uchitaḥ kiṃ makṣikāyāmasiḥ<br/>
 ityācintakamenameṣa gaṇapo jñātvā hṛdantaḥ smitaḥ<br/>
 pashyāgho! sitapakṣmakākṣasuṣirairbālosmyabālothavā<br/>
-duśchedyaḥ pavinā shiloccayamayaḥ puṃjothavāsmyadbhutaḥ<br/>
+duśchedyaḥ pavinā shiloccayamayaḥ puṃjothavāsmyadbhutaḥ || 57 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 सस्ये | नो | परशुप्रहारः | उचितः | किम् | मक्षिकायाम् | असिः | इति | आचिन्तकम् | एनम् | एषः | गणपः | ज्ञात्वा | हृदन्तः | स्मितः | पश्य | अघो | सितपक्ष्मकाक्षसुषिरैः | बालः | अस्मि | अबालः | अथवा | दुश्छेद्यः | पविना | शिलोच्चयमयः | पुंजः | अथवा | अस्मि | अद्भुतः
@@ -45,12 +45,12 @@ It is not appropriate to strike a tender blade of grass with an axe, nor is it f
 तीक्ष्णाग्रं वृषसूर्य रश्मिसदृशं बाहौ स पर्शं जहौ<br/>
 तद् भ्रष्टः स पपात दन्तमुसले विद्युत्प्रचण्डस्वनः<br/>
 पेतुः सूक्ष्म तमाः स्फुलिंगततयः स्तीर्णा उदीर्णास्ततः<br/>
-क्रोधे लक्ष्यसमीक्षणे न नयने तिष्ठासतौ दार्ढ्यतः<br/>
+क्रोधे लक्ष्यसमीक्षणे न नयने तिष्ठासतौ दार्ढ्यतः ॥ 58 ॥<br/>
 
 Tīkṣṇāgraṃ vṛṣasūryaraśmisadṛśaṃ bāhau sa parshuṃ jahau<br/>
 tad bhraṣṭaḥ sa papāta dantamusale vidyutpracaṇḍasvanaḥ<br/>
 petuḥ sūkṣmatamāḥ sphuliṃgatatayaḥ stīrṇā udīrṇāstataḥ<br/>
-krodhe lakṣyasamīkṣaṇe na nayane tiṣṭhāsato dārḍhyataḥ<br/>
+krodhe lakṣyasamīkṣaṇe na nayane tiṣṭhāsato dārḍhyataḥ || 58 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 तीक्ष्णाग्रम् | वृषसूर्य रश्मिसदृशम् | बाहौ | सः | पर्शम् | जहौ | तत् | भ्रष्टः | सः | पपात | दन्तमुसले | विद्युत्प्रचण्डस्वनः | पेतुः | सूक्ष्म तमाः | स्फुलिंगततयः | स्तीर्णाः | उदीर्णाः | ततः | क्रोधे | लक्ष्यसमीक्षणे | न | नयने | तिष्ठासतौ | दार्ढ्यतः
@@ -83,12 +83,12 @@ Parashurama then released his sharp-edged axe, which shone like the rays of the 
 दन्तान्तोपि कृतान्तवत् प्रचलितस्तान्ती चिकीर्षुर्भृगुम्<br/>
 दिष्ट्या! कीकसखण्डमण्डनकरोधावद् गणः शांभवः<br/>
 योन्यास्थीनि चिनोति गृध्रवदहो कापालमालीकरः<br/>
-सोयं किं निजनाथपुत्ररदनं यान्तं सहेत क्वचित्<br/>
+सोयं किं निजनाथपुत्ररदनं यान्तं सहेत क्वचित् ॥ 59 ॥<br/>
 
 Dantāntopi kṛtāntavat pracalitastāntī cikīrṣurbhṛgum<br/>
 diṣṭyā! kīkasakhaṇḍamaṇḍanakarodhāvad gaṇaḥ shāmbhavaḥ<br/>
 yonyāsthīni cinoti gṛdhravadaho kāpālamālīkaraḥ<br/>
-soyaṃ kiṃ nijanāthaputraradanaṃ yāntaṃ saheta kvacit<br/>
+soyaṃ kiṃ nijanāthaputraradanaṃ yāntaṃ saheta kvacit || 59 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 दन्तान्तः | अपि | कृतान्तवत् | प्रचलितः | तान्ती | चिकीर्षुः | भृगुम् | दिष्ट्या | कीकसखण्डमण्डनकरः | अधावत् | गणः | शांभवः | यः | अन्यास्थीनि [possible reading: अन्यास्थीनि — anyāsthīni] | चिनोति | गृध्रवत् | अहो | कापालमालीकरः | सः | अयम् | किम् | निजनाथपुत्ररदनम् | यान्तम् | सहेत | क्वचित्
