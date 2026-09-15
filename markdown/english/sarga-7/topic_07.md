@@ -415,21 +415,4 @@ Svajanamapi sadā sa krīḍaye nmodakaughaiḥ || 93 ||<br/>
 ### Meaning:
 May the victorious Ganesha, the abode of Riddhi and Siddhi, be ever triumphant! By the mere remembrance of Him, He grants to His devotees the same attainments that He possesses. Just as He Himself is always playing with modakas, may He grant that His devotees also always play in the abundance of joy and sweetness.
 
-### Shloka:
-म. म. वि. वा. प्राप्तेन्द्रप्रस्थीय ब्राह्मणसभाध्यक्षपदेन<br/>
-ma. ma. vi. vā. prāptendraprasthīya brāhmaṇasabhādhyakṣapadena
-
-### पदच्छेदम् (Padacchedam):
-म. | म. | वि. | वा. | प्राप्त | इन्द्रप्रस्थीय | ब्राह्मण | सभा | अध्यक्ष | पदेन
-
-### अन्वयः (Anvaya):
-म. म. वि. वा. इन्द्रप्रस्थीय ब्राह्मणसभाध्यक्षपदेन प्राप्तः।
-
-### Meaning of Terms:
-* म. म.  = Mahamahopadhyaya (a title of great scholarly distinction)
-* वि. वा.  = Vidya Vachaspati (a title denoting mastery of knowledge)
-* प्राप्तेन्द्रप्रस्थीय  = One who has attained the status related to Indraprastha
-* ब्राह्मणसभाध्यक्षपदेन  = By the position of the President of the Brahmana Sabha
-
-### Meaning:
-This verse commemorates the auspicious occasion wherein the esteemed scholar, bearing the titles of Mahamahopadhyaya and Vidya Vachaspati, has been elevated to the distinguished position of President of the Brahmana Sabha of Indraprastha. This appointment serves as a testament to his profound dedication to Dharma and his unwavering commitment to the preservation of Vedic wisdom.
+**End of sarga-7**
