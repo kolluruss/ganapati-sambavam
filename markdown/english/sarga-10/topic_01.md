@@ -6,12 +6,12 @@ Rajasthan, the cities of Alwar, and the glory of Tatarpur.
 'राजस्थान' पदप्रसिद्धिमयितो देशो न कैर्जायते ? <br/>
 धर्मो यत्र वृषाकपेर्वृष इव स्वच्छन्दनादोऽचरत् । <br/>
 यद्भूमिर्बलिवेदिकेति पदतो वन्द्या जगत्या मता । <br/>
-राज्ञां दुन्दुभयोऽनदन् गजगता मयूरकेकाकराः ॥ <br/>
+राज्ञां दुन्दुभयोऽनदन् गजगता मयूरकेकाकराः ॥ १ ॥<br/>
 
 'Rājasthāna' padaprasiddhimayito deśo na kairjāyate ? <br/>
 Dharmo yatra vṛṣākapervṛṣa iva svacchandanādo'carat । <br/>
 Yadbhūmirbalivediketi padato vandyā jagatyā matā । <br/>
-Rājñāṃ dundubhayo'nadan gajagatā mayūrakekākarāḥ ॥
+Rājñāṃ dundubhayo'nadan gajagatā mayūrakekākarāḥ ॥ 1 ॥
 
 ### पदच्छेदम् (Padacchedam):
 'राजस्थान' | पद-प्रसिद्धिम | अयितः | देशः | न | कैः | ज्ञायते ? | धर्मः | यत्र | वृषाकपेः | वृषः | इव | स्वच्छन्द-नादः | अचरत् | यत्-भूमिः | बलि-वेदिका | इति | पदतः | वन्द्या | जगत्या | मता | राज्ञाम् | दुन्दुभयः | अनदन् | गज-गताः | मयूर-केका-कराः |
@@ -40,12 +40,12 @@ Who is unaware of the land renowned by the name 'Rajasthan'? In this land, Dharm
 वात्सल्यदिव वक्षसाऽथ शिरसा दधे कृतज्ञेव भूः । <br/>
 भूभृद्राज विहङ्गराज मृगराजाख्यासु यद्वा स्तुतम् ॥ <br/>
 रात्रीश द्विजराज राजितमपि द्विः राजराजाऽऽदृतम् । <br/>
-तद्राजेति पदंयदाख्यमुकुटेमन्ये किरीटायते ॥ <br/>
+तद्राजेति पदंयदाख्यमुकुटेमन्ये किरीटायते ॥ २ ॥<br/>
 
 Vātsalyādiva vakṣasā'tha śirasā dadhe kṛtajñeva bhūḥ । <br/>
 Bhūbhṛdrāja vihaṅgarāja mṛgarājākhyāsu yadvā stutam ॥ <br/>
 Rātrīśa dvijarāja rājitamapi dviḥ rājarājā''dṛtam । <br/>
-Tadrājeti padaṃyadākhyamukuṭemanye kirīṭāyate ॥
+Tadrājeti padaṃyadākhyamukuṭemanye kirīṭāyate ॥ 2 ॥
 
 ### पदच्छेदम् (Padacchedam):
 वात्सल्यत् | इव | वक्षसा | अथ | शिरसा | दधे | कृतज्ञा | इव | भूः | भूभृत्-राज-विहङ्ग-राज-मृग-राज-आख्यासु | यत् | वा | स्तुतम् | रात्रि-ईश-द्विज-राज-राजितम् | अपि | द्विः | राज-राज-आदृतम् | तत् | राज | इति | पदम् | यत्-आख्य-मुकुटे | मन्ये | किरीटायते |
@@ -73,12 +73,12 @@ The Earth bore the word 'Raja' upon her head with gratitude, as if holding it to
 यस्योष्णीषनिबन्धनं जनिधरोद्धारव्रतोद्भासकम् । <br/>
 भात्यद्यापि शिरस्त्रवर्म सदृशं शम्भो जटाजूटभम् ॥ <br/>
 धत्ते रक्षकतल्लजः प्रतिपलं मन्ये शिरः कर्पटम् । <br/>
-कक्षे खड्गलतां यथा स्वदयितां साहाय्यदामन्ततः ॥ <br/>
+कक्षे खड्गलतां यथा स्वदयितां साहाय्यदामन्ततः ॥ ३ ॥<br/>
 
 Yasyoṣṇīṣanibandhanaṃ janidharoddhāravratodbhāsakam । <br/>
 Bhātyadyāpi śirastravarma sadṛśaṃ śambho jaṭājūṭabham ॥ <br/>
 Dhatte rakṣakatallajaḥ pratipalaṃ manye śiraḥ karpaṭam । <br/>
-Kakṣe khaḍgalatāṃ yathā svadayitāṃ sāhāyyadāmantataḥ ॥
+Kakṣe khaḍgalatāṃ yathā svadayitāṃ sāhāyyadāmantataḥ ॥ 3 ॥
 
 ### पदच्छेदम् (Padacchedam):
 यस्य | उष्णीष-निबन्धनम् | जनि-धर-उद्धार-व्रत-उद्भासकम् | भाति | अद्य | अपि | शिरस्त्र-वर्म-सदृशम् | शम्भोः | जटा-जूट-भम् | धत्ते | रक्षक-तल्लजः | प्रति-पलम् | मन्ये | शिरः-कर्पटम् | कक्षे | खड्ग-लताम् | यथा | स्व-दयिताम् | साहाय्य-दाम् | अन्ततः |
@@ -104,12 +104,12 @@ The turban-style of the warriors of this land, which illuminates their vow to up
 तस्मिन्नलवर नामकं च नगरं विख्याप्तिमप्तं चिरात् । <br/>
 प्रत्याहार 'मलम्' बलात् स्मरयतेऽन्ते वासिनो व्याकृतेः ॥ <br/>
 यस्मिन्नन्तर वासितामपगता वर्णाः स्वराअस्वराः । <br/>
-ये संयुज्य मिथोपि सन्ततिसमास्तन्वन्ति प्रत्याहृतीः ॥ <br/>
+ये संयुज्य मिथोपि सन्ततिसमास्तन्वन्ति प्रत्याहृतीः ॥ ४ ॥<br/>
 
 Tasminnalavara nāmakaṃ ca nagaraṃ vikhyāptimāptaṃ cirāt । <br/>
 Pratyāhāra 'mal'm balāt smarayate'nte vāsino vyākṛteḥ ॥ <br/>
 Yasminnantar vāsitāmapagatā varṇāḥ svarā'svarāḥ । <br/>
-Ye saṃyujya mithopi santatisamāstanvanti pratyāhṛtīḥ ॥
+Ye saṃyujya mithopi santatisamāstanvanti pratyāhṛtīḥ ॥ 4 ॥
 
 ### पदच्छेदम् (Padacchedam):
 तस्मिन् | अलवर-नामकम | च | नगरम | विख्याप्तिम | आप्तम | चिरात | प्रत्याहारम | 'अल्'म् | बलात | स्मरयते | अन्तेवासिनः | व्याकृतेः | यस्मिन् | अन्तः | वासिताम | अपगताः | वर्णाः | स्वराः | अस्वराः | ये | संयुज्य | मिथः | अपि | सन्तति-समाः | तन्वन्ति | प्रत्याहृतीः |
@@ -135,11 +135,11 @@ In that land, the city named 'Alwar' has long attained great fame. It forcefully
 योऽलङ्कार पदादधादिव च वाऽलङ्कारवल्लालयन् |<br/>
 सर्वोप्येष च देश एव विदितोऽलङ्कारधारी यतः ||<br/>
 यो वा ऽलं च ललम्ब लम्पटजना ल्लाम्पट्य मुच्चाटयन् |<br/>
-प्रोचे दुर्जनमण्डलीमलमलं दुश्चेष्टितै श्चञ्चलैः ||<br/>
+प्रोचे दुर्जनमण्डलीमलमलं दुश्चेष्टितै श्चञ्चलैः || ५ ||<br/>
 yo’laṅkāra padādadādiva ca vā’laṅkāravallālayan |<br/>
 sarvopyeṣa ca deśa eva vidito’laṅkāradhārī yataḥ ||<br/>
 yo vā ’laṃ ca lalamba lampatajanā llāmpaṭya muccāṭayan |<br/>
-proce durjanamaṇḍalīmalamalaṃ duśceṣṭitai ścañcalaiḥ ||
+proce durjanamaṇḍalīmalamalaṃ duśceṣṭitai ścañcalaiḥ || 5 ||
 
 ### पदच्छेदम् (Padacchedam):
 यः | अलङ्कार-पदात् | अधात् | इव | च | वा | अलङ्कारवत् | लालयन् | सर्वः | अपि | एषः | च | देशः | एव | विदितः | अलङ्कार-धारी | यतः | यः | वा | अलम् | च | ललम्ब | लम्पट-जनात् | लाम्पट्यम् | उच्चाटयन् | प्रोचे | दुर्जन-मण्डलीम् | अलम् | अलम् | दुश्चेष्टितैः | चञ्चलैः |
@@ -167,11 +167,11 @@ The city, which cherishes its people like an ornament, seems to have derived its
 प्राच्यां राजभुवो विराजति च सा ख्याताल्वराख्या पुरी |<br/>
 यत् प्राच्यामपि मन्दिरं 'विजय' युक् श्रीरामधामान्वितम् ||<br/>
 नासाभूषणतां दधाति च पुरस्ताटङ्कभां कर्णयोः |<br/>
-यस्मिन् हीरलसद्युतिप्रतिभटः श्री तेजसिंहो नृपः ||<br/>
+यस्मिन् हीरलसद्युतिप्रतिभटः श्री तेजसिंहो नृपः || ६ ||<br/>
 prācyāṃ rājabhuvo virājati ca sā khyātālvarākhyā purī |<br/>
 yat prācyāmapi mandiraṃ 'vijaya' yuk śrīrāmadhāmānvitam ||<br/>
 nāsābhūṣaṇatāṃ dadhāti ca purastāṭaṅkabhāṃ karṇayoḥ |<br/>
-yasmin hīralasadyutipratibhataḥ śrī te jasiṃho nṛpaḥ ||
+yasmin hīralasadyutipratibhataḥ śrī te jasiṃho nṛpaḥ || 6 ||
 
 ### पदच्छेदम् (Padacchedam):
 प्राच्याम् | राज-भुवः | विराजति | च | सा | ख्याता | अल्वराख्या | पुरी | यत्-प्राच्याम् | अपि | मन्दिरम् | 'विजय'-युक् | श्री-राम-धाम-अन्वितम् | नासा-भूषणताम् | दधाति | च | पुरः | ताटङ्क-भाम् | कर्णयोः | यस्मिन् | हीर-लसत्-द्युति-प्रतिभटः | श्री-तेजसिंहः | नृपः |
@@ -199,11 +199,11 @@ The famous city of Alwar shines in the eastern part of the land of Rajasthan. To
 वारुण्यां च तत स्ततारपदतः शोभान्वितं यत् पुरम् |<br/>
 वक्रा यस्य जना जने रपि दिना न्यूना न शक्रात् क्वचित् ||<br/>
 'हर्षोरा' पुरतश्च पूर्वमिदकं प्राचीनदुर्गच्छलात् |<br/>
-दीर्घोष्णीषधराचलम् शिवजनत्रैपुण्ड्रयभाभासकम् ||<br/>
+दीर्घोष्णीषधराचलम् शिवजनत्रैपुण्ड्रयभाभासकम् || ७ ||<br/>
 vāruṇyāṃ ca tata statārapadataḥ śobhānvitaṃ yat puram |<br/>
 vakrā yasya janā jane rapi dinā nyūnā na śakrāt kvacit ||<br/>
 'harṣorā' purataśca pūrvamidakaṃ prācīnadurgacchalāt |<br/>
-dīrghoṣṇīṣadharācalam śivajanatraipuṇḍrayabhābhāsakam ||
+dīrghoṣṇīṣadharācalam śivajanatraipuṇḍrayabhābhāsakam || 7 ||
 
 ### पदच्छेदम् (Padacchedam):
 वारुण्याम् | च | ततः | 'ततार'-पदतः | शोभा-अन्वितम् | यत् | पुरम् | वक्राः | यस्य | जनाः | जनेः | अपि | दिनात् | न्यूनाः | न | शक्रात् | क्वचित् | 'हर्षोरा'-पुरतः | च | पूर्वम् | इदकम् | प्राचीन-दुर्ग-च्छलात् | दीर्घ-उष्णीष-धर-अचलम् | शिव-जन-त्रैपुण्ड्र-भा-आभासकम् |
@@ -229,11 +229,11 @@ To the west of Alwar lies the town of 'Tatarpur', which is adorned by its name. 
 दुर्गोऽयं गतभूपवच्च कुरुते सर्वेक्षणं वासिनाम् |<br/>
 भुक्तानन्दमयस्मृता विव गतस्वान्तः नितान्तं चिरात् ||<br/>
 भिन्नच्छिन्नतया स्वशौर्य मपि यो व्यङ्क्ते निजान्तःस्थितान् |<br/>
-कार्पण्यं न कदाप्य धत्त जनता छिन्नापि भिन्नाधियत् ||<br/>
+कार्पण्यं न कदाप्य धत्त जनता छिन्नापि भिन्नाधियत् || ८ ||<br/>
 durgo’yaṃ gatabhūpavacca kurute sarvekṣaṇaṃ vāsinām |<br/>
 bhuktānandamayasmṛtā viva gatasvāntaḥ nitāntaṃ cirāt ||<br/>
 bhinna-chinnatayā svaśaurya mapi yo vyaṅkte nijāntaḥsthitān |<br/>
-kārpaṇyaṃ na kadāpya dhatta janatā chinnāpi bhinnādhiyat ||
+kārpaṇyaṃ na kadāpya dhatta janatā chinnāpi bhinnādhiyat || 8 ||
 
 ### पदच्छेदम् (Padacchedam):
 दुर्गः | अयम् | गत-भूपवत् | च | कुरुते | सर्वेक्षणम् | वासिनाम् | भुक्त-आनन्दमय-स्मृतौ | इव | गत-स्वान्तः | नितान्तम् | चिरात् | भिन्न-छिन्नतया | स्व-शौर्यम् | अपि | यः | व्यङ्क्ते | निज-अन्तः-स्थितान् | कार्पण्यम् | न | कदापि | अधत्त | जनता | छिन्ना | अपि | भिन्ना | अधियत् |
@@ -262,12 +262,12 @@ This fort, like the kings of yore, keeps a watchful eye on its inhabitants. It s
 यत्प्राच्यां पवनात्मजः स्थितिकरः श्रीधूर्जटः पश्चिमे |<br/>
 औदीच्यामथ दक्षिणे स्थितिकरौ द्वौ शून्यदेव्या मठौ ||<br/>
 आयात्येव कदापि सूतिवपुषा सा कुम्भकारज्ञया |<br/>
-दृष्ट्वा मल्लमतल्लिका इव सुखं तत्रैव यायात्यरम् ||<br/>
+दृष्ट्वा मल्लमतल्लिका इव सुखं तत्रैव यायात्यरम् || ९ ||<br/>
 
 yatprācyāṃ pavanātmajaḥ sthitikaraḥ śrīdhūrjaṭaḥ paścime |<br/>
 audīcyāmatha dakṣiṇe sthitikarau dvau śūnyadevyā maṭhau ||<br/>
 āyātyeva kadāpi sūtivapuṣā sā kumbhakārajñayā |<br/>
-dṛṣṭvā mallamatallikā iva sukhaṃ tatraiva yāyātyaram ||<br/>
+dṛṣṭvā mallamatallikā iva sukhaṃ tatraiva yāyātyaram || 9 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 यत् | प्राच्याम् | पवन-आत्मजः | स्थितिकरः | श्री-धूर्जटः | पश्चिमे | औदीच्याम् | अथ | दक्षिणे | स्थितिकरौ | द्वौ | शून्य-देव्याः | मठौ | आयाति | एव | कदापि | सूति-वपुषा [possible reading: मूर्ति-वपुषा — Murti-vapusha] | सा | कुम्भकार-आज्ञया | दृष्ट्वा | मल्ल-मतल्लिकाः | इव | सुखम् | तत्र | एव | यायाति | अरम् |
@@ -296,12 +296,12 @@ In this village of Tatarpur, Hanuman is established in the east, and Lord Shiva 
 पार्श्वे वासयते मतङ्गतनयान् वातात्मजः पूर्वतः |<br/>
 शम्भुश्चर्मकृतः परस्परमुभौ स्पर्धाधरौ मानसे ||<br/>
 यदाऽऽयान्ति वरातिपः कपिसमा दैवात् कदाचित्पुरे |<br/>
-तान्सर्वान्हनुमान्स्वजातिमतितो बध्नाति पार्श्वे निजे ||<br/>
+तान्सर्वान्हनुमान्स्वजातिमतितो बध्नाति पार्श्वे निजे || १० ||<br/>
 
 pārśve vāsayate mataṅgatanayān vātātmajaḥ purvataḥ |<br/>
 śambhuścarmakṛtaḥ parasparamubhau spardhādharau mānase ||<br/>
 yadāyānti varātipaḥ kapisamā daivāt kadācitpure |<br/>
-tānsarvānhanumānsvajātimatito badhnāti pārśve nije ||<br/>
+tānsarvānhanumānsvajātimatito badhnāti pārśve nije || 10 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 पार्श्वे | वासयते | मतङ्ग-तनयान् | वात-आत्मजः | पूर्वतः | शम्भुः | चर्म-कृतः | परस्परम् | उभौ | स्पर्धा-धरौ | मानसे | यदा | आयान्ति | वरातिपः | कपि-समाः | दैवात् | कदाचित् | पुरे | तान् | सर्वान् | हनुमान् | स्व-जाति-मतितः | बध्नाति | पार्श्वे | निजे |
@@ -329,12 +329,12 @@ Hanuman, residing in the east, provides shelter to the Bhangis by his temple, wh
 शम्भुः शान्ततमः समाधिशयनः सम्मुद्र्य पञ्चाननीम् |<br/>
 सायं गेहिकयोगिनां करतलैर्घण्टां शृणोति स्मितः ||<br/>
 यन्निम्बे च फलन्ति वारिददिने निर्मूल्य निम्बोलिकाः |<br/>
-ता एवात्ति शिवः कुटुम्बसहितो न प्साति वस्त्वन्तरम् ||<br/>
+ता एवात्ति शिवः कुटुम्बसहितो न प्साति वस्त्वन्तरम् || ११ ||<br/>
 
 śambhuḥ śāntatamaḥ samādhiśayanaḥ sammudrya pañcānanīm |<br/>
 sāyaṃ gehikayogināṃ karatalairghaṇṭāṃ śṛṇoti smitaḥ ||<br/>
 yannimbe ca phalanti vāridadine nirmūlyanimbolikāḥ |<br/>
-tā evātti śivaḥ kuṭumbasahito na psāti vastvantaram ||<br/>
+tā evātti śivaḥ kuṭumbasahito na psāti vastvantaram || 11 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 शम्भुः | शान्त-तमः | समाधि-शयनः | सम्मुद्र्य | पञ्च-आननीम् | सायम् | गेहिक-योगिनाम् | कर-तलैः | घण्टाम् | शृणोति | स्मितः | यत्-निम्बे | च | फलन्ति | वारिद-दिने | निर्-मूल्य-निम्बोलिकाः | ताः | एव | अत्ति | शिवः | कुटुम्ब-सहितः | न | प्साति | वस्तु-अन्तरम् |
@@ -362,12 +362,12 @@ Lord Shiva, the embodiment of supreme peace, remains in deep meditation with his
 'केशोराय' पद प्रसिद्ध इह यो देवोऽस्ति नः पार्श्वगः |<br/>
 योऽस्मज्जन्म निमित्त 'घूघरि' रसः शृण्वंश्च गीतावलीम् ||<br/>
 योऽस्माकं मुखतः शृणोति च कथां शुद्धांऽशुद्धां मनाक |<br/>
-नव्याकुप्यति बालकेषु ममता दोषान् सदोपेक्षते ||<br/>
+नव्याकुप्यति बालकेषु ममता दोषान् सदोपेक्षते || १२ ||<br/>
 
 'keśorāya' pada prasiddha iha yo devo'sti naḥ pārśvagaḥ |<br/>
 yo'smajjanma nimitta 'ghūghari' rasaḥ śṛṇvaṃśca gītāvalīm ||<br/>
 yo'smākaṃ mukhataḥ śṛṇoti ca kathāṃ śuddhāṃ'śuddhāṃ manāk |<br/>
-navyākupyati bālakeṣu mamatā doṣān sadopekṣate ||<br/>
+navyākupyati bālakeṣu mamatā doṣān sadopekṣate || 12 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 'केशोराय'-पद-प्रसिद्धः | इह | यः | देवः | अस्ति | नः | पार्श्वगः | यः | अस्मत्-जन्म-निमित्त-'घूघरि'-रसः | शृण्वन् | च | गीत-आवलीम् | यः | अस्माकम् | मुखतः | शृणोति | च | कथाम् | शुद्धाम् | अशुद्धाम् | मनाक | न | व्याकुप्यति | बालकेषु | ममता | दोषान् | सदा | उपेक्षते |

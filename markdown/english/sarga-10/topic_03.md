@@ -6,11 +6,11 @@ The poet's education, journey to Delhi, Gita competitions, and the awards receiv
 प्रोक्तं प्राक् पठितुं गतो वरुणदिङ् मध्ये मण्डावा पुरे |<br/>
 आसंस्तत्र विलासरायपदतः शुक्ला स्तपो मूर्तयः ||<br/>
 तेभ्योऽहं समपीपठम् प्रथमतः पश्चादिदम्भ्रातृत्तः |<br/>
-येषां मोहनलाल नाम ललितं मन्मानसक्रीडकम् ||<br/>
+येषां मोहनलाल नाम ललितं मन्मानसक्रीडकम् || २७ ||<br/>
 Proktaṃ prāk paṭhituṃ gato varuṇadiṅ madhye maṇḍāvā pure |<br/>
 Āsaṃstatra vilāsarāyapadataḥ śuklā stapo mūrtayaḥ ||<br/>
 Tebhyo'haṃ samapīpaṭham prathamataḥ paścādidam bhrātṛtaḥ |<br/>
-Yeṣāṃ mohanalāla nāma lalitaṃ manmānasakrīḍakam ||
+Yeṣāṃ mohanalāla nāma lalitaṃ manmānasakrīḍakam || 27 ||
 
 ### पदच्छेदम् (Padacchedam):
 प्रोक्तम् | प्राक् | पठितुम् | गतः | वरुण-दिक्-मध्ये | मण्डावा-पुरे | आसन् | तत्र | विलासराय-पदतः | शुक्लाः | तपः-मूर्तयः | तेभ्यः | अहम् | समपीपठम् | प्रथमतः | पश्चात् | इदम्-भ्रातृत्तः | येषाम् | मोहनलाल-नाम | ललितम् | मत्-मानस-क्रीडकम् |
@@ -35,11 +35,11 @@ I have already mentioned that I went to the city of 'Mandawa' in the west for my
 'सूर्यानन्दपदः' स्वनेत्र वशतो विद्वत्सु सूर्या मताः |<br/>
 तेभ्यश्चाप महं बहून् सुविषयान् पश्चाच्च दिल्लीमितः ||<br/>
 अत्रागत्य च पाठनं विहितवान्नैकशब्दपर्यन्तकम् |<br/>
-तत्र प्राप्तधनादिमानसयशः सौरभ्य मप्याप्तवान् ||<br/>
+तत्र प्राप्तधनादिमानसयशः सौरभ्य मप्याप्तवान् || २८ ||<br/>
 'Sūryānandapadaḥ' svanetra vaśato vidvatsu sūryā matāḥ |<br/>
 Tebhyaścāpa maham bahūn suviṣayān paścācca dillīmitaḥ ||<br/>
 Atrāgatya ca pāṭhanaṃ vihitavānnaikābdaparyantakam |<br/>
-Tatra prāptadhanādimānasayaśaḥ saurabhya mapyāptavān ||
+Tatra prāptadhanādimānasayaśaḥ saurabhya mapyāptavān || 28 ||
 
 ### पदच्छेदम् (Padacchedam):
 'सूर्यानन्द-पदः' | स्व-नेत्र-वशतः | विद्वत्सु | सूर्याः | मताः | तेभ्यः | च | आपम् | अहम् | बहून् | सुविषयान् | पश्चात् | च | दिल्लीम | इतः | अत्र | आगत्य | च | पाठनम् | विहितवान् | न एक-अब्द-पर्यन्तकम् | तत्र | प्राप्त-धन-आदि-मान-सुयशः-सौरभ्यम् | अपि | आप्तवान् |
@@ -62,11 +62,11 @@ There was a scholar named Suryanand. He was known by that name due to his eyes, 
 देहल्यं कृतकेतनोऽस्मि चिरतः सर्वत्र पत्रश्रुतः |<br/>
 तत् प्रीति र्न जहाति मां प्रतिपलं या जन्मभूर्मेऽभवत् ||<br/>
 सम्मानाय तुलोदरे यदि घटो न्यस्तस्तुलाभू र्न सः |<br/>
-यातो गोकुलके हरिः पर मयं नो माथुरेभ्य श्च्युतः ||<br/>
+यातो गोकुलके हरिः पर मयं नो माथुरेभ्य श्च्युतः || २९ ||<br/>
 Dehalyāṃ kṛtaketano'smi cirataḥ sarvatra patraśrutaḥ |<br/>
 Tat prīti rna jahāti māṃ pratipalaṃ yā janmabhūrme'bhavat ||<br/>
 Sammānāya tulodare yadi ghaṭo nyastastulābhū rna saḥ |<br/>
-Yāto gokulake hariḥ para mayaṃ no māthurebhya ścyutaḥ ||
+Yāto gokulake hariḥ para mayaṃ no māthurebhya ścyutaḥ || 29 ||
 
 ### पदच्छेदम् (Padacchedam):
 देहल्यम् | कृत-केतनः | अस्मि | चिरतः | सर्वत्र | पत्र-श्रुतः | तत्-प्रीतिः | न | जहाति | माम् | प्रतिपलम् | या | जन्मभूः | मे | अभवत् | सम्मानाय | तुला-उदरे | यदि | घटः | न्यस्तः | तुला-भूः | न | सः | यातः | गोकुलके | हरिः | परम् | अयम् | नो | माथुरेभ्यः | च्युतः |
@@ -91,11 +91,11 @@ I have long established my residence in Delhi and have become known everywhere t
 धर्मक्षेत्रतया स्तुतेऽधिकतया क्षेत्रे कुरो भूपतेः |<br/>
 गीतार्थप्रतियोगिताऽभवदहो आकारिताः पण्डिताः ||<br/>
 'द्यालीराम' पदः प्रधानसचिवः प्रश्नं समान् पृष्टवान् |<br/>
-गीतार्थेषु विरोध एक इह भो निःसार्य आर्यै र्बुधैः ||<br/>
+गीतार्थेषु विरोध एक इह भो निःसार्य आर्यै र्बुधैः || ३० ||<br/>
 Dharmakṣetratayā stute'dhikatayā kṣetre kuro bhūpateḥ |<br/>
 Gītārthapratiyogitā'bhavadaho ākāritāḥ paṇḍitāḥ ||<br/>
 'Dyālīrāma' padaḥ pradhānasacivaḥ praśnaṃ samān pṛṣṭavān |<br/>
-Gītārtheṣu virodha eka iha bho niḥsārya āryai rbudhaiḥ ||
+Gītārtheṣu virodha eka iha bho niḥsārya āryai rbudhaiḥ || 30 ||
 
 ### पदच्छेदम् (Padacchedam):
 धर्मक्षेत्रतया | स्तुते | अधिकतया | क्षेत्रे | कुरोः | भूपतेः | गीता-अर्थ-प्रतियोगिता | अभवत् | अहो | आकारिताः | पण्डिताः | 'द्यालीराम'-पदः | प्रधान-सचिवः | प्रश्नम् | समान् | पृष्टवान् | गीता-अर्थेषु | विरोधः | एकः | इह | भोः | निःसार्यः | आर्यैः | बुधैः |
@@ -120,12 +120,12 @@ In Kurukshetra, which is highly praised as the 'Dharmakshetra', a competition on
 गीताजन्मधरापि सेति तु विदां नेषत् परोक्षं स्फुटम् |<br/>
 तद्वक्ताऽपिच तत्र गुप्त इव सन् शुश्राव मन्ये हसन् ||<br/>
 ध्यात्वा तच्चरणारविन्द मवदम् क्वायं विरोधाभिधः |<br/>
-मन्देहेन समो विभाति भवते सन्देहदेहोऽद्भुतः ||
+मन्देहेन समो विभाति भवते सन्देहदेहोऽद्भुतः || ३१ ||
 
 Gītā-janmadharāpi setī tu vidāṃ neṣat parokṣaṃ sphuṭam |<br/>
 Tadvaktā'pica tatra gupta iva san śuśrāva manye hasan ||<br/>
 Dhyātvā taccaraṇāravinda mavadam kvāyaṃ virodhābhidhaḥ |<br/>
-Mandehena samo vibhāti bhavate sandehadeho'dbhutaḥ ||
+Mandehena samo vibhāti bhavate sandehadeho'dbhutaḥ || 31 ||
 
 ### पदच्छेदम् (Padacchedam):
 गीता-जन्मधरा | अपि | सा | इति | तु | विदाम् | न | ईषत् | परोक्षम् | स्फुटम् | तत्-वक्ता | अपि | च | तत्र | गुप्तः | इव | सन् | शुश्राव | मन्ये | हसन् | ध्यात्वा | तत्-चरण-अरविन्दम् | अवदम् | क्व | अयम् | विरोध-अभिधः | मन्देहेन | समः | विभाति | भवते | सन्देह-देहः | अद्भुतः |
@@ -152,12 +152,12 @@ It is no secret to the wise that Kurukshetra is the birthplace of the Gita; it i
 ब्रूतेऽन्ते 'त्यज सर्व धर्म चरणं' मामेक मेवाश्रयेः |<br/>
 आदौ युद्धविमोचकं स्म कुरुते तं प्रोद्यतं यः स्वयम् ||<br/>
 प्रोत् धार्यस्तु विरोध एष विबुधैः पूर्वापराऽसङ्गतेः |<br/>
-युद्धं चापितु धर्म एव सहसा पार्थोज्झितो यः पुरा ||
+युद्धं चापितु धर्म एव सहसा पार्थोज्झितो यः पुरा || ३२ ||
 
 Brūte'nte 'tyaja sarva dharma caraṇaṃ māmeka mevāśrayeḥ |<br/>
 Ādau yuddhavimocakaṃ sma kurute taṃ prodyataṃ yaḥ svayam ||<br/>
 Prot dhāryastu virodha eṣa vibudhaiḥ pūrvāparā'saṅgateḥ |<br/>
-Yuddhaṃ cāpitu dharma eva sahasā pārthojjhito yaḥ purā ||
+Yuddhaṃ cāpitu dharma eva sahasā pārthojjhito yaḥ purā || 32 ||
 
 ### पदच्छेदम् (Padacchedam):
 ब्रूते | अन्ते | त्यज | सर्व-धर्म-चरणम् | माम् | एकम् | एव | आश्रयेः | आदौ | युद्ध-विमोचकम् | स्म | कुरुते | तम् | प्र-उद्यतम् | यः | स्वयम् | प्र-उद्धार्यः | तु | विरोधः | एषः | विबुधैः | पूर्व-अपर-असङ्गतेः | युद्धम् | च | अपि | तु | धर्मः | एव | सहसा | पार्थ-उज्झितः | यः | पुरा |
@@ -186,12 +186,12 @@ At the end of the Gita, Sri Krishna says, "Abandon all Dharmas and take refuge i
 शब्दौ द्वावधिगीत मीक्षिततमौ यौ त्यागसन्न्यासकौ |<br/>
 तौ यावन्न जनो विवेचयति भोस्तावद् भवेत् संशयः ||<br/>
 सन्न्यासोऽखिलकर्मणां भवति यो न्यासः परब्रह्मणि |<br/>
-नो तत्रापि च धर्मकर्महननं कृष्णेन चा काङ्क्षितम् ||
+नो तत्रापि च धर्मकर्महननं कृष्णेन चा काङ्क्षितम् || ३३ ||
 
 Śabdau dvāvadhigīta mīkṣitatamau yau tyāgasannyāsakau |<br/>
 Tau yāvanna jano vivecayati bhostāvad bhavet saṃśayaḥ ||<br/>
 Sannyāso'khilakarmaṇāṃ bhavati yo nyāsaḥ parabrahmaṇi |<br/>
-No tatrāpi ca dharmakarmahananaṃ kṛṣṇena cā kāṅkṣitam ||
+No tatrāpi ca dharmakarmahananaṃ kṛṣṇena cā kāṅkṣitam || 33 ||
 
 ### पदच्छेदम् (Padacchedam):
 शब्दौ | द्वौ | अधिगीतम् | ईक्षिततमौ | यौ | त्याग-सन्न्यासकौ | तौ | यावत् | न | जनः | विवेचयति | भोः | तावत् | भवेत् | संशयः | सन्न्यासः | अखिल-कर्मणाम् | भवति | यः | न्यासः | परब्रह्मणि | नो | तत्र | अपि | च | धर्म-कर्म-हननम् | कृष्णेन | च | आकाङ्क्षितम् |
@@ -219,12 +219,12 @@ O wise ones! The two terms 'Tyaga' and 'Sannyasa' appear frequently in the Gita.
 त्यागः केवल तत्फलाऽग्रहरुचि र्नानुष्ठिते स्त्यागिता |<br/>
 स त्याग स्त्यजधातुतः प्रकटितो नो न्यासधातोः पदात् ||<br/>
 तस्मादत्र न युद्धमोचनविधि र्योऽद्यावधौ नेप्सितः |<br/>
-हित्वा युद्धफलं मदीय शरणं कृत्वाद्य युध्यस्व भोः ||
+हित्वा युद्धफलं मदीय शरणं कृत्वाद्य युध्यस्व भोः || ३४ ||
 
 Tyāgaḥ kevala tatphalā'graharuci rnānuṣṭhite styāgitā |<br/>
 Sa tyāga styajadhātutaḥ prakaṭito no nyāsadhātoḥ padāt ||<br/>
 Tasmādatra na yuddhamocanavidhi ryo'dyāvadhau nepsitaḥ |<br/>
-Hitvā yuddhapalaṃ madīya śaraṇaṃ kṛtvādya yudhyasva bhoḥ ||
+Hitvā yuddhapalaṃ madīya śaraṇaṃ kṛtvādya yudhyasva bhoḥ || 34 ||
 
 ### पदच्छेदम् (Padacchedam):
 त्यागः | केवल-तत्-फल-अग्रह-रुचिः | न | अनुष्ठितेः | त्यागिता | सः | त्यागः | त्यज-धातुतः | प्रकटितः | नो | न्यास-धातोः | पदात् | तस्मात् | अत्र | न | युद्ध-मोचन-विधिः | यः | अद्य-अवधौ | न | ईप्सितः | हित्वा | युद्ध-फलम् | मदीय-शरणम् | कृत्वा | अद्य | युध्यस्व | भोः |
@@ -249,12 +249,12 @@ Hitvā yuddhapalaṃ madīya śaraṇaṃ kṛtvādya yudhyasva bhoḥ ||
 श्रुत्वार्थीं च विवेचनां पदगतां विज्ञाः प्रशंसाकराः | <br/>
 मह्यं स्वर्णपदं समर्प्य कृतवन्तोऽग्रेऽपि गीताप्रियम् || <br/>
 पश्चाच्चैव च चापि चाद्य पदतो गीता श्रियं वर्धयन् | <br/>
-तट्टीकामपि नूतनां विरचयन् दोषान्तराण्याहरम् || <br/>
+तट्टीकामपि नूतनां विरचयन् दोषान्तराण्याहरम् || ३५ ||<br/>
 
 Śrutvārthīṃ ca vivecanāṃ padagatāṃ vijñāḥ praśaṃsākarāḥ | <br/>
 Mahyaṃ svarṇapadaṃ samarpya kṛtavanto'gre'pi gītāpriyam || <br/>
 Paścāccaiva ca cāpi cādya padato gītā śriyaṃ vardhayan | <br/>
-Taṭṭīkāmapi nūtanāṃ viracayan doṣāntarāṇyāharam || <br/>
+Taṭṭīkāmapi nūtanāṃ viracayan doṣāntarāṇyāharam || 35 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 श्रुत्वा | अर्थीम् | च | विवेचनाम् | पद-गताम् | विज्ञाः | प्रशंसा-कराः | मह्यम् | स्वर्ण-पदम् | समर्प्य | कृतवन्तः | अग्रे | अपि | गीता-प्रियम् | पश्चात् | चैव | च | चापि | चाद्य | पदतः | गीता-श्रियम् | वर्धयन् | तत्-टीकाम् | अपि | नूतनाम् | विरचयन् | दोषान्तराणि | आहारम् |
@@ -282,12 +282,12 @@ The learned scholars, having heard my analysis of the meaning based on the words
 आसीत् पाटलिपुत्रनाम नगरे गीर्वाण वागुत्सवः | <br/>
 दत्तं यत्र च 'संस्कृतम्' पदमिदं कविभ्यः प्रियम् || <br/>
 तत्रायं गणपर्चकः कवितया कीर्तिम्परां लब्धवान् | <br/>
-साप्यग्रे विनिविद्यते गुणवतां चेतो विनोदेच्छया || <br/>
+साप्यग्रे विनिविद्यते गुणवतां चेतो विनोदेच्छया || ३६ ||<br/>
 
 Āsīt pāṭaliputranāma nagare gīrvāṇa vāgutsavaḥ | <br/>
 Dattaṃ yatra ca 'saṃskṛtam' padamidaṃ kavibhyaḥ priyam || <br/>
 Tatrāyaṃ gaṇaparcakaḥ kavitayā kīrtimparāṃ labdhavān | <br/>
-Sāpyagre vinivedyate guṇavatāṃ ceto vinodecchayā || <br/>
+Sāpyagre vinivedyate guṇavatāṃ ceto vinodecchayā || 36 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 आसीत् | पाटलिपुत्र-नाम-नगरे | गीर्वाण-वाक्-उत्सवः | दत्तम् | यत्र | च | 'संस्कृतम्' | पदम् | इदम् | कविभ्यः | प्रियम् | तत्र | अयम् | गणप-अर्चकः | कवितया | कीर्तिम् | पराम् | लब्धवान् | सा | अपि | अग्रे | विनिविद्यते | गुणवताम् | चेतः-विनोद-इच्छया |

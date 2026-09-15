@@ -4,12 +4,12 @@
 अन्योन्यं निजहर्षकन्दुकसमानं प्रक्षिपन्तौ मुहुः <br/>
 पित्रोश्चित्तचमत्कृतिव्रतसमाप्त्यामि वैतौ रतौ || <br/>
 लोकाचारपथस्मृतेरिव मनाक् किञ्चिद्विचाराचरौ <br/>
-तन्मातापितरौ समीक्ष्य तदिदं जातौ कृतार्थौ हृदा ||
+तन्मातापितरौ समीक्ष्य तदिदं जातौ कृतार्थौ हृदा || ५२ ||
 
 Anyonyaṃ nijaharṣakandukasamānaṃ prakṣipantau muhuḥ <br/>
 Pitrościttacamatkṛtivratasamāptyām ivaitau ratau || <br/>
 Lokācārapathasmṛteriva manāk kiñcidvicārācarau <br/>
-Tanmātāpitarau samīkṣya tadidaṃ jātau kṛtārthau hṛdā ||
+Tanmātāpitarau samīkṣya tadidaṃ jātau kṛtārthau hṛdā || 52 ||
 
 ### पदच्छेदम् (Padacchedam):
 अन्योन्यम् | निजहर्षकन्दुकसमानम् | प्रक्षिपन्तौ | मुहुः | पित्रोः | चित्तचमत्कृतिव्रतसमाप्त्याम् | इव | एतौ | रतौ | लोकाचारपथस्मृतेः | इव | मनाक् | किञ्चित् | विचाराचरौ | तन्मातापितरौ | समीक्ष्य | तत् | इदम् | जातौ | कृतार्थौ | हृदा
@@ -37,12 +37,12 @@ As the two children tossed the Modaka—which was like a ball of their own joy�
 तौ ता वूचतु रीड्यपादजलजौ वां शोभतां मोदकः <br/>
 एकस्याद्य कराम्बुजे न च भवेद् देवप्रसादक्षयः || <br/>
 तस्माद् हे गजमस्तकाभ मुकुट! त्वद्धस्तयो र्न्यस्यते <br/>
-देवानां शरजस्य नौ च सकला नामेव सम्मत्यतः ||
+देवानां शरजस्य नौ च सकला नामेव सम्मत्यतः || ५३ ||
 
 Tau tā vūcatu rīḍyapādajalajau vāṃ śobhatāṃ modakaḥ <br/>
 Ekas yādyakarāmbuje na ca bhaved devaprasādakṣayaḥ || <br/>
 Tasmād he gajamastakābha mukuṭa! tvaddhastayo rnyasyate <br/>
-Devānāṃ śarajasya nau ca sakalānāmeva sammatyataḥ ||
+Devānāṃ śarajasya nau ca sakalānāmeva sammatyataḥ || 53 ||
 
 ### पदच्छेदम् (Padacchedam):
 तौ | तौ | ऊचतुः | ईड्यपादजलजौ | वाम् | शोभताम् | मोदकः | एकस्य | अद्य | कराम्बुजे | न | च | भवेत् | देवप्रसादक्षयः | तस्मात् | हे | गजमस्तकाभमुकुट | त्वद्धस्तयोः | न्यस्यते | देवानाम् | शरजस्य | नौ | च | सकलानाम् | एव | सम्मत्यतः
@@ -70,12 +70,12 @@ Shiva and Parvati, whose lotus-feet are worthy of all praise, spoke to the child
 प्रोत्क्षेपैश्च कणाः सुधासुमधुराः केचित्तु पेतुः परम् <br/>
 सङ्घीभूय पिपीलिकावलिरिहाऽऽयाता लिलिक्षाकुला || <br/>
 हस्त्यास्योऽयि विधाय तुण्डसुषिरे दृष्ट्वा विशन्तीं रयात् <br/>
-निर्भीतौ अपि शम्भुसद्मनि बभुर्भीते रपि प्रीतयः ||
+निर्भीतौ अपि शम्भुसद्मनि बभुर्भीते रपि प्रीतयः || ५४ ||
 
 Protkṣapaiśca kaṇāḥ sudhāsumadhurāḥ kecittu petuḥ param <br/>
 Saṅghībhūya pipīlikāvalirihā''yātā lilikṣākulā || <br/>
 Hastyāsyo'yi vidhāya tuṇḍasuṣire dṛṣṭvā viśantīṃ rayāt <br/>
-Nirbhītau api śambhusadmani babhurbhīte rapi prītayaḥ ||
+Nirbhītau api śambhusadmani babhurbhīte rapi prītayaḥ || 54 ||
 
 ### पदच्छेदम् (Padacchedam):
 प्रोत्क्षेपैः | च | कणाः | सुधासुमधुराः | केचित् | तु | पेतुः | परम् | संघीभूय | पिपीलिकावलिः | इह | आयाता | लिलिक्षाकुला | हस्त्यास्यः | अपि | विभाय | तुण्डसुषिरे | दृष्ट्वा | विशन्तीम् | रयात् | निर्भीतौ | अपि | शम्भुसद्मनि | बभुः | भीतेः | अपि | प्रीतयः
@@ -103,12 +103,12 @@ Due to the tossing of the Modaka, some particles sweeter than nectar fell to the
 फूतकारानकरोदयम शिवगलस्थोऽहि द्वयोः फूतकृतैः <br/>
 भस्मोद्धूलनतो बभूव तमसो विस्तारिणी यामिनी || <br/>
 किञ्चाग्निः शिवभालजोऽपि पवनाभ्यामुद्दिदीपेऽद्य सः <br/>
-राव्रावग्नि रतिप्रकाशततिदो होलीहविर्भाग् यथा ||
+राव्रावग्नि रतिप्रकाशततिदो होलीहविर्भाग् यथा || ५५ ||
 
 Phūtkārānakarodayam śivagalastho'hi dvayoḥ phūtkṛtaiḥ <br/>
 Bhasmoddhūlanato babhūva tamaso vistāriṇī yāminī || <br/>
 Kiñcāgniḥ śivabhālajo'pi pavanābhyāmuddidīpe'dya saḥ <br/>
-Rātrāvagni ratiprakāśatatido holīhavirbhāg yathā ||
+Rātrāvagni ratiprakāśatatido holīhavirbhāg yathā || 55 ||
 
 ### पदच्छेदम् (Padacchedam):
 फूत्कारान् | अकरोत् | अयम् | शिवगलस्थः | अहिः | द्वयोः | फूत्कृतैः | भस्मोद्धूलनतः | बभूव | तमसः | विस्तारिणी | यामिनी | किञ्च | अग्निः | शिवभालजः | अपि | पवनाभ्याम् | उद्दिदीपे | अद्य | सः | रात्रौ | अग्निः | अतिप्रकाशततिदः | होलीहविर्भाग् | यथा
@@ -134,12 +134,12 @@ Ganesha and the serpent on Shiva's neck both blew air to clear the ants. Their c
 तस्यौष्ण्येन च चन्द्रमा द्रवमितोऽमुञ्चत् सुधामूर्ध्वतः <br/>
 पञ्चास्यस्य शुभासने स्तृतिमधात् पञ्चास्यचर्मापि तत् <br/>
 प्राणन्नेकपदे जगर्ज वृषभः भीतस्ततः प्राद्रवत् <br/>
-बिब्बीडापि जहास चापि गिरिजा दृष्ट्वाभिनीतिं नवाम् <br/>
+बिब्बीडापि जहास चापि गिरिजा दृष्ट्वाभिनीतिं नवाम् ॥ ५६ ॥<br/>
 
 tasyauṣṇyena ca candramā dravamito'muñcat sudhāmūrdhvataḥ <br/>
 pañcāsyasya śubhāsane stṛtimadhāt pañcāsyacarmāpi tat <br/>
 prāṇannekapade jagarja vṛṣabhaḥ bhītastataḥ prādravat <br/>
-bibbīḍāpi jahāsa cāpi girijā dṛṣṭvābhinītiṃ navām <br/>
+bibbīḍāpi jahāsa cāpi girijā dṛṣṭvābhinītiṃ navām || 56 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 तस्य | औष्ण्येन | च | चन्द्रमा | द्रवम् | इतः | अमुञ्चत् | सुधाम् | ऊर्ध्वतः | पञ्चास्यस्य | शुभासने | स्तृतिम् | अधात् | पञ्चास्यचर्म | अपि | तत् | प्राणन् | एकपदे | जगर्ज | वृषभः | भीतः | ततः | प्राद्रवत् | बिब्बीडा | अपि | जहास | च | अपि | गिरिजा | दृष्ट्वा | अभिनीतिम् | नवाम्
@@ -168,12 +168,12 @@ Due to the intense heat, the Moon residing upon Lord Shiva’s head melted and r
 अन्यैर्हासविकासभूमपरिषण्मध्येस्थितैर्व्याहृतम् <br/>
 पीयूषं विषतां गतं शिवगृहे दृष्ट्वेव कण्ठे विषम् <br/>
 सङ्गाज्जायत एव कापि विकृतिः प्रायः प्रकृत्यापि यम् <br/>
-सैवाऽद्याविरभूत् शिवोत्सवदिने मूर्ती भवन्ती स्फुटम् <br/>
+सैवाऽद्याविरभूत् शिवोत्सवदिने मूर्ती भवन्ती स्फुटम् ॥ ५७ ॥<br/>
 
 anyairhāsavikāsabhūmapariṣanmadhyesthitairvyāhṛtam <br/>
 pīyūṣaṃ viṣatāṃ gataṃ śivagṛhe dṛṣṭveva kaṇṭhe viṣam <br/>
 saṅgājjāyata eva kāpi vikṛtiḥ prāyaḥ prakṛtyāpi yam <br/>
-saivā'dyāvirabhūt śivotsavadine mūrtī bhavantī sphuṭam <br/>
+saivā'dyāvirabhūt śivotsavadine mūrtī bhavantī sphuṭam || 57 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 अन्यैः | हासविकासभूमपरिषण्मध्येस्थितैः | व्याहृतम् | पीयूषम् | विषताम् | गतम् | शिवगृहे | दृष्ट्वा | इव | कण्ठे | विषम् | सङ्गात् | जायत | एव | कापि | विकृतिः | प्रायः | प्रकृत्यापि | यम् | सा | एव | अद्य | आविरभूत् | शिवोत्सवदिने | मूर्तीभवन्ती | स्फुटम्
@@ -199,12 +199,12 @@ The others present in the assembly, where laughter was blooming, remarked, "Perh
 लोके गाङ्गजलञ्जलान्तर्गतं तद्रूपमाप्तं श्रुतम् <br/>
 गाङ्गे वारिणि वाऽन्यदम्बु मिलितं गाङ्गं भवेन्निर्मलम् <br/>
 अत्र स्यात्तु सुधा विषं विषमयी स्याद्वा सुधा तत्क्षणम् <br/>
-ऊर्ध्वाधोगतिकृत्तुलापटलवत् न स्यात् स्थिरं यत् क्षणम् <br/>
+ऊर्ध्वाधोगतिकृत्तुलापटलवत् न स्यात् स्थिरं यत् क्षणम् ॥ ५८ ॥<br/>
 
 loke gāṅgajalañjalāntargataṃ tadrūpamāptaṃ śrutam <br/>
 gāṅge vāriṇi vā'nyadambu militaṃ gāṅgaṃ bhavennirmalam <br/>
 atra syāttu sudhā viṣaṃ viṣamayī syādvā sudhā tatkṣaṇam <br/>
-ūrdhvādhogatikṛttulāpaṭalavat na syāt sthiraṃ yat kṣaṇam <br/>
+ūrdhvādhogatikṛttulāpaṭalavat na syāt sthiraṃ yat kṣaṇam || 58 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 लोके | गाङ्गजलम् | जलान्तर्गतम् | तद्रूपम् | आप्तम् | श्रुतम् | गाङ्गे | वारिणि | वा | अन्यदम्बु | मिलितम् | गाङ्गम् | भवेत् | निर्मलम् | अत्र | स्यात् | तु | सुधा | विषम् | विषमयी | स्यात् | वा | सुधा | तत्क्षणम् | ऊर्ध्वाधोगतिकृत्तुलापटलवत् | न | स्यात् | स्थिरम् | यत् | क्षणम्
@@ -233,12 +233,12 @@ It is known in the world that when Ganga water mixes with other water, it takes 
 एवं मोदकवान् बभूव गणवान् स्वभ्रातृभक्त्याग्रहात् <br/>
 कारुण्येन परे करे च धृतवान् मुद्रा मभीत्याह्वयाम् <br/>
 पर्शुपर्शुधरत्वविश्रुति जुषो रामस्य विस्मापनम् <br/>
-लक्ष्मीपीननितम्बदन्तमिवाब्जं सान्त्वयन् तत्परे <br/>
+लक्ष्मीपीननितम्बदन्तमिवाब्जं सान्त्वयन् तत्परे ॥ ५९ ॥<br/>
 
 evaṃ modakavān babhūva gaṇavān svabhrātṛbhaktyāgrahāt <br/>
 kāruṇyena pare kare ca dhṛtavān mudrā mabhītyāhvayām <br/>
 parśuparśudharatvaviśruti juṣo rāmasya vismāpanam <br/>
-lakṣmīpīnanitambadantamivābjaṃ sāntvayan tatpare <br/>
+lakṣmīpīnanitambadantamivābjaṃ sāntvayan tatpare || 59 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 एवम् | मोदकवान् | बभूव | गणवान् | स्वभ्रातृभक्त्याग्रहात् | कारुण्येन | परे | करे | च | धृतवान् | मुद्राम् | अभीत्याह्वयाम् | पर्शुम् | पर्शुधरत्वविश्रुतिजुषः | रामस्य | विस्मापनम् | लक्ष्मीपीननितम्बमर्दितम् | इव | अब्जम् | सान्त्वयन् | तत्परे
@@ -266,12 +266,12 @@ In this way, Ganesha, the Lord of the Ganas, became the holder of a Modaka due t
 अम्भोजानि ममर्द साति चपला ब्रह्मा च वृद्धोऽपि सन्<br/>
 तुम्बाकारनितम्बबिम्ब युगतोधृत्वा निजाऽऽस्याऽऽसने<br/>
 म्लानिं तन्मनसो निरीक्ष्य सहरि र्हारी गंणेशो निजे<br/>
-हस्ते धारयतेऽद्य यावदपि तच्छान्तिं विधत्तेऽनिशम्<br/>
+हस्ते धारयतेऽद्य यावदपि तच्छान्तिं विधत्तेऽनिशम् ॥ ६० ॥<br/>
 
 ambhojāni mamarda sāti capalā brahmā ca vṛddho'pi san<br/>
 tumbākāranitambabimba yugatodhṛtvā nijā'syā'sane<br/>
 mlāniṃ tanmanaso nirīkṣya sahari rhārī gaṇeśo nije<br/>
-haste dhārayate'dya yāvadapi tacchāntiṃ vidhatte'niśam<br/>
+haste dhārayate'dya yāvadapi tacchāntiṃ vidhatte'niśam || 60 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 अम्भोजानि | ममर्द | सा | अतिचपला | ब्रह्मा | च | वृद्धः | अपि | सन् | तुम्बाकारनितम्बबिम्बयुगतः | धृत्वा | निजास्यासने | म्लानिम् | तन्मनसः | निरीक्ष्य | सः | हरिः | हारी | गणेशः | निजे | हस्ते | धारयते | अद्य | यावत् | अपि | तच्छान्तिम् | विधत्ते | अनिशम्
@@ -300,12 +300,12 @@ The extremely fickle Goddess Lakshmi and the aged Lord Brahma both used lotuses 
 चन्द्रं चापि ययाच कर्हिचिदयं स्वां मातरं मोदयन्<br/>
 मात देहि नवीनमोदकमिमं चञ्चत्प्रभं सर्वतः<br/>
 नो ना वत्स ! चकोरनामविहगानां भोजनाऽऽयोजनम्<br/>
-नाऽऽदद्युश्चलबालका इति धिया प्रोच्चस्थलस्थीकृतम्<br/>
+नाऽऽदद्युश्चलबालका इति धिया प्रोच्चस्थलस्थीकृतम् ॥ ६१ ॥<br/>
 
 candraṃ cāpi yayāca karhicidayaṃ svāṃ mātaraṃ modayan<br/>
 māta dehi navīnamodakamimaṃ cañcatprabhaṃ sarvataḥ<br/>
 no nā vatsa ! cakoranāmavihagānāṃ bhojanā'yojanam<br/>
-nā'dadyuścalabālakā iti dhiyā procchasthalasthīkṛtam<br/>
+nā'dadyuścalabālakā iti dhiyā procchasthalasthīkṛtam || 61 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 चन्द्रम् | च | अपि | ययाच | कर्हिचित् | अयम् | स्वाम् | मातरम् | मोदयन् | मातः | देहि | नवीनमोदकम् | इमम् | चञ्चत्प्रभम् | सर्वतः | नो | ना | वत्स | चकोरनामविहगानाम् | भोजनायोजनम् | न | आदद्युः | चलबालकाः | इति | धिया | प्रोच्चस्थलस्थीकृतम्
@@ -334,12 +334,12 @@ Once, Ganesha, wishing to delight his mother, asked for the moon, saying, "Mothe
 कि न्नैवात्ति चकोरतः पर इमं कश्चिद् धरित्रीजनः ?<br/>
 किन्तर्ह्यत्र पिपीलकौघ इवयो ब्रूते कलङ्कं जगत्<br/>
 शिक्यच्छायमिदं तु वत्स ! पतितं यस्मिन्निदं लम्बते<br/>
-आधेयेऽपि विभासते ऽम्बुनि सदा तत्तीर भित्तिर्यथा<br/>
+आधेयेऽपि विभासते ऽम्बुनि सदा तत्तीर भित्तिर्यथा ॥ ६२ ॥<br/>
 
 ki nnaivātti cakorataḥ para imaṃ kaścid dharitrījanaḥ ?<br/>
 kintarhyatra pipīlakaugha ivayo brūte kalaṅkaṃ jagat<br/>
 śikyacchāyamidaṃ tu vatsa ! patitaṃ yasminnidaṃ lambate<br/>
-ādhye'pi vibhāsate 'mbuni sadā tattīra bhittiryathā<br/>
+ādhye'pi vibhāsate 'mbuni sadā tattīra bhittiryathā || 62 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 किम् | न | एव | अत्ति | चकोरतः | परः | इमम् | कश्चित् | धरित्रीजनः | किम् | तर्हि | अत्र | पिपीलकौघः | इव | यः | ब्रूते | कलङ्कम् | जगत् | शिक्यच्छायम् | इदम् | तु | वत्स | पतितम् | यस्मिन् | इदम् | लम्बते | आधेये | अपि | विभासते | अम्बुनि | सदा | तत्तीरभित्तिः | यथा
@@ -365,12 +365,12 @@ kintarhyatra pipīlakaugha ivayo brūte kalaṅkaṃ jagat<br/>
 यद्वावैतत् सुलभं यदा पितृशिरो गङ्गाङ्क‌बिम्बप्रदम्<br/>
 तद्याचस्व स्वपूज्यतातचरणाँस्ते ते प्रदद्यु स्तमाम्<br/>
 जग्धोऽर्धस्तु परं पिपीलकगणै रर्धोऽपि तावत् क्षयेत्<br/>
-तत्प्रक्षालनकाम्ययैव शिरसो गङ्गाङ्क आयात्ययम्<br/>
+तत्प्रक्षालनकाम्ययैव शिरसो गङ्गाङ्क आयात्ययम् ॥ ६३ ॥<br/>
 
 yadvāwaitat sulabhaṃ yadā pitṛśiro gaṅgāṅka‌bimbapradam<br/>
 tadyācasva svapūjyatātacaraṇāṃste te pradadyu stamām<br/>
 jagdho'rdhastu paraṃ pipīlakagaṇai rardho'pi tāvat kṣayet<br/>
-tatprakṣālanakāmyayaiva śiraso gaṅgāṅka āyātyayam<br/>
+tatprakṣālanakāmyayaiva śiraso gaṅgāṅka āyātyayam || 63 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 यत् | वै | एतत् | सुलभम् | यदा | पितृशिरोगङ्गाङ्कबिम्बप्रदम् | तत् | याचस्व | स्वपूज्यतातचरणात् | ते | ते | प्रदद्युः | तमाम् | जग्धः | अर्धः | तु | परम् | पिपीलकगणैः | अर्धः | अपि | तावत् | क्षयेत् | तत्प्रक्षालनकाम्यया | इव | शिरसः | गङ्गाङ्कम् | आयाति | अयम्
@@ -395,11 +395,11 @@ tatprakṣālanakāmyayaiva śiraso gaṅgāṅka āyātyayam<br/>
 एतेनैव पथा तु सोऽपि कथयेदम्बां निजां रम्ब भोः | <br/>
 तस्मात्त्वं स्वमुखेन तं कथयताद् दद्याच्च मे स स्वयम् || <br/>
 नौदासीन्य मिदं धरिष्यति भवस्त्वद्भावनाभावुकः | <br/>
-बालाऽऽलापसुखस्य पूर्णरसिकस्तस्मात् परीक्षस्व तम् || <br/>
+बालाऽऽलापसुखस्य पूर्णरसिकस्तस्मात् परीक्षस्व तम् || ६४ ||<br/>
 etenaiva pathā tu so'pi kathayedambāṃ nijāṃ rambha bhoḥ | <br/>
 tasmāttvaṃ svamukhena taṃ kathayatād dadyācca me sa svayam || <br/>
 naudāsīnya midaṃ dhariṣyati bhavastvadbhāvanābhāvukaḥ | <br/>
-bālā'lāpasukhasya pūrṇarasikastasmāt parīkṣasva tam || <br/>
+bālā'lāpasukhasya pūrṇarasikastasmāt parīkṣasva tam || 64 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 एतेन | एव | पथा | तु | सः | अपि | कथयेत् | अम्बां | निजाम् | रम्ब | भोः | तस्मात् | त्वम् | स्वमुखेन | तम् | कथयतात् | दद्यात् | च | मे | सः | स्वयम् | न | औदासीन्यम् | इदम् | धरिष्यति | भवः | त्वद्भावनाभावुकः | बालालापसुखस्य | पूर्णरसिकः | तस्मात् | परीक्षस्व | तम्

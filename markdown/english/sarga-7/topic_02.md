@@ -6,12 +6,12 @@ The desire of Vyasa to find a suitable scribe to write down the Mahabharata inde
 विज्ञप्तिः प्रोकटीकृता यदि भवेल्लेखक्रियायां पटुः <br/>
 तावद् ध्यानधरो मदीयमुखतो यावद् वचो निर्झरेत् || <br/>
 आयायात् स मदग्रतो द्रुततरं देवोऽथवा दानवः <br/>
-प्रोज्यद्यौवनभानवः सुपठितः स्यात् कोऽपि वा मानवः || <br/>
+प्रोज्यद्यौवनभानवः सुपठितः स्यात् कोऽपि वा मानवः || ६ ||<br/>
 
 Vijñaptiḥ prokaṭīkṛtā yadi bhavellekhakriyāyāṃ paṭuḥ <br/>
 tāvad dhyānadharo madīyamukhato yāvad vaco nirjharet || <br/>
 āyāyāt sa madagrato drutataraṃ devo'thavā dānavaḥ <br/>
-projyadyauvanabhānavaḥ supaṭhitaḥ syāt ko'pi vā mānavaḥ || <br/>
+projyadyauvanabhānavaḥ supaṭhitaḥ syāt ko'pi vā mānavaḥ || 6 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 विज्ञप्तिः | प्रोकटीकृता | यदि | भवेत् | लेखक्रियायाम् | पटुः | तावत् | ध्यानधरः | मदीयमुखतः | यावत् | वचः | निर्झरेत् | आयायात् | सः | मदग्रतः | द्रुततरम् | देवः | अथवा | दानवः | प्रोज्यद्यौवनभानवः | सुपठितः | स्यात् | कः | अपि | वा | मानवः
@@ -42,12 +42,12 @@ Vyasa made an announcement: "Whoever is highly skilled in writing and can concen
 दूर्वा दीर्घतमा शुकांगसदृशी शीतासने कोमला <br/>
 शीतोष्णा बदराख्यवृक्षदलजा छाया सदा मस्तके || <br/>
 यस्यां चन्द्ररवी युतौ तितउवत् निर्गच्छतो वा बहिः <br/>
-संसारक्षणिताप्रकाशनपरौ कश्चित् समेयात् पुरः || <br/>
+संसारक्षणिताप्रकाशनपरौ कश्चित् समेयात् पुरः || ७ ||<br/>
 
 Dūrvā dīrghatamā śukāṅgasadṛśī śītāsane komalā <br/>
 śītoṣṇā badarākhyavṛkṣadalajā chāyā sadā mastake || <br/>
 yasyāṃ candraravī yutau titauvat nirgacchato vā bahiḥ <br/>
-saṃsārakṣaṇitāprakāśanaparau kaścit sameyāt puraḥ || <br/>
+saṃsārakṣaṇitāprakāśanaparau kaścit sameyāt puraḥ || 7 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 दूर्वा | दीर्घतमा | शुकांगसदृशी | शीतासने | कोमला | शीतोष्णा | बदराख्यवृक्षदलजा | छाया | सदा | मस्तके | यस्याम् | चन्द्ररवी | युतौ | तितउवत् | निर्गच्छतः | वा | बहिः | संसारक्षणिताप्रकाशनपरौ | कश्चित् | समेयात् | पुरः
@@ -78,12 +78,12 @@ In our hermitage, there is soft, cool Durva grass, long and green like a parrot'
 चूष्यं चेन्मृदु जम्बुनामकफलं कुक्षिस्थरोगापहम् <br/>
 लावण्येन ललामतामपि गतं माल्यं च बाल्यालयैः || <br/>
 श्यामाम्भोधरपिण्डखण्डसदृशं पत्रोपरि स्थापितम् <br/>
-प्राणिभ्यः स्वप्रसादवन् मघवता स्वीयासनारोहणे || <br/>
+प्राणिभ्यः स्वप्रसादवन् मघवता स्वीयासनारोहणे || ८ ||<br/>
 
 Cūṣyaṃ cenmṛdu jambunāmakaphalaṃ kukṣistharogāpaham <br/>
 lāvaṇyena lalāmatāmapi gataṃ mālyaṃ ca bālyālayaiḥ || <br/>
 śyāmāmbhodharapiṇḍakhaṇḍasadṛśaṃ patropari sthāpitam <br/>
-prāṇibhyaḥ svaprasādavan maghavatā svīyāsanārohaṇe || <br/>
+prāṇibhyaḥ svaprasādavan maghavatā svīyāsanārohaṇe || 8 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 चूष्यम् | चेत् | मृदु | जम्बुनामकफलम् | कुक्षिस्थरोगापहम् | लावण्येन | ललामताम् | अपि | गतम् | माल्यम् | च | बाल्यालयैः | श्यामाम्भोधरपिण्डखण्डसदृशम् | पत्रोपरि | स्थापितम् | प्राणिभ्यः | स्वप्रसादवत् | मघवता | स्वीयासनारोहणे
@@ -115,12 +115,12 @@ In our hermitage, there are soft Jambu fruits that cure stomach ailments. When s
 तौंग्यात् तिष्ठति कौतुकात् कपिगणो यस्मिन् कपित्थं ततः <br/>
 तस्यैवात्र फलं प्रपातितमधो मातंगकण्डूयनैः || <br/>
 खल्वाटस्य शिरोऽपहं प्रपतनान् नानाकपिक्रीडया <br/>
-गोलं लड्डुककन्दुकादिसदृशं स्वान्तर्मृदु त्वग्दृढम् || <br/>
+गोलं लड्डुककन्दुकादिसदृशं स्वान्तर्मृदु त्वग्दृढम् || ९ ||<br/>
 
 Tauṅgyāt tiṣṭhati kautukāt kapigaṇo yasmin kapitthaṃ tataḥ <br/>
 tasyaivātra phalaṃ propātitamadho mātaṅgakaṇḍūyanaiḥ || <br/>
 khalvāṭasya śiro'pahaṃ prapatanān nānākapikrīḍayā <br/>
-golaṃ laḍḍukakandukādisadṛśaṃ svāntarmṛdu tvagdṛḍham || <br/>
+golaṃ laḍḍukakandukādisadṛśaṃ svāntarmṛdu tvagdṛḍham || 9 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 तौंग्यात् | तिष्ठति | कौतुकात् | कपिगणः | यस्मिन् | कपित्थम् | ततः | तस्य | एव | अत्र | फलम् | प्रपातितम् | अधः | मातंगकण्डूयनैः | खल्वाटस्य | शिरः | अपहम् | प्रपतनात् | नानाकपिक्रीडया | गोलम् | लड्डुककन्दुकादिसदृशम् | स्वान्तर्मृदु | त्वग्दृढम्
@@ -153,12 +153,12 @@ Because the trees are tall and the monkeys sit on them with great interest, they
 ईदृक् सात्त्विकसंपदा विलसितेऽस्मिन्नाश्रमे निःश्रम-<br/>
 द्रव्ये चेज्जनतोपकाररसिकस्तूर्णं समेयात् पुरः॥<br/>
 नानाभूघटनान्धकारहरणे दीपावलीदीपभे<br/>
-दीर्घाख्यानसुवर्तिकाशतधरे ग्रन्थेऽस्त्यपेक्ष्योऽस्ति नः॥
+दीर्घाख्यानसुवर्तिकाशतधरे ग्रन्थेऽस्त्यपेक्ष्योऽस्ति नः॥ १० ॥
 
 Īdṛk sāttvikasaṃpadā vilasite'sminnāśrame niḥśrama-<br/>
 dravye cejjanatopakārarasikastūrṇaṃ samayāt puraḥ॥<br/>
 nānābhūghaṭanāndhakāraharaṇe dīpāvalīdīpabhe<br/>
-dīrghākhyānasuvartikāśatadhare granthe'styapekṣyo'sti naḥ॥
+dīrghākhyānasuvartikāśatadhare granthe'styapekṣyo'sti naḥ॥ 10 ॥
 
 ### पदच्छेदम् (Padacchedam):
 ईदृक् | सात्त्विकसंपदा | विलसिते | अस्मिन् | आश्रमे | निःश्रमद्रव्ये | चेत् | जनतोपकाररसिकः | तूर्णम् | समेयात् | पुरः | नानाभूघटनान्धकारहरणे | दीपावलीदीपभे | दीर्घाख्यानसुवर्तिकाशतधरे | ग्रन्थे | अस्ति | अपेक्ष्यः | अस्ति | नः

@@ -4,11 +4,11 @@
 अद्वैतामृतवारिधिः स्वमनसा द्वैमातुरो द्व्याकृतिः |<br/>
 आशापूरक आखुकेतु रपि वाऽऽधारो निराधारिणाम् ||<br/>
 इक्षुक्रीडक इन्द्रगोपसमभा इक्ष्वाकुवंशप्रियः |<br/>
-ईशानात्मज ईतिहा च जगता मीक्षारतः कर्मणाम् ||<br/>
+ईशानात्मज ईतिहा च जगता मीक्षारतः कर्मणाम् || ३५ ||<br/>
 Advaitāmṛtavāridhiḥ svamanasā dvaimāturo dvyākṛtiḥ |<br/>
 Āśāpūraka ākhuketu rapi vā''dhāro nirādhāriṇām ||<br/>
 Ikṣukrīḍaka indragopasamabhā ikṣvākuvaṃśapriyaḥ |<br/>
-Īśānātmaja ītihā ca jagatā mīkṣārataḥ karmaṇām ||
+Īśānātmaja ītihā ca jagatā mīkṣārataḥ karmaṇām || 35 ||
 
 ### पदच्छेदम् (Padacchedam):
 अद्वैत-अमृत-वारिधिः | स्व-मनसा | द्वैमातुरः | द्वि-आकृतिः | आशापूरकः | आखु-केतुः | अपि | वा | आधारः | निराधारिणाम् | इक्षु-क्रीडकः | इन्द्रगोप-सम-भाः | इक्ष्वाकु-वंश-प्रियः | ईशान-आत्मजः | ईतिहा | च | जगताम् | ईक्षा-रतः | कर्मणाम् |
@@ -37,11 +37,11 @@ He is the ocean of the nectar of non-duality within His mind, the one with two m
 उत्तुङ्गाऽस्य उदार उन्नतकरोऽप्युच्छेदकश्चापदाम् |<br/>
 ऊर्जस्वान् बहु धोष्मवा नृजुमना ऋग्वेदविख्यातिमान् ||<br/>
 एलाचर्बणकृत् सदैजितमहाविघ्नद्रुमारण्यकः |<br/>
-ऐश्वर्यस्य निधिः स्थिरैहिकसुखानामकक्षयः सागरः ||<br/>
+ऐश्वर्यस्य निधिः स्थिरैहिकसुखानामकक्षयः सागरः || ३६ ||<br/>
 Uttuṅgā'sya udāra unnatikaro'pyucchedakaścāpadām |<br/>
 Ūrjasvān bahu dhoṣmavā nṛjumanā ṛgvedavikhyātimān ||<br/>
 Elācarbaṇakṛt sadaijitamahāvighnadrumāraṇyakaḥ |<br/>
-Aiśvaryasya nidhiḥ sthiraihikasukhānāmakṣayaḥ sāgaraḥ ||
+Aiśvaryasya nidhiḥ sthiraihikasukhānāmakṣayaḥ sāgaraḥ || 36 ||
 
 ### पदच्छेदम् (Padacchedam):
 उत्तुङ्ग-आस्यः | उदारः | उन्नति-करः | अपि | उच्छेदकः | च | आपदाम् | ऊर्जस्वान् | बहुधा | ऊष्मवान् | ऋजुमनाः | ऋग्वेद-विख्यातिमान् | एला-चर्वणकृत् | सदा | एजित-महाविघ्न-द्रुम-अरण्यकः | ऐश्वर्यस्य | निधिः | स्थिर-ऐहिक-सुखानाम् | अक्षयः | सागरः |
@@ -70,11 +70,11 @@ He has a lofty face, a generous nature, causes progress, and is the destroyer of
 ओङ्कारं दध दोषधीपतिनुत श्चञ्चच्चतुर्थ्यां च यः |<br/>
 औन्नत्याय सदोद्यतोऽस्ति च सता मौद्धत्यहा दुर्नृणाम् ||<br/>
 कर्माऽकर्म फलप्रदः करिमुखः कारुण्यवान् कान्तिमान् |<br/>
-किङ्किण्योधकटिश्च कीलनकरः कुन्तत्रिशूलाग्रतः ||<br/>
+किङ्किण्योधकटिश्च कीलनकरः कुन्तत्रिशूलाग्रतः || ३७ ||<br/>
 Oṅkāraṃ dadha doṣadhīpatinuta ścañcaccaturthyāṃ ca yaḥ |<br/>
 Aunnatyāya sadodyato'sti ca satā mauddhatyahā durnṛṇām ||<br/>
 Karmā'karma phalapradaḥ karimukhaḥ kāruṇyavān kāntimān |<br/>
-Kiṅkiṇyodhakatiśca kīlanakaraḥ kuntatriśūlāgrataḥ ||
+Kiṅkiṇyodhakatiśca kīlanakaraḥ kuntatriśūlāgrataḥ || 37 ||
 
 ### पदच्छेदम् (Padacchedam):
 ओङ्कारम् | दधत् | ओषधीपति-नुतः | चञ्चत्-चतुर्थ्याम् | च | यः | औन्नत्याय | सदा | उद्यतः | अस्ति | च | सताम् | औद्धत्य-हा | दुर्नृणाम् | कर्म-अकर्म-फल-प्रदः | करिमुखः | कारुण्यवान् | कान्तिमान् | किङ्किणी-ओघ-कटिः | च | कीलनकरः | कुन्त-त्रिशूल-अग्रतः |
@@ -102,11 +102,11 @@ He is the embodiment of Omkara, praised by the moon on the vibrant Chaturthi day
 खर्वः खड्गिसखः खनिर्मलतमः खल्वाटवित्तप्रदः |<br/>
 गम्यो यो गमकै र्यतोस्ति गहनो गान्धर्वगीतप्रियः ||<br/>
 घण्टाघर्घरवान् ङकारधरणः शुण्डच्छला द्यो मतः |<br/>
-इत्थं नित्य कुवर्गवर्णरसिकः सद्वर्गवन्द्योधिकम् ||<br/>
+इत्थं नित्य कुवर्गवर्णरसिकः सद्वर्गवन्द्योधिकम् || ३८ ||<br/>
 Kharvaḥ khaḍgisakhaḥ khanirmalatamaḥ khalvāṭavittapradaḥ |<br/>
 Gamyo yo gamakai ryatosti gahano gāndharvagītapriyaḥ ||<br/>
 Ghaṇṭāghargharavān ṅkāradharaṇaḥ śuṇḍacchalā dyo mataḥ |<br/>
-Itthaṃ nitya kuvargavarṇarasikaḥ sadvargavandyodhikam ||
+Itthaṃ nitya kuvargavarṇarasikaḥ sadvargavandyodhikam || 38 ||
 
 ### पदच्छेदम् (Padacchedam):
 खर्वः | खड्गिसखः | ख-निर्मलतमः | खल्वाट-वित्त-प्रदः | गम्यः | यः | गमकैः | यतः | अस्ति | गहनः | गान्धर्व-गीत-प्रियः | घण्टा-घर्घरवान् | ङकार-धरणः | शुण्ड-च्छलात् | यः | मतः | इत्थम् | नित्यम् | कु-वर्ग-वर्ण-रसिकः | सत्-वर्ग-वन्द्यः | अधिकम् |
@@ -135,12 +135,12 @@ He is short-statured, a friend to the sword-bearers, as pure as the sky, and a b
 चन्द्रांशौ तु चकोरवन्निशि रतो नो चण्डरश्मौ दिवा |<br/>
 छत्रच्छन्दवपुश्छटाविलसितश्छेत्ता महाछद्मनाम् ||<br/>
 जाप्यो यो जपकारकैरजनगणैर्नो जञ्जपूकप्रियः |<br/>
-झङ्कारिभ्रमरैर्युतो मदजलैर्भृङ्गाश्च 'ञ' यत्र वा ||
+झङ्कारिभ्रमरैर्युतो मदजलैर्भृङ्गाश्च 'ञ' यत्र वा || ३९ ||
 
 Candrāṃśau tu cakōravanniśi ratō nō caṇḍaraśmau divā |<br/>
 Chatracchandavapuśchaṭāvilasitaśchēttā mahāchadmanām ||<br/>
 Jāpyō yō japakārakairajanagaṇairnō jañjapūkapriyaḥ |<br/>
-Jhaṅkāribhramarairyutō madajalairbhṛṅgāśca 'ña' yatra vā ||
+Jhaṅkāribhramarairyutō madajalairbhṛṅgāśca 'ña' yatra vā || 39 ||
 
 ### पदच्छेदम् (Padacchedam):
 चन्द्र-अंशौ | तु | चकोरवत् | निशि | रतः | नो | चण्ड-रश्मौ | दिवा | छत्र-च्छन्द-वपुः-छटा-विलसितः | छेत्ता | महा-छद्मनाम् | जाप्यः | यः | जपकारकैः | जन-गणैः | नो | जञ्जपूक-प्रियः | झङ्कारि-भ्रमरैः | युतः | मद-जलैः | भृङ्गाः [bhṛṅgāḥ] | च | 'ञ' | यत्र | वा |
@@ -166,12 +166,12 @@ He is attached to the moonbeams at night like the Cakora bird, but remains indif
 मूर्धन्यश्च टुवर्गवर्णसदृशो योऽन्तःस्थितोऽन्तःस्थवत् |<br/>
 दन्तप्रीतिकरस्तुवर्ग सदृश श्चुम्ब्यः पुव द्योऽधरे ||<br/>
 नानारूपधरः सकारवदहो तत्तत् स्थलान्तर्गतः |<br/>
-तस्मै वर्णमयी समर्प्यते इयं दीर्घा सुदूर्वा नवा ||
+तस्मै वर्णमयी समर्प्यते इयं दीर्घा सुदूर्वा नवा || ४० ||
 
 Mūrdhanyaśca ṭuvargavarṇasadṛśō yō'ntaḥsthitō'ntaḥsthavat |<br/>
 Dantaprītikaratuvarga sadṛśa ścumbyaḥ puva dyō'dharē ||<br/>
 Nānārūpadharaḥ sakāravadahō tattat sthalāntargataḥ |<br/>
-Tasmai varṇamayī samarpyatē iyaṃ dīrghā sudūrvā navā ||
+Tasmai varṇamayī samarpyatē iyaṃ dīrghā sudūrvā navā || 40 ||
 
 ### पदच्छेदम् (Padacchedam):
 मूर्धन्यः | च | टु-वर्ग-वर्ण-सदृशः | यः | अन्तः-स्थितः | अन्तःस्थवत् | दन्त-प्रीतिकरः | तु-वर्ग-सदृशः | चुम्ब्यः | पु-वत् | यः | अधरे | नाना-रूप-धरः | स-कार-वत् | अहो | तत्-तत्-स्थल-अन्तर्गतः | तस्मै | वर्णमयी | समर्प्यते | इयं | दीर्घा | सु-दूर्वा | नवा |

@@ -6,12 +6,12 @@ The explanation of small eyes (subtle vision) and large ears (listening to every
 सर्वत्रैव सरोजपत्रनयना नेत्रप्रशंसां गताः |<br/>
 श्रीविष्णुश्च सरस्वती च कमला ब्रह्मा शिवो वा शिवा ||<br/>
 देवोऽयं लघुचक्षुषोरपि धरः स्वे शासने निन्हुतः |<br/>
-नाक्ष्णोरस्ति महत्वमक्षिमहसां यादृङ् महत्वं मतम् ||<br/>
+नाक्ष्णोरस्ति महत्वमक्षिमहसां यादृङ् महत्वं मतम् || २७ ||<br/>
 
 sarvatraiva sarojapatranayanā netrapraśaṃsāṃ gatāḥ |<br/>
 śrīviṣṇuśca sarasvatī ca kamalā brahmā śivo vā śivā ||<br/>
 devo'yaṃ laghucakṣuṣorapi dharaḥ sve śāsane ninhutaḥ |<br/>
-nākṣṇorasti mahatvamakṣimahasāṃ yādṛṅ mahatvaṃ matam ||<br/>
+nākṣṇorasti mahatvamakṣimahasāṃ yādṛṅ mahatvaṃ matam || 27 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 सर्वत्र | एव | सरोज-पत्र-नयनाः | नेत्र-प्रशंसाम् | गताः | श्रीविष्णुः | च | सरस्वती | च | कमला | ब्रह्मा | शिवः | वा | शिवा | देवः | अयम् | लघु-चक्षुषोः | अपि | धरः | स्वे | शासने | निन्हुतः | न | अक्षणोः | अस्ति | महत्वम् | अक्षि-महसाम् | यादृक् | महत्वम् | मतम् |
@@ -39,12 +39,12 @@ Everywhere, deities like Vishnu, Lakshmi, Saraswati, Brahma, Shiva, and Parvati 
 सूक्ष्मैरक्षिभिरैव वीक्षणचणो राजा प्रशंस्योमतः |<br/>
 मन्ये तेन सदैव सूक्ष्मिनयने एष द्विपास्योऽधरत् ||<br/>
 लक्ष्यं भेत्तुमिमे जगन्मृगयवोऽऽक्ष्णां कोणमामील्य यत् |<br/>
-सिध्यन्तीति गणेश सूक्ष्म नयने शिष्टो निजं शासनम् ||<br/>
+सिध्यन्तीति गणेश सूक्ष्म नयने शिष्टो निजं शासनम् || २८ ||<br/>
 
 sūkṣmairakṣibhiraiva vīkṣaṇacaṇo rājā praśaṃsyōmataḥ |<br/>
 manye tena sadaiva sūkṣminayane eṣa dvipāsyo'dharat ||<br/>
 lakṣyaṃ bhettumime jaganmṛgayavo'kṣṇāṃ koṇamāmīlya yat |<br/>
-sidhyantīti gaṇeśa sūkṣma nayane śiṣṭo nijaṃ śāsanam ||<br/>
+sidhyantīti gaṇeśa sūkṣma nayane śiṣṭo nijaṃ śāsanam || 28 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 सूक्ष्मैः | अक्षिभिः | एव | वीक्षण-चणः | राजा | प्रशंस्यः | मतः | मन्ये | तेन | सदा | एव | सूक्ष्म-नयने | एषः | द्विपास्यः | अधरत् | लक्ष्यम् | भेत्तुम् | इमे | जगत्-मृगयवः | अक्षणाम् | कोणम् | आमील्य | यत् | सिध्यन्ति | इति | गणेश-सूक्ष्म-नयने | शिष्टः | निजम् | शासनम् |
@@ -72,12 +72,12 @@ A king who is expert in observing with subtle (sharp) vision is considered prais
 संशृण्वीत समं परं न विदधीतोच्चैर्विवेकं विना- |<br/>
 त्येतच्छिक्षण वाञ्छयेव गणपः कर्णौ विशालौऽधात् ||<br/>
 धर्तुं शक्नुत एव यौ बहुविधालङ्कारलोहाङ्कुशौ |<br/>
-तौ दुर्वर्णकलोक वर्णनिचयं किं नो धरेतां चिरम् ||<br/>
+तौ दुर्वर्णकलोक वर्णनिचयं किं नो धरेतां चिरम् || २९ ||<br/>
 
 saṃśṛṇvīta samaṃ paraṃ na vidadhītoccairvivekaṃ vinā- |<br/>
 tyetacchikṣaṇa vāñchayeva gaṇapaḥ karṇau viśālau'dhāt ||<br/>
 dhartuṃ śaknuta eva yau bahuvidhālaṅkāralohāṅkuśau |<br/>
-tau durvarṇakaloka varṇanicayaṃ kiṃ no dharetāṃ ciram ||<br/>
+tau durvarṇakaloka varṇanicayaṃ kiṃ no dharetāṃ ciram || 29 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 संशृण्वीत | समम् | परम् | न | विदधीत | उच्चैः | विवेकम् | विना | इति | एतत्-शिक्षण-वाञ्छया | इव | गणपः | कर्णौ | विशालौ | अधात् | धर्तुम् | शक्नुतः | एव | यौ | बहु-विध-अलङ्कार-लोह-अङ्कुशौ | तौ | दुर्वर्णक-लोक-वर्ण-निचयम् | किम् | नो | धरेताम् | चिरम् |
@@ -103,12 +103,12 @@ One should listen to everyone, but one must not act without deep discrimination.
 भीतिं स्वामधिलोक मुल्बण तमां मास्थापयेत् केवलम् |<br/>
 स्वीयै राक्रमकुक्रमैरतितरां दंशेन्न कंचिन्मनाक् ||<br/>
 इत्याख्यान्निव दन्तरूप मुसलै र्यो विह्वलीकारकः |<br/>
-स्वप्र त्ताधिकृतिस्थितानपि नरान् शिष्यात् स्व शिष्योपमम् ||<br/>
+स्वप्र त्ताधिकृतिस्थितानपि नरान् शिष्यात् स्व शिष्योपमम् || ३० ||<br/>
 
 bhītiṃ svāmadhiloka mulbaṇa tamā māsthāpayet kevalam |<br/>
 svīyai rākramakukramairatitarāṃ daṃśenna kaṃcinmanāk ||<br/>
 ityākhyānniva dantarūpa musalai ryo vihvalīkārakaḥ |<br/>
-svapra ttādhikṛtisthitānapi narān śiṣyāt sva śiṣyopamam ||<br/>
+svapra ttādhikṛtisthitānapi narān śiṣyāt sva śiṣyopamam || 30 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 भीतिम् | स्वाम् | अधिलोकम् | उल्बण-तमाम् | आस्थापयेत् | केवलम् | स्वीयैः | आक्रम-कुक्रमैः | अतितराम् | दंशेत् | न | कञ्चित् | मनाक् | इति | आख्यान् | इव | दन्त-रूप-मुसलैः | यः | विह्वलीकारकः | स्व-प्रत्त-अधिकृति-स्थितान् | अपि | नरान् | शिष्यात् | स्व-शिष्य-उपमम् |
@@ -135,12 +135,12 @@ One should establish one's authority in the world as formidable, but one should 
 उद्धार्यो यतनैश्च नूतनतमैः स्याच्चेदणीयान्नणोः | <br/>
 सत्कार्यो महतो महानपिजनः स्वातंत्र्यमेतत् स्मृतम् || <br/>
 एच्छिक्षयते गणाधिप इमान् स्वातंत्र्यसञ्चालकान् | <br/>
-धृत्वा मूषकवारणावपि मिथो रूपप्रतीपौ सदा || <br/>
+धृत्वा मूषकवारणावपि मिथो रूपप्रतीपौ सदा || ३१ ||<br/>
 
 uddhāryo yatanaiśca nūtanatamaiḥ syāccedaṇīyānnaṇoḥ | <br/>
 satkāryo mahato mahānapijanaḥ svātantryametat smṛtam || <br/>
 ecchikṣayate gaṇādhipa imān svātantryasañcālakān | <br/>
-dhṛtvā mūṣakavāraṇāvapi mitho rūpapratīpau sadā || <br/>
+dhṛtvā mūṣakavāraṇāvapi mitho rūpapratīpau sadā || 31 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 उद्धार्यः | यतनैः | च | नूतन-तमैः | स्यात् | चेत् | अणीयान् | अणोः | सत्कार्यः | महतः | महान् | अपि | जनः | स्वातंत्र्यम् | एतत् | स्मृतम् | एतत् | शिक्षयते | गणाधिपः | इमान् | स्वातंत्र्य-सञ्चालकान् | धृत्वा | मूषक-वारणौ | अपि | मिथः | रूप-प्रतीपौ | सदा |

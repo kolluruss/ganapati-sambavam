@@ -6,12 +6,12 @@ When Shiva and Parvati imposed a condition that one must travel around the three
 स्मृत्वा मोदकवर्तुलत्वनिहितं ता विङ्गितं कृगणाम् <br/>
 पृथ्वीगोल परिक्रमाइकफलकं शिश्वोः पुरः प्रोचतुः <br/>
 साब्धिं शैलवनादिभिः परिवृतां पृथ्वीं परिक्रम्य यः <br/>
-प्राङ् नौ पार्श्व मुपैष्यतीह मुदितो दद्याव तस्मै इमम् <br/>
+प्राङ् नौ पार्श्व मुपैष्यतीह मुदितो दद्याव तस्मै इमम् ॥ ३४ ॥<br/>
 
 smṛtvā modakavartulatvanihitaṃ tā viṅgitaṃ kṛgaṇām <br/>
 pṛthvīgola parikramaikaphalakaṃ śiśvoḥ puraḥ procatuḥ <br/>
 sābdhiṃ śailavanādibhiḥ parivṛtāṃ pṛthvīṃ parikramya yaḥ <br/>
-prāṅ nau pārśva mupaiṣyatīha mudito dadyāva tasmai imam <br/>
+prāṅ nau pārśva mupaiṣyatīha mudito dadyāva tasmai imam || 34 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 स्मृत्वा | मोदकवर्तुलत्वनिहितम् | तौ | इङ्गितम् | कृगणाम् [possible reading: त्रिदशानाम् — of the gods] | पृथ्वीगोलपरिक्रमाइकफलकम् | शिश्वोः | पुरः | प्रोचतुः | साब्धिम् | शैलवनादिभिः | परिवृताम् | पृथ्वीम् | परिक्रम्य | यः | प्राक् | नौ | पार्श्वम् | उपैष्यति | इह | मुदितौ | दद्याव | तस्मै | इमम्
@@ -41,12 +41,12 @@ Remembering the suggestion of the gods hidden within the roundness of the Modaka
 प्रायो धावन कूर्दनाैः शिशुजेनानुष्ठितैः पूर्वजाः <br/>
 तुष्यन्तः प्रदिशन्ति पुष्कल पुरस्कारान् निजाङ्कस्थितान् <br/>
 पश्यन्तीव निरन्तरं शिशुबलं वृद्धिं व्रजद् वा क्षयम् <br/>
-व्यायामः पदयो र्धरास्थितिगतिज्ञानोदयायै ष्वितः <br/>
+व्यायामः पदयो र्धरास्थितिगतिज्ञानोदयायै ष्वितः ॥ ३५ ॥<br/>
 
 prāyo dhāvana kūrdanaiḥ śiśujenānuṣṭhitaiḥ pūrvajāḥ <br/>
 tuṣyantaḥ pradiśanti puṣkala puraskārān nijāṅkasthitān <br/>
 paśyantīva nirantaraṃ śiśubalaṃ vṛddhiṃ vrajad vā kṣayam <br/>
-vyāyāmaḥ padayo rdhārāsthitigatijñānodayāyai ṣvitaḥ <br/>
+vyāyāmaḥ padayo rdhārāsthitigatijñānodayāyai ṣvitaḥ || 35 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 प्रायः | धावनकूर्दनैः | शिशुजनेन | अनुष्ठितैः | पूर्वजाः | तुष्यन्तः | प्रदिशन्ति | पुष्कलपुरस्कारान् | निजाङ्कस्थितान् | पश्यन्ति | इव | निरन्तरम् | शिशुबलम् | वृद्धिम् | व्रजत् | वा | क्षयम् | व्यायामः | पदयोः | धरास्थितिगतिज्ञानोदयाय | एषु | इतः
@@ -76,12 +76,12 @@ Generally, elders feel delighted watching the running and jumping of children an
 नाना देशविशेषमानवरमावेषाश्च केशच्छटाः <br/>
 ज्ञायन्ते शिशुर्भिविदेश गमनै र्निष्पुस्तिकासञ्चयम् <br/>
 अद्यत्वे बहवो भ्रमन्ति विविधा गन्त्री र्दधाना नवाः <br/>
-मन्ये प्राक् समयाच्च खण्डपरशो र्गेहात् प्रचारोऽभवत् <br/>
+मन्ये प्राक् समयाच्च खण्डपरशो र्गेहात् प्रचारोऽभवत् ॥ ३६ ॥<br/>
 
 nānā deśaviśeṣamānavaramāveṣāśca keśacchaṭāḥ <br/>
 jñāyante śiśurbhivideśa gamanai rniṣpustikāsañcayam <br/>
 adyatve bahavo bhramanti vividhā gantrī rdadānā navāḥ <br/>
-manye prāk samayācca khaṇḍaparaśo rgehāt pracāro'bhavat <br/>
+manye prāk samayācca khaṇḍaparaśo rgehāt pracāro'bhavat || 36 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 नानादेशविशेषमानवरमावेषाः | च | केशच्छटाः | ज्ञायन्ते | शिशुभिः | विदेशगमनैः | निष्पुस्तिकासञ्चयम् | अद्यत्वे | बहवः | भ्रमन्ति | विविधाः | गन्त्रीः | दधानाः | नवाः | मन्ये | प्राक् | समयात् | च | खण्डपरशोः | गेहात् | प्रचारः | अभवत्
@@ -110,12 +110,12 @@ By traveling to foreign lands, children learn about the unique attire and hairst
 आनन्दस्य महीरुहो सुतगुहः सत्पुच्छ पिच्छैर्युते <br/>
 आसीनः स्वमयूरपृष्ठपटले कौमल्यतल्पोपमे <br/>
 षड्दिग्रहासविकासवानिव भवन यातुं प्रवृत्तस्ततः <br/>
-दिक्शूलाख्यकुदोषतोऽपि न च यो भीतः षडास्यो यतः <br/>
+दिक्शूलाख्यकुदोषतोऽपि न च यो भीतः षडास्यो यतः ॥ ३७ ॥<br/>
 
 ānandasya mahīruho sutaguhaḥ satpuccha picchairyute <br/>
 āsīnaḥ svamayūrapṛṣṭhapaṭale kaumalyatalpopame <br/>
 ṣaḍdigrahāsavikāsavāniva bhavan yātuṃ pravṛttastataḥ <br/>
-dikśūlākhyakudoṣato'pi na ca yo bhītaḥ ṣaḍāsyo yataḥ <br/>
+dikśūlākhyakudoṣato'pi na ca yo bhītaḥ ṣaḍāsyo yataḥ || 37 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 आनन्दस्य | महीरुहः | सुतगुहः | सत्पुच्छपिच्छैः | युते | आसीनः | स्वमयूरपृष्ठपटले | कौमल्यतल्पोपमे | षड्दिग्रहासविकासवान् | इव | भवन् | यातुम् | प्रवृत्तः | ततः | दिक्शूलाख्यकुदोषतः | अपि | न | च | यः | भीतः | षडास्यः | यतः
@@ -141,12 +141,12 @@ Guha (Kumaraswami), the son who is like a tree of bliss, seated on the back of h
 श्रुत्वा यो घनगर्जनानि कुरुते केकातूरीणां ध्वनिम् <br/>
 पक्षान् कृन्तति मत्ततामिव धरन् नृत्यन्नितो वा ततः <br/>
 साऽऽरोहं परिलोक्य लोकनिबहस्तं बर्हिणं प्राहसत् <br/>
-नाना स्वागतिभी रुरोध स्वमुदे तत्तत्स्थले तावुभौ <br/>
+नाना स्वागतिभी रुरोध स्वमुदे तत्तत्स्थले तावुभौ ॥ ३८ ॥<br/>
 
 Śrutvā yo ghanagarjanāni kurute kekātūrīṇāṃ dhvanim <br/>
 pakṣān kṛntati mattatāmiva dharan nṛtyannito vā tataḥ <br/>
 sā'rohaṃ parilokya lokanibahastaṃ barhiṇaṃ prāhasat <br/>
-nānā svāgatibhī rurodha svamude tattatsthale tāvubhau <br/>
+nānā svāgatibhī rurodha svamude tattatsthale tāvubhau || 38 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 श्रुत्वा | यः | घनगर्जनानि | कुरुते | केकातूरीणाम् | ध्वनिम् | पक्षान् | कृन्तति | मत्तताम् | इव | धरन् | नृत्यन् | इतः | वा | ततः | सारोहम् | परिलोक्य | लोकनिबहः | तम् | बर्हिणम् | प्राहसत् | नानास्वागतिभिः | रुरोध | स्वमुदे | तत्तत्स्थले | तौ | उभौ
@@ -173,12 +173,12 @@ The peacock, upon hearing the thunder of the clouds, lets out cries that sound l
 शृण्वन् कीर्ति कथां न तृप्यति जनः कार्ये स-विघ्नेऽपि चेत् <br/>
 स्वोद्देश्यस्य निजस्य पूरणविधि र्गौणायतेऽसंशयम् <br/>
 कामं प्राप विलम्ब मेष शरजोऽचिन्तद् गणेशस्त्वितः <br/>
-एवं भूभ्रमणे भविष्यति महान् श्रान्तोऽप्ययं मूषकः <br/>
+एवं भूभ्रमणे भविष्यति महान् श्रान्तोऽप्ययं मूषकः ॥ ३९ ॥<br/>
 
 Śṛṇvan kīrti kathāṃ na tṛpyati janaḥ kārye sa-vighne'pi cet <br/>
 svoddeśyasya nijasya pūraṇavidhi rgauṇāyate'saṃśayam <br/>
 kāmaṃ prāpa vilamba meṣa śarajo'cintad gaṇeśastvitaḥ <br/>
-evaṃ bhūbhramaṇe bhaviṣyati mahān śrānto'pyayaṃ mūṣakaḥ <br/>
+evaṃ bhūbhramaṇe bhaviṣyati mahān śrānto'pyayaṃ mūṣakaḥ || 39 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 शृण्वन् | कीर्तिकथाम् | न | तृप्यति | जनः | कार्ये | सविघ्ने | अपि | चेत् | स्वोद्देश्यस्य | निजस्य | पूरणविधिः | गौणायते | असंशयम् | कामम् | प्राप | विलम्बम् | एषः | शरजः | अचिन्तत् | गणेशः | तु | इतः | एवम् | भूभ्रमणे | भविष्यति | महान् | श्रान्तः | अपि | अयम् | मूषकः

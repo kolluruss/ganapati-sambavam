@@ -6,12 +6,12 @@ The completion of the composition of the Mahabharata, the celestial rain of flow
 मन्त्राराधनतुष्टिभावमयिता नाना कवीनां पुरा<br/>
 गुप्ता कापि सरस्वती भगवती ग्रन्थान् लिखन्ती श्रुता ।<br/>
 प्रत्यक्षकरुणाकरो गणपति र्व्यासस्य शिष्यायितः<br/>
-युञ्जानेन सुयोगिना समतमोऽलेखीन् महाभारतम् ॥<br/>
+युञ्जानेन सुयोगिना समतमोऽलेखीन् महाभारतम् ॥ ७९ ॥<br/>
 
 mantrārādhanatuṣṭibhāvamayitā nānā kavīnāṃ purā<br/>
 guptā kāpi sarasvatī bhagavatī granthān likhantī śrutā |<br/>
 pratyakṣakaruṇākaro gaṇapati rvyāsasya śiṣyāyitaḥ<br/>
-yuñjānena suyoginā samatamo'lekhīn mahābhāratam ||
+yuñjānena suyoginā samatamo'lekhīn mahābhāratam || 79 ||
 
 ### पदच्छेदम् (Padacchedam):
 मन्त्राराधनतुष्टिभावमयिता | नाना | कवीनाम् | पुरा | गुप्ता | का | अपि | सरस्वती | भगवती | ग्रन्थान् | लिखन्ती | श्रुता | प्रत्यक्षकरुणाकरः | गणपतिः | व्यासस्य | शिष्यायितः | युञ्जानेन | सुयोगिना | समतमः | अलेखीत् | महाभारतम्
@@ -36,24 +36,24 @@ We have heard that in ancient times, Goddess Saraswati, pleased by the worship o
 
 ### Shloka:
 एवं बुद्धिश्च तेजश्च प्रतिपत्तिश्च भारत !<br/>
-भवन्ति भवकालेषु विपद्यन्ते विपर्यये ॥ ८१ ॥<br/>
+भवन्ति भवकालेषु विपद्यन्ते विपर्यये ॥ ८० ॥<br/>
 काल एव समादत्ते पुनरेव यदृच्छया ।<br/>
-स एव बलवान् भूत्वा पुनर्भवति दुर्बलः ॥ ८२ ॥<br/>
+स एव बलवान् भूत्वा पुनर्भवति दुर्बलः ॥ ८१ ॥<br/>
 स एवेशश्च भूत्वेह परैराज्ञाप्यते पुनः ।<br/>
-कृतकृत्यानि शस्त्राणि गतान्यथ यथागतम् ॥ ८३ ॥<br/>
+कृतकृत्यानि शस्त्राणि गतान्यथ यथागतम् ॥ ८२ ॥<br/>
 पुनरेष्यन्ति ते हस्ते यदा कालो भविष्यति ।<br/>
 कालो गन्तुं गतिं मुख्यां भवतामपि भारत !<br/>
-एतच्छ्रेयो हि वो मन्ये परमं भरतर्षभ ! ॥ ८४ ॥<br/>
+एतच्छ्रेयो हि वो मन्ये परमं भरतर्षभ ! ॥ ८३ ॥<br/>
 
 evaṃ buddhiśca tejaśca pratipattiśca bhārata !<br/>
-bhavanti bhavakāleṣu vipadyante viparyaye || 81 ||<br/>
+bhavanti bhavakāleṣu vipadyante viparyaye || 80 ||<br/>
 kāla eva samādatte punareva yadṛcchayā |<br/>
-sa eva balavān bhūtvā punarbhavati durbalaḥ || 82 ||<br/>
+sa eva balavān bhūtvā punarbhavati durbalaḥ || 81 ||<br/>
 sa eveśaśca bhūtveha parairājñāpyate punaḥ |<br/>
-kṛtakṛtyāni śastrāṇi gatānyatha yathāgatam || 83 ||<br/>
+kṛtakṛtyāni śastrāṇi gatānyatha yathāgatam || 82 ||<br/>
 punareṣyanti te haste yadā kālo bhaviṣyati |<br/>
 kālo gantuṃ gatiṃ mukhyāṃ bhavatāmapi bhārata !<br/>
-etacchreyo hi vo manye paramaṃ bharatarṣabha ! || 84 ||
+etacchreyo hi vo manye paramaṃ bharatarṣabha ! || 83 ||
 
 ### पदच्छेदम् (Padacchedam):
 एवम् | बुद्धिः | च | तेजः | च | प्रतिपत्तिः | च | भारत | भवन्ति | भवकालेषु | विपद्यन्ते | विपर्यये | कालः | एव | समादत्ते | पुनः | एव | यदृच्छया | सः | एव | बलवान् | भूत्वा | पुनः | भवति | दुर्बलः | सः | एव | ईशः | च | भूत्वा | इह | परैः | आज्ञाप्यते | पुनः | कृतकृत्यानि | शस्त्राणि | गतानि | अथ | यथागतम् | पुनः | एष्यन्ति | ते | हस्ते | यदा | कालः | भविष्यति | कालः | गन्तुम् | गतिम् | मुख्याम् | भवताम् | अपि | भारत | एतत् | श्रेयः | हि | वः | मन्ये | परमम् | भरतर्षभ
@@ -92,12 +92,12 @@ etacchreyo hi vo manye paramaṃ bharatarṣabha ! || 84 ||
 श्वश्रूः पुत्रवधूं प्रशास्ति दुहिता गृह्णाति तच्छेङ्गितैः<br/>
 कम्बुग्रीवघटेर्पितं च नयनं पश्ये द्यथा तत्पटम् ॥<br/>
 पार्थायापि गतिं वदन् स मुनिराट् व्यङ्क्ते स्म हस्त्याननम्<br/>
-जाता मे कृतिसिद्धयो गणपते ! प्रस्थीयतां स्वे गृहे ॥<br/>
+जाता मे कृतिसिद्धयो गणपते ! प्रस्थीयतां स्वे गृहे ॥ ८४ ॥<br/>
 
 śvaśrūḥ putravadhūṃ praśāsti duhitā gṛhṇāti tacceṅgitaiḥ<br/>
 kambugrīvaghaṭērpitaṃ ca nayanaṃ paśye dyathā tatpaṭam ||<br/>
 pārthāyāpi gatiṃ vadan sa munirāṭ vyaṅkte sma hastyānanam<br/>
-jātā me kṛtisiddhayo gaṇapate ! prasthīyatāṃ sve gṛhe ||
+jātā me kṛtisiddhayo gaṇapate ! prasthīyatāṃ sve gṛhe || 84 ||
 
 ### पदच्छेदम् (Padacchedam):
 श्वश्रूः | पुत्रवधूम् | प्रशास्ति | दुहिता | गृह्णाति | तत् | च | इङ्गितैः | कम्बुग्रीवघटे | अर्पितम् | च | नयनम् | पश्येत् | यथा | तत्पटम् | पार्थाया | अपि | गतिम् | वदन् | सः | मुनिराट् | व्यङ्क्ते | स्म | हस्त्याननम् | जाताः | मे | कृतिसिद्धयः | गणपते | प्रस्थीयताम् | स्वे | गृहे
@@ -127,12 +127,12 @@ Just as a daughter understands the gestures when a mother-in-law commands a daug
 श्रुत्वा पार्थ मिषात् प्रोक्तां यानानुज्ञां द्विपाननः<br/>
 स्वीयां चापि परिज्ञाय हृष्टः स्वां लेखनींन्यधात् ॥<br/>
 कल्याणं जगतामस्तु ग्रन्थश्री र्वर्धतां भवे<br/>
-द्वाभ्यामेव मुहुः प्रोक्तं शान्तिः शान्ति र्मुहु र्मुहुः ॥<br/>
+द्वाभ्यामेव मुहुः प्रोक्तं शान्तिः शान्ति र्मुहु र्मुहुः ॥ ८५ ॥<br/>
 
 śrutvā pārtha miṣāt proktāṃ yānānujñāṃ dvipānanaḥ<br/>
 svīyāṃ cāpi parijñāya hṛṣṭaḥ svāṃ lekhanīmnyadhāt ||<br/>
 kalyāṇaṃ jagatāmastu granthaśrī rvardhatāṃ bhave<br/>
-dvābhyāmeva muhuḥ proktaṃ śāntiḥ śānti rmuhu rmuhuḥ ||
+dvābhyāmeva muhuḥ proktaṃ śāntiḥ śānti rmuhu rmuhuḥ || 85 ||
 
 ### पदच्छेदम् (Padacchedam):
 श्रुत्वा | पार्थमिषात् | प्रोक्ताम् | यानानुज्ञाम् | द्विपाननः | स्वीयाम् | च | अपि | परिज्ञाय | हृष्टः | स्वाम् | लेखनीम् | न्यधात् | कल्याणम् | जगताम् | अस्तु | ग्रन्थश्रीः | वर्धताम् | भवे | द्वाभ्याम् | एव | मुहुः | प्रोक्तम् | शान्तिः | शान्तिः | मुहुः | मुहुः
@@ -158,12 +158,12 @@ Hearing the permission to depart, which was spoken under the pretext of Arjuna, 
 एवं नैकचमत्कृतिव्रततिभि र्वेवेष्टिताङ्गच्छटम्<br/>
 विद्याकामतरुपमं बहुफलं द्यूतप्रसङ्गाह्वयम्<br/>
 प्रातः पाठ्यतमं कुशाठ्यशमनं ग्रन्थं महाभारतम्<br/>
-हस्त्यास्यो व्यलिखत् समापदपि चेत्यानन्दवाचोऽचलन्<br/>
+हस्त्यास्यो व्यलिखत् समापदपि चेत्यानन्दवाचोऽचलन् ॥ ८६ ॥<br/>
 
 evam naikacamatkṛtivratatibhir veveṣṭitāṅgacchaṭam<br/>
 vidyākāmatarūpamaṃ bahuphalaṃ dyūtaprasaṅgāhvayam<br/>
 prātaḥ pāṭhyatamaṃ kuśāṭhyaśamanaṃ granthaṃ mahābhāratam<br/>
-hastyāsyo vyalikhat samāpadapi cetyānandavāco'calan<br/>
+hastyāsyo vyalikhat samāpadapi cetyānandavāco'calan || 86 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 एवम् | नैकचमत्कृतिव्रततिभिः | वेवेष्टिताङ्गच्छटम् | विद्याकामतरुपमम् | बहुफलम् | द्यूतप्रसङ्गाह्वयम् | प्रातः | पाठ्यतमम् | कुशाठ्यशमनम् | ग्रन्थम् | महाभारतम् | हस्त्यास्यः | व्यलिखत् | समापत् | अपि | च | इति | आनन्दवाचः | अचलन्
@@ -198,12 +198,12 @@ Thus, the elephant-faced Lord Ganesha wrote and completed the Mahabharata—a sc
 पुष्पाणां निचयः पपात नभसो देवैः सुखैरीरितः<br/>
 देवो मोदकमुत्क्षिपंश्च गगने सर्वप्रशंस्योऽभवत्<br/>
 निर्विघ्नं यद भूत् समस्त मिदकं विघ्नेश्वरस्त्वं सताम्<br/>
-इत्येतां पदवीं दधे गणपति र्व्यासास्यतः सुष्ठुताम्<br/>
+इत्येतां पदवीं दधे गणपति र्व्यासास्यतः सुष्ठुताम् ॥ ८७ ॥<br/>
 
 puṣpāṇāṃ nicayaḥ papāta nabhaso devaiḥ sukhairīritaḥ<br/>
 devo modakamutkṣipaṃśca gagane sarvapraśaṃsyo'bhavat<br/>
 nirvighnaṃ yad bhūt samasta midakaṃ vighneśvarastvaṃ satām<br/>
-ityetāṃ padavīṃ dadhe gaṇapati rvyāsāsyataḥ suṣṭhutām<br/>
+ityetāṃ padavīṃ dadhe gaṇapati rvyāsāsyataḥ suṣṭhutām || 87 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 पुष्पाणाम् | निचयः | पपात | नभसः | देवैः | सुखैः | ईरितः | देवः | मोदकम् | उत्क्षिपन् | च | गगने | सर्वप्रशंस्यः | अभवत् | निर्विघ्नम् | यत् | अभूत् | समस्तम् | इदकम् [possible reading: इदं — This] | विघ्नेश्वरः | त्वम् | सताम् | इति | एताम् | पदवीम् | दधे | गणपतिः | व्यासास्यतः | सुष्ठुताम्
@@ -231,12 +231,12 @@ A shower of flowers, cast by the Devas in their joy, fell from the heavens. Lord
 भृङ्गारस्थितदीपकैः कृतवती सर्वा प्रजा पूजनम्<br/>
 बाला नृत्य पराश्च कोकिलकुलानां वा व्यधुः कूजनम्<br/>
 शालान्तः स्थिति कारका अपि मुदाऽकुर्वन् रवान् हस्तिनः<br/>
-कुम्भाऽम्भः कणकान् स्वशुण्डपुटतो लोकोपरि प्राक्षिपन्<br/>
+कुम्भाऽम्भः कणकान् स्वशुण्डपुटतो लोकोपरि प्राक्षिपन् ॥ ८८ ॥<br/>
 
 bhṛṅgārasthitadīpakaiḥ kṛtavatī sarvā prajā pūjanam<br/>
 bālā nṛtya parāśca kokilakulānāṃ vā vyadhuḥ kūjanam<br/>
 śālāntaḥ sthiti kārakā api mudā'kurvan ravān hastinaḥ<br/>
-kumbhā'mbhaḥ kaṇakān svaśuṇḍapuṭato lokopari prākṣipan<br/>
+kumbhā'mbhaḥ kaṇakān svaśuṇḍapuṭato lokopari prākṣipan || 88 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 भृङ्गारस्थितदीपकैः | कृतवती | सर्वा | प्रजा | पूजनम् | बालाः | नृत्यपराः | च | कोकिलकुलानाम् | वा | व्यधुः | कूजनम् | शालान्तःस्थिति-कारकाः | अपि | मुदा | अकुर्वन् | रवान् | हस्तिनः | कुम्भाऽम्भःकणकान् | स्वशुण्डपुटतः | लोकोपरि | प्राक्षिपन्
@@ -263,12 +263,12 @@ All the people performed worship with lamps held in ornate vessels. Children dan
 इत्यानन्द ममनद माप जनता यस्याऽगमाद्भारते<br/>
 तल्लेखोत्सव मोदमेदुरमना कृत्वा गजेन्द्रस्थितम्<br/>
 निन्ये धाम गजाननं निज मिमं प्रोच्चै र्जयै र्मानवैः<br/>
-मन्ये कोऽपि गजे स्थितः गजशिशु र्नेनीयमानोऽलसत्<br/>
+मन्ये कोऽपि गजे स्थितः गजशिशु र्नेनीयमानोऽलसत् ॥ ८९ ॥<br/>
 
 ityānanda mamanda māpa janatā yasyā'gamādbhārate<br/>
 tallekhotsava modameduramanā kṛtvā gajendrasthitam<br/>
 ninye dhāma gajānanaṃ nija mimaṃ proccai rjayai rmānavaiḥ<br/>
-manye ko'pi gaje sthitaḥ gajaśiśu rnenīyamāno'lasat<br/>
+manye ko'pi gaje sthitaḥ gajaśiśu rnenīyamāno'lasat || 89 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 इति | आनन्दम् | अमन्दम् | आप | जनता | यस्य | आगमात् | भारते | तल्लेखोत्सव-मोदमेदुरमना | कृत्वा | गजेन्द्रस्थितम् | निन्ये | धाम | गजाननम् | निजम् | इमम् | प्रोच्चैः | जयैः | मानवैः | मन्ये | कः | अपि | गजे | स्थितः | गजशिशुः | नेनीयमानः | अलसत्
@@ -297,12 +297,12 @@ The arrival of the Lord brought boundless joy to the people of Bharat. With hear
 ऊर्ध्वाऽधो गजशुण्डयो र्मुखयुतिः शोभां नवां व्यस्तृणात् <br/>
 मन्ये द्वौ गजराजकौ नटविधेरभ्यास वृद्धौ रतौ <br/>
 यद्वा लेखित पुस्तकोपरि ततं छत्रं तथा चामरम् <br/>
-शुण्डाभ्यां परिदर्श्य तं प्रति जगच्चित्तं समाकर्षतः <br/>
+शुण्डाभ्यां परिदर्श्य तं प्रति जगच्चित्तं समाकर्षतः ॥ ९० ॥<br/>
 
 Ūrdhvā'dho gajaśuṇḍayo rmuḫayutiḥ śobhāṃ navāṃ vyastṛṇāt <br/>
 Manye dvau gajarājakau naṭavidherabhyāsa vṛddhau ratau <br/>
 Yadvā lekhita pustakopari taṭaṃ chatraṃ tathā cāmaram <br/>
-Śuṇḍābhyāṃ paridarśya taṃ prati jagaccittaṃ samākarṣataḥ <br/>
+Śuṇḍābhyāṃ paridarśya taṃ prati jagaccittaṃ samākarṣataḥ || 90 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 ऊर्ध्वाधः | गजशुण्डयोः | मुखयुतिः | शोभाम् | नवाम् | व्यस्तृणात् | मन्ये | द्वौ | गजराजकौ | नटविधेः | अभ्यासवृद्धौ | रतौ | यद्वा | लेखितपुस्तकोपरि | ततम् | छत्रम् | तथा | चामरम् | शुण्डाभ्याम् | परिदर्श्य | तम् | प्रति | जगच्चित्तम् | समाकर्षतः
@@ -329,12 +329,12 @@ The meeting of the trunks of the elephant below (the vehicle) and the elephant a
 योऽयं पञ्चमवेदमध्य गणितो विद्याधरै र्भूभवैः <br/>
 प्रातःसाय महोसुपाठनियतो भौजङ्गभीभञ्जनः <br/>
 चेत् पर्वक्रमतः सुपर्वरमणीवक्षःस्थलाऽलिङ्गनः <br/>
-अध्यात्मस्थिति कारकोऽध्ययनतोऽध्यायस्य पूर्णस्य यः <br/>
+अध्यात्मस्थिति कारकोऽध्ययनतोऽध्यायस्य पूर्णस्य यः ॥ ९१ ॥<br/>
 
 Yo'yaṃ pañcamavedamadhya gaṇito vidyādharai rbhūbhavaiḥ <br/>
 Prātaḥsāya mahosupāṭhaniyato bhaujaṅgabhībhañjanaḥ <br/>
 Cet parvakramataḥ suparvaramaṇīvakṣaḥsthalā'liṅganaḥ <br/>
-Adhyātmasthiti kārako'dhyayanato'dhyāyasya pūrṇasya yaḥ <br/>
+Adhyātmasthiti kārako'dhyayanato'dhyāyasya pūrṇasya yaḥ || 91 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 यः | अयम् | पञ्चमवेदमध्यगणितः | विद्याधरैः | भूभवैः | प्रातःसायम् | अहो | सुपाठनियतः | भौजङ्गभीभञ्जनः | चेत् | पर्वक्रमतः | सुपर्वरमणीवक्षःस्थलालिङ्गनः | अध्यात्मस्थितिकारकः | अध्ययनतः | अध्यायस्य | पूर्णस्य | यः
@@ -360,12 +360,12 @@ This work, which is reckoned by the learned scholars of the earth as the Fifth V
 श्लोकस्यास्ति च शोकहा पदतते रापद्गणोन्मोचकः <br/>
 वर्णानां स्मरणाच्च यो वितनुते गेहे सुवर्णश्रियम् <br/>
 मात्रा त्राण करी स्वमातृपदवत् यस्या ज्झलौ भ्रातृभौ <br/>
-सोऽयं भारतभाग्य मूर्ति सदृशो ग्रन्थो महाभारतः <br/>
+सोऽयं भारतभाग्य मूर्ति सदृशो ग्रन्थो महाभारतः ॥ ९२ ॥<br/>
 
 Ślokasyāsti ca śokahā padatate rāpadgaṇonmocakaḥ <br/>
 Varṇānāṃ smaraṇācca yo vitanute gehe suvarṇaśriyam <br/>
 Mātrā trāṇa karī svamātṛpadavat yasyā jjhalaū bhrātṛbhau <br/>
-So'yaṃ bhāratabhāgya mūrti sadṛśo grantho mahābhārataḥ <br/>
+So'yaṃ bhāratabhāgya mūrti sadṛśo grantho mahābhārataḥ || 92 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 श्लोकस्य | अस्ति | च | शोकहा | पदततेः | आपद्गणोन्मोचकः | वर्णाम् | स्मरणात् | च | यः | वितनुते | गेहे | सुवर्णश्रियम् | मात्रा | त्राणकरी | स्वमातृपदवत् | यस्य | अज्झलौ | भ्रातृभौ | सः | अयम् | भारतभाग्यमूर्तिसदृशः | ग्रन्थः | महाभारतः
@@ -389,12 +389,12 @@ The study of its shlokas destroys sorrow, and the recitation of its words libera
 जयतु विजयकारी ऋद्धि सिद्ध्यालयो यः <br/>
 स्व इव परजनाय स्वस्मृतेः तत् प्रदाता <br/>
 स्वयमपि सततं यो मोदकैः क्रीडकोऽभूत् <br/>
-स्वजनमपि सदा स क्रीडये न्मोदकौघैः <br/>
+स्वजनमपि सदा स क्रीडये न्मोदकौघैः ॥ ९३ ॥<br/>
 
 Jayatu vijayakārī ṛddhi siddhyālayo yaḥ <br/>
 Sva iva parajanāya svasmṛteḥ tat pradātā <br/>
 Svayamapi satataṃ yo modakaiḥ krīḍako'bhūt <br/>
-Svajanamapi sadā sa krīḍaye nmodakaughaiḥ <br/>
+Svajanamapi sadā sa krīḍaye nmodakaughaiḥ || 93 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 जयतु | विजयकारी | ऋद्धिसिद्ध्यालयः | यः | स्वः | इव | परजनाय | स्वस्मृतेः | तत् | प्रदाता | स्वयम् | अपि | सततम् | यः | मोदकैः | क्रीडकः | अभूत् | स्वजनम् | अपि | सदा | सः | क्रीडयेत् | मोदकौघैः

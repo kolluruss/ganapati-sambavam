@@ -6,11 +6,11 @@ Dhanvantari Name Significance, Drama Invocation (Nandi Shloka), and the Salutati
 धर्माद्धं नमना न्कारयुगलं वं वन्दनीयात्तथा |<br/>
 तत्त्वात्तं खलु रिक्थतो रिमपि वा चिन्वन्नहिन्वद्गुरुः ||<br/>
 तत्तल्लाभ करो भविष्यति स ना योऽस्योपदेशैश्चलेत् |<br/>
-इत्यर्थ प्रतिपादि नाम कृतवान् वादित्रनृत्यैर्युतः ||<br/>
+इत्यर्थ प्रतिपादि नाम कृतवान् वादित्रनृत्यैर्युतः || ७९ ||<br/>
 dharmāddhaṃ namanā nkārayugalaṃ vaṃ vandanīyāttathā |<br/>
 tattvāttaṃ khalu rikthato rimapi vā cinvannahinvadguruḥ ||<br/>
 tattallābha karo bhaviṣyati sa nā yo'syopadeśaiścalet |<br/>
-ityartha pratipādi nāma kṛtavān vāditranṛtyairyutaḥ ||
+ityartha pratipādi nāma kṛtavān vāditranṛtyairyutaḥ || 79 ||
 
 ### पदच्छेदम् (Padacchedam):
 धर्मात् | धम् | नमनात् | नकार-युगलम् | वम् | वन्दनीयात् | तथा | तत्त्वात् | तम् | खलु | रिक्थतः | रिम् | अपि | वा | चिन्वन् | अहिन्वत् | गुरुः | तत्-तत्-लाभ-करः | भविष्यति | सः | न | यः | अस्य | उपदेशैः | चलेत् | इति-अर्थ-प्रतिपादि | नाम | कृतवान् | वादित्र-नृत्यैः | युतः |
@@ -37,11 +37,11 @@ Brihaspati, the Guru of the Devas, derived the name "Dhanvantari" by extracting 
 धन् धन् धन्निति दुन्दुभिर्ध्वनिमिषाद् दध्वान यस्याऽऽह्वयम् |<br/>
 वन् वन् वन्निति मञ्जुलो ध्वनि रभून् मञ्जीर पुञ्जोद्भवः ||<br/>
 तत्तत्तच्च तडाक् तडागिति मुहुः खट्टाल शब्दोऽभवत् |<br/>
-शिञ्जाना रि रि रीति सा मृदुरवा सारङ्गिकाऽभूत् प्रिया ||<br/>
+शिञ्जाना रि रि रीति सा मृदुरवा सारङ्गिकाऽभूत् प्रिया || ८० ||<br/>
 dhan dhan dhanniti dundubhirdhvanimiṣād dadhvāna yasyā''hvayam |<br/>
 van van vanniti mañjulo dhvani rabhūn mañjīra puñjodbhavaḥ ||<br/>
 tattattacca taḍāk taḍāgiti muhuḥ khaṭṭāla śabdo'bhavat |<br/>
-śiñjānā ri ri rīti sā mṛduravā sāraṅgikā'bhūt priyā ||
+śiñjānā ri ri rīti sā mṛduravā sāraṅgikā'bhūt priyā || 80 ||
 
 ### पदच्छेदम् (Padacchedam):
 धन् | धन् | धन् | इति | दुन्दुभिः | ध्वनि-मिषात् | दध्वान | यस्य | आह्वयम् | वन् | वन् | वन् | इति | मञ्जुलः | ध्वनिः | अभूत् | मञ्जीर-पुञ्ज-उद्भवः | तत् | तत् | तत् | च | तडाक् | तडाक् | इति | मुहुः | खट्टाल-शब्दः | अभवत् | शिञ्जाना | रि | रि | रि | इति | सा | मृदु-रवा | सारङ्गिका | अभूत् | प्रिया |
@@ -68,13 +68,13 @@ During the naming ceremony, the musical instruments themselves echoed his name. 
 वेदमन्त्रसामगानझङ्कृताद्यनादा |<br/>
 यदोमसु मन्त्रहेतितः प्रणष्टदिग्भवबाधा ||<br/>
 व्यासवाल्मीकिभासकालिदास वन्द्या |<br/>
-विश्ववाग्व्रजेन सा स्वरैक्यतोऽभिनन्द्या ||<br/>
+विश्ववाग्व्रजेन सा स्वरैक्यतोऽभिनन्द्या || ८१ ||<br/>
 jayatu jayatu viśva vāṅmayīha devavāṇī |<br/>
 vyājahāra yāṃ prabhuḥ svabhūrapādapāṇiḥ ||<br/>
 vedamantrasāmagānajhaṅkṛtādyanādā |<br/>
 yadomsumantrahetitaḥ praṇaṣṭadigbhavabādhā ||<br/>
 vyāsavālmīkibhāsakālidāsa vandyā |<br/>
-viśvavāgvrajena sā svaraikyato'bhinandyā ||
+viśvavāgvrajena sā svaraikyato'bhinandyā || 81 ||
 
 ### पदच्छेदम् (Padacchedam):
 जयतु | जयतु | विश्व-वाङ्मयी | इह | देव-वाणी | व्याजहार | याम् | प्रभुः | स्वभूः | अपाद-पाणिः | वेद-मन्त्र-साम-गान-झङ्कृत-आद्य-नादा | यत्-ओम्-सु-मन्त्र-हेतितः | प्रणष्ट-दिक्-भव-बाधा | व्यास-वाल्मीकि-भास-कालिदास-वन्द्या | विश्व-वाक्-व्रजेन | सा | स्वर-ऐक्यतः | अभिनन्द्या |
@@ -95,9 +95,9 @@ May the Devavani (Sanskrit), the embodiment of universal wisdom, be ever victori
 
 ### Shloka:
 चराचरेष्वैक्यमतिप्रदाभ्यां स्वर्गापवर्गद्वयसाधिकाभ्याम् |<br/>
-नित्यं स्थिताभ्यां गुरुपीठनाभ्यां नमो नमः शंकरपादुकाभ्याम् ||<br/>
+नित्यं स्थिताभ्यां गुरुपीठनाभ्यां नमो नमः शंकरपादुकाभ्याम् || ८२ ||<br/>
 carācareṣvaikyamatipradābhyāṃ svargāpavargadvayasādhikābhyām |<br/>
-nityaṃ sthitābhyāṃ gurupīṭhanābhyāṃ namo namaḥ śaṅkarapādukābhyām ||
+nityaṃ sthitābhyāṃ gurupīṭhanābhyāṃ namo namaḥ śaṅkarapādukābhyām || 82 ||
 
 ### पदच्छेदम् (Padacchedam):
 चराचरेषु | ऐक्य-मति-प्रदाभ्याम् | स्वर्ग-अपवर्ग-द्वय-साधिकाभ्याम् | नित्यम् | स्थिताभ्याम् | गुरु-पीठ-नाभ्याम् | नमः | नमः | शंकर-पादुकाभ्याम् |
@@ -116,9 +116,9 @@ Salutations again and again to the Padukas of Sri Adi Shankaracharya, which best
 
 ### Shloka:
 गोवत्सशृङ्गैरिव शोभिताभ्यां श्रेयःप्रियोत्तोलनशक्यभाभ्याम् ।<br/>
-अभीतिमुद्राप्रकटीकराभ्यां नमो नमः शङ्करपादुकाभ्याम् ॥ १ ॥<br/>
+अभीतिमुद्राप्रकटीकराभ्यां नमो नमः शङ्करपादुकाभ्याम् ॥ ८३ ॥<br/>
 Govatsaśṛṅgairiva śobhitābhyāṃ śreyaḥpriyottolanaśikyabhābhyām |<br/>
-Abhītimudrāprakaṭīkarābhyāṃ namo namaḥ śaṅkarapādukābhyām || 1 ||
+Abhītimudrāprakaṭīkarābhyāṃ namo namaḥ śaṅkarapādukābhyām || 83 ||
 
 ### पदच्छेदम् (Padacchedam):
 गो-वत्स-शृङ्गैः | इव | शोभिताभ्याम् | श्रेयः-प्रिय-उत्तोलन-शक्य-भाभ्याम् | अभीति-मुद्रा-प्रकटीकराभ्याम् | नमः | नमः | शङ्कर-पादुकाभ्याम् |
@@ -137,9 +137,9 @@ Salutations again and again to the holy sandals of Sri Shankaracharya, which are
 
 ### Shloka:
 सुप्तौ स्थिताभ्यामपि जागृताभ्यां मीनप्रभाभ्यामपि भूस्थिताभ्याम् ।<br/>
-गीर्वाणवाणीरविजह्नुजाभ्यां नमो नमः श्रीगुरुपादुकाभ्याम् ॥ २ ॥<br/>
+गीर्वाणवाणीरविजह्नुजाभ्यां नमो नमः श्रीगुरुपादुकाभ्याम् ॥ ८४ ॥<br/>
 Suptau sthitābhyāmapi jāgṛtābhyāṃ mīnaprabhābhyāmapi bhūsthitābhyām |<br/>
-Gīrvāṇavāṇīravijahnujābhyāṃ namo namaḥ śrīgurupādukābhyām || 2 ||
+Gīrvāṇavāṇīravijahnujābhyāṃ namo namaḥ śrīgurupādukābhyām || 84 ||
 
 ### पदच्छेदम् (Padacchedam):
 सुप्तौ | स्थिताभ्याम् | अपि | जागृताभ्याम् | मीन-प्रभाभ्याम् | अपि | भू-स्थिताभ्याम् | गीर्वाण-वाणी-रवि-जह्नुजाभ्याम् | नमः | नमः | श्रीगुरु-पादुकाभ्याम् |
@@ -160,11 +160,11 @@ Salutations again and again to the holy sandals of the Guru, which, like fish th
 द्वैताकारधरी स्फुटं परमहो अद्वैतसंस्थापिनी ।<br/>
 द्वन्द्वध्वान्तहरी परं गुरुपदद्वन्द्वे सदा मोहिनी ॥<br/>
 खट् खट् शब्दकरी परं तनुभृतां खट् खट् समुन्मूलिनी ।<br/>
-जीयान्मङ्गलवर्षिणी प्रतिदिशं श्रीशाकरी पादुका ॥ ३ ॥<br/>
+जीयान्मङ्गलवर्षिणी प्रतिदिशं श्रीशाकरी पादुका ॥ ८५ ॥<br/>
 Dvaitākāradharī sphuṭaṃ paramaho advaitasaṃsthāpinī |<br/>
 Dvandvadhvāntaharī paraṃ gurupadadvandve sadā mohinī |<br/>
 Khaṭ khaṭ śabdakarī paraṃ tanubhṛtāṃ khaṭ khaṭ samunmūlinī |<br/>
-Jīyānmaṅgalavarṣiṇī pratidiśaṃ śrīśākarī pādukā || 3 ||
+Jīyānmaṅgalavarṣiṇī pratidiśaṃ śrīśākarī pādukā || 85 ||
 
 ### पदच्छेदम् (Padacchedam):
 द्वैत-आकार-धरी | स्फुटम् | परम् | अहो | अद्वैत-संस्थापिनी | द्वन्द्व-ध्वान्त-हरी | परम् | गुरु-पद-द्वन्द्वे | सदा | मोहिनी | खट्-खट्-शब्द-करी | परम् | तनुभृताम् | खट्-खट्-समुन्मूलिनी | जीयात् | मङ्गल-वर्शिणी | प्रति-दिशम् | श्रीशाकरी | पादुका |
@@ -188,11 +188,11 @@ Though clearly possessing a dual form, they establish the philosophy of Advaita;
 'तत्त्वं' वाक्यपदैः समा सहचरी 'सोऽहं' पदद्वन्द्वभा ।<br/>
 सत्रास्था द्विकरूपतोऽपि प्रणवस्याकारसुस्मारिणी ॥<br/>
 जीवब्रह्मसमानतास्मृतिकरी न्यूनाधिका न क्वचित् ।<br/>
-वेदान्ताध्ययनं विनैव हृदये तज्ज्ञानदा स्तात् सदा ॥ ४ ॥<br/>
+वेदान्ताध्ययनं विनैव हृदये तज्ज्ञानदा स्तात् सदा ॥ ८६ ॥<br/>
 'Tattvaṃ' vākyapadaiḥ samā sahacarī 'so'haṃ' padadvandvabhā |<br/>
 Satrāsthā dvikarūpato'pi praṇavasyākārasusmāriṇī |<br/>
 Jīvabrahmasamānatāsmṛtikarī nyūnādhikā na kvacit |<br/>
-Vedāntādhyayanaṃ vinaiva hṛdaye tajjñānadā stāt sadā || 4 ||
+Vedāntādhyayanaṃ vinaiva hṛdaye tajjñānadā stāt sadā || 86 ||
 
 ### पदच्छेदम् (Padacchedam):
 'तत्त्वम्' | वाक्य-पदैः | समा | सहचरी | 'सः-अहम्' | पद-द्वन्द्व-भा | सत्रा-स्था | द्विक-रूपतः | अपि | प्रणवस्य | आकार-सुस्मारिणी | जीव-ब्रह्म-समानता-स्मृतिकरी | न्यून-अधिक | न | क्वचित् | वेदान्त-अध्ययनम् | विना | एव | हृदये | तत्-ज्ञान-दा | स्तात् | सदा |

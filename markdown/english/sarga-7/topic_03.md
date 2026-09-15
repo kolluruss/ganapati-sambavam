@@ -6,12 +6,12 @@ The arrival of Ganapati and his agreement to serve as the scribe, establishing t
 यच्चाधीत्य न कोऽपि नार्पयदिह स्वात्मानमत्र श्रमे<br/>
 एकोऽयं गणपो जगाम विहसन् द्वित्रैर्गणैः कौतुकात्॥<br/>
 सोऽत्रागत्य जगाद वेषयुगलो मातंगमर्त्याकृतिः<br/>
-प्रत्यक्षीभवितुं स्थितोऽस्मि भवतः विज्ञापनआनन्दतः॥<br/>
+प्रत्यक्षीभवितुं स्थितोऽस्मि भवतः विज्ञापनआनन्दतः॥ ११ ॥<br/>
 
 yaccādhītya na ko'pi nārpayadiha svātmānamatra śrame<br/>
 eko'yaṃ gaṇapo jagāma vihasan dvitrairgaṇaiḥ kautukāt||<br/>
 so'trāgatya jagāda veṣayugalo mātaṃgamartyākṛtiḥ<br/>
-pratyakṣībhavituṃ sthito'smi bhavataḥ vijñāpanānandataḥ||<br/>
+pratyakṣībhavituṃ sthito'smi bhavataḥ vijñāpanānandataḥ|| 11 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 यत् | च | अधीत्य | न | कोऽपि | न | अर्पयत् | इह | स्वात्मानम् | अत्र | श्रमे | एकः | अयम् | गणपः | जगाम | विहसन् | द्वित्रैः | गणैः | कौतुकात् | सः | अत्र | आगत्य [possible reading: आगत्य] | जगाद | वेषयुगलः | मातंगमर्त्याकृतिः | प्रत्यक्षीभवितुम् | स्थितः | अस्मि | भवतः | विज्ञापनआनन्दतः [possible reading: विज्ञापनानन्दतः]
@@ -46,12 +46,12 @@ Upon reading the announcement, no one came forward to offer themselves for this 
 तं दृष्ट्वा स जगाद सुस्मितमुखः श्रीमान् स एवास्ति किम् ?<br/>
 शम्भुर्यस्य पिता शिवा च जननी दिव्यैर्निजैरध्वभिः॥<br/>
 पुंजः कोऽपि पुराणनूतनसुकृतां रूपयुग्मच्छलः<br/>
-नो मे केवललेखकोऽपि तु भवान् पूज्योऽपि लेखेशवत्॥<br/>
+नो मे केवललेखकोऽपि तु भवान् पूज्योऽपि लेखेशवत्॥ १२ ॥<br/>
 
 taṃ dṛṣṭvā sa jagāda susmitamukhaḥ śrīmān sa evāsti kim ?<br/>
 śambhuryasya pitā śivā ca jananī divyairnijairadhvabhiḥ||<br/>
 puṃjaḥ ko'pi purāṇanūtanasukṛtāṃ rūpayugmacchalaḥ<br/>
-no me kevalalekhako'pi tu bhavān pūjyo'pi lekheśavat||<br/>
+no me kevalalekhako'pi tu bhavān pūjyo'pi lekheśavat|| 12 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 तम् | दृष्ट्वा | सः | जगाद | सुस्मितमुखः | श्रीमान् | सः | एव | अस्ति | किम् | शम्भुः | यस्य | पिता | शिवा | च | जननी | दिव्यैः | निजैः | अध्वभिः | पुंजः | कोऽपि | पुराणनूतनसुकृताम् | रूपयुग्मच्छलः | नो | मे | केवललेखकः | अपि | तु | भवान् | पूज्यः | अपि | लेखेशवत्
@@ -85,12 +85,12 @@ Seeing him, the venerable Vyasa, with a smiling face, said, "Are you that very o
 ग्रन्थोऽयं तव हस्तकंजलिखितः पूज्येत पठ्येत चेत्<br/>
 यन्मत्कर्मणि शर्मदायिनि भवान् निःस्वार्थकारुण्यवान्॥<br/>
 किं वर्णी अस्तु मषी ? प्रसीदसि च वा कः स्यात् पदार्थः परैः ?<br/>
-कीदृग्वास्तु च लेखनी ? वद भगो ! तत्तत् प्रभंत्स्याम्यहम्॥<br/>
+कीदृग्वास्तु च लेखनी ? वद भगो ! तत्तत् प्रभंत्स्याम्यहम्॥ १३ ॥<br/>
 
 grantho'yaṃ tava hastakaṃjalikhitaḥ pūjyeta paṭhyeta cet<br/>
 yanmatkarmaṇi śarmadāyini bhavān niḥsvārthakāruṇyavān||<br/>
 kiṃ varṇī astu maṣī ? prasīdasi ca vā kaḥ syāt padārthaḥ paraiḥ ?<br/>
-kīdṛgvāstu ca lekhanī ? vada bhago ! tattat prabhaṃtsyāmyaham||<br/>
+kīdṛgvāstu ca lekhanī ? vada bhago ! tattat prabhaṃtsyāmyaham|| 13 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 ग्रन्थः | अयम् | तव | हस्तकंजलिखितः | पूज्येत | पठ्येत | चेत् | यत् | मत्कर्मणि | शर्मदायिनि | भवान् | निःस्वार्थकारुण्यवान् | किम् | वर्णी | अस्तु | मषी | प्रसीदसि | च | वा | कः | स्यात् | पदार्थः | परैः | कीदृक् | वा | अस्तु | च | लेखनी | वद | भगो | तत् | तत् | प्रभंत्स्यामि | अहम्
@@ -121,12 +121,12 @@ kīdṛgvāstu ca lekhanī ? vada bhago ! tattat prabhaṃtsyāmyaham||<br/>
 सोवाचार्सशिरोमणे ! तव वचो विस्तारवत् स्वागते<br/>
 तन्मा भूत् कुरु कर्मणो द्रुततरं प्रारभणे जृम्भणम्॥<br/>
 शोणा शीर्षकलेखनाय भवतान् मद्वर्णभाढ्या मषी<br/>
-शेषे जम्बुरसप्रभा भवतु वा हृद्या भवद्वर्णभा॥<br/>
+शेषे जम्बुरसप्रभा भवतु वा हृद्या भवद्वर्णभा॥ १४ ॥<br/>
 
 sovācārṣaśiromaṇe ! tava vaco vistāravat svāgate<br/>
 tanmā bhūt kuru karmaṇo drutataraṃ prārabhaṇe jṛmbhaṇam||<br/>
 śoṇā śīrṣakalekhanāya bhavatān madvarṇabhāḍhyā maṣī<br/>
-śeṣe jamburasaprabhā bhavatu vā hṛdyā bhavadvarṇabhā||<br/>
+śeṣe jamburasaprabhā bhavatu vā hṛdyā bhavadvarṇabhā|| 14 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 सः | उवाच | आर्षशिरोमणे | तव | वचः | विस्तारवत् | स्वागते | तत् | मा | भूत् | कुरु | कर्मणः | द्रुततरम् | प्रारभणे | जृम्भणम् | शोणा | शीर्षकलेखनाय | भवतात् | मद्वर्णभाढ्या | मषी | शेषे | जम्बुरसप्रभा | भवतु | वा | हृद्या | भवद्वर्णभा
@@ -157,12 +157,12 @@ Ganapati replied, "O crest-jewel among sages! Your words of welcome are too exte
 तिस्रस्ता मम कर्णयोः स्थिरपदे स्यातामुभे स्पर्धया <br/>
 एका हस्तगता प्रनर्तनकरी नृत्येत यद्वन्मया <br/>
 मत्कर्णावपि तालवृन्तसदृशौ स्यातां च ते दण्डभे <br/>
-चित्रग्राहकरो भविष्यति जनो याभ्यां प्रसन्नाननः <br/>
+चित्रग्राहकरो भविष्यति जनो याभ्यां प्रसन्नाननः ॥ १५ ॥<br/>
 
 tisrastā mama karṇayoḥ sthirapade syātāmubhe spardhayā <br/>
 ekā hastagatā pranartanakari nṛtyeta yadvanmayā <br/>
 matkarṇāvapi tālavṛntasadṛśau syātām ca te daṇḍabhe <br/>
-citragrāhakaro bhaviṣyati jano yābhyāṃ prasannānanaḥ <br/>
+citragrāhakaro bhaviṣyati jano yābhyāṃ prasannānanaḥ || 15 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 तिस्रः | ताः | मम | कर्णयोः | स्थिरपदे | स्याताम् | उभे | स्पर्धया | एका | हस्तगता | प्रनर्तनकरी | नृत्येत | यद्वत् | मया | मत्कर्णौ | अपि | तालवृन्तसदृशौ | स्याताम् | च | ते | दण्डभे | चित्रग्राहकः | भविष्यति | जनः | याभ्याम् | प्रसन्नाननः
@@ -193,12 +193,12 @@ I desire three pens. Two of them should remain stable at my ears, as if competin
 ये ये लेखकताकृतौ कृतपदास्ते क्षुल्लकर्णेष्वपि <br/>
 प्रायो लेखनिका धरन्ति बहुलं शस्त्राणि शस्त्री यथा <br/>
 लेखन्यस्ति खनिः सदक्षरमयानां मौक्तिकानां यतः <br/>
-तस्मात् सा परिरक्ष्यते स्ववतिावत् पुस्तिकावच्च वा <br/>
+तस्मात् सा परिरक्ष्यते स्ववतिावत् पुस्तिकावच्च वा ॥ १६ ॥<br/>
 
 ye ye lekhakatākṛtau kṛtapadāste kṣullakarṇeṣvapi <br/>
 prāyo lekhanikā dharanti bahulaṃ śastrāṇi śastrī yathā <br/>
 lekhanysti khaniḥ sadakṣaramayānāṃ mauktikānāṃ yataḥ <br/>
-tasmāt sā parirakṣyate svavanitāvat pustikāvacca vā <br/>
+tasmāt sā parirakṣyate svavanitāvat pustikāvacca vā || 16 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 ये | ये | लेखकताकृतौ | कृतपदाः | ते | क्षुल्लकर्णेषु | अपि | प्रायः | लेखनिकाः | धरन्ति | बहुलम् | शस्त्राणि | शस्त्री | यथा | लेखनी | अस्ति | खनिः | सदक्षरमयानाम् | मौक्तिकानाम् | यतः | तस्मात् | सा | परिरक्ष्यते | स्ववनितावत् | पुस्तिकावत् | च | वा
@@ -228,12 +228,12 @@ Those who enter the profession of writing generally carry pens even on their sma
 मूत्रोत्सर्गपुरीषहानसमये यज्ञोपवीतं भवेत् <br/>
 कर्णारोहकरं न पूतसमये प्राप्नोति तत्सत् सुखम् <br/>
 किन्त्वेषा स्थितिकारीणी श्रवणयोरुच्चासनस्थे नरे <br/>
-यद्वत् सन्मुकुटं विराजति तमामाश्र्वस्थिते सद्वरे <br/>
+यद्वत् सन्मुकुटं विराजति तमामाश्र्वस्थिते सद्वरे ॥ १७ ॥<br/>
 
 mūtrotsargapurīṣahānasamaye yajñopavītaṃ bhavet <br/>
 karṇārohakaraṃ na pūtasamaye prāpnoti tatsat sukham <br/>
 kintveṣā sthitikārīṇī śravaṇayoruccāsanasthe nare <br/>
-yadvat sanmukuṭaṃ virājati tamāmāśvasthite sadvare <br/>
+yadvat sanmukuṭaṃ virājati tamāmāśvasthite sadvare || 17 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 मूत्रोत्सर्गपुरीषहानसमये | यज्ञोपवीतम् | भवेत् | कर्णारोहकरम् | न | पूतसमये | प्राप्नोति | तत् | सत् | सुखम् | किन्तु | एषा | स्थितिकारीणी | श्रवणयोः | उच्चासनस्थे | नरे | यद्वत् | सन्मुकुटम् | विराजति | तमाम् | अश्वस्थिते | सद्वरे
@@ -262,12 +262,12 @@ The sacred thread is placed upon the ear only during the times of bodily evacuat
 तस्माल्लेखनिकां नमामि भवतः कार्याय गृह्णामि वा <br/>
 मां ध्यायन्ति जनाः स्वकार्यसमये श्रद्धाधरा आस्तिकाः <br/>
 एनां शेषसमद्विजिह्वपदतो ध्यायामि तद्भावतः <br/>
-सा मे शुक्लयशःप्रकाशनकरी भूत्यै भवेल्लेखनी <br/>
+सा मे शुक्लयशःप्रकाशनकरी भूत्यै भवेल्लेखनी ॥ १८ ॥<br/>
 
 tasmāllekhanikāṃ namāmi bhavataḥ kāryāya gṛhṇāmi vā <br/>
 māṃ dhyāyanti janāḥ svakāryasamaye śraddhā dharā āstikāḥ <br/>
 enāṃ śeṣasamadvijihvapadato dhyāyāmi tadbhāvataḥ <br/>
-sā me śuklayaśaḥprakāśanakari bhūtyai bhavellekhanī <br/>
+sā me śuklayaśaḥprakāśanakari bhūtyai bhavellekhanī || 18 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 तस्मात् | लेखनिकाम् | नमामि | भवतः | कार्याय | गृह्णामि | वा | माम् | ध्यायन्ति | जनाः | स्वकार्यसमये | श्रद्धाधराः | आस्तिकाः | एनाम् | शेषसमद्विजिह्वपदतः | ध्यायामि | तद्भावतः | सा | मे | शुक्लयशःप्रकाशनकरी | भूत्यै | भवेत् | लेखनी
@@ -295,12 +295,12 @@ Therefore, I bow to the pen and take it up for your work. Just as devout and fai
 धृष्टद्युम्नशिरोवती द्रुपदजा ह्रस्वा न दीर्घा तथा<br/>
 अन्धा या धृतराष्ट्रवत् शकुनिवद् वा सत्वरैवेत्वरी<br/>
 लेखाख्येऽत्र युधिष्ठिरार्जुनयशाः कुन्तीशकुन्ताग्रभा<br/>
-कर्णाभ्यर्णनिवासिनी लसतु मे हस्ते दृढा लेखनी<br/>
+कर्णाभ्यर्णनिवासिनी लसतु मे हस्ते दृढा लेखनी ॥ १९ ॥<br/>
 
 Dhṛṣṭadyumnaśirovavatī drupadajā hrasvā na dīrghā tathā<br/>
 andhā yā dhṛtarāṣṭravat śakunivad vā satvaraivētvarī<br/>
 lekhākhye'tra yudhiṣṭhirārjunayaśāḥ kuntīśakuntāgrabhā<br/>
-karṇābhyarṇanivāsinī lasatu me haste dṛḍhā lekhanī<br/>
+karṇābhyarṇanivāsinī lasatu me haste dṛḍhā lekhanī || 19 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 धृष्टद्युम्नशिरोवती | द्रुपदजा | ह्रस्वा | न | दीर्घा | तथा | अन्धा | या | धृतराष्ट्रवत् | शकुनिवत् | वा | सत्वरा | एव | इत्वरी | लेखाख्ये | अत्र | युधिष्ठिरार्जुनयशाः | कुन्तीशकुन्ताग्रभा | कर्णाभ्यर्णनिवासिनी | लसतु | मे | हस्ते | दृढा | लेखनी
@@ -331,12 +331,12 @@ May that firm pen shine in my hand, which possesses a golden-adorned head, is cr
 स्थौल्यं मेऽस्ति गुणः स लेखनकृतां प्रातिस्विको मन्यते<br/>
 वाक्यं तेन न पृष्ठतो न च पुरो यल्लेखसौन्दर्यहम्<br/>
 तस्मादेव समेऽपि लेखनिरताः स्थूलाः स्वयं मूलतः<br/>
-प्रोच्यन्ते च 'मुनीमजी'त्युपपदास्तत्सद्गुणाढ्योऽस्म्यहम्<br/>
+प्रोच्यन्ते च 'मुनीमजी'त्युपपदास्तत्सद्गुणाढ्योऽस्म्यहम् ॥ २० ॥<br/>
 
 Sthaulyaṃ me'sti guṇaḥ sa lekhanakṛtāṃ prātisviko manyate<br/>
 vākyaṃ tena na pṛṣṭhato na ca puro yallekhasaundaryaham<br/>
 tasmādeva same'pi lekhaniratāḥ sthūlāḥ svayaṃ mūlataḥ<br/>
-procyante ca 'munīmajī'tyupapadāstatsadguṇāḍhyo'smyaham<br/>
+procyante ca 'munīmajī'tyupapadāstatsadguṇāḍhyo'smyaham || 20 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 स्थौल्यम् | मे | अस्ति | गुणः | सः | लेखनकृताम् | प्रातिस्विकः | मन्यते | वाक्यम् | तेन | न | पृष्ठतः | न | च | पुरः | यत् | लेखसौन्दर्यहम् | तस्मात् | एव | समे | अपि | लेखनिरताः | स्थूलाः | स्वयम् | मूलतः | प्रोच्यन्ते | च | मुनीमजी | इति | उपपदाः | तत्सद्गुणाढ्यः | अस्मि | अहम्
@@ -369,12 +369,12 @@ My stoutness is a great virtue for me, considered an inherent quality for scribe
 किञ्चाखुस्थितिमानहं तदपरो मेऽयं गुणो गण्यताम्<br/>
 कृन्तत्येष च लेखकस्य सकलं रात्रौ दिनस्य श्रमम्<br/>
 तं कृत्वा पदयो रधो निजवशे रक्षामि नक्तं दिनम्<br/>
-तन्मद् याजित 'लेख' नाम यजनं प्रारभ्यतां पावनम्<br/>
+तन्मद् याजित 'लेख' नाम यजनं प्रारभ्यतां पावनम् ॥ २१ ॥<br/>
 
 Kiñcākhusthitimānahaṃ tadaparo me'yaṃ guṇo gaṇyatām<br/>
 kṛntatyeṣa ca lekhakasya sakalaṃ rātrau dinasya śramam<br/>
 taṃ kṛtvā padayo radho nijavaśe rakṣāmi naktaṃ dinam<br/>
-tanmad yājita 'lekha' nāma yajanaṃ prārabhyatāṃ pāvanam<br/>
+tanmad yājita 'lekha' nāma yajanaṃ prārabhyatāṃ pāvanam || 21 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 किञ्च | आखुस्थितिमान् | अहम् | तदपरः | मे | अयम् | गुणः | गण्यताम् | कृन्तति | एषः | च | लेखकस्य | सकलम् | रात्रौ | दिनस्य | श्रमम् | तम् | कृत्वा | पदयोः | अधः | निजवशे | रक्षामि | नक्तम् | दिनम् | तत् | मत् | याजितम् | लेखनाम | यजनम् | प्रारभ्यताम् | पावनम्
@@ -408,12 +408,12 @@ Furthermore, consider this other quality of mine: I have a mouse as my vehicle. 
 किञ्चैकोऽस्ति पणो वदामि पणवध्वानै स्तदाकर्ण्यताम्<br/>
 हस्ते चण्यत इष्टलेखनकरी वक्त्रा त्वरैवोच्यताम्<br/>
 न स्याद् द्विक्षणमौनवानपि स वा स्वेचिन्तनादौ रतः<br/>
-नाहं वाच्यविलम्बने सहनकृत् पश्यन् भवद्वक्त्रकम्<br/>
+नाहं वाच्यविलम्बने सहनकृत् पश्यन् भवद्वक्त्रकम् ॥ २२ ॥<br/>
 
 Kiñcaiko'sti paṇo vadāmi paṇavadhvānai stadākarṇyatām<br/>
 haste caṇyata iṣṭalekhanakarī vaktrā tvaraivocyatām<br/>
 na syād dvikṣaṇamaunavānapi sa vā svecintanādau rataḥ<br/>
-nāhaṃ vācyavilambane sahanakṛt paśyan bhavadvaktrakam<br/>
+nāhaṃ vācyavilambane sahanakṛt paśyan bhavadvaktrakam || 22 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 किञ्च | एकः | अस्ति | पणः | वदामि | पणवध्वानैः | तत् | आकर्ण्यताम् | हस्ते | चण्यते | इष्टलेखनकरी | वक्त्रा | त्वरा | एव | उच्यताम् | न | स्यात् | द्विक्षणमौनवान् | अपि | सः | वा | स्वे | चिन्तनादौ | रतः | न | अहम् | वाच्यविलम्बने | सहनकृत् | पश्यन् | भवद्वक्त्रकम्
@@ -446,12 +446,12 @@ Furthermore, I have one condition, and I declare it with the sound of drums—li
 रोधे चेत् परिहार्य कार्यमिदकं यातास्मि नैजं गृहम् <br/>
 त्वद्दत्ताच्छ्रमतो निवृत्य सुखतः पास्यामि गाङ्गं जलम् <br/>
 नो जृम्भेय न वा क्षणान् क्षपणये पादप्रसारादिभिः <br/>
-मूर्खोऽयं क्षणरक्षणं न कुरुते न स्वं पणं पाति यः <br/>
+मूर्खोऽयं क्षणरक्षणं न कुरुते न स्वं पणं पाति यः ॥ २३ ॥<br/>
 
 Rodhe cet parihārya kāryamidakaṃ yātāsmi naijaṃ gṛham <br/>
 Tvaddattācchramato nivṛtya sukhataḥ pāsyāmi gāṅgaṃ jalam <br/>
 No jṛmbheya na vā kṣaṇān kṣapaṇaye pādaprasārādibhiḥ <br/>
-Mūrkho'yaṃ kṣaṇarakṣaṇaṃ na kurute na svaṃ paṇaṃ pāti yaḥ <br/>
+Mūrkho'yaṃ kṣaṇarakṣaṇaṃ na kurute na svaṃ paṇaṃ pāti yaḥ || 23 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 रोधे | चेत् | परिहार्य | कार्यम् | इदकम् | यातास्मि | नैजम् | गृहम् | त्वद्दत्तात् | श्रमतः | निवृत्त्य | सुखतः | पास्यामि | गाङ्गम् | जलम् | नो | जृम्भेय | न | वा | क्षणान् | क्षपणये | पादप्रसारादिभिः | मूर्खः | अयम् | क्षणरक्षणम् | न | कुरुते | न | स्वम् | पणम् | पाति | यः
@@ -482,12 +482,12 @@ If there is an obstruction in my writing, I shall abandon this task and return t
 श्रुत्वा सत्यवतीसुतोऽपि विहसन् प्रोवाच तत् प्राक् स्फुटम् <br/>
 नाहं लेखविधिप्रयोगसमये चिन्तामि लेख्यं निजम् <br/>
 इत्थं यः कुरुते स तु द्विसमयौ हा हन्ति मन्दो महान् <br/>
-मा मां विद्धि तथाक्रियं कुविदुषं लोकाद् बहिर्मुखम् <br/>
+मा मां विद्धि तथाक्रियं कुविदुषं लोकाद् बहिर्मुखम् ॥ २४ ॥<br/>
 
 Śrutvā satyavatīsuto'pi vihasan provāca tat prāk sphuṭam <br/>
 Nāhaṃ lekhavidhiprayogasamaye cintāmi lekhyaṃ nijam <br/>
 Itthaṃ yaḥ kurute sa tu dvisamayau hā hanti mando mahān <br/>
-Mā māṃ viddhi tathākriyaṃ kuviduṣaṃ lokād bahirmukham <br/>
+Mā māṃ viddhi tathākriyaṃ kuviduṣaṃ lokād bahirmukham || 24 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 श्रुत्वा | सत्यवतीसुतः | अपि | विहसन् | प्रोवाच | तत् | प्राक् | स्फुटम् | न | अहम् | लेखविधिप्रयोगसमये [possible reading: लेखविधिप्रयोगसमये] | चिन्तामि | लेख्यम् [possible reading: लेख्यम्] | नैजम् [possible reading: निजम्] | इत्थम् | यः | कुरुते | सः | तु | द्विसमयौ | हा | हन्ति | मन्दः | महान् | मा | माम् | विद्धि | तथाक्रियम् | कुविदुषम् | लोकात् | बहिर्मुखम्
@@ -521,12 +521,12 @@ Hearing this, the son of Satyavati (Vyasa) smiled and said, "I have already clar
 किन्तु त्वं प्रविचारयस्व बहुशः को नौ स्वतन्त्रः परम्? <br/>
 वक्तुर्लेखनकृन्मुखेक्षणकरस्तस्मात् स्वतन्त्रो न सः <br/>
 किञ्चिद् वक्त्रकनेत्रजन्यविकृतैर्ज्ञात्वैव तस्याशयान् <br/>
-शान्त्या लेखनमेव सर्वहितकृत् किं वा तडिद्धावनैः? <br/>
+शान्त्या लेखनमेव सर्वहितकृत् किं वा तडिद्धावनैः? ॥ २५ ॥<br/>
 
 Kintu tvaṃ pravicārayasva bahuśaḥ ko nau svatantraḥ param? <br/>
 Vakturlekhanakṛnmukhekṣaṇakarastasmāt svatantro na saḥ <br/>
 Kiñcid vaktranetrajanyavikṛtairjñātvaiva tasyāśayān <br/>
-Śāntyā lekhanameva sarvahitakṛt kiṃ vā taḍiddhāvanaiḥ? <br/>
+Śāntyā lekhanameva sarvahitakṛt kiṃ vā taḍiddhāvanaiḥ? || 25 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 किन्तु | त्वम् | प्रविचारयस्व | बहुशः | कः | नौ | स्वतन्त्रः | परम् | वक्तुः | लेखनकृत् [possible reading: लेखनकृत्] | मुखेक्षणकरः [possible reading: मुखेक्षणकरः] | तस्मात् | स्वतन्त्रः | न | सः | किञ्चित् | वक्त्रकनेत्रजन्यविकृतैः [possible reading: वक्त्रकनेत्रजन्यविकृतैः] | ज्ञात्वा | एव | तस्य | आशयान् | शान्त्या | लेखनम् [possible reading: लेखनम्] | एव | सर्वहितकृत् | किम् | वा | तडिद्धावनैः [possible reading: तडिद्धावनैः]
@@ -555,12 +555,12 @@ Kiñcid vaktranetrajanyavikṛtairjñātvaiva tasyāśayān <br/>
 झञ्झावतसुतोऽसि वाऽस्य जनको भ्रातासि वा मारुतेः <br/>
 यन्मां भीषयसेऽनया स्वविधयाऽनुल्लिख्य वर्णद्वयम् <br/>
 लेखाख्येऽत्ववधेयकर्मणि सदा मन्दा गतिः स्तूयते <br/>
-वक्ता चेत् कथयेत्तदापि न तथा कर्ता भवेल्लेखकः <br/>
+वक्ता चेत् कथयेत्तदापि न तथा कर्ता भवेल्लेखकः ॥ २६ ॥<br/>
 
 Jhañjhāvatasuto'si vā'sya janako bhrātāsi vā māruteḥ <br/>
 Yanmāṃ bhīṣayase'nayā svavidhayā'nullikhya varṇadvayam <br/>
 Lekhākhye'tvavadhayakarmaṇi sadā mandā gatiḥ stūyate <br/>
-Vaktā cet kathayettadāpi na tathā kartā bhavellekhakaḥ <br/>
+Vaktā cet kathayettadāpi na tathā kartā bhavellekhakaḥ || 26 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 झञ्झावतसुतः [possible reading: झञ्झावातसुतः] | असि | वा | अस्य | जनकः | भ्राता | असि | वा | मारुतेः | यत् | माम् | भीषयसे | अनया | स्वविधया [possible reading: स्वविधया] | अनुल्लिख्य [possible reading: अनुल्लिख्य] | वर्णद्वयम् | लेखाख्ये [possible reading: लेखाख्ये] | अत्ववधेयकर्मणि [possible reading: अत्यवधेयकर्मणि] | सदा | मन्दा | गतिः | स्तूयते | वक्ता | चेत् | कथयेत् | तदा | अपि | न | तथा | कर्ता | भवेल्लेखकः [possible reading: भवेल्लेखकः]
@@ -590,12 +590,12 @@ Vaktā cet kathayettadāpi na tathā kartā bhavellekhakaḥ <br/>
 एकं नैव लिखेद् वदेच्छतमपीत्येवं बुधाश्चक्षते <br/>
 तेनापीदकमेव सिध्यतितां मन्दं लिखेल्लेखकः <br/>
 चेत् स्यात् बिन्दुविसर्गयोरपि हतिः कस्यापि वर्णस्य वा <br/>
-तत् स्याद् वक्तृपरिश्रमोऽतिविफलः कुन्ती च कुत्ती भवेत् <br/>
+तत् स्याद् वक्तृपरिश्रमोऽतिविफलः कुन्ती च कुत्ती भवेत् ॥ २७ ॥<br/>
 
 ekaṃ naiva likhed vadecchatamapītyevaṃ budhāścakṣate <br/>
 tenāpīdakameva sidhyatitāṃ mandam likhellekhakaḥ <br/>
 cet syāt binduvisargayorapi hatiḥ kasyāpi varṇasya vā <br/>
-tat syād vaktṛpariśramo'tiviphalaḥ kuntī ca kuttī bhavet <br/>
+tat syād vaktṛpariśramo'tiviphalaḥ kuntī ca kuttī bhavet || 27 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 एकम् | न | एव | लिखेत् | वदेत् | शतम् | अपि | इति | एवम् | बुधाः | चक्षते | तेन | अपि | इदकम् | एव | सिध्यतिताम् | मन्दम् | लिखेत् | लेखकः | चेत् | स्यात् | बिन्दुविसर्गयोः | अपि | हतिः | कस्यापि | वर्णस्य | वा | तत् | स्यात् | वक्तृपरिश्रमः | अतिविफलः | कुन्ती | च | कुत्ती | भवेत्
@@ -629,12 +629,12 @@ The wise declare that even if a speaker utters a hundred words, one should not w
 व्याख्यानैरथवाऽद्य किं? तव गुणो यावत् परीक्ष्येत नो <br/>
 विज्ञप्तौ लिखितं मया तदधरद् द्वैगुण्यवृद्धं भवान् <br/>
 स्युश्चेद् भारतदेशगाः शकटिकास्तूफानमेलादयः <br/>
-ग्रन्थे भारतनामके न च कथं तूफानमेलो भवेत् ? <br/>
+ग्रन्थे भारतनामके न च कथं तूफानमेलो भवेत् ? ॥ २८ ॥<br/>
 
 vyākhyānairathavā'dya kiṃ? tava guṇo yāvat parīkṣyeta no <br/>
 vijñaptau likhitaṃ mayā tadadharad dvaiguṇyavṛddhaṃ bhavān <br/>
 syuśced bhāratadeśagāḥ śakaṭikāstūphānamelādayaḥ <br/>
-granthe bhāratanāmake na ca kathaṃ tūphānamelo bhavet ? <br/>
+granthe bhāratanāmake na ca kathaṃ tūphānamelo bhavet ? || 28 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 व्याख्यानैः | अथवा | अद्य | किम् | तव | गुणः | यावत् | परीक्ष्येत | न | विज्ञप्तौ | लिखितम् | मया | तत् | अधरत् | द्वैगुण्यवृद्धम् | भवान् | स्युः | चेत् | भारतदेशगाः | शकटिकाः | तूफानमेलादयः | ग्रन्थे | भारतनामके | न | च | कथम् | तूफानमेलः | भवेत्
@@ -669,12 +669,12 @@ Or, as long as your true capability remains untested, what is the use of these e
 स्थानं स्वं तु तदैव यास्यति भवान् मौनं भवेन्मन्मुखे <br/>
 अम्भोयन्त्रकवारिबिन्दुगतिधृच्छब्दान् न चादास्यसे <br/>
 दाक्ष्यैः कार्यविसर्जनच्छलपणैर्मोचेलिमो नो मया <br/>
-तत् सज्जॊ भव वच्मि मुष्टिपटले धारेलिमा लेखनी <br/>
+तत् सज्जॊ भव वच्मि मुष्टिपटले धारेलिमा लेखनी ॥ २९ ॥<br/>
 
 sthānaṃ svaṃ tu tadaiva yāsyati bhavān maunaṃ bhavenmanmukhe <br/>
 ambhoyantrakavāribindugatidhṛcchabdān na cādāsyase <br/>
 dākṣyaiḥ kāryavisarjanacchalapaṇairmocelimo no mayā <br/>
-tat sajjo bhava vacmi muṣṭipaṭale dhārelimā lekhanī <br/>
+tat sajjo bhava vacmi muṣṭipaṭale dhārelimā lekhanī || 29 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 स्थानम् | स्वम् | तु | तदा | एव | यास्यति | भवान् | मौनम् | भवेत् | मन्मुखे | अम्भोयन्त्रकवारिबिन्दुगतिधृत् | शब्दान् | न | च | आदास्यसे | दाक्ष्यैः | कार्यविसर्जनच्छलपणैः | मोचेलिमः | नो | मया | तत् | सज्जः | भव | वच्मि | मुष्टिपटले | धारेलिमा | लेखनी

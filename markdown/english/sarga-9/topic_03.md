@@ -8,11 +8,11 @@ Equality of rights for men and women and the signals of family planning indicate
 गौरीशद्वयहस्ततो जनिधरः स्त्रीपुंसपूजाधरः |<br/>
 ताभ्यां साम्यविधानसृष्टि रसिकोऽतोऽन्तर्गणेशो ध्रुवम् ||<br/>
 पुंस्त्रीणां समतां यदिच्छति च नः सद्यस्तनं शासनम् |<br/>
-स्त्रीजाते रबलापदापहरणं ताभ्यो बलानां पदम् ||<br/>
+स्त्रीजाते रबलापदापहरणं ताभ्यो बलानां पदम् || २१ ||<br/>
 gaurīśadvayahastato janidharaḥ strīpuṃsapūjādharaḥ |<br/>
 tābhyāṃ sāmyavidhānasṛṣṭi rasiko'to'ntargaṇeśo dhruvam ||<br/>
 puṃstrīṇāṃ samatāṃ yadicchati ca naḥ sadyastanaṃ śāsanam |<br/>
-strījāte rabalāpadāpaharaṇaṃ tābhyo balānāṃ padam ||
+strījāte rabalāpadāpaharaṇaṃ tābhyo balānāṃ padam || 21 ||
 
 ### पदच्छेदम् (Padacchedam):
 गौरीश-द्वय-हस्ततः | जनिधरः | स्त्री-पुंस-पूजा-धरः | ताभ्यां | साम्य-विधान-सृष्टि-रसिकः | अतः | अन्तः | गणेशः | ध्रुवम् | पुंस्त्रीणाम् | समताम् | यत् | इच्छति | च | नः | सद्यस्तनम् | शासनम् | स्त्रीजातेः | अबला-पद-अपहरणम् | ताभ्यः | बलानाम् | पदम् |
@@ -41,11 +41,11 @@ Ganesha was born from the hands of both Gauri and Shiva, and he is worshipped by
 योगिन्यो विकृतानना ऽक्षिचरणाः सैन्येनिजे रक्षिताः |<br/>
 अद्यावध्यपि सूचयन्ति च निजां युद्धस्थल प्रमिताम् ||<br/>
 यत्ता रक्तपपागुणस्तुतपदाः सा युद्धबुद्धिस्तुतिः |<br/>
-नेमा केवल शोणितैकरसिका नाना क्षताऽभूषणाः ||<br/>
+नेमा केवल शोणितैकरसिका नाना क्षताऽभूषणाः || २२ ||<br/>
 yoginyo vikṛtānanā 'kṣicaraṇāḥ sainyenije rakṣitāḥ |<br/>
 adyāvadhyapi sūcayanti ca nijāṃ yuddhasthala pramitām ||<br/>
 yattā raktapapāguṇastutapadāḥ sā yuddhabuddhistutiḥ |<br/>
-nemā kevala śoṇitaikarasikā nānā kṣatā'bhūṣaṇāḥ ||
+nemā kevala śoṇitaikarasikā nānā kṣatā'bhūṣaṇāḥ || 22 ||
 
 ### पदच्छेदम् (Padacchedam):
 योगिन्यः | विकृत-आनना-अक्षि-चरणाः | सैन्ये | निजे | रक्षिताः | अद्यावधि | अपि | सूचयन्ति | च | निजां | युद्धस्थल-प्रमिताम् | यत् | ताः | रक्तप-गुण-स्तुत-पदाः | सा | युद्ध-बुद्धि-स्तुतिः | न | इमाः | केवल-शोणित-एक-रसिकाः | नाना-क्षत-आभूषणाः |
@@ -72,11 +72,11 @@ The Yoginis with distorted faces, eyes, and feet, whom Ganesha keeps in his army
 नूनं चाऽत्र सुशासने गणपतेर्मन्ये प्रभावोऽस्फुरत् |<br/>
 यत् सन्तत्यवरोधबोध विषयो नाना विधं तन्यते ||<br/>
 चक्रे किन्तु स संयमै रुपशमै रार्ग्रहाऽनाग्रहैः |<br/>
-सन्तानग्रहतः परस्थितिधरः सन् ब्रह्मचर्येश्वरः ||<br/>
+सन्तानग्रहतः परस्थितिधरः सन् ब्रह्मचर्येश्वरः || २३ ||<br/>
 nūnaṃ cā'tra suśāsane gaṇapatermanye prabhāvo'sphurat |<br/>
 yat santatyavarodhabodha viṣayo nānā vidhaṃ tanyate ||<br/>
 cakre kintu sa saṃyamai rupaśamai rārgrahā'nāgrahaiḥ |<br/>
-santānagrahataḥ parasthitidharaḥ san brahmacaryeśvaraḥ ||
+santānagrahataḥ parasthitidharaḥ san brahmacaryeśvaraḥ || 23 ||
 
 ### पदच्छेदम् (Padacchedam):
 नूनम् | च | अत्र | सुशासने | गणपतेः | मन्ये | प्रभावः | अस्फुरत् | यत् | सन्तति-अवरोध-बोध-विषयः | नाना-विधम् | तन्यते | चक्रे | किन्तु | सः | संयमैः | उपशमैः | दार-ग्रह-अनाग्रहैः | सन्तान-ग्रहतः | पर-स्थिति-धरः | सन् | ब्रह्मचर्य-ईश्वरः |
@@ -105,11 +105,11 @@ In this republican governance, the awareness regarding family planning is being 
 यद् भ्रातापि तमेव मार्ग मदधात् भूत्वा च चम्वाः पतिः |<br/>
 देवानाभवनाग्रतः परिणयः स्याद् दुर्णयो निश्चितम् ||<br/>
 तस्मादेव कुमार एव विदितो नादात् कुतश्चिद् वधूम् |<br/>
-वक्त्राण्येव निनाय पुत्र पदवीं षड् दिक्षु षट् सङ्ख्यया ||<br/>
+वक्त्राण्येव निनाय पुत्र पदवीं षड् दिक्षु षट् सङ्ख्यया || २४ ||<br/>
 yad bhrātāpi tameva mārga madadhāt bhūtvā ca camvāḥ patiḥ |<br/>
 devānābhavanāgrataḥ pariṇayaḥ syād durṇayo niścitam ||<br/>
 tasmādeva kumāra eva vidito nādāt kutaścid vadhūm |<br/>
-vaktrāṇyeva nināya putra padavīṃ ṣaḍ dikṣu ṣaṭ saṅkhyayā ||
+vaktrāṇyeva nināya putra padavīṃ ṣaḍ dikṣu ṣaṭ saṅkhyayā || 24 ||
 
 ### पदच्छेदम् (Padacchedam):
 यत् | भ्राता | अपि | तमेव | मार्गम् | अदधात् | भूत्वा | च | चम्वाः | पतिः | देवानाम् | अवन-अग्रतः | परिणयः | स्यात् | दुर्णयः | निश्चितम् | तस्मात् | एव | कुमारः | एव | विदितः | न | आदात् | कुतश्चित् | वधूम् | वक्त्राणि | एव | निनाय | पुत्र-पदवीम् | षट् | दिक्षु | षट्-सङ्ख्यया |
@@ -138,12 +138,12 @@ Even Ganesha's brother, Kartikeya, despite being the commander of the divine arm
 नानापत्यविपत्तिभी रणरता नालोक्य नक्तं दिनम् |<br/>
 लोकाऽऽलोककरौ प्रहासनिरतौ द्वौ भ्रातरौ नित्यशः ||<br/>
 स्मृत्वै तौ गणशासनं यदि चलेदाकर्णयेद्वा कथाम् |<br/>
-न स्या 'ल्लूपक' लुप्त बुद्धि विभवः स्त्रीणां नराणांगणः ||
+न स्या 'ल्लूपक' लुप्त बुद्धि विभवः स्त्रीणां नराणांगणः || २५ ||
 
 Nānāpatyavipattibhī raṇaratā nālokya naktaṃ dinam |<br/>
 Lokā'lokakarau prahāsaniratau dvau bhrātarau nityaśaḥ ||<br/>
 Smṛtvai tau gaṇaśāsanaṃ yadi caledākarṇayedvā kathām |<br/>
-Na syā 'llūpaka' lupta buddhi vibhavaḥ strīṇāṃ narāṇāṃgaṇaḥ ||
+Na syā 'llūpaka' lupta buddhi vibhavaḥ strīṇāṃ narāṇāṃgaṇaḥ || 25 ||
 
 ### पदच्छेदम् (Padacchedam):
 नाना-अपत्य-विपत्ति-भिः | रणरतान् | आलोक्य | नक्तम् | दिनम् | लोक-आलोककरौ | प्रहास-निरतौ | द्वौ | भ्रातरौ | नित्यशः | स्मृत्वा | एतौ | गणशासनम् | यदि | चलेत् | आकर्णयेत् | वा | कथाम् | न | स्यात् | 'लूपक'-लुप्त-बुद्धि-विभवः | स्त्रीणाम् | नराणाम् | गणः |
@@ -173,12 +173,12 @@ Even after witnessing people struggling day and night with the hardships caused 
 यद् बन्ध्यी करणं गवाश्वगम भूत्तत् स्वीकृतं हा ! नरैः |<br/>
 य न्नो रीकृत मस्त्यरण्यचरणै रामाश्रयै र्वानरैः ||<br/>
 तस्मान् मुक्तिरपेक्ष्यते द्रुततरं चेत् शासनेनाऽमुना |<br/>
-तत् श्रीमद् गणराज-संयम गुणं स्वाभूषणं धारयेत् ||
+तत् श्रीमद् गणराज-संयम गुणं स्वाभूषणं धारयेत् || २६ ||
 
 Yad bandhyī karaṇaṃ gavāśvagama bhūttat svīkṛtaṃ hā ! naraiḥ |<br/>
 Ya nno rīkṛta mastyaraṇyacaraṇai rāmāśrayai rvānaraiḥ ||<br/>
 Tasmān muktirapekṣyate drutataraṃ cet śāsanenā'munā |<br/>
-Tat śrīmad gaṇarāja-saṃyama guṇaṃ svābhūṣaṇaṃ dhārayet ||
+Tat śrīmad gaṇarāja-saṃyama guṇaṃ svābhūṣaṇaṃ dhārayet || 26 ||
 
 ### पदच्छेदम् (Padacchedam):
 यत् | बन्ध्यीकरणम् | गो-अश्व-गम् | अभूत् | तत् | स्वीकृतम् | हा ! | नरैः | यत् | न | उरीकृतम् | अस्ति | अरण्य-चरणैः | राम-आश्रयैः | वानरैः | तस्मात् | मुक्तिः | अपेक्ष्यते | द्रुततरम् | चेत् | शासनेन | अमुना | तत् | श्रीमत्-गणराज-संयम-गुणम् | स्व-आभूषणम् | धारयेत् |

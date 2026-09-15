@@ -6,11 +6,11 @@ Examples of various problem-solving verses (Samasya Puranas) composed by the poe
 प्रेष्ठे! गेहिनि! किं करोषि! भवते सूपौदनौ संस्कृतौ |<br/>
 तेऽपूपाश्चिरतोऽर्थिता रसमयास्ते क्षीरतः संस्कृताः |<br/>
 चन्द्राभाश्च वटाः स्वगण्डसदृशाः क्रीडन्ति दध्निस्थिताः |<br/>
-धूमस्विन्नमुखं न संस्कृतमिदं तत्त्वया संस्कृतम्? ||<br/>
+धूमस्विन्नमुखं न संस्कृतमिदं तत्त्वया संस्कृतम्? || ३७ ||<br/>
 Preṣṭhe! Gehini! Kiṃ karoṣi! Bhavate sūpaudanau saṃskṛtau |<br/>
 Te'pūpāścirato'rthitā rasamayāste kṣīrataḥ saṃskṛtāḥ |<br/>
 Candrābhāśca vaṭāḥ svagaṇḍasadṛśāḥ krīḍanti dadhnisthitāḥ |<br/>
-Dhūmasvinnamukhaṃ na saṃskṛtamidaṃ tattvayā saṃskṛtam? ||
+Dhūmasvinnamukhaṃ na saṃskṛtamidaṃ tattvayā saṃskṛtam? || 37 ||
 
 ### पदच्छेदम् (Padacchedam):
 प्रेष्ठे! | गेहिनि! | किम् | करोषि! | भवते | सूप-ओदनौ | संस्कृतौ | ते | अपूपाः | चिरतः | अर्थिताः | रसमयाः | ते | क्षीरतः | संस्कृताः | चन्द्र-आभाः | च | वटाः | स्व-गण्ड-सदृशाः? | क्रीडन्ति | दध्नि-स्थिताः | धूम-स्विन्न-मुखम् | न | संस्कृतम् | इदम् | तत् | त्वया | संस्कृतम्? |
@@ -40,11 +40,11 @@ This is a dialogue of Shringara Rasa (erotic/romantic sentiment) between a husba
 कण्ठः कोकिलकाकलीमदहरस्तारुण्यपूर्णौ दृशौ |<br/>
 सुश्वेता च पटच्छटास्ति बकवद्यानैर्विहायो गतिः |<br/>
 शोणोष्ठा दयिता सुकज्जलयुता सत्राप्सरोभायुता |<br/>
-मन्ये देवमिमं परं त्रुटिरियं वक्त्रे न यत् संस्कृतम् ||<br/>
+मन्ये देवमिमं परं त्रुटिरियं वक्त्रे न यत् संस्कृतम् || ३८ ||<br/>
 Kaṇṭhaḥ kokilakākalīmadaharastāruṇyapūrṇau dṛśau |<br/>
 Suśvetā ca paṭacchaṭāsti bakavadyānairvihāyo gatiḥ |<br/>
 Śoṇoṣṭhā dayitā sukajjalayutā satrāpsarobhāyutā |<br/>
-Manye devamimaṃ paraṃ truṭiriyaṃ vaktre na yat saṃskṛtam ||
+Manye devamimaṃ paraṃ truṭiriyaṃ vaktre na yat saṃskṛtam || 38 ||
 
 ### पदच्छेदम् (Padacchedam):
 कण्ठः | कोकिल-काकली-मद-हरः | तारुण्य-पूर्णौ | दृशौ | सु-श्वेता | च | पट-छटा | अस्ति | बकवत् | यानैः | विहायसः | गतिः | शोण-ओष्ठा | दयिता | सु-कज्जल-युता | सत्रा | अप्सरः-भा-युता | मन्ये | देवम् | इमम् | परम् | त्रुटिः | इयम् | वक्त्रे | न | यत् | संस्कृतम् |
@@ -69,11 +69,11 @@ This leader's voice humbles the cuckoo. His eyes are brimming with youth. His ga
 अन्यत्रापि बहुतत्र संस्कृतकविश्रेण्यां गतो मुख्यताम् |<br/>
 या याः स्वा रचनाअशुश्रवमहं सत्कारितास्ता बुधैः |<br/>
 भावप्लावि सुकामिनीकुचयुगाश्लेषोत्थसौर्यदाः |<br/>
-लिख्यन्ते कविता विवर्धनधियां मार्गाय काश्चित्ततः ||<br/>
+लिख्यन्ते कविता विवर्धनधियां मार्गाय काश्चित्ततः || ३९ ||<br/>
 Anyatrāpi bahutatra saṃskṛtakaviśreṇyāṃ gato mukhyatām |<br/>
 Yā yāḥ svā racanāaśuśravamahaṃ satkāritāstā budhaiḥ |<br/>
 Bhāvaplāvi sukāminīkucayugāśleṣotthasauryadāḥ |<br/>
-Likhyante kavitā vivardhanadhiyāṃ mārgāya kāścittataḥ ||
+Likhyante kavitā vivardhanadhiyāṃ mārgāya kāścittataḥ || 39 ||
 
 ### पदच्छेदम् (Padacchedam):
 अन्यत्र | अपि | बहुतत्र | संस्कृत-कवि-श्रेण्याम् | गतः | मुख्यताम् | याः | याः | स्वाः | रचनाः | अशुश्रवम् | अहम् | सत्कारिताः | ताः | बुधैः | भाव-प्लावि-सुकामिनी-कुच-युग-आश्लेष-उत्थ-सौर्यदाः [possible reading: सौर्यदाः — सौर्यदाः (सौख्यदाः)] | लिख्यन्ते | कविताः | विवर्धन-धियाम् | मार्गाय | काश्चित् | ततः |
@@ -99,11 +99,11 @@ I have participated in many other Sanskrit poet assemblies and attained a positi
 पुष्पापीडधरी समुन्नतकुचा वामा न नो रोचते |<br/>
 अर्थाः प्रावृडमोघमेघमुदिरा नेषन्मनोमोहिनः |<br/>
 दृश्यब्रह्मणि रज्जुसर्पसदृशी मिथ्यात्वयुक्ता मतिः |<br/>
-शब्दब्रह्म सनातनं श्रुतिनुतं नित्यं सदोपास्महे ||<br/>
+शब्दब्रह्म सनातनं श्रुतिनुतं नित्यं सदोपास्महे || ४० ||<br/>
 Puṣpāpīḍadharī samunnatakucā vāmā na no rocate |<br/>
 Arthāḥ prāvṛḍamoghameghamudirā neṣanmanomohinaḥ |<br/>
 Dṛśyabrahmaṇi rajjusarpasadṛśī mithyātvayuktā matiḥ |<br/>
-Śabdabrahma sanātanaṃ śrutinutaṃ nityaṃ sadopāsmahe ||
+Śabdabrahma sanātanaṃ śrutinutaṃ nityaṃ sadopāsmahe || 40 ||
 
 ### पदच्छेदम् (Padacchedam):
 पुष्प-आपीड-धरी | समुन्नत-कुचा | वामा | न | नः | रोचते | अर्थाः | प्रावृट्-अमोघ-मेघ-मुदिराः | न | ईषत् | मनः-मोहिनः | दृश्य-ब्रह्मणि | रज्जु-सर्प-सदृशी | मिथ्यात्व-युक्ता | मतिः | शब्द-ब्रह्म | सनातनम् | श्रुति-नुतम् | नित्यम् | सदा | उपास्महे |
@@ -130,12 +130,12 @@ Women adorned with flower garlands and possessing elevated breasts no longer ple
 यैः काव्यानि निवेशितानि हृदये पीयूषवाग्धारिणाम् |<br/>
 ते पूर्णाः सफलास्तदर्थसफलाः कान्ताकुचालिङ्गिनाः ||<br/>
 यत्पार्श्वे वसतोऽपि वा कविजनः कान्ता थवैकान्तगा |<br/>
-पादोनाः सफलाः परं तदपरे ते के न जानीमहे ? ||
+पादोनाः सफलाः परं तदपरे ते के न जानीमहे ? || ४१ ||
 
 yaiḥ kāvyāni niveśitāni hṛdaye pīyūṣavāgdhāriṇām |<br/>
 te pūrṇāḥ saphalāstadarthasaphalāḥ kāntākucāliṅginaḥ ||<br/>
 yatpārśve vasato'pi vā kavijanaḥ kāntā athavā ekāntagā |<br/>
-pādonāḥ saphalāḥ paraṃ tadapare te ke na jānīmahe ? ||
+pādonāḥ saphalāḥ paraṃ tadapare te ke na jānīmahe ? || 41 ||
 
 ### पदच्छेदम् (Padacchedam):
 यैः | काव्यानि | निवेशितानि | हृदये | पीयूष-वाक्-धारिणाम् | ते | पूर्णाः | सफलाः | तत्-अर्थ-सफलाः | कान्ता-कुच-आलिङ्गिनः | यत्-पार्श्वे | वसतः | अपि | वा | कवि-जनः | कान्ता | अथ वा | एकान्त-गा | पाद-ऊनाः | सफलाः | परम् | तत्-अपरे | ते | के | न | जानीमहे ? |
@@ -165,12 +165,12 @@ Those who have enshrined the poetry of those possessing nectar-like speech withi
 अस्त्युत्तीर्णा कुरुधिर पुरीषाद्यमेध्या परीक्षा |<br/>
 मन्येऽभ्यस्ता पवन तप न श्लेष्म दोषोपशिक्षा ||<br/>
 आत्मानन्दामृतरसनदी देहगेहादिहाना |<br/>
-हा ! नाधीता जनिमृतिहरी वैद्य विद् ! यैव विद्या ||
+हा ! नाधीता जनिमृतिहरी वैद्य विद् ! यैव विद्या || ४२ ||
 
 astyuttīrṇā kurudhira purīṣādyamedhyā parīkṣā |<br/>
 manye'bhyastā pavana tapana śleṣma doṣopaśikṣā ||<br/>
 ātmānandāmṛtarasanadī dehagehādihānā |<br/>
-hā ! nādhītā janimṛtiharī vaidya vid ! yaiva vidyā ||
+hā ! nādhītā janimṛtiharī vaidya vid ! yaiva vidyā || 42 ||
 
 ### पदच्छेदम् (Padacchedam):
 अस्ति | उत्तीर्णा | कुरुधिर-पुरीष-आदि-अमेध्या | परीक्षा | मन्ये | अभ्यस्ता | पवन-तपन-श्लेष्म-दोष-उपशिक्षा | आत्म-आनन्द-अमृत-रस-नदी | देह-गेह-आदि-हाना | हा ! | न | अधीता | जनि-मृति-हरी | वैद्य | वित् ! | या | एव | विद्या |
@@ -198,12 +198,12 @@ O Physician! You have passed the examination of impure substances like blood and
 पिष्ट्वा बीजं कनकतरुजं स्तम्भनाय प्रयोज्य |<br/>
 लब्ध्वा कञ्चिद् वसुचय महो मन्दमीनध्वजेभ्यः ||<br/>
 वैद्यम्मन्यो मुनिजनगवै र्मान्यविद्या अनिन्दीत् |<br/>
-तं विद्वांसः स्मितमकथयन् वैद्य ! विद्यैव विद्या ||
+तं विद्वांसः स्मितमकथयन् वैद्य ! विद्यैव विद्या || ४३ ||
 
 piṣṭvā bījaṃ kanakatarujaṃ stambhanāya prayojya |<br/>
 labdhvā kañcid vasucaya maho mandamīnadhvajebhyaḥ ||<br/>
 vaidyammanyo munijanagavai rrmānyavidyā anindīt |<br/>
-taṃ vidvāṃsaḥ smitamakathayan vaidya ! vidyaiva vidyā ||
+taṃ vidvāṃsaḥ smitamakathayan vaidya ! vidyaiva vidyā || 43 ||
 
 ### पदच्छेदम् (Padacchedam):
 पिष्ट्वा | बीजम् | कनक-तरु-जम् | स्तम्भनाय | प्रयोज्य | लब्ध्वा | कञ्चित् | वसु-चयम् | अहो | मन्द-मीन-ध्वजेभ्यः | वैद्यम्-मन्यः | मुनि-जन-गवैः | मान्य-विद्याः | अनिन्दीत् | तम् | विद्वांसः | स्मितम् | अकथयन् | वैद्य ! | विद्या | एव | विद्या |
@@ -228,10 +228,10 @@ An arrogant man, considering himself a physician, ground Datura seeds to create 
 
 ### Shloka:
 कृशोदरी का मधुनि प्रसक्ता, माता शिशौ प्रेमाणि किं करोति ? |<br/>
-आच्छाद्यते किं जलदैश्च रात्रौ, पिपीलिका, चुम्बति, चन्द्रबिम्बम् ||
+आच्छाद्यते किं जलदैश्च रात्रौ, पिपीलिका, चुम्बति, चन्द्रबिम्बम् || ४४ ||
 
 kṛśodarī kā madhuni prasaktā, mātā śiśau premāṇi kiṃ karoti ? |<br/>
-ācchādyate kiṃ jaladaiśca rātrau, pipīlikā, cumbati, candrabimbam ||
+ācchādyate kiṃ jaladaiśca rātrau, pipīlikā, cumbati, candrabimbam || 44 ||
 
 ### पदच्छेदम् (Padacchedam):
 कृश-उदरी | का | मधुनि | प्रसक्ता | माता | शिशौ | प्रेमाणि | किम् | करोति ? | आच्छाद्यते | किम् | जलदैः | च | रात्रौ | पिपीलिका | चुम्बति | चन्द्र-बिम्बम् |
@@ -249,10 +249,10 @@ Who is the slender-waisted one attached to sweetness? What does a mother do to h
 
 ### Shloka:
 पुरन्दराद्या अमरा विमानैः, पुरा चुचुम्बु र्दिवि चन्द्रबिम्बम् ।<br/>
-आरुह्य हो !! सम्प्रति वायुयानं, पिपीलिका चुम्बति चन्द्रबिम्बम् ॥
+आरुह्य हो !! सम्प्रति वायुयानं, पिपीलिका चुम्बति चन्द्रबिम्बम् ॥ ४५ ॥
 
 Purandarādyā amarā vimānaiḥ, purā cucumbu rdivi candrabimbam |<br/>
-Āruhya ho !! samprati vāyayānaṃ, pipīlikā cumbati candrabimbam ||
+Āruhya ho !! samprati vāyayānaṃ, pipīlikā cumbati candrabimbam || 45 ||
 
 ### पदच्छेदम् (Padacchedam):
 पुरन्दर-आद्याः | अमराः | विमानैः | पुरा | चुचुम्बुः | दिवि | चन्द्र-बिम्बम् | आरुह्य | हो !! | सम्प्रति | वायु-यानम् | पिपीलिका | चुम्बति | चन्द्र-बिम्बम् |
@@ -274,10 +274,10 @@ In ancient times, only the Devas, led by Indra, could travel through the sky in 
 
 ### Shloka:
 बीमा विधेराय विधा प्रवीणा, दहन्ति हट्टाः कपटेन लोकाः ।<br/>
-निर्वापि यन्त्रं धनिने खतेऽद्य, टटं टटं टं टटटं टटण्टम् ॥
+निर्वापि यन्त्रं धनिने खतेऽद्य, टटं टटं टं टटटं टटण्टम् ॥ ४६ ॥
 
 Bhīmā vidherāya vidhā pravīṇā, dahanti haṭṭāḥ kapaṭena lokāḥ |<br/>
-Nirvāpi yantraṃ dhanine khate'dya, ṭaṭaṃ ṭaṭaṃ ṭaṃ ṭaṭaṭaṃ ṭaṭaṇṭam ||
+Nirvāpi yantraṃ dhanine khate'dya, ṭaṭaṃ ṭaṭaṃ ṭaṃ ṭaṭaṭaṃ ṭaṭaṇṭam || 46 ||
 
 ### पदच्छेदम् (Padacchedam):
 बीमा-विधेः | आय-विधा | प्रवीणाः | दहन्ति | हट्टाः | कपटेन | लोकाः | निर्वापि-यन्त्रम् | धनिने | खते | अद्य | टटम् | टटम् | टम् | टटटम् | टटण्टम् |
@@ -297,10 +297,10 @@ Certain merchants, skilled in profiting through insurance schemes, deceitfully b
 
 ### Shloka:
 विद्यालयाच्छात्रगणो मुमुक्षु, र्मध्यन्दिने गेहगतो बुभुक्षुः ।<br/>
-पाठं न शृण्वन् गुरु मीक्षमाणः, किमिच्छति ? स्याट्टटटण्टटण्टम् ॥
+पाठं न शृण्वन् गुरु मीक्षमाणः, किमिच्छति ? स्याट्टटटण्टटण्टम् ॥ ४७ ॥
 
 Vidyālayācchātragaṇo mumukṣu, rmadhyandine gehagato bubhukṣuḥ |<br/>
-Pāṭhaṃ na śṛṇvan guru mīkṣamāṇaḥ, kimicchati ? syāṭṭaṭaṭaṇṭaṭaṇṭam ||
+Pāṭhaṃ na śṛṇvan guru mīkṣamāṇaḥ, kimicchati ? syāṭṭaṭaṭaṇṭaṭaṇṭam || 47 ||
 
 ### पदच्छेदम् (Padacchedam):
 विद्यालयात् | छात्र-गणः | मुमुक्षुः | मध्यन्दिने | गेह-गतः | बुभुक्षुः | पाठम् | न | शृण्वन् | गुरुम् | ईक्षमाणः | किम् | इच्छति ? | स्यात् | टटटण्टटण्टम् |
@@ -320,10 +320,10 @@ At midday, the students, hungry and eager to return home, desire liberation from
 
 ### Shloka:
 महेश्वरोऽनाहतनादमग्नः, शब्दान्तरं नैव शृणोति किञ्चित् ।<br/>
-परन्तु भक्तैरभिहन्यमानं, घण्टा रवे टं टटटं शृणोति ॥
+परन्तु भक्तैरभिहन्यमानं, घण्टा रवे टं टटटं शृणोति ॥ ४८ ॥
 
 Maheśvaro'nāhatanādamagnaḥ, śabdāntaraṃ naiva śṛṇoti kiñcit |<br/>
-Parantu bhaktairabhihanyamānaṃ, ghaṇṭā rave ṭaṃ ṭaṭaṭaṃ śṛṇoti ||
+Parantu bhaktairabhihanyamānaṃ, ghaṇṭā rave ṭaṃ ṭaṭaṭaṃ śṛṇoti || 48 ||
 
 ### पदच्छेदम् (Padacchedam):
 महेश्वरः | अनाहत-नाद-मग्नः | शब्द-अन्तरम् | न | एव | शृणोति | किञ्चित् | परन्तु | भक्तैः | अभिहन्यमानम् | घण्टा-रवे | टम् | टटटम् | शृणोति |
@@ -345,12 +345,12 @@ Lord Maheshwara, ever immersed in the Anahata Nada (the divine, unstruck sound) 
 आस्तामेष परःशतोऽस्ति विषयस्तत्तत्समस्यान्वितः | <br/>
 तं कृत्वात्र समाप्तमद्य निदधे ग्रन्थांश्च कांश्चित्पुरः || <br/>
 येषां नामविशेषतो विषयदिक्काचित्तु लब्धा भवेत् | <br/>
-सम्पूर्णां तु समस्त एव पठिते विद्वद्गणो भोत्स्यते || <br/>
+सम्पूर्णां तु समस्त एव पठिते विद्वद्गणो भोत्स्यते || ४९ ||<br/>
 
 āstāmeṣa paraḥśato'sti viṣayastattatsamasyānvitaḥ | <br/>
 taṃ kṛtvātra samāptamadya nidadhe granthāṃśca kāṃścitpuraḥ || <br/>
 yeṣāṃ nāmaviśeṣato viṣayadikkācittu labdhā bhavet | <br/>
-sampūrṇāṃ tu samasta eva paṭhite vidvadgaṇo bhotsyate || <br/>
+sampūrṇāṃ tu samasta eva paṭhite vidvadgaṇo bhotsyate || 49 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 आस्ताम् | एषः | परः-शतः | अस्ति | विषयः | तत्तत्-समस्या-अन्वितः | तम् | कृत्वा | अत्र | समाप्तम् | अद्य | निदधे | ग्रन्थान् | च | कांश्चित् | पुरः | येषाम् | नाम-विशेषतः | विषय-दिक् | काचित् | तु | लब्धा | भवेत् | सम्पूर्णाम् | तु | समस्तः | एव | पठिते | विद्वत्-गणः | भोत्स्यते |

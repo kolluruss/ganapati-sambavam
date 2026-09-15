@@ -6,12 +6,12 @@ Salutations to the sacred dust of Mother India, and a glorious tribute to the he
 या धूली रचयाञ्चकार गणपं श्रीपार्वतीपाटवैः |<br/>
 यां कृष्णोऽपि लिलेह गोपशिशुभिः सत्रा पवित्राणुकाम् ||<br/>
 या लिप्तेव च कार्ण्यकर्षणकृते मन्येऽमुनाऽङ्कोदरे |<br/>
-तां श्रीभारतदेशधूलिममलां नित्यं नमामस्तमाम् ||
+तां श्रीभारतदेशधूलिममलां नित्यं नमामस्तमाम् || ५९ ||
 
 Yā dhūlī racayāñcakāra gaṇapaṃ śrīpārvatīpāṭavaiḥ |<br/>
 Yāṃ kṛṣṇo'pi lileha gopaśiśubhiḥ satrā pavitrāṇukām ||<br/>
 Yā lipteva ca kārṇyakarṣaṇakṛte manye'munā'ṅkodare |<br/>
-Tāṃ śrībhāratadeśadhūlimamalāṃ nityaṃ namāmastamām ||
+Tāṃ śrībhāratadeśadhūlimamalāṃ nityaṃ namāmastamām || 59 ||
 
 ### पदच्छेदम् (Padacchedam):
 या | धूली | रचयाञ्चकार | गणपम् | श्री-पार्वती-पाटवैः | याम् | कृष्णः | अपि | लिलेह | गोप-शिशुभिः | सत्रा | पवित्र-अणुकाम् | या | लिप्ता | इव | च | कार्ण्य-कर्षण-कृते | मन्ये | अमुना | अङ्क-उदरे | ताम् | श्री-भारत-देश-धूलिम् | अमलाम् | नित्यम् | नमामस्तमाम् |
@@ -37,12 +37,12 @@ We offer our eternal salutations to the sacred dust of this land of Bharat, whic
 या वाचंयमताप्रादानकुशला वक्त्रेऽपता विद्दिषाम् |<br/>
 नेत्रेष्वान्ध्यविधायिनी बधिरतादानक्षमा कर्णयोः ||<br/>
 श्रीरामस्य शरोपमा युधि जनैश्चेत् संस्मृताऽस्त्रग्रहे |<br/>
-वीरशरीरचन्दनसुखां वन्दामहे भारतीम् ||
+वीरशरीरचन्दनसुखां वन्दामहे भारतीम् || ६० ||
 
 Yā vācaṃyamatāpradānakuśalā vaktre'patā vidviṣām |<br/>
 Netreṣvāndhyavidhāyinī badhiratādānakṣamā karṇayoḥ ||<br/>
 Śrīrāmasya śaropamā yudhi janaicchet saṃsmṛtā'stragrahe |<br/>
-Vīraśarīracandanasukhāṃ vandāmahe bhāratīm ||
+Vīraśarīracandanasukhāṃ vandāmahe bhāratīm || 60 ||
 
 ### पदच्छेदम् (Padacchedam):
 या | वाचंयमता-प्रदान-कुशला | वक्त्रे | अपता | विद्दिषाम् | नेत्रेषु | आन्ध्य-विधायिनी | बधिरता-दान-क्षमा | कर्णयोः | श्रीरामस्य | शर-उपमा | युधि | जनैः | चेत् | संस्मृता | अस्त्र-ग्रहे | वीर-शरीर-चन्दन-सुखाम् | वन्दामहे | भारतीम् |
@@ -69,12 +69,12 @@ We worship the dust of the Indian land, which, when it falls into the mouths of 
 धन्यौ तौ पितरौ ययोः सुतनयः राष्ट्रारिविच्छित्तये |<br/>
 कारागारकुयातनाकटु कथाः श्रुत्वा न यः कम्पते ||<br/>
 शस्त्राघातनिपातजन्यरुधिरप्रोद्दामधाराधरः |<br/>
-भायाद् गैरिकभूधरः परिपतद्वर्षाम्बुविद्रावितः ||
+भायाद् गैरिकभूधरः परिपतद्वर्षाम्बुविद्रावितः || ६१ ||
 
 Dhanyau tau pitarau yayoḥ sutanayaḥ rāṣṭrārivicchittaye |<br/>
 Kārāgārakuyātanākaṭu kathāḥ śrutvā na yaḥ kampate ||<br/>
 Śastrāghātanipātajanyarudhiraproddāmadhārādharaḥ |<br/>
-Bhāyād gairikabhūdharaḥ paripatadvarṣāmbuvidrāvitaḥ ||
+Bhāyād gairikabhūdharaḥ paripatadvarṣāmbuvidrāvitaḥ || 61 ||
 
 ### पदच्छेदम् (Padacchedam):
 धन्यौ | तौ | पितरौ | ययोः | सुतनयः | राष्ट्र-अरि-विच्छित्तये | कारागार-कुयातना-कटु-कथाः | श्रुत्वा | न | यः | कम्पते | शस्त्र-आघात-निपात-जन्य-रुधिर-प्रोद्दाम-धारा-धरः | भायात् | गैरिक-भूधरः | परिपतत्-वर्ष-अम्बु-विद्रावितः |
@@ -99,12 +99,12 @@ Blessed are those parents whose noble son, in order to destroy the enemies of th
 यो यो राष्ट्रमयेश्वराङ्घ्रिकमले सर्वस्वबिल्वं ददे |<br/>
 यस्मै राष्ट्रशिवो वराभयकरोऽभूद्वा विभूतिप्रदः ||<br/>
 शय्योत्थाय महो विधाय च करौ अम्बोजकोषोपमौ |<br/>
-नम्यात् श्रीगणराजदेवमिमकं नानाविधैर्वन्दनैः ||
+नम्यात् श्रीगणराजदेवमिमकं नानाविधैर्वन्दनैः || ६२ ||
 
 Yo yo rāṣṭramayeśvarāṅghrikamale sarvasvabilvaṃ dade |<br/>
 Yasmai rāṣṭraśivo varābhayakaro'bhūdvā vibhūtipradaḥ ||<br/>
 Śayyotthāya maho vidhāya ca karau ambojakoṣopamau |<br/>
-Namyāt śrīgaṇarājadevamimakaṃ nānāvidhairvandanaiḥ ||
+Namyāt śrīgaṇarājadevamimakaṃ nānāvidhairvandanaiḥ || 62 ||
 
 ### पदच्छेदम् (Padacchedam):
 यः | यः | राष्ट्रमय-ईश्वर-अङ्घ्रि-कमले | सर्वस्व-बिल्वम् | ददे | यस्मै | राष्ट्र-शिवः | वर-अभय-करः | अभूत् | वा | विभूति-प्रदः | शय्या-उत्थाय | महः | विधाय | च | करौ | अम्बोज-कोष-उपमौ | नम्यात् | श्री-गणराज-देवम् | इमकम् | नाना-विधैः | वन्दनैः |
@@ -130,12 +130,12 @@ Whoever has offered their entire being as a Bilva leaf at the lotus feet of the 
 एतत् काव्यसुमनं स्वसम्भवकथासौगन्ध्यमम्भोजवत् |<br/>
 जिघ्रन् सुप्रथयेत् स्वगुप्तिविधया विद्वन्मनस्थोभवन् ।।<br/>
 मात्सर्यह्रमरं विदां परिहरन् शुण्डानिलोत्कम्पतः |<br/>
-हेरम्बः कुरुतां त्वरैव महतां ग्रन्थोच्चपङ्क्तिस्थितम् ॥
+हेरम्बः कुरुतां त्वरैव महतां ग्रन्थोच्चपङ्क्तिस्थितम् ॥ ६३ ॥
 
 Etat kāvyasumanaṃ svasambhavakathāsaugandhyamambhojavat |<br/>
 Jighran suprathayet svaguptividhayā vidvanmanasthobhavan ||<br/>
 Mātsaryabhramaraṃ vidāṃ pariharan śuṇḍānilotkampataḥ |<br/>
-Herambaḥ kurutāṃ tvaraiva mahatāṃ granthoccapaṅktisthitam ||
+Herambaḥ kurutāṃ tvaraiva mahatāṃ granthoccapaṅktisthitam || 63 ||
 
 ### पदच्छेदम् (Padacchedam):
 एतत् | काव्य-सुमनम् | स्व-सम्भव-कथा-सौगन्ध्यम् | अम्भोजवत् | जिघ्रन् | सुप्रथयेत् | स्व-गुप्ति-विधया | विद्वत्-मनः-स्थः | भवन् | मात्सर्य-भ्रमरम् | विदाम् | परिहरन् | शुण्डा-अनिल-उत्कम्पतः | हेरम्बः | कुरुताम् | त्वरा | एव | महताम् | ग्रन्थ-उच्च-पङ्क्ति-स्थितम् |
@@ -164,12 +164,12 @@ May Lord Ganesha, inhaling this poetic flower—which bears the fragrance of the
 पूर्णं ब्रह्म बहुत्वलब्धय इवै कोहं तपन् मानसे |<br/>
 गौरी शम्भु गणेशरूप मिषतो मन्ये त्रिगुण्यां गतम् ।।<br/>
 पीतं श्वैत्ययुतं च शोणमपि यत् प्रारम्भणे प्रास्फुरत् |<br/>
-एतत् पुस्तकरूपतोऽपि बहुधा मोमुद्रयमाणं भवेत् ॥
+एतत् पुस्तकरूपतोऽपि बहुधा मोमुद्रयमाणं भवेत् ॥ ६४ ॥
 
 Pūrṇaṃ brahma bahutvalabdhaya ivai koham tapan mānase |<br/>
 Gaurī śambhu gaṇeśarūpa miṣato manye triguṇyāṃ gatam ||<br/>
 Pītaṃ śvaityayutaṃ ca śoṇamapi yat prārambhaṇe prāsphurat |<br/>
-Etat pustakarūpato'pi bahudhā momudrayamāṇaṃ bhavet ||
+Etat pustakarūpato'pi bahudhā momudrayamāṇaṃ bhavet || 64 ||
 
 ### पदच्छेदम् (Padacchedam):
 पूर्णम् | ब्रह्म | बहुत्व-लब्धये | इव | एकः | अहम् | तपन् | मानसे | गौरी-शम्भु-गणेश-रूप-मिषतः | मन्ये | त्रिगुण्याम् | गतम् | पीतम् | श्वैत्य-युतम् | च | शोणम् | अपि | यत् | प्रारम्भणे | प्रास्फुरत् | एतत् | पुस्तक-रूपतः | अपि | बहुधा | मोमुद्रयमाणम् | भवेत् |
@@ -198,12 +198,12 @@ I believe that the Infinite Brahman, having lamented in its mind thinking "I am 
 यस्मै प्राग्विहितं समर्पण मदः काव्यस्य नव्यस्य मे |<br/>
 तस्मा एव गणेश्वराय विदधेऽन्यत्काव्यपुष्पार्पणम् ।।<br/>
 कोहं वा कुत आगतोऽस्मि च तथा वंशं प्रशंसामि वा |<br/>
-गोत्रोच्चारणपूर्वकाः प्रणतयः स्वाशीः प्रदाः सम्मताः ।।
+गोत्रोच्चारणपूर्वकाः प्रणतयः स्वाशीः प्रदाः सम्मताः ।। ६५ ।
 
 Yasmai prāgvihitaṃ samarpaṇa madaḥ kāvyasya navyasya me |<br/>
 Tasmā eva gaṇeśvarāya vidadhe'nyatkāvyapuṣpārpaṇam ||<br/>
 Koham vā kuta āgato'smi ca tathā vaṃśaṃ praśaṃsāmi vā |<br/>
-Gotroccāraṇapūrvakāḥ praṇatayaḥ svāśīḥ pradāḥ sammatāḥ ||
+Gotroccāraṇapūrvakāḥ praṇatayaḥ svāśīḥ pradāḥ sammatāḥ || 65 ||
 
 ### पदच्छेदम् (Padacchedam):
 यस्मै | प्राक् | विहितम् | समर्पणम् | अदः | काव्यस्य | नव्यस्य | मे | तस्मै | एव | गणेश्वराय | विदधे | अन्यत्-काव्य-पुष्प-अर्पणम् | कः | अहम् | वा | कुतः | आगतः | अस्मि | च | तथा | वंशम् | प्रशंसामि | वा | गोत्र-उच्चारण-पूर्वकाः | प्रणतयः | सु-आशीः-प्रदाः | सम्मताः |
@@ -230,12 +230,12 @@ To that same Lord Ganesha, to whom I had previously offered this new poem, I now
 पन्त्ऱ्यात्तर्पणतो व्रजाम्य नृणतां सत्रा सुनेत्राऽश्रुभिः |<br/>
 पानीयेन सहैव नामनिचयप्रोच्चारणं तर्पणम् ।।<br/>
 तत् स्याच्छ्री गणपाङ्घ्रि कञ्ज युगले द्यर्था क्रिया एका भवेत् |<br/>
-इत्यानन्दथुमन्थरऽद्य रचये विद्वन्मनोमोदनम् ।।
+इत्यानन्दथुमन्थरऽद्य रचये विद्वन्मनोमोदनम् ।। ६६ ।
 
 Pantryāttarpaṇato vrajāmya nṛṇatāṃ satrā sunetrā'śrubhiḥ |<br/>
 Pānīyena sahaiva nāmanicayaprocchāraṇaṃ tarpaṇam ||<br/>
 Tat syācchrī gaṇapāṅghri kañja yugale dyarthā kriyā ekā bhavet |<br/>
-Ityānandathumanthara'dya racaye vidvanmanomodanam ||
+Ityānandathumanthara'dya racaye vidvanmanomodanam || 66 ||
 
 ### पदच्छेदम् (Padacchedam):
 पैत्र्यात्-तर्पणतः | व्रजामि | अनृणताम् | सत्रा | सु-नेत्र-अश्रुभिः | पानीयेन | सह | एव | नाम-निचय-प्रोच्चारणम् | तर्पणम् | तत् | स्यात् | श्री-गणप-अंघ्रि-कञ्ज-युगले | द्वि-अर्था | क्रिया | एका | भवेत् | इति | आनन्दथु-मन्थरः | अद्य | रचये | विद्वत्-मनः-मोदनम् |

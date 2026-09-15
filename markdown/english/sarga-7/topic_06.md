@@ -6,11 +6,11 @@ Interpretations and commentaries on certain difficult (kūṭa) verses from the 
 विप्राधिपारिरिपुसूनुविरोधितातः <br/>
 मित्रात्मजारिजनकारिसुताङ्कसंस्थः । <br/>
 पार्थाग्रजाग्रजनकाशनशत्रुपत्र- <br/>
-ज्येष्ठो ददाति कुचुमध्यमुखः सुखं नः ॥ <br/>
+ज्येष्ठो ददाति कुचुमध्यमुखः सुखं नः ॥ ६३ ॥<br/>
 viprādhipāriripusūnuvirodhitātaḥ <br/>
 mitrātmajārijanakārisutāṅkasaṃsthaḥ | <br/>
 pārthāgrajāgrajanakāśanaśatrupatra- <br/>
-jyeṣṭho dadāti kucumadhyamukhaḥ sukhaṃ naḥ ||
+jyeṣṭho dadāti kucumadhyamukhaḥ sukhaṃ naḥ || 63 ||
 
 ### पदच्छेदम् (Padacchedam):
 विप्राधिपारिरिपुसूनुविरोधितातः | मित्रात्मजारिजनकारिसुताङ्कसंस्थः | पार्थाग्रजाग्रजनकाशनशत्रुपत्रज्येष्ठः | ददाति | कुचुमध्यमुखः | सुखम् | नः
@@ -32,9 +32,9 @@ May that Gaṇapati grant us happiness—He whose father is Śiva (the destroyer
 
 ### Shloka:
 नदीज ! लङ्केशवनारिकेतु नङ्गाह्वयो नाम नगारि सूनुः । <br/>
-एषोऽङ्गना वेषधरः किरीटी जित्वाऽद्य वो नेष्यति चाद्य गा वः ॥ <br/>
+एषोऽङ्गना वेषधरः किरीटी जित्वाऽद्य वो नेष्यति चाद्य गा वः ॥ ६४ ॥<br/>
 nadīja ! laṅkeśavanāriketu naṅgāhvayo nāma nagāri sūnuḥ | <br/>
-eṣo'ṅganā veṣadharaḥ kirīṭī jitvā'dya vo neṣyati cādya gā vaḥ ||
+eṣo'ṅganā veṣadharaḥ kirīṭī jitvā'dya vo neṣyati cādya gā vaḥ || 64 ||
 
 ### पदच्छेदम् (Padacchedam):
 नदीज | लङ्केशवनारिकेतु | नङ्गाह्वयः | नाम | नगारिसूनुः [possible reading: नगारिसूनुः] | एषः | अङ्गनावेषधरः | किरीटी | जित्वा | अद्य | वः | नेष्यति | च | अद्य | गाः | वः
@@ -57,9 +57,9 @@ eṣo'ṅganā veṣadharaḥ kirīṭī jitvā'dya vo neṣyati cādya gā va�
 
 ### Shloka:
 खचरस्य सुतस्य सुतः खचरः । खचरस्य सुतेन कृतः खचरः ॥ <br/>
-खचरी परिरोदिति हा ! खचर ! क्व गतः ? क्व हतः ? क्वसितः ? खचर ! ॥ <br/>
+खचरी परिरोदिति हा ! खचर ! क्व गतः ? क्व हतः ? क्वसितः ? खचर ! ॥ ६५ ॥<br/>
 khacarasya sutasya sutaḥ khacaraḥ | khacarasya sutena kṛtaḥ khacaraḥ || <br/>
-khacarī pariroditi hā ! khacara ! kva gataḥ ? kva hataḥ ? kvasitaḥ ? khacara ! ||
+khacarī pariroditi hā ! khacara ! kva gataḥ ? kva hataḥ ? kvasitaḥ ? khacara ! || 65 ||
 
 ### पदच्छेदम् (Padacchedam):
 खचरस्य | सुतस्य | सुतः | खचरः | खचरस्य | सुतेन | कृतः | खचरः | खचरी | परिरोदिति | हा | खचर | क्व | गतः | क्व | हतः | क्व | सितः | खचर
@@ -81,9 +81,9 @@ khacarī pariroditi hā ! khacara ! kva gataḥ ? kva hataḥ ? kvasitaḥ ? kha
 
 ### Shloka:
 यत्र योगेश्वरः कृष्णः यत्र पार्थो धनुर्धरः । <br/>
-तत्र श्रीर्विजयो भूति र्ध्रुवा नीति र्मति र्मम ॥ <br/>
+तत्र श्रीर्विजयो भूति र्ध्रुवा नीति र्मति र्मम ॥ ६६ ॥<br/>
 yatra yogeśvaraḥ kṛṣṇaḥ yatra pārtho dhanurdharaḥ | <br/>
-tatra śrīrvijayo bhūti rdhruvā nīti rmati rmama ||
+tatra śrīrvijayo bhūti rdhruvā nīti rmati rmama || 66 ||
 
 ### पदच्छेदम् (Padacchedam):
 यत्र | योगेश्वरः | कृष्णः | यत्र | पार्थः | धनुर्धरः | तत्र | श्रीः | विजयः | भूतिः | ध्रुवा | नीतिः | मतिः | मम
@@ -102,9 +102,9 @@ tatra śrīrvijayo bhūti rdhruvā nīti rmati rmama ||
 
 ### Shloka:
 सीमन्तिनीषु का शान्ता ! राजा कोऽभूद् गुणोत्तमः ?<br/>
-विद्वद्भिः का सदावन्द्या ? आद्यन्ताक्षर मुत्तरम् ||<br/>
+विद्वद्भिः का सदावन्द्या ? आद्यन्ताक्षर मुत्तरम् || ६७ ||<br/>
 Sīmantinīṣu kā śāntā! Rājā ko'bhūd guṇottamaḥ?<br/>
-Vidvadbhiḥ kā sadāvandyā? Ādyantākṣara muttaram||
+Vidvadbhiḥ kā sadāvandyā? Ādyantākṣara muttaram|| 67 ||
 
 ### पदच्छेदम् (Padacchedam):
 सीमन्तिनीषु | का | शान्ता | राजा | कः | अभूत् | गुणोत्तमः | विद्वद्भिः | का | सदा | वन्द्या | आद्यन्ताक्षरम् | उत्तरम्
@@ -128,11 +128,11 @@ Who is the most tranquil among women? Who became the king best among those posse
 इत्याकारकभावभावितपदा अष्टौ सहस्राणि यत् |<br/>
 अष्टौ चापि शतानि तत्र भगवानेषोऽब्रवीद् भारते ||<br/>
 तेषामुद्धरणं तु विस्तृतिकरं दृश्यानि तत्रैव तत् |<br/>
-सोऽयं कूटपथोऽचलद् गणपते र्बोधाय रोधाय वा ||<br/>
+सोऽयं कूटपथोऽचलद् गणपते र्बोधाय रोधाय वा || ६८ ||<br/>
 Ityākārakabhāvabhāvitapadā aṣṭau sahasrāṇi yat |<br/>
 Aṣṭau cāpi śatāni tatra bhagavāneṣo'bravīd bhārate ||<br/>
 Teṣāmuddharaṇaṃ tu vistṛtikaraṃ dṛśyāni tatraiva tat |<br/>
-So'yaṃ kūṭapatho'calad gaṇapate rbodhāya rodhāya vā ||
+So'yaṃ kūṭapatho'calad gaṇapate rbodhāya rodhāya vā || 68 ||
 
 ### पदच्छेदम् (Padacchedam):
 इत्याकारकभावभावितपदाः | अष्टौ | सहस्राणि | यत् | अष्टौ | च | अपि | शतानि | तत्र | भगवान् | एषः | अब्रवीत् | भारते | तेषाम् | उद्धरणम् | तु | विस्तृतिकरम् | दृश्यानि | तत्र | एव | तत् | सः | अयम् | कूटपथः | अचलत् | गणपतेः | बोधाय | रोधाय | वा
@@ -159,11 +159,11 @@ The Bhagavan (Vyasa) composed eight thousand and eight hundred such Kūṭa vers
 जाटाजूटसमाः शिवस्य यदिमे गङ्गाभुजङ्गाङ्ग भाः |<br/>
 कूटाः प्रीतिकरा बभूवुरितरेषां सत्कविश्रीभृताम् ||<br/>
 कूटाः पर्वतकूटवन्न सुगमाः साधारणऽध्यायिभिः |<br/>
-तद् वाक्यार्थसुशब्दवर्ण विधितः कूटत्रिकूटाचलः ||<br/>
+तद् वाक्यार्थसुशब्दवर्ण विधितः कूटत्रिकूटाचलः || ६९ ||<br/>
 Jāṭājūṭasamāḥ śivasya yadime gaṅgābhujaṅgāṅga bhāḥ |<br/>
 Kūṭāḥ prītikarā babhūvuritareṣāṃ satkaviśrībhṛtām ||<br/>
 Kūṭāḥ parvatakūṭavanna sugamāḥ sādhāraṇā'dhyāyibhiḥ |<br/>
-Tad vākyārthasuśabdavarṇa vidhitaḥ kūṭatrikūṭācalaḥ ||
+Tad vākyārthasuśabdavarṇa vidhitaḥ kūṭatrikūṭācalaḥ || 69 ||
 
 ### पदच्छेदम् (Padacchedam):
 जाटाजूटसमाः | शिवस्य | यत् | इमे | गङ्गाभुजङ्गाङ्गभाः | कूटाः | प्रीतिकराः | बभूवुः | इतरेषाम् | सत्कविश्रीभृताम् | कूटाः | पर्वतकूटवत् | न | सुगमाः | साधारणऽध्यायिभिः | तत् | वाक्यार्थसुशब्दवर्णविधितः | कूटत्रिकूटाचलः
@@ -189,11 +189,11 @@ These Kūṭa verses, resembling the matted locks of Shiva—adorned with the Ga
 कूटा एव च कूटनीतिलतिकाबीजा नवाप्सुर्भवे |<br/>
 स्वान्तःस्थं भगवन्तमप्यनुपदं वेदेषु कूटा जगुः ||<br/>
 विधायुद्धविधौ विनैव हननं वाचं यमत्वप्रदाः |<br/>
-विद्याकूटमयी ततः परमियं प्रायः प्रचारं गता ||<br/>
+विद्याकूटमयी ततः परमियं प्रायः प्रचारं गता || ७० ||<br/>
 Kūṭā eva ca kūṭanītilatikābījā navāpsurbhave |<br/>
 Svāntaḥsthaṃ bhagavantamapyanupadaṃ vedeṣu kūṭā jaguḥ ||<br/>
 Vidhāyuddhavidhau vinaiva hananaṃ vācaṃyamatvapradāḥ |<br/>
-Vidyākūṭamayī tataḥ paramiyaṃ prāyaḥ pracāraṃ gatā ||
+Vidyākūṭamayī tataḥ paramiyaṃ prāyaḥ pracāraṃ gatā || 70 ||
 
 ### पदच्छेदम् (Padacchedam):
 कूटाः | एव | च | कूटनीतिलतिकाबीजाः | नवाः | आप्सुः | भवे | स्वान्तःस्थम् | भगवन्तम् | अपि | अनुपदम् | वेदेषु | कूटाः | जगुः | विद्यायुद्धविधौ | विना | एव | हननम् | वाचंयमत्वप्रदाः | विद्याकूटमयी | ततः | परम् | इयम् | प्रायः | प्रचारम् | गता
@@ -217,12 +217,12 @@ These new Kūṭas became the seeds for the creeper of Kūṭanīti (diplomatic 
 तत्रापि प्रतिभागुणेन गणपोऽर्थज्ञान मादर्शयत् | <br/>
 वर्णा नेव चकार 'च'-प्रभृतीन् कूटानकूटान् मुनिः || <br/>
 अत्रोदाहरण स्वरूपमिदकम् "यच्चापि भूतानि ते" | <br/>
-भूतान्तः शशका स्तथाच मशका वक्ष्यन्त्य कीर्तिं च किम् ? || <br/>
+भूतान्तः शशका स्तथाच मशका वक्ष्यन्त्य कीर्तिं च किम् ? || ७१ ||<br/>
 
 Tatrāpi pratibhāguṇena gaṇapo'rthajñāna mādarśayat | <br/>
 varṇā neva cakāra 'ca'-prabhṛtīn kūṭānakūṭān muniḥ || <br/>
 atrodāharaṇa svarūpamidakam "yaccāpi bhūtāni te" | <br/>
-bhūtāntaḥ śaśakā stathāca maśakā vakṣyantya kīrtiṃ ca kim ? || <br/>
+bhūtāntaḥ śaśakā stathāca maśakā vakṣyantya kīrtiṃ ca kim ? || 71 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 तत्र | अपि | प्रतिभागुणेन | गणपः | अर्थज्ञानम् | आदर्शयत् | वर्णान् | एव | चकार | 'च'-प्रभृतीन् | कूटान् | अकूटान् | मुनिः | अत्र | उदाहरणस्वरूपम् | इदकम् | यच्चापि भूतानि ते | भूतान्तः | शशकाः | तथा | च | मशकाः | वक्ष्यन्ति | अकीर्तिम् | च | किम्
@@ -248,12 +248,12 @@ Even among those difficult Kuta verses, Ganapati demonstrated his understanding 
 भूतानि प्रथितानि पक्षिपशवः सर्वेऽप्यहो प्राणिनः | <br/>
 ते गास्यन्त्यपकीर्तिमात्र विषये विद्वत्स्वभूत् संशयः || <br/>
 भूतानीति विशेष्यके सति च यद् वैशिष्ट्य मुद्भावयेत् | <br/>
-तादृक् स्याच्च विशेषणं यदि तदा सर्वं भवेत् सङ्गतम् || <br/>
+तादृक् स्याच्च विशेषणं यदि तदा सर्वं भवेत् सङ्गतम् || ७२ ||<br/>
 
 Bhūtāni prathitāni pakṣipaśavaḥ sarve'pyaho prāṇinaḥ | <br/>
 te gāsyantyapakīrtimatra viṣaye vidvatsvabhūt saṃśayaḥ || <br/>
 bhūtānīti viśeṣyake sati ca yad vaiśiṣṭya mudbhāvayet | <br/>
-tādṛk syācca viśeṣaṇaṃ yadi tadā sarvaṃ bhavet saṅgatam || <br/>
+tādṛk syācca viśeṣaṇaṃ yadi tadā sarvaṃ bhavet saṅgatam || 72 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 भूतानि | प्रथितानि | पक्षिपशवः | सर्वे | अपि | अहो | प्राणिनः | ते | गास्यन्ति | अपकीर्तिम् | अत्र | विषये | विद्वत्सु | अभूत् | संशयः | भूतानि | इति | विशेष्यके | सति | च | यत् | वैशिष्ट्यम् | उद्भावयेत् | तादृक् | स्यात् | च | विशेषणम् | यदि | तदा | सर्वम् | भवेत् | सङ्गतम्
@@ -278,12 +278,12 @@ All creatures, including birds and animals, are famous by the name 'bhutas'. A d
 चापीत्यस्ति विशेषणं सच धनुर्धारी मतोऽसंशयम् | <br/>
 तद् युक्ताश्च धनुर्धरा असुभृतो गास्यन्त्य कीर्तिं तवे- <br/>
 त्यर्थे कूटतयास्थिते भगवतो व्यासस्य भावोऽऽभवत् | <br/>
-ज्ञात्वा किन्तु गजाननः स्मितियुतः शौण्डं धनुर्दर्शयन् || <br/>
+ज्ञात्वा किन्तु गजाननः स्मितियुतः शौण्डं धनुर्दर्शयन् || ७३ ||<br/>
 
 Cāpītyasti viśeṣaṇaṃ saca dhanurdhārī mato'saṃśayam | <br/>
 tad yuktāśca dhanurdharā asubhṛto gāsyantya kīrtiṃ tave- <br/>
 tyarthe kūṭatayāsthite bhagavato vyāsasya bhāvo'bhavat | <br/>
-jñātvā kintu gajānanaḥ smitiyutaḥ śauṇḍaṃ dhanurdarśayan || <br/>
+jñātvā kintu gajānanaḥ smitiyutaḥ śauṇḍaṃ dhanurdarśayan || 73 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 चापी | इति | अस्ति | विशेषणम् | सः | च | धनुर्धारी | मतः | असंशयम् | तद्युक्ताः | च | धनुर्धराः | असुभृतः | गास्यन्ति | अकीर्तिम् | तव | इति | अर्थे | कूटतया | स्थिते | भगवतः | व्यासस्य | भावः | अभवत् | ज्ञात्वा | किन्तु | गजाननः | स्मितियुतः | शौण्डम् | धनुः | दर्शयन्
@@ -309,12 +309,12 @@ In that verse, 'capi' (one who possesses a bow) is the adjective, and he is undo
 "योगी परं स्थान मुपैति चाद्यं" पद्ये विचार्यैर्विबुधैश्चकारः | <br/>
 आद्यत्व मात्रोक्तित एव सर्वं वाच्यं पुन र्व्यर्थ मयं चकारः || <br/>
 'चदेः' परं याचन मर्थ माप्तुं कृतं कृदन्ते ण्यति प्रत्ययेऽस्मिन् | <br/>
-कूटोऽर्थ एषोऽत्र सुगुप्तरूपो गीता श्रियं भूषयते नितान्तम् || <br/>
+कूटोऽर्थ एषोऽत्र सुगुप्तरूपो गीता श्रियं भूषयते नितान्तम् || ७४ ||<br/>
 
 "yogī paraṃ sthāna mupaiti cādyaṃ" padye vicāryairvibudhaiścakāraḥ | <br/>
 ādyatva mātroktita eva sarvaṃ vācyaṃ puna rvyartha mayaṃ cakāraḥ || <br/>
 'cadeḥ' paraṃ yācana martha māptuṃ kṛtaṃ kṛdante ṇyati pratyaye'smin | <br/>
-kūṭo'rtha eṣo'tra suguptarūpo gītā śriyaṃ bhūṣayate nitāntam || <br/>
+kūṭo'rtha eṣo'tra suguptarūpo gītā śriyaṃ bhūṣayate nitāntam || 74 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 योगी | परम् | स्थानम् | उपैति | च | आद्यम् | पद्ये | विचार्यैः | विबुधैः | चकारः | आद्यत्वमात्रोक्तितः | एव | सर्वम् | वाच्यम् | पुनः | व्यर्थः | अयम् | चकारः | चदेः | परम् | याचनम् | अर्थम् | आप्तुम् | कृतम् | कृदन्ते | ण्यति | प्रत्यये | अस्मिन् | कूटः | अर्थः | एषः | अत्र | सुगुप्तरूपः | गीताश्रियम् | भूषयते | नितान्तम्
@@ -339,12 +339,12 @@ In the verse "yogi param sthanamupaiti cadyam", the learned should examine the '
 मच्चित्ता इति पद्यकेऽपि यदहो तुष्यन्ति चरन्ति च ।<br/>
 तत्रान्त्यं किल नामधातुजपदं नेदं निपाताक्षरम् ।।<br/>
 जीवन्मुक्तिजुषो भवन्ति चरमा अन्त्या यतस्ते नराः ।<br/>
-मच्चित्तत्वफलं प्रकाशयति यत् सन्नाम धातोः पदम् ।।<br/>
+मच्चित्तत्वफलं प्रकाशयति यत् सन्नाम धातोः पदम् ।। ७५ ।<br/>
 <br/>
 Maccittā iti padyake'pi yadaho tuṣyanti caranti ca |<br/>
 Tatrantyaṃ kila nāmadhātujapadaṃ nedaṃ nipātākṣaram ||<br/>
 Jīvanmuktijuṣo bhavanti caramā antyā yataste narāḥ |<br/>
-Maccittatvaphaḷaṃ prakāśayati yat sannāma dhātoḥ padam ||
+Maccittatvaphaḷaṃ prakāśayati yat sannāma dhātoḥ padam || 75 ||
 
 ### पदच्छेदम् (Padacchedam):
 मच्चित्ताः | इति | पद्यके | अपि | यत् | अहो | तुष्यन्ति | चरन्ति | च | तत्र | अन्त्यम् | किल | नामधातुजपदम् | न | इदम् | निपाताक्षरम् | जीवन्मुक्तिजुषः | भवन्ति | चरमाः | अन्त्याः | यतः | ते | नराः | मच्चित्तत्वफलम् | प्रकाशयति | यत् | सत् | नामधातोः | पदम्
@@ -368,12 +368,12 @@ In the verse "Maccittā madgataprāṇāḥ...", the ending "tuṣyanti ca raman
 नाम्नो धातुकतां गतस्य न तथा रूपाणि नो नामता ।<br/>
 अन्त्यश्चापि नरो जहाति च निजे प्राङ्नामरूपे उभे ।।<br/>
 तस्मात्तस्य यशस्तथा विधपदव्याहारतो युज्यते ।<br/>
-कूटोऽयं वर्णश्चकार सुमवद् गीता लतायाः श्रियम् ।।<br/>
+कूटोऽयं वर्णश्चकार सुमवद् गीता लतायाः श्रियम् ।। ७६ ।<br/>
 <br/>
 Nāmno dhātukatāṃ gatasya na tathā rūpāṇi no nāmatā |<br/>
 Antyaścāpi naro jahāti ca nije prāṅnāmarūpe ubhe ||<br/>
 Tasmāttasya yaśastathā vidhapadavyāhārato yujyate |<br/>
-Kūṭo'yaṃ varṇaścakāra sumavad gītā latāyāḥ śriyam ||
+Kūṭo'yaṃ varṇaścakāra sumavad gītā latāyāḥ śriyam || 76 ||
 
 ### पदच्छेदम् (Padacchedam):
 नाम्नः | धातुकताम् | गतस्य | न | तथा | रूपाणि | नो | नामता | अन्त्यः | च | अपि | नरः | जहाति | च | निजे | प्राक् | नामरूपे | उभे | तस्मात् | तस्य | यशः | तथाविधपदव्याहारतः | युज्यते | कूटः | अयम् | वर्णः | चकार | सुमवत् | गीतलतायाः | श्रियम्
@@ -397,12 +397,12 @@ Just as a noun, when transformed into a verbal root, loses its previous forms an
 निर्द्वन्द्वोऽहिमहा भुजे त्यपि पदे भ्रान्त्या मतो 'हि' परः ।<br/>
 किन्त्वत्रोपमितौ भुजोऽहि-विलसद् दैर्घ्येण पार्थस्य यत् ।।<br/>
 एवं चापि यदा यदाऽहिधर्मेत्यत्रा प्यहि नैव 'हिः' ।<br/>
-प्रोक्तो वा 'हिमहानुभाव'-पद-'हिः' कूटोऽस्ति सूर्यार्थकः ।।<br/>
+प्रोक्तो वा 'हिमहानुभाव'-पद-'हिः' कूटोऽस्ति सूर्यार्थकः ।। ७७ ।<br/>
 <br/>
 Nirdvandvo'himahā bhuje tyapi pade bhrāntyā mato 'hi paraḥ |<br/>
 Kintvatropamitau bhujo'hi-vilasad dairghyeṇa pārthasya yat ||<br/>
 Evaṃ cāpi yadā yadā'hidharmetyatrā pyahi naiva 'hiḥ' |<br/>
-Prokto vā 'himahānubhāva'-pada-'hiḥ' kūṭo'sti sūryārthakaḥ ||
+Prokto vā 'himahānubhāva'-pada-'hiḥ' kūṭo'sti sūryārthakaḥ || 77 ||
 
 ### पदच्छेदम् (Padacchedam):
 निर्द्वन्द्वः | अहिमहाभुज | इति | अपि | पदे | भ्रान्त्या | मतः | हि | परः | किन्तु | अत्र | उपमितौ | भुजः | अहि-विलसद्-दैर्घ्येण | पार्थस्य | यत् | एवम् | च | अपि | यदा | यदा | अहि-धर्म | इति | अत्र | अपि | अहि | न | एव | हिः | प्रोक्तः | वा | हिमहानुभाव-पद-हिः | कूटः | अस्ति | सूर्यार्थकः
@@ -427,12 +427,12 @@ In the verse "Nirdvandvo hi mahābāho", the particle 'hi' is often mistakenly v
 इत्थं यत्र च वर्णकूट विषयः प्रोक्तो महाविस्तरात् ।<br/>
 तज्ज्ञानं प्रकटीचकार गणराट् स्व स्विङ्गितै नूतनैः ।।<br/>
 व्यासो व्याश इहाभवद् गणपतौ मन्दांर्गतिं सोऽप्यधात् ।<br/>
-द्वावेव प्रमदं गतौ च विपुलं स्वाग्रे गतिं चक्रतुः ।।<br/>
+द्वावेव प्रमदं गतौ च विपुलं स्वाग्रे गतिं चक्रतुः ।। ७८ ।<br/>
 <br/>
 Itthaṃ yatra ca varṇakūṭa viṣayaḥ prokto mahāvistarāt |<br/>
 Tajjñānaṃ prakaṭīcakāra gaṇarāṭ sva sviṅgitai nūtanaiḥ ||<br/>
 Vyāso vyāśa ihābhavad gaṇapatau mandāṃrgatiṃ so'pyadhāt |<br/>
-Dvāveva pramadaṃ gatau ca vipulaṃ svāgre gatiṃ cakratuḥ ||
+Dvāveva pramadaṃ gatau ca vipulaṃ svāgre gatiṃ cakratuḥ || 78 ||
 
 ### पदच्छेदम् (Padacchedam):
 इत्थम् | यत्र | च | वर्णकूट-विषयः | प्रोक्तः | महाविस्तरात् | तज्ज्ञानम् | प्रकटीचकार | गणराट् | स्व-स्विङ्गितैः | नूतनैः | व्यासः | व्याशः | इह | अभवत् | गणपतौ | मन्दाम् | गतिम् | सः | अपि | अधात् | द्वौ | एव | प्रमदम् | गतौ | च | विपुलम् | स्वाग्रे | गतिम् | चक्रतुः

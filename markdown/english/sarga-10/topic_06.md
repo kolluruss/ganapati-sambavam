@@ -6,11 +6,12 @@ The mockery of the children of Mithila during the wedding of Sītā and Rāma, t
 भामम्मन्यतया प्रहासवशगा रामं पुरो बालकाः |<br/>
 'दिष्ट्या !' वाद मुदाहरन् नतिरता वाचां विलासप्रियाः ||<br/>
 यच्छ्रीमान् जनकात्मजा मपि दधे भार्यां महार्यां परैः |<br/>
-विख्याताऽज कुलोद्भवस्य भवतो युक्तां क्रियां मन्महे ||<br/>
+विख्याताऽज कुलोद्भवस्य भवतो युक्तां क्रियां मन्महे || ६१ ||<br/>
+
 bhāmammanyatayā prahāsavaśagā rāmaṃ puro bālakāḥ |<br/>
 'diṣṭyā !' vāda mudāharan natiratā vācāṃ vilāsapriyāḥ ||<br/>
 yacchrīmān janakātmajā mapi dadhe bhāryāṃ mahāryāṃ paraiḥ |<br/>
-vikhyātā'ja kulodbhavasya bhavato yuktāṃ kriyāṃ manmahe ||
+vikhyātā'ja kulodbhavasya bhavato yuktāṃ kriyāṃ manmahe || 61 ||
 
 ### पदच्छेदम् (Padacchedam):
 भामम्-मन्यतया | प्रहास-वशगाः | रामम् | पुरः | बालकाः | 'दिष्ट्या !' | वादम् | उदाहरन् | नति-रताः | वाचाम् | विलास-प्रियाः | यत् | श्रीमान् | जनक-आत्मजाम् | अपि | दधे | भार्याम् | अहार्याम् | परैः | विख्यात-अज-कुल-उद्भवस्य | भवतः | युक्ताम् | क्रियाम् | मन्महे |
@@ -36,11 +37,11 @@ The children of Mithila, seeing Śrīrāma, addressed him as "Brother-in-law!" a
 यत्रत्यो नृपति र्हलध्वजधरो पुत्री हलस्याग्रजा |<br/>
 एषा मन्थन कारिणी च नगरी तद् बालका हालिकाः ||<br/>
 वैदेहीति वचः प्रभाषण करा यद्वत् सदा भिक्षुकाः |<br/>
-सीताया वृषभाश्च तद् वचसि नः कः कर्ण दानं क्रियात् ? ||<br/>
+सीताया वृषभाश्च तद् वचसि नः कः कर्ण दानं क्रियात् ? || ६२ ||<br/>
 yatratyo nṛpati rhaladhvajadharo putrī halasyāgrajā |<br/>
 eṣā manthana kāriṇī ca nagarī tad bālakā hālikāḥ ||<br/>
 vaidehīti vacaḥ prabhāṣaṇa karā yadvat sadā bhikṣukāḥ |<br/>
-sītāyā vṛṣabhāśca tad vacasi naḥ kaḥ karṇa dānaṃ kriyāt ? ||
+sītāyā vṛṣabhāśca tad vacasi naḥ kaḥ karṇa dānaṃ kriyāt ? || 62 ||
 
 ### पदच्छेदम् (Padacchedam):
 यत्रत्यः | नृपतिः | हल-ध्वज-धरः | पुत्री | हलस्य | अग्रजा | एषा | मन्थन-कारिणी | च | नगरी | तत् | बालकाः | हालिकाः | वैदेहीति | वचः | प्रभाषण-कराः | यद्वत् | सदा | भिक्षुकाः | सीतायाः | वृषभाः | च | तत् | वचसि | नः | कः | कर्ण-दानम् | क्रियात् ? |
@@ -64,11 +65,11 @@ sītāyā vṛṣabhāśca tad vacasi naḥ kaḥ karṇa dānaṃ kriyāt ? ||
 शङ्खं चक्रगदे यथापि धरते कञ्जं च यो नित्यशः |<br/>
 तद्वन्मां नदधात्यहो हरिरयं यातम् धनु र्वक्रताम् ||<br/>
 तद्रोष अपनयाय सर्व मपरं त्यक्त्वेव चापप्रियः |<br/>
-रुष्टानां परिसान्त्वनैक रसिको रामः सरामोऽवतात् ||<br/>
+रुष्टानां परिसान्त्वनैक रसिको रामः सरामोऽवतात् || ६३ ||<br/>
 śaṅkhaṃ cakragade yathāpi dharate kañjaṃ ca yo nityaśaḥ |<br/>
 tadvanmāṃ nadadhātyaho harirayaṃ yātaṃ dhanu rvakratām ||<br/>
 tadroṣa apanayāya sarva maparaṃ tyaktveva cāpapriyaḥ |<br/>
-ruṣṭānāṃ parisāntvanaika rasiko rāmaḥ sarāmo'vatāt ||
+ruṣṭānāṃ parisāntvanaika rasiko rāmaḥ sarāmo'vatāt || 63 ||
 
 ### पदच्छेदम् (Padacchedam):
 शङ्खम् | चक्र-गदे | यथा | अपि | धरते | कञ्जम् | च | यः | नित्यशः | तद्वत् | माम् | न | दधाति | अहो | हरिः | अयम् | यातम् | धनुः | वक्रताम् | तत्-रोष-अपनयाय | सर्वम् | अपरम् | त्यक्त्वा | इव | चाप-प्रियः | रुष्टानाम् | परिसान्त्वन-एक-रसिकः | रामः | स-रामः | अवतात् |
@@ -93,11 +94,11 @@ Lord Hari always carries the conch, discus, mace, and lotus in his four hands. T
 एकेनोक्त महोसदागति-गती 'रेती' रिते मूर्धगा |<br/>
 मेत्युक्ते च ममोष्ठयो मृदुलयो र्जाजायते मुद्रणम् ||<br/>
 प्राणायामविधिं सुशिक्षयति यन् निर्नासिकास्पर्शनम् |<br/>
-भामस्यास्य सु कौतुकोद्भवकरं श्रीराम नामाक्षरम् ||<br/>
+भामस्यास्य सु कौतुकोद्भवकरं श्रीराम नामाक्षरम् || ६४ ||<br/>
 ekenokta mahosadāgati-gatī 'retī' rite mūrdhagā |<br/>
 metyukte ca mamoṣṭhayo mṛdulayo rjājāyate mudraṇam ||<br/>
 prāṇāyāmavidhiṃ suśikṣayati yan nirnāsikāsparśanam |<br/>
-bhāmasyāsya su kautukodbhavakaraṃ śrīrāma nāmākṣaram ||
+bhāmasyāsya su kautukodbhavakaraṃ śrīrāma nāmākṣaram || 64 ||
 
 ### पदच्छेदम् (Padacchedam):
 एकेन | उक्तम् | अहो | सदागति-गती | 'रा' | इति | ईरिते | मूर्ध-गा | 'मा' | इति | उक्ते | च | मम | ओष्ठयोः | मृदुलयोः | जाजायते | मुद्रणम् | प्राणायाम-विधिम् | सुशिक्षयति | यत् | निर्नासिका-स्पर्शनम् | भामस्य | अस्य | सु-कौतुक-उद्भवकरम् | श्रीराम-नाम-अक्षरम् |
@@ -122,12 +123,12 @@ One of the boys of Mithila said: "Oh! When 'Rā' is uttered, the breath moves to
 चापः पापि समापको द्विजमुखादुत्थश्च शापो यथा |<br/>
 वापः पुण्यमहीरुहस्य हृदये जापे प्रतापे धृते ||<br/>
 रूपं यस्य च रामणीयकतया मथ्नात्यलं मन्मथम् |<br/>
-सीताहस्तसरोरुहार्पितकरो रामः अभिरामोऽस्तु नः ||
+सीताहस्तसरोरुहार्पितकरो रामः अभिरामोऽस्तु नः || ६५ ||
 
 Cāpaḥ pāpi samāpako dvijamukhādutthaśca śāpo yathā |<br/>
 Vāpaḥ puṇyamahīruhasya hṛdaye jāpe pratāpe dhṛte ||<br/>
 Rūpaṃ yasya ca rāmaṇīyakatayā mathnātyalam manmatham |<br/>
-Sītāhastasaroruhārpitakaro rāmaḥ abhirāmo'stu naḥ ||
+Sītāhastasaroruhārpitakaro rāmaḥ abhirāmo'stu naḥ || 65 ||
 
 ### पदच्छेदम् (Padacchedam):
 चापः | पापि-समापकः | द्विज-मुखात् | उत्थः | च | शापः | यथा | वापः | पुण्य-महीरुहस्य | हृदये | जापे | प्रतापे | धृते | रूपं | यस्य | च | रामणीयकतया | मथ्नाति | अलम् | मन्मथम् | सीता-हस्त-सरोरुह-अर्पित-करः | रामः | अभिरामः | अस्तु | नः |

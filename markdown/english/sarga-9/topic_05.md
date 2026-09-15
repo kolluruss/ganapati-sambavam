@@ -8,11 +8,11 @@ Gana-shasanasya Dharma-nirapekshatarthah — The meaning of secularism in the co
 न्यायार्थागतमानवे समतमं न्यायो निरायोप्यते |<br/>
 तद्गेहस्थितधर्मकर्मविषयो न न्यायपैरीक्ष्यते ||<br/>
 सा धर्म निरपेक्षितेह विदिता नान्यास्ति काचिन्मता |<br/>
-नेह न्यायप एव धर्मरहितस्त्याज्यो भवेद्यः स्वयम् ||<br/>
+नेह न्यायप एव धर्मरहितस्त्याज्यो भवेद्यः स्वयम् || ३२ ||<br/>
 Nyāyārthāgatamānave samatamaṃ nyāyo nirāyopyate |<br/>
 Tadgehasthitadharmakarmaviṣayo na nyāyapairīkṣyate ||<br/>
 Sā dharma nirapekṣiteha viditā nānyāsti kācinmatā |<br/>
-Neha nyāyapa eva dharmarahitastyājyo bhavedyaḥ svayam ||
+Neha nyāyapa eva dharmarahitastyājyo bhavedyaḥ svayam || 32 ||
 
 ### पदच्छेदम् (Padacchedam):
 न्याय-अर्थ-आगत-मानवे | समतमम् | न्यायः | निरायम् | अप्यते | तत्-गेह-स्थित-धर्म-कर्म-विषयः | न | न्यायपैः | ईक्ष्यते | सा | धर्म-निरपेक्षिता | इह | विदिता | न | अन्या | अस्ति | काचित् | मता | न | इह | न्यायपः | एव | धर्म-रहितः | त्याज्यः | भवेत् | यः | स्वयम् |
@@ -39,11 +39,11 @@ Delivering justice equally to a person who seeks it, without expecting any profi
 आखुर्वास्तु गजोऽस्तु वाऽस्तु मनुजो न्याये समानाः समे |<br/>
 इत्युद्बोधयते गजानननरः साखुः स्वके शासने ||<br/>
 तस्मा त्तद्गतधर्मदर्शनमति र्नो युज्यते न्यायपे |<br/>
-इत्यर्थे निरपेक्षधर्मकमिदं प्रोच्चार्यते शासनम् ||<br/>
+इत्यर्थे निरपेक्षधर्मकमिदं प्रोच्चार्यते शासनम् || ३३ ||<br/>
 Ākhurvāstu gajo'stu vāstu manujo nyāye samānāḥ same |<br/>
 Ityudbodhayate gajānananaraḥ sākhuḥ svake śāsane ||<br/>
 Tasmā ttadgatadharmadarśanamati rno yujyate nyāyape |<br/>
-Ityarthe nirapekṣadharmakamidaṃ proc-cāryate śāsanam ||
+Ityarthe nirapekṣadharmakamidaṃ proc-cāryate śāsanam || 33 ||
 
 ### पदच्छेदम् (Padacchedam):
 आखुः | वा | अस्तु | गजः | अस्तु | वा | अस्तु | मनुजः | न्याये | समानाः | समे | इति | उद्बोधयते | गजानन-नरः | स-आखुः | स्वके | शासने | तस्मात् | तत्-गत-धर्म-दर्शन-मतिः | नो | युज्यते | न्यायपे | इति | अर्थे | निरपेक्ष-धर्मकम् | इदम् | प्रोच्चार्यते | शासनम् |
@@ -71,11 +71,11 @@ Whether it is a mouse, an elephant, or a human, all are equal in the eyes of jus
 आखूसोऽपि च धन्य एव वहते पृष्ठे गणेशं स्म यः |<br/>
 यत्कृत्याद्यतनोऽपि मूषकगण स्तद्वाहनो मन्यते ||<br/>
 आसन्नेव शशाः शशाङ्कशशकस्याऽनुग्रहा द्रक्षिताः |<br/>
-क्षुद्रा ये चिरतः स्वशासनबलाद् यान्तो महत्वे श्रुताः ||<br/>
+क्षुद्रा ये चिरतः स्वशासनबलाद् यान्तो महत्वे श्रुताः || ३४ ||<br/>
 Ākhūso'pi ca dhanya eva vahate pṛṣṭhe gaṇeśaṃ sma yaḥ |<br/>
 Yatkṛtyādyatano'pi mūṣakagaṇa stadvāhano manyate ||<br/>
 Āsanneva śaśāḥ śaśāṅkaśaśakasyānugrahā drakṣitāḥ |<br/>
-Kṣudrā ye cirataḥ svaśāsanabalād yānto mahatve śrutāḥ ||
+Kṣudrā ye cirataḥ svaśāsanabalād yānto mahatve śrutāḥ || 34 ||
 
 ### पदच्छेदम् (Padacchedam):
 आखुः | सः | अपि | च | धन्यः | एव | वहते | पृष्ठे | गणेशम् | स्म | यः | यत्-कृत्या | अद्यतनः | अपि | मूषक-गणः | तत्-वाहनः | मन्यते | आसन् | एव | शशाः | शशाङ्क-शशकस्य | अनुग्रहात् | रक्षिताः | क्षुद्राः | ये | चिरतः | स्व-शासन-बलात् | यान्तः | महत्वे | श्रुताः |

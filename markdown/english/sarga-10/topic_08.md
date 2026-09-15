@@ -6,11 +6,11 @@ The implied meaning (Vyangyartha) in the Bhagavad Gita, the magnificence of the 
 यस्यान्वयेन कविता भजते महत्वम् |<br/>
 निम्नत्वमेति यदभाववशेन शीघ्रम् ||<br/>
 गीतोदरेऽप्यपिहितः पिहितः कदाचित् |<br/>
-व्यङ्ग्योऽर्थ एव भगवानिव कृष्णचन्द्रः ||<br/>
+व्यङ्ग्योऽर्थ एव भगवानिव कृष्णचन्द्रः || ७१ ||<br/>
 yasyānvayena kavitā bhajate mahatvam |<br/>
 nimnatvameti yadabhāvavaśena śīghram ||<br/>
 gītodare'pyapihitaḥ pihitaḥ kadācit |<br/>
-vyaṅgyo'rtha eva bhagavāniva kṛṣṇacandraḥ ||
+vyaṅgyo'rtha eva bhagavāniva kṛṣṇacandraḥ || 71 ||
 
 ### पदच्छेदम् (Padacchedam):
 यस्य | अन्वयेन | कविता | भजते | महत्वम् | निम्नत्वम् | एति | यत्-अभाव-वशेन | शीघ्रम् | गीता-उदरे | अपि | अपिहितः | पिहितः | कदाचित् | व्यङ्ग्यः | अर्थः | एव | भगवान् | इव | कृष्णचन्द्रः |
@@ -33,11 +33,11 @@ That which grants greatness to poetry, the absence of which causes poetry to los
 यत् सत्त्या भवति काव्य वपुः कवीनाम् |<br/>
 आचन्द्रतार ममरं हृदयापहारि ||<br/>
 यो वा रसावतरणे नवतामुपैति |<br/>
-तं व्यङ्ग्य विष्णुमखिलस्थलगां स्तवीमि ||<br/>
+तं व्यङ्ग्य विष्णुमखिलस्थलगां स्तवीमि || ७२ ||<br/>
 yat sattyā bhavati kāvya vapuḥ kavīnām |<br/>
 ācandratāra mamaram hṛdayāpahāri ||<br/>
 yo vā rasāvataraṇe navatāmupaiti |<br/>
-taṃ vyaṅgya viṣṇumakhilasthalagam stavīmi ||
+taṃ vyaṅgya viṣṇumakhilasthalagam stavīmi || 72 ||
 
 ### पदच्छेदम् (Padacchedam):
 यत् | सत्त्या | भवति | काव्य-वपुः | कवीनाम् | आ-चन्द्र-तारम् | अमरम् | हृदय-अपहारि | यः | वा | रस-अवतरणे | नवताम् | उपैति | तम् | व्यङ्ग्य-विष्णुम् | अखिल-स्थल-गम् | स्तवीमि |
@@ -58,11 +58,11 @@ By whose existence the poetic body of poets becomes immortal as long as the sun 
 गीते ! सुतापि भवती जगति प्रसिद्धा |<br/>
 नैता तथोपनिषद स्तव मातर याः ||<br/>
 कुम्भा न कूपमपि शोषयितुं समर्थाः |<br/>
-कौम्भि र्मुनि र्जलनिधिं चुलुकी चकार ||<br/>
+कौम्भि र्मुनि र्जलनिधिं चुलुकी चकार || ७३ ||<br/>
 gīte ! sutāpi bhavatī jagati prasiddhā |<br/>
 naitā tathopaniṣada stava mātara yāḥ ||<br/>
 kumbhā na kūpamapi śoṣayituṃ samarthāḥ |<br/>
-kaumbhi rmuni rjalanidhiṃ culukī cakāra ||
+kaumbhi rmuni rjalanidhiṃ culukī cakāra || 73 ||
 
 ### पदच्छेदम् (Padacchedam):
 गीते ! | सुता | अपि | भवती | जगति | प्रसिद्धा | न | एताः | तथा | उपनिषदः | तव | मातरः | याः | कुम्भाः | न | कूपम् | अपि | शोषयितुम् | समर्थाः | कौम्भिः | मुनिः | जलनिधिम् | चुलुकी-चकार |
@@ -84,11 +84,11 @@ O Mother Gita! Though you are the daughter, you have attained great fame in this
 मृत्युञ्जयस्य शिरसीन्दु कला विलासम् |<br/>
 स्वान्तेऽकरोच्च भवती तु धनञ्जयस्य ||<br/>
 क्षीणा तु सा प्रतिपद प्रणता सु वक्रा |<br/>
-तां त्वं परा भवसि केवलमस्वरेण ||<br/>
+तां त्वं परा भवसि केवलमस्वरेण || ७४ ||<br/>
 mṛtyuñjayasya śirasīndu kalā vilāsam |<br/>
 svānte'karocca bhavatī tu dhanañjayasya ||<br/>
 kṣīṇā tu sā pratipada praṇatā su vakrā |<br/>
-tāṃ tvaṃ parā bhavasi kevalamasvareṇa ||
+tāṃ tvaṃ parā bhavasi kevalamasvareṇa || 74 ||
 
 ### पदच्छेदम् (Padacchedam):
 मृत्युञ्जयस्य | शिरसि | इन्दु-कला | विलासम् | स्वान्ते | अकरोत् | च | भवती | तु | धनञ्जयस्य | क्षीणा | तु | सा | प्रतिपदि | अप्रणता | सु-वक्रा | ताम् | त्वम् | पराभवसि | केवलम् | अ-स्वरेण |
@@ -109,12 +109,12 @@ O Gita! If the crescent moon shines on the head of Shiva, you shine in the heart
 मृद्वीकारसवर्षिशब्दजननीं शौर्यस्य घण्टापथाम् |<br/>
 धर्माणां दृढवेदिकां जनिमतां पापौघमन्दाकिनीम् ||<br/>
 संक्रान्तिं परमेश्वरे विदधतीं जीवस्य संसारिणः |<br/>
-तां संस्कृत्रिमिनामिकां सुरसभाश्शृङ्गारवाचं स्तुमः ||<br/>
+तां संस्कृत्रिमिनामिकां सुरसभाश्शृङ्गारवाचं स्तुमः || ७५ ||<br/>
 
 mṛdvīkārasavarṣiśabdajananīṃ śauryasya ghaṇṭāpathām |<br/>
 dharmāṇāṃ dṛḍhavedikāṃ janimatāṃ pāpaughamandākinīm ||<br/>
 saṃkrāntiṃ parameśvare vidadhatīṃ jīvasya saṃsāriṇaḥ |<br/>
-tāṃ saṃskṛtrimanāmikāṃ surasabhāśśṛṅgāravācaṃ stumaḥ ||
+tāṃ saṃskṛtrimanāmikāṃ surasabhāśśṛṅgāravācaṃ stumaḥ || 75 ||
 
 ### पदच्छेदम् (Padacchedam):
 मृद्वीका | रस | वर्षि | शब्द | जननीम् | शौर्यस्य | घण्टा | पथाम् | धर्माणाम् | दृढ | वेदिकाम् | जनिमताम् | पाप | ओघ | मन्दाकिनीम् | संक्रान्तिम् | परमेश्वरे | विदधतीम् | जीवस्य | संसारिणः | ताम् | संस्कृत्रिमिनामिकाम् [possible reading: संस्कृत्रिमिनामिकाम् — Sanskritrimanāmikām] | सुर | सभा | शृङ्गार | वाचम् | स्तुमः |
@@ -140,12 +140,12 @@ We praise that Sanskrit speech which is the mother of sweet words that shower th
 या स्वोच्चारणसौष्ठवाय गदिता वङ्गोद्भवैः 'शंश्कृता' |<br/>
 या 'संस्कुर्र्त' पदं द्रुतं धृतवती याता महाराष्ट्रके ||<br/>
 या मद्रास जने 'समस्कृत' पदा 'संकिट्टका' प्राकृते |<br/>
-इत्थं नाम चतुष्टयस्तनधरी गौः संस्कृता नम्यते ||<br/>
+इत्थं नाम चतुष्टयस्तनधरी गौः संस्कृता नम्यते || ७६ ||<br/>
 
 yā svoccāraṇasauṣṭhavāya gaditā vaṅgodbhavaiḥ 'śaṃśkṛtā' |<br/>
 yā 'saṃskurrta' padaṃ drutaṃ dhṛtavatī yātā mahārāṣṭrake ||<br/>
 yā madrāsa jane 'samaskṛta' padā 'saṃkiṭṭakā' prākṛte |<br/>
-itthaṃ nāma catuṣṭayastanadharī gauḥ saṃskṛtā namyate ||
+itthaṃ nāma catuṣṭayastanadharī gauḥ saṃskṛtā namyate || 76 ||
 
 ### पदच्छेदम् (Padacchedam):
 या | स्व | उच्चारण | सौष्ठवाय | गदिता | वङ्ग | उद्भवैः | 'शंश्कृता' | या | 'संस्कुर्र्त' | पदम् | द्रुतम् | धृतवती | याता | महाराष्ट्रके | या | मद्रास | जने | 'समस्कृत' | पदा | 'संकिट्टका' | प्राकृते | इत्थम् | नाम | चतुष्टय | स्तन | धरी | गौः | संस्कृता | नम्यते |
@@ -172,12 +172,12 @@ I bow to the Sanskrit language, which is like a divine cow possessing four udder
 नित्यं यत्प्रियतां गतास्त्रय इमे गोलेन्दवो बिन्दवः |<br/>
 येऽनुस्वार विसर्ग नाम युगतः सेवा प्रदाने रताः ||<br/>
 एकश्छत्रति वा किरीटति च वा द्वौ पत्पुरो गामिनौ |<br/>
-राज्ञी रूपमिवेदमीय ममलं व्यञ्जन्ति विश्वोदरे ||<br/>
+राज्ञी रूपमिवेदमीय ममलं व्यञ्जन्ति विश्वोदरे || ७७ ||<br/>
 
 nityaṃ yatpriyatāṃ gatāstraya ime golendavo bindavaḥ |<br/>
 ye'nusvāra visarga nāma yugataḥ sevā pradāne ratāḥ ||<br/>
 ekaśchatrati vā kirīṭati ca vā dvau patpuro gāminau |<br/>
-rājñī rūpamivedamīya mamalaṃ vyañjanti viśvodare ||
+rājñī rūpamivedamīya mamalaṃ vyañjanti viśvodare || 77 ||
 
 ### पदच्छेदम् (Padacchedam):
 नित्यम् | यत् | प्रियताम् | गताः | त्रयः | इमे | गोल | इन्दवः | बिन्दवः | ये | अनुस्वार | विसर्ग | नाम | युगतः | सेवा | प्रदाने | रताः | एकः | छत्रति | वा | किरीटति | च | वा | द्वौ | पत् | पुरः | गामिनौ | राज्ञी | रूपम् | इव | इदमीयम् | अमलम् | व्यञ्जन्ति | विश्व | उदरे |
@@ -204,12 +204,12 @@ The three round, moon-like dots are always dear to the Sanskrit language. Known 
 आह्वानीय विसर्जनीय पदयो र्या वेकदा भोगिनौ |<br/>
 अग्रस्थे 'शरि' सुस्थिरौ उत सकाराकारवस्त्रावृतौ ||<br/>
 सस्याङ्गा ज्जनितौ सकारजनकौ सूर्याग्नि देवोपमौ |<br/>
-वन्दे स्वीयसुशासनेन जनितौ क्षुद्रौ च नव्यौ पणौ ||<br/>
+वन्दे स्वीयसुशासनेन जनितौ क्षुद्रौ च नव्यौ पणौ || ७८ ||<br/>
 
 āhvānīya visarjanīya padayo ryā vekadā bhoginau |<br/>
 agrasthe 'śari' susthirau uta sakārākāravastrāvṛtau ||<br/>
 sasyāṅgā jjanitau sakārajanakau sūryāgni devopamau |<br/>
-vande svīyasuśāsanena janitau kṣudrau ca navyau paṇau ||
+vande svīyasuśāsanena janitau kṣudrau ca navyau paṇau || 78 ||
 
 ### पदच्छेदम् (Padacchedam):
 आह्वानीय | विसर्जनीय | पदयोः | यौ | एकदा | भोगिनौ | अग्र | स्थे | 'शरि' | सु | स्थिरौ | उत | सकार | आकार | वस्त्र | आवृतौ | सस्य | अङ्गात् | जनितौ | सकार | जनकौ | सूर्य | अग्नि | देव | उपमौ | वन्दे | स्वीय | सु | शासनेन | जनितौ | क्षुद्रौ | च | नव्यौ | पणौ |

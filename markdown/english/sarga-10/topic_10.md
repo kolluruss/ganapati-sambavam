@@ -6,11 +6,11 @@ Explaining the profound grammatical and Vedantic (philosophical) meanings of the
 अस्तेश्चास्ति प्रशस्तिकापदमिदं सत्ताप्रदं वस्तुनः | <br/>
 तत् स्वस्तीति पदेन गोपितमभूद् वेदैश्च मन्त्रोदरे || <br/>
 वेदान्तेऽस्ति च भाति च प्रियमिति प्राथम्यतो यत्स्थितम् | <br/>
-तन्मे स्ताद् गणसंभवोभयदले तिष्ठत् प्रतिष्ठाप्रदम् || <br/>
+तन्मे स्ताद् गणसंभवोभयदले तिष्ठत् प्रतिष्ठाप्रदम् || ८७ ||<br/>
 astēścāsti praśastikāpadamidaṃ sattāpradaṃ vastunaḥ | <br/>
 tat svastīti padēna gōpitamabhūd vēdaiśca mantrōdarē || <br/>
 vēdāntē'sti ca bhāti ca priyamiti prāthamyatō yatsthitam | <br/>
-tanmē stād gaṇasaṃbhavōbhayadalē tiṣṭhat pratiṣṭhāpradam ||
+tanmē stād gaṇasaṃbhavōbhayadalē tiṣṭhat pratiṣṭhāpradam || 87 ||
 
 ### पदच्छेदम् (Padacchedam):
 अस्तेः | च | अस्ति | प्रशस्तिका-पदम् | इदम् | सत्ता-प्रदम् | वस्तुनः | तत् | स्वस्ति | इति | पदेन | गोपितम् | अभूत् | वेदैः | च | मन्त्र-उदरे | वेदान्ते | अस्ति | च | भाति | च | प्रियमिति | प्राथम्यतः | यत् | स्थितम् | तत् | मे | स्तात् | गणसंभव-उभय-दले | तिष्ठत् | प्रतिष्ठा-प्रदम् |
@@ -40,11 +40,11 @@ The word 'Asti' used at the beginning of this Kavya is most auspicious. It decla
 लोके ब्रह्मसमं विवर्तमानमियं यत् 'सत्' पदादौ स्थितम् | <br/>
 सर्पे रज्जुसमानतामिव गतं ज्ञेयं गुरोरेव यत् || <br/>
 यद्वास्ति प्रतिरूपकत्वमिषतो ब्रूतेऽव्ययं कौमुदी | <br/>
-तत्सत्ताप्रतिरूपकं पदमिदं भूयात् सदास्यस्थितम् || <br/>
+तत्सत्ताप्रतिरूपकं पदमिदं भूयात् सदास्यस्थितम् || ८८ ||<br/>
 lōkē brahmasamaṃ vivartamitam yat 'sat' padādau sthitam | <br/>
 sarpē rajju-samānatāmiva gataṃ jñēyaṃ gurōrēva yat || <br/>
 yadvāsti pratirūpakatvamiṣatō brūtē'vyayaṃ kaumudī | <br/>
-tatsattāpratirūpakaṃ padamidaṃ bhūyāt sadāsyasthitam ||
+tatsattāpratirūpakaṃ padamidaṃ bhūyāt sadāsyasthitam || 88 ||
 
 ### पदच्छेदम् (Padacchedam):
 लोके | ब्रह्म-समम् | विवर्त-मयितम् | यत् | 'सत्'-पद-आदौ | स्थितम् | सर्पे | रज्जु-समानताम् | इव | गतम् | ज्ञेयम् | गुरोः | एव | यत् | यत् | वा | अस्ति | प्रतिरूपकत्व-मिषतः | ब्रूते | अव्ययम् | कौमुदी | तत्-सत्ता-प्रतिरूपकम् | पदम् | इदम् | भूयात् | सदा | आस्य-स्थितम् |
@@ -71,11 +71,11 @@ That which lies hidden in words like 'Sat' in the world, appearing like Brahman 
 यस्मात् 'स्वस्तिक'मागतं सुकृतीनां मस्तिष्कमध्ये प्रियम् | <br/>
 धत्ते 'बिन्दुगकार'रूपमिषतो 'गं' मन्त्रमेवाभितः || <br/>
 व्याप्तं ब्रह्मवदेव वा गणपवच्चक्रे नतं मस्तकम् | <br/>
-तद् भूयात् स्वलिङाशिषि प्रकटिताद्रूपा निजाशीःप्रदम् || <br/>
+तद् भूयात् स्वलिङाशिषि प्रकटिताद्रूपा निजाशीःप्रदम् || ८९ ||<br/>
 yasmāt 'svastika'māgataṃ sukṛtīnāṃ mastiṣkamadhyē priyam | <br/>
 dhattē 'bindugakāra'rūpamiṣatō 'gaṃ' mantramēvābhitaḥ || <br/>
 vyāptaṃ brahmavadēva vā gaṇapavaccakrē nataṃ mastakam | <br/>
-tad bhūyāt svaliṅāśiṣi prakaṭitādrūpā nijāśīḥpradam ||
+tad bhūyāt svaliṅāśiṣi prakaṭitādrūpā nijāśīḥpradam || 89 ||
 
 ### पदच्छेदम् (Padacchedam):
 यस्मात् | 'स्वस्तिकम्' | आगतम् | सुकृतीनाम् | मस्तिष्क-मध्ये | प्रियम् | धत्ते | 'बिन्दु-गकार'-रूप-मिषतः | 'गम्' | मन्त्रम् | एव | अभितः | व्याप्तम् | ब्रह्मवत् | एव | वा | गणपवत् | चक्रे | नतम् | मस्तकम् | तत् | भूयात् | स्व-लिङ्-आशिषि | प्रकटितात् | रूपात् | निज-आशीः-प्रदम् |
@@ -103,11 +103,11 @@ From which the beloved 'Svastika' (Su+Asti) emerged in the minds of the virtuous
 आसीदस्ति भविष्यतीति सुपदैः कालत्रयीबोधकः | <br/>
 सर्वेष्वेव सुबन्तकेषु च सदानुच्चारितोऽपि स्थितः || <br/>
 धातुः सन्नपि धातुभिः सह परैर्युक्तश्च बाभास्यते | <br/>
-अस्त्याख्यो जयतात् सदा गणपवच्छब्दश्च सौख्यप्रदः || <br/>
+अस्त्याख्यो जयतात् सदा गणपवच्छब्दश्च सौख्यप्रदः || ९० ||<br/>
 āsīdasti bhaviṣyatīti supadaiḥ kālatrayībōdhakaḥ | <br/>
 sarvēṣvēva subantakēṣu ca sadānuccāritō'pi sthitaḥ || <br/>
 dhātuḥ sannapi dhātubhiḥ saha parairyuktaśca bābhāsyatē | <br/>
-astyākhyō jayatāt sadā gaṇapavacchabdaśca saukhyapradaḥ ||
+astyākhyō jayatāt sadā gaṇapavacchabdaśca saukhyapradaḥ || 90 ||
 
 ### पदच्छेदम् (Padacchedam):
 आसीत् | अस्ति | भविष्यति | इति | सुपदैः | काल-त्रयी-बोधकः | सर्वेषु | एव | सुबन्तकेषु | च | सदा | अनुच्चारितः | अपि | स्थितः | धातुः | सन् | अपि | धातुभिः | सह | परैः | युक्तः | च | बाभास्यते | अस्ति-आख्यः | जयतात् | सदा | गणपवत् | शब्दः | च | सौख्य-प्रदः |

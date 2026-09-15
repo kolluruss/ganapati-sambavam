@@ -6,11 +6,11 @@ Comparing the principle of Ganapati with modern democratic (republican) governan
 स्थौल्याद् वृद्धि समृद्धिराशि रिव यः सिन्दूर लिप्तोऽभितः |<br/>
 स्वाम्बाशासनमुद्रिकाऽम्बक धरोऽधोभूंन्दुरु क्रीडकः ||<br/>
 ह्रस्वाङ्गी हरिता त्रिपत्र लसिता रूढेव दूर्वोर्ध्वतः |<br/>
-मन्येऽयं दशमो निधि र्गणपतिः प्राग्भ्यो नवभ्यो नवः ||<br/>
+मन्येऽयं दशमो निधि र्गणपतिः प्राग्भ्यो नवभ्यो नवः || १ ||<br/>
 Sthaulyād vṛddhi samṛddhirāśi riva yaḥ sindūra lipto'bhitaḥ |<br/>
 Svāmbāśāsanamudrikā'mbaka dharo'dhobhūnduru krīḍakaḥ ||<br/>
 Hrasvāṅgī haritā tripatra lasitā rūḍheva dūrvordhvataḥ |<br/>
-Manye'yaṃ daśamo nidhi rgaṇapatiḥ prāgbhyo navabhyo navaḥ ||
+Manye'yaṃ daśamo nidhi rgaṇapatiḥ prāgbhyo navabhyo navaḥ || 1 ||
 
 ### पदच्छेदम् (Padacchedam):
 स्थौल्यात् | वृद्धि-समृद्धि-राशिः | इव | यः | सिन्दूर-लिप्तः | अभितः | स्व-अम्बा-शासन-मुद्रिका-अम्बक-धरः | अधो-भू-उन्दुरु-क्रीडकः | ह्रस्वाङ्गी | हरिता | त्रिपत्र-लसिता | रूढा | इव | दूर्वा | ऊर्ध्वतः | मन्ये | अयम् | दशमः | निधिः | गणपतिः | प्राग्भ्यो | नवभ्यो | नवः |
@@ -40,11 +40,11 @@ Ganapati, by virtue of his corpulence, appears like a heap of prosperity and abu
 प्रक्राथन्नपि केशरी मृगशिशून् लोकैर्मृगेशो मतः |<br/>
 रात्रे र्गात्रविदारको वसनवद् रात्रीश उक्तः शशी ||<br/>
 विघ्नान् घ्नन्नपि विघ्नराजपदवीं धत्ते गणेशो यथा |<br/>
-तद्वत् क्रीडनपीडनै रपिनृणामीड्यं भवेच्छासनम् ||<br/>
+तद्वत् क्रीडनपीडनै रपिनृणामीड्यं भवेच्छासनम् || २ ||<br/>
 Prakrāthannapi keśarī mṛgaśiśūn lokairmṛgeśo mataḥ |<br/>
 Rātre rgātravidārako vasanavad rātrīśa uktaḥ śaśī ||<br/>
 Vighnān ghnannapi vighnarājapadavīṃ dhatte gaṇeśo yathā |<br/>
-Tadvat krīḍanapīḍanai rapinṛṇāmīḍyaṃ bhavecchāsanam ||
+Tadvat krīḍanapīḍanai rapinṛṇāmīḍyaṃ bhavecchāsanam || 2 ||
 
 ### पदच्छेदम् (Padacchedam):
 प्रक्राथन् | अपि | केशरी | मृगशिशून् | लोकैः | मृगेशः | मतः | रात्रेः | गात्र-विदारकः | वसन-वत् | रात्रीशः | उक्तः | शशी | विघ्नान् | घ्नन् | अपि | विघ्नराज-पदवीम् | धत्ते | गणेशः | यथा | तद्वत् | क्रीडन-पीडनैः | अपि | नृणाम् | ईड्यम् | भवेत् | शासनम् |
@@ -73,11 +73,11 @@ Even while killing young deer, the lion is considered the king of animals. Even 
 अर्थश्चेद भ्रमगः कदापि कुरुते काञ्चित् क्रियासु त्रुटिम् |<br/>
 सन्तस्तस्य समाहितिं विदधते स्वीकार्य आर्यो यतः ||<br/>
 हस्ती मण्डनमण्डितोऽपि च रजो धत्ते मुदा मूर्ध्नि चेत् |<br/>
-धार्योऽस्त्येव तथापि नैष गहनाऽरण्येऽपहार्योऽञ्जसा ||<br/>
+धार्योऽस्त्येव तथापि नैष गहनाऽरण्येऽपहार्योऽञ्जसा || ३ ||<br/>
 Arthaśced bhramagaḥ kadāpi kurute kāñcit kriyāsu truṭim |<br/>
 Santastasya samāhitiṃ vidadhate svīkārya āryo yataḥ ||<br/>
 Hastī maṇḍanamaṇḍito'pi ca rajo dhatte mudā mūrdhni cet |<br/>
-Dhāryo'styeva tathāpi naiṣa gahanāraṇye'pahāryo'ñjasā ||
+Dhāryo'styeva tathāpi naiṣa gahanāraṇye'pahāryo'ñjasā || 3 ||
 
 ### पदच्छेदम् (Padacchedam):
 अर्थः | चेत् | भ्रमगः | कदापि | कुरुते | काञ्चित् | क्रियासु | त्रुटिम् | सन्तः | तस्य | समाहितिम् | विदधते | स्वीकार्यः | आर्यः | यतः | हस्ती | मण्डन-मण्डितः | अपि | च | रजः | धत्ते | मुदा | मूर्ध्नि | चेत् | धार्यः | अस्ति | एव | तथापि | न | एषः | गहन-अरण्ये | अपहार्यः | अञ्जसा |
@@ -109,11 +109,11 @@ If a leader, due to delusion, commits an error in his duties, the wise provide a
 दानेनात्म शिरोबलेः स च शिशु र्लेभे गणेशासनम् |<br/>
 भूयोवीरबलिप्रदानबलतः प्राप्तं च नः शासनम् ||<br/>
 साम्यं रम्यतां समीक्ष्य विशति प्रायः पदार्थः परे |<br/>
-नानावस्तु सुमिश्रिणां सुविदितं व्यापारिणामापणे ||<br/>
+नानावस्तु सुमिश्रिणां सुविदितं व्यापारिणामापणे || ४ ||<br/>
 Dānenātma śirobaleḥ sa ca śiśu rlebhe gaṇeśāsanam |<br/>
 Bhūyovīrabalipradānabalataḥ prāptaṃ ca naḥ śāsanam ||<br/>
 Sāmyaṃ ramyatāṃ samīkṣya viśati prāyaḥ padārthaḥ pare |<br/>
-Nānāvastu sumiśriṇāṃ suviditaṃ vyāpāriṇāmāpaṇe ||
+Nānāvastu sumiśriṇāṃ suviditaṃ vyāpāriṇāmāpaṇe || 4 ||
 
 ### पदच्छेदम् (Padacchedam):
 दानेन | आत्म-शिरोबलेः | सः | च | शिशुः | लेभे | गणेश-आसनम् | भूयः-वीर-बलि-प्रदान-बलतः | प्राप्तम् | च | नः | शासनम् | साम्यम् | रम्यताम् | समीक्ष्य | विशति | प्रायः | पदार्थः | परे | नाना-वस्तु-सुमिश्रिणाम् | सुविदितम् | व्यापारिणाम् | आपणे |
@@ -141,11 +141,11 @@ That child (Ganesha) attained the seat of Ganesha only by sacrificing his own he
 दुष्टा वस्तुषु वस्तु दूषिततमं संमिश्रय खेलन्त्यलम् |<br/>
 एष त्वात्म गुणान् प्रवेश्य रमते सच्चित् परब्रह्मवत् ||<br/>
 देवत्वाच्च परोक्षता पथरुचिः स्वाभाव्यतो युज्यते |<br/>
-निःशङ्कः सुहृदङ्कके प्रियतमः पादप्रसारी सुहृत् ||<br/>
+निःशङ्कः सुहृदङ्कके प्रियतमः पादप्रसारी सुहृत् || ५ ||<br/>
 Duṣṭā vastuṣu vastu dūṣitatamaṃ saṃmiśraya khelantyalam |<br/>
 Eṣa tvātma guṇān praveśya ramate saccit parabrahmavat ||<br/>
 Devatvācca parokṣatā patharuciḥ svābhāvyato yujyate |<br/>
-Niḥśaṅkaḥ suhṛdaṅkake priyatamaḥ pādaprasārī suhṛt ||
+Niḥśaṅkaḥ suhṛdaṅkake priyatamaḥ pādaprasārī suhṛt || 5 ||
 
 ### पदच्छेदम् (Padacchedam):
 दुष्टाः | वस्तुषु | वस्तु | दूषिततमम् | संमिश्रय | खेलन्ति | अलम् | एषः | तु | आत्म-गुणान् | प्रवेश्य | रमते | सत्-चित्-परब्रह्मवत् | देवत्वात् | च | परोक्षता-पथ-रुचिः | स्वाभाव्यतः | युज्यते | निःशङ्कः | सुहृत्-अङ्कके | प्रियतमः | पादप्रसारी | सुहृत् |
@@ -181,11 +181,11 @@ The wicked take pleasure in mixing the most polluted elements into good things. 
 अस्मच्छासनजन्मदे बलिबलेऽनिच्छौ प्रजाऽजाबलेः |<br/>
 दस्युद्यद् दुर्वसनाक्षतिकरे मांसाशिधिक्कारके ||<br/>
 दूरोत्सारितमद्यगद्यहतके गान्धौ गणेशोऽविशत् |<br/>
-यत्तल्लक्षण मेव शासन मिदं नृभ्योऽद्य रोरुच्यते ||<br/>
+यत्तल्लक्षण मेव शासन मिदं नृभ्योऽद्य रोरुच्यते || ६ ||<br/>
 Asmacchāsanajanmade balibale'nicchau prajā'jābaleḥ |<br/>
 Dasyudyad durvasanākṣatikare māṃsāśidhikkārake ||<br/>
 Dūrotsāritamadyagadyahatake gāndhau gaṇeśo'viśat |<br/>
-Yattallakṣaṇa meva śāsana midaṃ nṛbhyo'dya rorucyate ||
+Yattallakṣaṇa meva śāsana midaṃ nṛbhyo'dya rorucyate || 6 ||
 
 ### पदच्छेदम् (Padacchedam):
 अस्मत्-शासन-जन्मदे | बलिबले | अनिच्छौ | प्रजा-अजा-बलेः | दस्यु-उद्यत्-दुर्वसना-क्षतिकरे | मांसाशि-धिक्कारके | दूर-उत्सारित-मद्य-गद्य-हतके | गान्धौ | गणेशः | अविशत् | यत् | तत्-लक्षणम् | एव | शासनम् | इदम् | नृभ्यो | अद्य | रोरुच्यते |
@@ -215,11 +215,11 @@ Ganesha entered into Gandhi, who gave birth to our governance, who possessed the
 सोऽगृह्णात् करणान् विहाय तुषवन् मन्ये करेणोः शिशो- |<br/>
 रायुः सुस्वरसन्धिशु स्थितिकरं गुप्तग्रहे साऽऽग्रहः ||<br/>
 प्रेष्ठं श्रेष्ठतमं च वस्तु गहनस्थाने सदा गोप्यते |<br/>
-एतद्वा जनतास्वरस्थित मधायुर्नॄणां शासनम् ||<br/>
+एतद्वा जनतास्वरस्थित मधायुर्नॄणां शासनम् || ७ ||<br/>
 So'gṛhṇāt karaṇān vihāya tuṣavan manye kareṇoḥ śiśo- |<br/>
 rāyuḥ susvarasandhiśu sthitikaraṃ guptagrahe sā''grahaḥ ||<br/>
 Preṣṭhaṃ śreṣṭhatamaṃ ca vastu gahanasthāne sadā gopyate |<br/>
-Etadvā janatāsvarasthita madhāyurnaṝṇāṃ śāsanam ||
+Etadvā janatāsvarasthita madhāyurnaṝṇāṃ śāsanam || 7 ||
 
 ### पदच्छेदम् (Padacchedam):
 सः | अगृह्णात् | करणान् | विहाय | तुषवत् | मन्ये | करेणोः | शिशोः | आयुः | सुस्वर-सन्धिशु | स्थितिकरम् | गुप्त-ग्रहे | स-आग्रहः | प्रेष्ठम् | श्रेष्ठतमम् | च | वस्तु | गहन-स्थाने | सदा | गोप्यते | एतद्वा | जनता-स्वर-स्थितम् | अधात् | आयुः | नॄणाम् | शासनम् |
@@ -256,11 +256,11 @@ I believe that Ganesha, having abandoned the letters 'ka', 'ra', and 'ṇa' like
 देवो व्यञ्जन मोकपूर्वक मधा दायुः स्वरोत्पादितम् |<br/>
 मिष्टां सुस्वरसंहिताञ्च मतवानायुः प्रदान क्षमाम् ||<br/>
 त्याज्यं शासनतल्लजेन नितरां मिथ्याविधं व्यञ्जनम् |<br/>
-यत् स्यादात्म विभञ्जनं यतनतो रक्ष्यं स्वराऽऽसञ्जनम् ||<br/>
+यत् स्यादात्म विभञ्जनं यतनतो रक्ष्यं स्वराऽऽसञ्जनम् || ८ ||<br/>
 Devo vyañjana mokapūrvaka madhā dāyuḥ svarotpāditam |<br/>
 Miṣṭāṃ susvarasaṃhitāñca matavānāyuḥ pradāna kṣamām ||<br/>
 Tyājyaṃ śāsanatallajena nitarāṃ mithyāvidhaṃ vyañjanam |<br/>
-Yat syādātma vibhañjanaṃ yatanato rakṣyaṃ svarā''sañjanam ||
+Yat syādātma vibhañjanaṃ yatanato rakṣyaṃ svarā''sañjanam || 8 ||
 
 ### पदच्छेदम् (Padacchedam):
 देवः | व्यञ्जनम् | ओक-पूर्वकम् | अधात् | आयुः | स्वर-उत्पादितम् | मिष्टाम् | सुस्वर-संहिताम् | च | मतवान् | आयुः-प्रदान-क्षमाम् | त्याज्यम् | शासन-तल्लजेन | नितराम् | मिथ्याविधम् | व्यञ्जनम् | यत् | स्यात् | आत्म-विभञ्जनम् | यतनतः | रक्ष्यम् | स्वर-आसञ्जनम् |
@@ -294,12 +294,12 @@ Lord Ganesha grasped the life-force produced from vowels by abandoning the conso
 देवस्तन्त्रक मन्त्र यन्त्र वशगस्तन्त्राख्यमेतत् प्रियम् |<br/>
 यत्र स्याद् जनपद्गति र्जनपदे फूतकार पूर्वा मुहुः ||<br/>
 दुं दुन्दुभि-दुर्ध्वान परिहरेत् गायेच्च तालस्वरैः |<br/>
-तत् स्याच्छो गणराजवत् स्थिरतां स्वं शासनं स्वाऽसनम् ||
+तत् स्याच्छो गणराजवत् स्थिरतां स्वं शासनं स्वाऽसनम् || ९ ||
 
 Devastantrakamantra yantravashagastantrakhyametat priyam |<br/>
 Yatra syad janapadgati rjanapade phutkara purva muhuh ||<br/>
 Dum dundubhi-durdhvanam pariharet gayeccha talasvaraih |<br/>
-Tat syacchogana rajavat sthirtam svam shasanam svasanam ||
+Tat syacchogana rajavat sthirtam svam shasanam svasanam || 9 ||
 
 ### पदच्छेदम् (Padacchedam):
 देवः | तन्त्रक-मन्त्र-यन्त्र-वशगः | तन्त्र-आख्यम् | एतत् | प्रियम् | यत्र | स्यात् | जन-पद्-गतिः | जनपदे | फूतकार-पूर्वा | मुहुः | दुं | दुन्दुभि-दुर्ध्वानम् | परिहरेत् | गायेत् | च | तालस्वरैः | तत् | स्यात् | शो | गणराजवत् | स्थिरताम् | स्वम् | शासनम् | स्व-आसनम् |
@@ -334,12 +334,12 @@ Since the Lord Ganesha is the one who is moved by Mantra, Yantra, and Tantra, th
 तस्माद् गुप्ततमा न्निकेतन तला द्याचेत् स्वरामुः श्रियम् |<br/>
 गोमायून परिवर्जयेन्निकटगान मायूं निजं दर्शयन् ||<br/>
 वायुंशुद्धतमं प्रसार्य जनता-स्नायून सदावर्धयेत् |<br/>
-आयुरूप घृताय धेनुधरणी-दुग्धादि वा पालयेत् ||
+आयुरूप घृताय धेनुधरणी-दुग्धादि वा पालयेत् || १० ||
 
 Tasmad guptatama nniketana tala dyacet svaramuh shriyam |<br/>
 Gomayun parivarjayennikatagan mayum nijam darshayan ||<br/>
 Vayumshuddhatamam prasarya janata-snayun sadavardhayet |<br/>
-Ayurupa ghrtaya dhenudharani-dughdadi va palayet ||
+Ayurupa ghrtaya dhenudharani-dughdadi va palayet || 10 ||
 
 ### पदच्छेदम् (Padacchedam):
 तस्मात् | गुप्ततमात् | निकेतन-तलात् | याचेत् | स्वर-आयुः | श्रियम् | गोमायून | परिवर्जयेत् | निकटगान् | मायूं | निजम् | दर्शयन् | वायुम् | शुद्धतमम् | प्रसार्य | जनता-स्नायून | सदा | वर्धयेत् | आयुरूप-घृताय | धेनु-धरणी-दुग्धादि | वा | पालयेत् |
@@ -376,12 +376,12 @@ Therefore, one should seek the splendor of life in the form of sound from the mo
 धन्या सा गजपुङ्गवस्य गृहिणी दत्तेस्म या शावकम् |<br/>
 शम्भोः पूजनहेतवे गिरिसुता चेतः प्रसादाय वा ||<br/>
 अज्ञानावृत चेतसोऽपि च करेणो रेष नव्यो बलिः |<br/>
-योद्यावध्यपि तद्भवैन शिरसा प्राप्तः पराम्पूज्योताम् ||
+योद्यावध्यपि तद्भवैन शिरसा प्राप्तः पराम्पूज्योताम् || ११ ||
 
 Dhanya sa gajapungavasya grhini dattesma ya shavakam |<br/>
 Shambhoh pujanahetave girisuta cetah prasadaya va ||<br/>
 Ajnanavrta cetaso'pi ca karenoh esha navyo balih |<br/>
-Yodyavadhyapi tadbhavena shirasa praptah param pujyatam ||
+Yodyavadhyapi tadbhavena shirasa praptah param pujyatam || 11 ||
 
 ### पदच्छेदम् (Padacchedam):
 धन्या | सा | गजपुङ्गवस्य | गृहिणी | दत्तेस्म | या | शावकम् | शम्भोः | पूजन-हेतवे | गिरिसुता-चेतः-प्रसादाय | वा | अज्ञान-आवृत-चेतः-अपि | च | करेणोः | एषः | नव्यः | बलिः | यः | अद्यावधि | अपि | तद्भवैन [possible reading: तद्भवेन — tadbhavena] | शिरसा | प्राप्तः | पराम् | पूज्यताम् |
@@ -411,12 +411,12 @@ Blessed is that wife of the noble elephant who offered her own calf for the wors
 यत्पुत्रस्य शिरः परार्थ मगमत जाताप्यवत्साच या |<br/>
 सा व्यङ्क्ते न किं बले र्बलपथं चञ्चत्कथं निर्व्यथम् ||<br/>
 यादृश्योऽवतरन्ति कौ पुनरहो धात्र्योऽथ पन्नाभिधाः |<br/>
-याः स्वस्वामिसुतावनय तनयं स्वीयम् बलिं प्रारपयन् ||
+याः स्वस्वामिसुतावनय तनयं स्वीयम् बलिं प्रारपयन् || १२ ||
 
 Yatputrasya shirah parartha magamat jatapyavatsaca ya |<br/>
 Sa vyankte na kim bale rbalapatham canchatkatham nirvyatham ||<br/>
 Yadrishyo'vataranti kau punaraho dhatryo'tha pannabhidhah |<br/>
-Yah svasvamisutavanaya tanayam sviyam balim prarpayan ||
+Yah svasvamisutavanaya tanayam sviyam balim prarpayan || 12 ||
 
 ### पदच्छेदम् (Padacchedam):
 यत्-पुत्रस्य | शिरः | परार्थम् | अगमत् | जाता | अपि | अवत्सा | च | या | सा | व्यङ्क्ते | न | किम् | बलेः | बलपथम् | चञ्चत्-कथम् | निर्व्यथम् | यादृश्यः | अवतरन्ति | कौ | पुनः | अहो | धात्र्यः | अथ | पन्ना-अभिधाः | याः | स्व-स्वामि-सुत-अवनाय | तनयम् | स्वीयम् | बलिम् | प्रारपयन् |
@@ -445,12 +445,12 @@ The son whose head was taken for the sake of others—does not that mother, who 
 एका दीपकपुष्पवत् स्वतयनं हस्तेन दद्यात् स्वयम् |<br/>
 तं प्रस्वाप्य च पृष्ठतश्च कुरुतेऽन्या नेत्रयो मुद्रणम् ||<br/>
 द्वे एव स्वकुलानुसार ममले लग्ने बले रर्पणे |<br/>
-रागत्यागयुगान्विताऽस्वपदिभी या सा मदीये मते ||
+रागत्यागयुगान्विताऽस्वपदिभी या सा मदीये मते || १३ ||
 
 Ekā dīpakapuṣpavat svatanayaṃ hastena dadyāt svayam |<br/>
 Taṃ prasvāpya ca pṛṣṭhataśca kurute'nyā netrayo mudraṇam ||<br/>
 Dve eva svakulānusāra mamale lagne bale rarpaṇe |<br/>
-Rāgatyāgayugānvitā'svapadibhī yā sā madīye mate ||
+Rāgatyāgayugānvitā'svapadibhī yā sā madīye mate || 13 ||
 
 ### पदच्छेदम् (Padacchedam):
 एका | दीपक-पुष्पवत् | स्व-तनयं | हस्तेन | दद्यात् | स्वयम् | तं | प्रस्वाप्य | च | पृष्ठतः | च | कुरुते | अन्या | नेत्रयोः | मुद्रणम् | द्वे | एव | स्व-कुल-अनुसारम् | अमले | लग्ने | बलेः | अर्पणे | राग-त्याग-युग-अन्वित | अस्वपत् | इभी | या | सा | मदीये | मते |
@@ -480,12 +480,12 @@ One (Panna Dhai) offers her own child with her hands as if offering a lamp and a
 तस्मात् सद् गजगेहिनी बलिविधि र्नव्यश्च भव्योऽधिकः |<br/>
 तत् साम्बापद माधरद् गिरिजया सत्रै कदोलाऽलया ||<br/>
 एवं यद् बलिदान मूलक मभूत् प्राग् गाणपं शासनम् |<br/>
-तद्वत् स्वोच्चबलि प्रदान बहुलं स्याद् भारतभ्राजकम् ||
+तद्वत् स्वोच्चबलि प्रदान बहुलं स्याद् भारतभ्राजकम् || १४ ||
 
 Tasmāt sad gajagehinī balividhi rnavyaśca bhavyo'dhikaḥ |<br/>
 Tat sāmbāpada mādharad girijayā satrai kadolā'layā ||<br/>
 Evaṃ yad balidāna mūlaka mabhūt prāg gāṇapaṃ śāsanam |<br/>
-Tadvat svoccabali pradāna bahulaṃ syād bhāratabhrājakam ||
+Tadvat svoccabali pradāna bahulaṃ syād bhāratabhrājakam || 14 ||
 
 ### पदच्छेदम् (Padacchedam):
 तस्मात् | सत्-गज-गेहिनी-बलि-विधिः | नव्यः | च | भव्यः | अधिकः | तत् | सा | अम्बा-पदम् | आधारत् | गिरिजया | सत्रा | एक-दोला-अलया | एवं | यत् | बलिदान-मूलकम् | अभूत् | प्राक् | गाणपम् | शासनम् | तद्वत् | स्व-उच्च-बलि-प्रदान-बहुळम् | स्यात् | भारत-भ्राजकम् |

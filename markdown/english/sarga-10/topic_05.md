@@ -6,11 +6,11 @@ The design of the Indian National Flag, the comparison of Mahatma Gandhi to Gadh
 शीर्षे राजति यच्छरीरसदृशी भा पाटलापुष्पवत् |<br/>
 दूर्वावर्णमिवासनां च हरितं मन्ये सुखायस्तृतम् ||<br/>
 हृत्सत्यं प्रकटीकरोति च निजं यन्मध्यभागः सितः |<br/>
-जीयादेष गणेशवत् श्रवणयुङ्मासप्रकाशो ध्वजः ||<br/>
+जीयादेष गणेशवत् श्रवणयुङ्मासप्रकाशो ध्वजः || ५० ||<br/>
 śīrṣe rājati yaccharīrasadṛśī bhā pāṭalāpuṣpavat |<br/>
 dūrvāvarṇamivāsanāṃ ca haritaṃ manye sukhāyastṛtam ||<br/>
 hṛtsatyaṃ prakaṭīkaroti ca nijaṃ yanmadhyabhāgaḥ sitaḥ |<br/>
-jīyādeṣa gaṇeśavat śravaṇayuṅmāsaprakāśo dhvajaḥ ||
+jīyādeṣa gaṇeśavat śravaṇayuṅmāsaprakāśo dhvajaḥ || 50 ||
 
 ### पदच्छेदम् (Padacchedam):
 शीर्षे | राजति | यत्-शरीर-सदृशी | भा | पाटला-पुष्पवत् | दूर्वा-वर्णम् | इव | आसनम् | च | हरितम् | मन्ये | सुखाय | आस्तृतम् | हृत् | सत्यम् | प्रकटीकरोति | च | निजम् | यत्-मध्य-भागः | सितः | जीयात् | एषः | गणेशवत् | श्रवण-युक्-मास-प्रकाशः | ध्वजः |
@@ -35,11 +35,11 @@ The flag, whose upper portion shines with a radiance resembling a pink flower (s
 स श्रावणोऽपि पुरुषोत्तम संज्ञ उक्तः |<br/>
 लोके द्वितीय पदतोऽपिच यः प्रसिद्धः ||<br/>
 एनं स्तुवन्ति सततं पुरुषोत्तमा ये |<br/>
-स्वातंत्र्यसौख्यमुखदर्शनदानदक्षम् ||<br/>
+स्वातंत्र्यसौख्यमुखदर्शनदानदक्षम् || ५१ ||<br/>
 sa śrāvaṇo'pi puruṣottama saṃjña uktaḥ |<br/>
 loke dvitīya padato'pica yaḥ prasiddhaḥ ||<br/>
 enaṃ stuvanti satataṃ puruṣottamā ye |<br/>
-svātantryasaukhyamukhadarśanadānadakṣam ||
+svātantryasaukhyamukhadarśanadānadakṣam || 51 ||
 
 ### पदच्छेदम् (Padacchedam):
 सः | श्रावणः | अपि | पुरुषोत्तम-संज्ञः | उक्तः | लोके | द्वितीय-पदतः | अपि | च | यः | प्रसिद्धः | एनम् | स्तुवन्ति | सततम् | पुरुषोत्तमाः | ये | स्वातंत्र्य-सौख्य-मुख-दर्शन-दान-दक्षम् |
@@ -60,11 +60,11 @@ That month of Shravana, in which the flag manifested, is also known as 'Purushot
 यस्माद् द्वितीयजनिमान् गणपः प्रसिद्धः |<br/>
 एतद् द्वितीय जनिवद् गणशासनं नः ||<br/>
 तन्निश्चयेन वयमद्य वदाम राष्ट्र-<br/>
-प्रोच्छध्वजं गणपतिप्रतिमं चरित्रैः ||<br/>
+प्रोच्छध्वजं गणपतिप्रतिमं चरित्रैः || ५२ ||<br/>
 yasmād dvitīyajanimān gaṇapaḥ prasiddhaḥ |<br/>
 etad dvitīya janivad gaṇaśāsanaṃ naḥ ||<br/>
 tanniścayena vayamadya vadāma rāṣṭra-<br/>
-procchadhvajaṃ gaṇapatipratimaṃ caritraiḥ ||
+procchadhvajaṃ gaṇapatipratimaṃ caritraiḥ || 52 ||
 
 ### पदच्छेदम् (Padacchedam):
 यस्मात् | द्वितीय-जनिमान् | गणपः | प्रसिद्धः | एतत् | द्वितीय-जनिवत् | गण-शासनम् | नः | तत्-निश्चयेन | वयम् | अद्य | वदाम | राष्ट्र-प्रोच्छ-ध्वजम् | गणपति-प्रतिमम् | चरित्रैः |
@@ -86,11 +86,11 @@ It is well known that Lord Ganesha has two births; similarly, the establishment 
 लिख्येत यंत्र रचना 'शरचन्द्र संज्ञा' |<br/>
 गांधीति वर्ण युगतोऽपिच योजिता चेत् ||<br/>
 व्यञ्जीत साऽस्य जनिदं हह्यवेदसंज्ञम् |<br/>
-नाम्ना दिनाङ्कः मपि मासकमष्टकाङ्कात् ||<br/>
+नाम्ना दिनाङ्कः मपि मासकमष्टकाङ्कात् || ५३ ||<br/>
 likhyeta yantra racanā 'śaracandra saṃjñā' |<br/>
 gāṃdhīti varṇa yugato'pica yojitā cet ||<br/>
 vyañjīta sā'sya janidaṃ hahyavedasaṃjñam |<br/>
-nāmnā dināṅkaḥ mapi māsakamaṣṭakāṅkāt ||
+nāmnā dināṅkaḥ mapi māsakamaṣṭakāṅkāt || 53 ||
 
 ### पदच्छेदम् (Padacchedam):
 लिख्येत | यंत्र-रचना | 'शर-चन्द्र-संज्ञा' | गांधी | इति | वर्ण-युगतः | अपि | च | योजिता | चेत् | व्यञ्जीत | सा | अस्य | जनि-दम् | हह्य-वेद-संज्ञम् | नाम्ना | दिनाङ्कः | अपि | मासकम् | अष्टक-अङ्कात् |
@@ -112,12 +112,12 @@ If a magic square of 15 ('Shara' = 5, 'Chandra' = 1) is written on this flag, an
 मन्ये ध्वजाः कतिपयेऽत्र पुरा प्रकाशं |<br/>
 प्रापु र्हलेन कपिना वृषभेण वापि ||<br/>
 राष्ट्रध्वजेति विरुदं त्वयमेव धत्तेऽ-<br/>
-व्याघ्रातकीर्तिकुसुमस्त्रजमद्वितीयाम् ||
+व्याघ्रातकीर्तिकुसुमस्त्रजमद्वितीयाम् || ५४ ||
 
 Manye dhvajāḥ katipaye’tra purā prakāśaṃ |<br/>
 prāpu rhalena kapinā vṛṣabheṇa vāpi ||<br/>
 rāṣṭradhvajeti virudaṃ tvayameva dhatte’-<br/>
-vyāghrātakīrtikusumasrajamadvitīyām ||
+vyāghrātakīrtikusumasrajamadvitīyām || 54 ||
 
 ### पदच्छेदम् (Padacchedam):
 मन्ये | ध्वजाः | कतिपये | अत्र | पुरा | प्रकाशम् | प्रापुः | हलेन | कपिना | वृषभेण | वापि | राष्ट्र-ध्वज-इति | विरुदम् | तु | अयम् | एव | धत्ते | अव्याघ्रात-कीर्ति-कुसुम-स्रजम् | अद्वितीयाम् |
@@ -143,12 +143,12 @@ I acknowledge that in our India, many flags such as the plow-flag, the monkey-fl
 पाश्चात्यदुर्णयतरुः कटुदासताख्यः |<br/>
 यः कालकूटवपुरत्र चिराद् दृढोऽभूत् ||<br/>
 तच्छेदनप्रवणधारममोघशक्तिं |<br/>
-हिंसात्मकं रचयति स्म भवान् अ-पूर्वम् ||
+हिंसात्मकं रचयति स्म भवान् अ-पूर्वम् || ५५ ||
 
 Pāścātyadurnayataruḥ kaṭudāsatākhyaḥ |<br/>
 yaḥ kālakūṭavapuratra cirād dṛḍho’bhūt ||<br/>
 tacchedanapravaṇadhāramamoghaśaktiṃ |<br/>
-hiṃsātmakaṃ racayati sma bhavān a-pūrvam ||
+hiṃsātmakaṃ racayati sma bhavān a-pūrvam || 55 ||
 
 ### पदच्छेदम् (Padacchedam):
 पाश्चात्य-दुर्णय-तरुः | कटु-दासता-आख्यः | यः | कालकूट-वपुः | अत्र | चिरात् | दृढः | अभूत् | तत्-छेदन-प्रवण-धारम् | अमोघ-शक्तिम् | हिंसात्मकम् | रचयति स्म | भवान् | अ-पूर्वम् |
@@ -176,12 +176,12 @@ In this land, the tree of Western deceitful policy, which had the form of the de
 यस्यात्मजो नवजगद् रचयाञ्चकार |<br/>
 प्राऽतिष्ठिपद् वियति तं नृपतिं त्रिशङ्कुम् ||<br/>
 आयाद् ऋषि र्मनसि पुत्रयशो दिदृक्षुः |<br/>
-मन्येऽनुनासिकधरः पुनरत्र गाधिः ||
+मन्येऽनुनासिकधरः पुनरत्र गाधिः || ५६ ||
 
 Yasyātmajo navajagad racayāñcakāra |<br/>
 prā’tiṣṭhipad viyati taṃ nṛpatiṃ triśaṅkum ||<br/>
 āyād ṛṣi rmanasi putrayaśo didṛkṣuḥ |<br/>
-manye’nunāsikadharaḥ punaratra gādhiḥ ||
+manye’nunāsikadharaḥ punaratra gādhiḥ || 56 ||
 
 ### पदच्छेदम् (Padacchedam):
 यस्य | आत्मजः | नव-जगत् | रचयाञ्चकार | प्र-अतिष्ठिपत् | वियति | तम् | नृपतिम् | त्रिशङ्कुम् | आयात् | ऋषिः | मनसि | पुत्र-यशः | दिदृक्षुः | मन्ये | अनुनासिक-धरः | पुनः | अत्र | गाधिः |
@@ -206,12 +206,12 @@ Vishvamitra, the son of Sage Gadhi, created a new world and established King Tri
 नूतनं जगत् यदभवत् सकलप्रबन्धे |<br/>
 जात स्त्रिंशङ्कुसदृशोऽपि च भारतारिः ||<br/>
 तद् गाधि-रूप मघुना कथयामि गान्धीम् |<br/>
-श्रीराघवेन्द्र शुभनाम रसेष्वगाधम् ||
+श्रीराघवेन्द्र शुभनाम रसेष्वगाधम् || ५७ ||
 
 Nūtanaṃ jagat yadabhavat sakalaprabandhe |<br/>
 jāta striśaṅkusadṛśo’pi ca bhāratāriḥ ||<br/>
 tad gādhi-rūpa madhunā kathayāmi gāndhīm |<br/>
-śrīrāghavendra śubhanāma raseṣvagādham ||
+śrīrāghavendra śubhanāma raseṣvagādham || 57 ||
 
 ### पदच्छेदम् (Padacchedam):
 नूतनम् | जगत् | यत् | अभवत् | सकल-प्रबन्धे | जातः | त्रिशङ्कु-सदृशः | अपि | च | भारत-अरिः | तत् | गाधि-रूपम् | अधुना | कथयामि | गान्धीम् | श्री-राघवेन्द्र-शुभ-नाम-रसेषु | अगाधम् |
@@ -232,11 +232,11 @@ A new world has emerged in all worldly affairs, and the enemies of India have be
 यत्स्पर्शेन पुरातनं वपुरधात् ग्राहो गजेन्द्रोऽपि सः |<br/>
 तच्चक्रप्रतिबिम्बितं पुनरिदं स्पृष्टं द्विरक्षाव्रतम् ||<br/>
 गौरा लन्दनमव्रजन् वयमिमे देशे स्वकीयेऽधिपाः |<br/>
-विष्णो श्चक्रसमक्रमेण लसितं श्रीगान्धिचक्रं स्तुमः ||<br/>
+विष्णो श्चक्रसमक्रमेण लसितं श्रीगान्धिचक्रं स्तुमः || ५८ ||<br/>
 yatsparśena purātanaṃ vapuradhāt grāho gajendro'pi saḥ |<br/>
 taccakrapratibimbitaṃ punaridaṃ spṛṣṭaṃ dvirakṣāvratam ||<br/>
 gaurā landanamavrajan vayamime deśe svakīye'dhipāḥ |<br/>
-viṣṇo ścakrasamakrameṇa lasitaṃ śrīgāndhicakraṃ stumaḥ ||
+viṣṇo ścakrasamakrameṇa lasitaṃ śrīgāndhicakraṃ stumaḥ || 58 ||
 
 ### पदच्छेदम् (Padacchedam):
 यत्-स्पर्शेन | पुरातनम् | वपुः | अधात् | ग्राहः | गजेन्द्रः | अपि | सः | तत्-चक्र-प्रतिबिम्बितम् | पुनः | इदम् | स्पृष्टम् | द्वि-रक्षा-व्रतम् | गौराः | लन्दनम् | अव्रजन् | वयम् | इमे | देशे | स्वकीये | अधिपाः | विष्णोः | चक्र-सम-क्रमेण | लसितम् | श्री-गान्धि-चक्रम् | स्तुमः |
@@ -262,11 +262,11 @@ By the touch of Lord Vishnu’s Sudarshana Chakra, both the crocodile and the el
 एकेनैव जहार पाण्डवसखश्चक्रेण चेदीपतेः- |<br/>
 प्राणान् भीष्मरणे दधार च रथस्यैवैका चक्रं हरिः ||<br/>
 एकं चक्र मनाश्रयेऽपि गगने सौरे रथे विश्रुतम् |<br/>
-एकं राष्ट्रपितृप्रकाशितवपुश्चर्खाख्यचक्रं स्तुमः ||<br/>
+एकं राष्ट्रपितृप्रकाशितवपुश्चर्खाख्यचक्रं स्तुमः || ५९ ||<br/>
 ekenaiva jahāra pāṇḍavasakhaścakreṇa cedīpateḥ- |<br/>
 prāṇān bhīṣmaraṇe dadhāra ca rathasyaivaikā cakraṃ hariḥ ||<br/>
 ekaṃ cakra manāśraye'pi gagane saure rathe viśrutam |<br/>
-ekaṃ rāṣṭrapitṛprakāśitavapuścarkhākhyacakraṃ stumaḥ ||
+ekaṃ rāṣṭrapitṛprakāśitavapuścarkhākhyacakraṃ stumaḥ || 59 ||
 
 ### पदच्छेदम् (Padacchedam):
 एकेन | एव | जहार | पाण्डव-सखः | चक्रेण | चेदीपतेः | प्राणान् | भीष्म-रणे | दधार | च | रथस्य | एव | एक-चक्रम् | हरिः | एकम् | चक्रम् | अनाश्रये | अपि | गगने | सौरे | रथे | विश्रुतम् | एकम् | राष्ट्रपितृ-प्रकाशित-वपुः | चर्खा-आख्य-चक्रम् | स्तुमः |
@@ -290,11 +290,11 @@ Sri Krishna, the friend of the Pandavas, destroyed the Chedi King Shishupala wit
 देहे चक्रकदम्बके विहरते योगागमज्ञो जनः |<br/>
 चक्राह्वावपि पक्षिणौ द्विकतया ख्यातौ वभूताम्भवे ||<br/>
 गन्त्री चक्रयुगेन गच्छति सदा किन्त्वेकचक्राङ्कितः |<br/>
-चक्राऽवर्तकरोद्य भारतपिताऽभूच्चक्रवर्तीनवः ||<br/>
+चक्राऽवर्तकरोद्य भारतपिताऽभूच्चक्रवर्तीनवः || ६० ||<br/>
 dehe cakrakadambake viharate yogāgamajño janaḥ |<br/>
 cakrāhvāvapi pakṣiṇau dvikatayā khyātau vabhūtāmbhave ||<br/>
 gantrī cakrayugena gacchati sadā kintvekacakrāṅkitaḥ |<br/>
-cakrā'vartakarodya bhāratapitā'bhūccakravartīnavaḥ ||
+cakrā'vartakarodya bhāratapitā'bhūccakravartīnavaḥ || 60 ||
 
 ### पदच्छेदम् (Padacchedam):
 देहे | चक्र-कदम्बके | विहरते | योग-आगम-ज्ञः | जनः | चक्र-आह्वौ | अपि | पक्षिणौ | द्विकतया | ख्यातौ | बभूताम् | भवे | गन्त्री | चक्र-युगेन | गच्छति | सदा | किन्तु | एक-चक्र-अङ्कितः | चक्र-आवर्तकरः | अद्य | भारत-पिता | अभूत् | चक्रवर्ती | नवः |

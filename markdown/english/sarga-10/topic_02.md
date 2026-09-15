@@ -6,12 +6,12 @@ The autobiography of the author, Pandit Prabhudatta Shastri, including the histo
 याऽस्पृश्योद्धृतिकृत् कथा प्रचलिता स्वल्पीयसोऽनेहसः |<br/>
 सा तातारपुरस्थदेव युगतः सङ्केतिता सक्रियम् ||<br/>
 नैरृत्यां दिशि राजतेऽति सरलं गोपालकद्वारकम् |<br/>
-प्रात र्यनिजदुन्दुभि ध्वनयते जागतये वासिनाम् ||<br/>
+प्रात र्यनिजदुन्दुभि ध्वनयते जागतये वासिनाम् || १३ ||<br/>
 
 Yā'spṛśyoddhṛtikṛt kathā pracalitā svalpīyaso'nehasaḥ |<br/>
 Sā tātārapurasthadeva yugataḥ saṅketitā sakriyam ||<br/>
 Nairṛtyāṃ diśi rājate'ti saralaṃ gōpālakadvārakam |<br/>
-Prāta ryanijadundubhi dhvanayatē jāgartayē vāsinām ||
+Prāta ryanijadundubhi dhvanayatē jāgartayē vāsinām || 13 ||
 
 ### पदच्छेदम् (Padacchedam):
 या | अस्पृश्य-उद्धृति-कृत् | कथा | प्रचलिता | स्वल्पीयसः | अनेहसः | सा | तातारपुर-स्थ-देव-युगतः | सङ्केतिता | सक्रियम् | नैरृत्याम् | दिशि | राजते | अति-सरलम् | गोपालक-द्वारकम | प्रातः | यत् | निज-दुन्दुभिम् | ध्वनयते | जागतये | वासिनाम् |
@@ -36,12 +36,12 @@ The movement for the removal of untouchability (Harijan upliftment) has gained p
 तस्मिन्नत्र ततारपूर्वपुरे मिश्रान्वयः पश्चिमे |<br/>
 विद्यावित्ततपः कृपादिगुणै र्यो मिश्रितो विश्रुतः ||<br/>
 नीरक्षीरविवेकहंसपदवीं यस्मै ददे शारदा |<br/>
-यस्याप्युक्ति रभूज्जगज्जनकृते नौका यथा पारदा ||<br/>
+यस्याप्युक्ति रभूज्जगज्जनकृते नौका यथा पारदा || १४ ||<br/>
 
 Tasminnatra tatārapūrvakapurē miśrānvayaḥ paścimē |<br/>
 Vidyāvittatapaḥ kṛpādiguṇai ryo miśritō viśrutaḥ ||<br/>
 Nīrakṣīravivēkahamsapadavīṃ yasmai dadē śāradā |<br/>
-Yasyāpyukti rabhūjjagajjanakṛtē naukā yathā pāradā ||
+Yasyāpyukti rabhūjjagajjanakṛtē naukā yathā pāradā || 14 ||
 
 ### पदच्छेदम् (Padacchedam):
 तस्मिन् | अत्र | ततार-पूर्वक-पुरे | मिश्र-अन्वयः | पश्चिमे | विद्या-वित्त-तपः-कृपा-आदि-सुगुणैः | यः | मिश्रितः | विश्रुतः | नीर-क्षीर-विवेक-हंस-पदवीम् | यस्मै | ददे | शारदा | यस्य | अपि | उक्तिः | अभूत् | जगत्-जन-कृते | नौका | यथा | पार-दा |
@@ -66,12 +66,12 @@ In the western part of this Tatar-pur village live the descendants of the Mishra
 शालिग्राम पदाभिधो बुधमणि र्दध्रेऽधियत् स्वं जनुः |<br/>
 विद्याख्या तुलसी यदीयवपुषः शोभां सदावीवृधत् ||<br/>
 सोऽयं मे प्रपितामहो गुणगणै र्गण्यः सदाग्रे सताम् |<br/>
-गार्हस्थ्येऽपि निवासवान् व्रतशतै जिग्ये तपस्याधरान् ||<br/>
+गार्हस्थ्येऽपि निवासवान् व्रतशतै जिग्ये तपस्याधरान् || १५ ||<br/>
 
 Śālīgrāma padābhidhō budhamaṇi rdadhrē'dhiyat svaṃ januḥ |<br/>
 Vidyākhyā tulasī yadīyavapuṣaḥ śōbhāṃ sadāvīvṛdhat ||<br/>
 Sō'yaṃ mē prapitāmahō guṇagaṇai rgaṇyaḥ sadāgrē satām |<br/>
-Gārhasthyē'pi nivāsavān vrataśatai jigyē tapasyādharān ||
+Gārhasthyē'pi nivāsavān vrataśatai jigyē tapasyādharān || 15 ||
 
 ### पदच्छेदम् (Padacchedam):
 शालिग्राम-पदाभिधः | बुध-मणिः | दध्रे | अधियत् | स्वम् | जनुः | विद्या-आख्या | तुलसी | यदीय-वपुषः | शोभाम् | सदा | अवीवृधत् | सः | अयम् | मे | प्रपितामहः | गुण-गणैः | गण्यः | सदा | अग्रे | सताम् | गार्हस्थ्ये | अपि | निवासवान् | व्रत-शतैः | जिग्ये | तपस्या-धरान् |
@@ -96,12 +96,12 @@ In that lineage was born a scholar named 'Shaligram,' a jewel among the wise. Ju
 यद् हस्तै र्लिखिताश्चमत्कृतिकरा ग्रन्था महान्तोऽद्य मे |<br/>
 श्रीमद् भागवतादयोऽपि बहव स्तत्तत् सुटीकान्विताः ||<br/>
 यद् हस्ताक्षरमौक्तिकै र्विलसितं वाल्मीकि रामायणम् |<br/>
-वाल्मीक्यक्षर सुस्मृतिं रचयते गेहे बिनाप्याश्रमम् ||<br/>
+वाल्मीक्यक्षर सुस्मृतिं रचयते गेहे बिनाप्याश्रमम् || १६ ||<br/>
 
 Yad hastai rlikhitāścamatkṛtikarā granthā mahāntō'dya mē |<br/>
 Śrīmad bhāgavatādayō'pi bahava stattatsuṭīkānvitāḥ ||<br/>
 Yad hastākṣaramauktikai rvilasitaṃ vālmīki rāmāyaṇam |<br/>
-Vālmīkyakṣara susmṛtiṃ racayatē gēhē bināpyāśramam ||
+Vālmīkyakṣara susmṛtiṃ racayatē gēhē bināpyāśramam || 16 ||
 
 ### पदच्छेदम् (Padacchedam):
 यत्-हस्तैः | लिखिताः | चमत्कार-कराः | ग्रन्थाः | महान्तः | अद्य | मे | श्रीमत्-भागवत-आदयः | अपि | बहवः | तत्तत्-सुटीका-अन्विताः | यत्-हस्त-अक्षर-मौक्तिकैः | विलसितम् | वाल्मीकि-रामायणम् | वाल्मीकि-अक्षर-सुस्मृतिम् | रचयते | गेहे | विना | अपि | आश्रमम् |
@@ -127,12 +127,12 @@ The great texts, such as the Shrimad Bhagavata, written by his own hands and acc
 आस्तामस्य सहायकौ कुशलवौ अन्येऽपि शिष्याश्च वा | <br/>
 निःशिष्याश्रयमेष एव कृतवानप्रश्रयं स्वश्रमम् || <br/>
 तस्याऽऽसीत् कदलीदलेन सदृशी तालस्य पत्रावली | <br/>
-स्थूलं कर्गलमेषकस्तु धृतवाँस्तस्मिन् युगे दुर्लभम् || <br/>
+स्थूलं कर्गलमेषकस्तु धृतवाँस्तस्मिन् युगे दुर्लभम् || १७ ||<br/>
 
 Āstāmasya sahāyakau kuśalavau anye'pi śiṣyāśca vā | <br/>
 Niḥśiṣyāśrayameṣa eva kṛtavānapraśrayaṃ svaśramam || <br/>
 Tasyā'sīt kadalīdalena sadṛśī tālasya patrāvalī | <br/>
-Sthūlaṃ kargalameṣakastu dhṛtavāṃstasmin yuge durlabham || <br/>
+Sthūlaṃ kargalameṣakastu dhṛtavāṃstasmin yuge durlabham || 17 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 आस्ताम् | अस्य | सहायकौ | कुशलवौ | अन्ये | अपि | शिष्याः | च | वा | निःशिष्याश्रयम् | एषः | एव | कृतवान् | अप्रश्रयम् | स्वश्रमम् | तस्य | आसीत् | कदलीदलेन | सदृशी | तालस्य | पत्रावली | स्थूलम् | कर्गलम् | एषकः | तु | धृतवान् | तस्मिन् | युगे | दुर्लभम् |
@@ -158,12 +158,12 @@ Maharshi Valmiki had the assistance of Kusha, Lava, and other disciples in the c
 स्वर्यातोऽपि स पूर्णिमाख्यदिवसे संपूर्य लोकक्रियाः | <br/>
 यस्मिन् सत्यपदादिमश्च भगवान् नारायणः पूज्यते || <br/>
 पूर्णो यत्र शशी करोत्यतिथि सत्कारं द्विजानां सताम् | <br/>
-पूर्णात् पूर्णमिति ब्रुवन् मिलितवान् पूर्णे परब्रह्मणि || <br/>
+पूर्णात् पूर्णमिति ब्रुवन् मिलितवान् पूर्णे परब्रह्मणि || १८ ||<br/>
 
 Svaryāto'pi sa pūrṇimākhyadivase saṃpūrya lokakriyāḥ | <br/>
 Yasmin satyapadādimasca bhagavān nārāyaṇaḥ pūjyate || <br/>
 Pūrṇo yatra śaśī karotyatithi satkāraṃ dvijānāṃ satām | <br/>
-Pūrṇāt pūrṇamiti bruvan militavān pūrṇe parabrahmaṇi || <br/>
+Pūrṇāt pūrṇamiti bruvan militavān pūrṇe parabrahmaṇi || 18 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 स्वर्यातः | अपि | सः | पूर्णिमा-आख्य-दिवसे | संपूर्य | लोक-क्रियाः | यस्मिन् | सत्य-पद-आदिमः | च | भगवान् | नारायणः | पूज्यते | पूर्णः | यत्र | शशी | करोति | अतिथि-सत्कारम् | द्विजानाम् | सताम् | पूर्णात् | पूर्णम् | इति | ब्रुवन् | मिलितवान् | पूर्णे | पर-ब्रह्मणि |
@@ -188,12 +188,12 @@ Having fulfilled all his worldly obligations, he departed to the heavenly realm 
 तस्माद् 'रामप्रताप' इत्यभिहितो ज्येष्ठः सुतः प्रोदभूत् | <br/>
 श्रीरामस्य पदारविन्दयुगलप्रेमप्रतापार्चकः || <br/>
 आयुर्वेद रसोऽप्यशुल्कपथतः सद् वित्तवित्तः परम् | <br/>
-आसीन्मे स पितामहोऽनुजयुगेवात्सल्यबुद्धि श्च यः || <br/>
+आसीन्मे स पितामहोऽनुजयुगेवात्सल्यबुद्धि श्च यः || १९ ||<br/>
 
 Tasmād 'rāmapratāpa' ityabhihito jyeṣṭhaḥ sutaḥ prodabhūt | <br/>
 Śrīrāmasya padāravindayugalapremapratāpārcakaḥ || <br/>
 Āyurveda raso'pyaśulkapathataḥ sad vittavittaḥ param | <br/>
-Āsīnme sa pitāmaho'nujayugevātsalyabuddhi śca yaḥ || <br/>
+Āsīnme sa pitāmaho'nujayugevātsalyabuddhi śca yaḥ || 19 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 तस्मात् | 'रामप्रतापः' | इति | अभिहितः | ज्येष्ठः | सुतः | प्र-उदभूत् | श्रीरामस्य | पद-अरविन्द-युगल-प्रेम-प्रताप-अर्चकः | आयुर्वेद-रसः | अपि | अशुल्क-पथतः | सद्-वित्त-वित्तः | परम् | आसीत् | मे | सः | पितामहः | अनुज-युगे | वात्सल्य-बुद्धिः | च | यः |
@@ -219,12 +219,12 @@ From Shaligram Mishra was born his eldest son, known as 'Ramapratap'. He was a d
 प्रोजर्जन्नैजतपः प्रकाशमहसां स्तम्भः पुरे स्थापितः | <br/>
 'लट्टू' मिश्रपदं ददे च जनता यस्मै प्रसन्नानना || <br/>
 नैतत्सम्मति मन्तरा पुरजनोऽकार्षीत् स्वकं निर्णयम् | <br/>
-एतेनैव विनिर्मितं च भवनं यत्तत् पुरे राजते || <br/>
+एतेनैव विनिर्मितं च भवनं यत्तत् पुरे राजते || २० ||<br/>
 
 Prorjannaijatapaḥ prakāśamahasāṃ stambhaḥ pure sthāpitaḥ | <br/>
 'Laṭṭū' miśrapadaṃ dade ca janatā yasmai prasannānanā || <br/>
 Naitatsammati mantarā purajano'kārṣīt svakaṃ nirṇayam | <br/>
-Etenaiva vinirmitaṃ ca bhavanaṃ yattat pure rājate || <br/>
+Etenaiva vinirmitaṃ ca bhavanaṃ yattat pure rājate || 20 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 प्रोजर्जत्-नैज-तपः-प्रकाश-महसाम् | स्तम्भः | पुरे | स्थापितः | 'लट्टू' | मिश्र-पदम् | ददे | च | जनता | यस्मै | प्रसन्न-आनना | न-एतत्-सम्मतिम् | अन्तरा | पुरजनः | अकार्षीत् | स्वकम् | निर्णयम् | एतेन | एव | विनिर्मितम् | च | भवनम् | यत् | तत् | पुरे | राजते |
@@ -251,12 +251,12 @@ He established a pillar of glory in the city, radiating the light of his own flo
 तेषां मध्यमबन्धुजोऽति सरलः श्रीदेवकीनन्दनः |<br/>
 यो मत्पाठनकर्म-शर्म-शतदः सर्वत्र सत्राप्ययात् ||<br/>
 एतेषां लघुबन्धुजो मृतिमितो हा! वासुदेवाभिधः |<br/>
-पितृव्योऽपि भवन सखापि च भवन जातः सतीर्थेपि मे ||
+पितृव्योऽपि भवन सखापि च भवन जातः सतीर्थेपि मे || २१ ||
 
 Teṣāṃ madhyamabandhujo'ti saralaḥ śrīdevakīnandanaḥ |<br/>
 Yo matpāṭhanakarma-śarma-śatadaḥ sarvatra satrāpyayāt ||<br/>
 Eteṣāṃ laghubandhujo mṛtimito hā! vāsudevābhidhaḥ |<br/>
-Pitṛvyo'pi bhavan sakhāpi ca bhavan jātaḥ satīrthepi me ||
+Pitṛvyo'pi bhavan sakhāpi ca bhavan jātaḥ satīrthepi me || 21 ||
 
 ### पदच्छेदम् (Padacchedam):
 तेषाम् | मध्यम-बन्धुजः | अति-सरलः | श्री-देवकीनन्दनः | यः | मत्-पाठन-कर्म-शर्म-शतदः | सर्वत्र | सत्रा | अपि | अयात् | एतेषाम् | लघु-बन्धुजः | मृतिम् | इतः | हा! | वासुदेवाभिधः | पितृव्यः | अपि | भवन | सखा | अपि | च | भवन | जातः | सतीर्थः | अपि | मे |
@@ -285,12 +285,12 @@ Shri Devakinandana, the son of the middle brother of the Ramapratapa Mishra fami
 रामाद्यः शरणाभिधो मम पिता रामप्रतापादभूत् |<br/>
 तत्कालीनजनव्रजस्तुतिमितः संख्ये च सख्ये तथा ||<br/>
 मां स स्व द्विकहायमं शिशुतमं मुक्त्वा गतो यौवने |<br/>
-यस्य स्वच्छ गुणावली रसमयी मत्कर्णयोश्चुम्बिनी ||
+यस्य स्वच्छ गुणावली रसमयी मत्कर्णयोश्चुम्बिनी || २२ ||
 
 Rāmādyaḥ śaraṇābhidho mama pitā rāmapratāpādabhūt |<br/>
 Tat-kālīnajana-vrajastutimitaḥ saṅkhye ca sakhye tathā ||<br/>
 Māṃ sa sva dvikahāyaman śiśutamaṃ muktvā gato yauvane |<br/>
-Yasya svaccha guṇāvalī rasamayī matkarṇayoścumbinī ||
+Yasya svaccha guṇāvalī rasamayī matkarṇayoścumbinī || 22 ||
 
 ### पदच्छेदम् (Padacchedam):
 राम-आद्यः | शरण-अभिधः | मम | पिता | रामप्रतापात् | अभूत् | तत्-कालीन-जन-व्रज-स्तुतिम् | इतः | संख्ये | च | सख्ये | तथा | माम् | सः | स्व-द्विक-हायमम् | शिशुतमम् | मुक्त्वा | गतः | यौवने | यस्य | स्वच्छ-गुण-आवली | रसमयी | मत्-कर्णयोः | चुम्बिनी |
@@ -319,12 +319,12 @@ My father, named 'Ramasharan' (beginning with the name Rama), was born to Ramapr
 नामान्वर्थमयं चकार मनसा त्यक्त्वा मया मोहिताम् |<br/>
 दुःखाब्धौ च निमज्य नैजदयितां दीनां च मन्मातरम् ||<br/>
 पितृप्राप्तसमादरान् बहुविधं दृष्ट्वा परान् बालकान् |<br/>
-तद् वात्सल्यसुखं दुधाव च मनो रुद्धं च शुद्धं च मे ||
+तद् वात्सल्यसुखं दुधाव च मनो रुद्धं च शुद्धं च मे || २३ ||
 
 Nāmānvarthamayaṃ cakāra manasā tyaktvā mayā mohitām |<br/>
 Duḥkhābdhau ca nimajya naijadayitāṃ dīnāṃ ca manmātaram ||<br/>
 Pitṛprāptasamādarān bahuvidhaṃ dṛṣṭvā parān bālakān |<br/>
-Tad vātsalyasukhaṃ dudhāva ca mano ruddhaṃ ca śuddhaṃ ca me ||
+Tad vātsalyasukhaṃ dudhāva ca mano ruddhaṃ ca śuddhaṃ ca me || 23 ||
 
 ### पदच्छेदम् (Padacchedam):
 नाम-अन्वर्थमयम् | चकार | मनसा | त्यक्त्वा | मया | मोहिताम् | दुःख-अब्धौ | च | निमज्य | नैज-दयिताम् | दीनाम् | च | मत्-मातरम् | पितृ-प्राप्त-समादरान् | बहुविधम् | दृष्ट्वा | परान् | बालकान् | तत्-वात्सल्य-सुखम् | दुधाव | च | मनः | रुद्धम् | च | शुद्धम् | च | मे |
@@ -351,12 +351,12 @@ He plunged his own beloved and destitute wife, my mother, into an ocean of sorro
 माता मे करुणाधना कृतवती सम्पोषणं धैर्यतः |<br/>
 श्रीमान् पूज्य पितामहो धृतिधनो मच्छिक्षणे सक्षगः ||<br/>
 तेनैवास्मि विशेषतः स्वकृपयाऽध्येतुं त्वरा प्रेषितः |<br/>
-माता चापि मतं ददे हतमहामोहाङ्कुरा भाग्यतः ||
+माता चापि मतं ददे हतमहामोहाङ्कुरा भाग्यतः || २४ ||
 
 Mātā me karuṇādhanā kṛtavatī sampoṣaṇaṃ dhairyataḥ |<br/>
 Śrīmān pūjya pitāmaho dhṛtidhano macchikṣaṇe sakṣagaḥ ||<br/>
 Tenaivāsmi viśeṣataḥ svakṛpayā'dhyetuṃ tvarā preṣitaḥ |<br/>
-Mātā cāpi mataṃ dade hatamahāmohāṅkurā bhāgyataḥ ||
+Mātā cāpi mataṃ dade hatamahāmohāṅkurā bhāgyataḥ || 24 ||
 
 ### पदच्छेदम् (Padacchedam):
 माता | मे | करुणा-धना | कृतवती | सम्पोषणम् | धैर्यतः | श्रीमान् | पूज्य-पितामहः | धृति-धनः | मत्-शिक्षणे | सक्षगः | तेन | एव | अस्मि | विशेषतः | स्व-कृपया | अध्येतुम् | त्वरा | प्रेषितः | माता | च | अपि | मतम् | ददे | हत-महा-मोह-अङ्कुरा | भाग्यतः |
@@ -381,12 +381,12 @@ My mother, whose wealth was compassion, raised me with great courage. My venerab
 या मा मेक सुतं प्रपाठन धिया दूरे प्यहो प्राहिणोत् |<br/>
 मण्डावा नगरे गरेण रविते मध्ये प्रसिद्धे मरोः ||<br/>
 तस्या ईशपदेऽर्थयामि सुगतिं यस्याः क्रियाया बलात् |<br/>
-जातो द्व्यक्षरवान् घुणाक्षरविधिं कुर्वन्नितो वा ततः ||
+जातो द्व्यक्षरवान् घुणाक्षरविधिं कुर्वन्नितो वा ततः || २५ ||
 
 Yā mā meka sutaṃ prapāṭhana dhiyā dūre pyaho prāhiṇot |<br/>
 Maṇḍāvā nagare gareṇa ravite madhye prasiddhe maroḥ ||<br/>
 Tasyā īśapade'rthayāmi sugatiṃ yasyāḥ kriyāyā balāt |<br/>
-Jāto dvyakṣaravān ghuṇākṣaravidhiṃ kurvannito vā tataḥ ||
+Jāto dvyakṣaravān ghuṇākṣaravidhiṃ kurvannito vā tataḥ || 25 ||
 
 ### पदच्छेदम् (Padacchedam):
 या | माम् | एक-सुतम् | प्रपाठन-धिया | दूरे | अपि | अहो | प्राहिणोत् | मण्डावा-नगरे | गरेण | रविते | मध्ये | प्रसिद्धे | मरोः | तस्याः | ईश-पदे | अर्थयामि | सुगतिम् | यस्याः | क्रियायाः | बलात् | जातः | द्वि-अक्षरवान् | घुणाक्षर-विधिम् | कुर्वन् | इतः | वा | ततः |
@@ -415,12 +415,12 @@ Oh! I pray at the feet of the Lord that my mother may attain the highest state (
 नन्दाब्धिग्रहभूमितेऽर्क नृपतेः संवत्सरेऽपीत्वरे |<br/>
 मासे फाल्गुनकेऽर्जुनाह्वयधरे होत्युत्सवै मञ्जुले ||<br/>
 शुक्लाऽऽख्ये सुदले च पञ्चमतिथौ विप्राधिपे हस्तगे |<br/>
-देवानां च गुरोर्दिनेशवनि मिमां मायाम् विधि प्रेरितः ||
+देवानां च गुरोर्दिनेशवनि मिमां मायाम् विधि प्रेरितः || २६ ||
 
 Nandābdhigrahabhūmite'rka nṛpateḥ saṃvatsare'pītvare |<br/>
 Māse phālgunake'rjunāhvayadhare hotyutsavai mañjule ||<br/>
 Śuklā'khye sudale ca pañcamatithau viprādhipe hastage |<br/>
-Devānāṃ ca gurordineśavani mimāṃ māyām vidhi preritaḥ ||
+Devānāṃ ca gurordineśavani mimāṃ māyām vidhi preritaḥ || 26 ||
 
 ### पदच्छेदम् (Padacchedam):
 नन्द-अब्धि-ग्रह-भू-मिते | अर्क-नृपतेः | संवत्सरे | अपीत्वरे | मासे | फाल्गुनके | अर्जुन-आह्वय-धरे | होलि-उत्सवैः | मञ्जुले | शुक्ल-आख्ये | सुदले | च | पञ्चम-तिथौ | विप्र-अधिपे | हस्त-गे | देवानाम् | च | गुरोः | दिने | अवनिम् | इमाम् | आयाम् | विधि-प्रेरितः |

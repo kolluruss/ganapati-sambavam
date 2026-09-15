@@ -6,12 +6,12 @@ The benefits of having two mothers (Dvimatura), and the faults inherent in polyg
 काण्डात् काण्डमिवात्य या प्रदिशति बुद्धेः प्रियां भावनाम् |<br/>
 ग्रन्थेर्बन्धनकारितामपि च या मन्ये जनान् शिक्षते ||<br/>
 या नो मुञ्चति मातृभूमिहृदयं प्रोत्खानिता नैकशः |<br/>
-सा दूर्वापि ततोऽभवत् प्रियतमा यस्मै नमोऽस्मै सदा ||<br/>
+सा दूर्वापि ततोऽभवत् प्रियतमा यस्मै नमोऽस्मै सदा || ४१ ||<br/>
 
 kāṇḍāt kāṇḍamivātya yā pradiśati buddheḥ priyāṃ bhāvanām |<br/>
 grantherbandhanakāritāmapi ca yā manye janān śikṣate ||<br/>
 yā no muñcati mātṛbhūmihṛdayaṃ protkhānitā naikaśaḥ |<br/>
-sā dūrvāpi tato'bhavat priyatamā yasmai namo'smai sadā ||
+sā dūrvāpi tato'bhavat priyatamā yasmai namo'smai sadā || 41 ||
 
 ### पदच्छेदम् (Padacchedam):
 काण्डात् | काण्डम् | इव | एत्य | या | प्रदिशति | बुद्धेः | प्रियाम् | भावनाम् | ग्रन्थेः | बन्धनकारिताम् | अपि | च | या | मन्ये | जनान् | शिक्षते | या | नो | मुञ्चति | मातृ-भूमि-हृदयम् | प्रोत्खानिता | नैकशः | सा | दूर्वा | अपि | ततः | अभवत् | प्रियतमा | यस्मै | नमः | अस्मै | सदा |
@@ -45,12 +45,12 @@ The Durva grass, which grows from node to node, bestows the pleasant feeling of 
 मातृणां बहुता सदा हितकरी पित्र्या न, न, स्त्रीमयी-<br/>
 त्याचिन्त्यैव बभूवतुः शिवसुतौ अम्बाधिकत्वप्रियौ ||<br/>
 एकः षण्मुखशोभितस्तु कृतवान् षाण्मात्रुत्वे रुचिम् |<br/>
-यो मात्रो रुमयोर्वपुर्धर इति द्वैमात्रुरः स्तात् श्रिये ||<br/>
+यो मात्रो रुमयोर्वपुर्धर इति द्वैमात्रुरः स्तात् श्रिये || ४२ ||<br/>
 
 mātṛṇāṃ bahutā sadā hitakarī pitryā na, na, strīmayī-<br/>
 tyācintyaiva babhūvatuḥ śivasutau ambādhikatvapriyau ||<br/>
 ekaḥ ṣaṇmukhaśobhitastu kṛtavān ṣāṇmāturatve rucim |<br/>
-yo mātro rumayorvapurdhara iti dvaimāturaḥ stāt śriye ||
+yo mātro rumayorvapurdhara iti dvaimāturaḥ stāt śriye || 42 ||
 
 ### पदच्छेदम् (Padacchedam):
 मातृणाम् | बहुता | सदा | हितकरी | पित्र्या | न | न | स्त्रीमयी | इति | आचिन्त्य | एव | बभूवतुः | शिव-सुतौ | अम्बा-अधिकत्व-प्रियौ | एकः | षण्मुख-शोभितः | तु | कृतवान् | षाण्मात्रुत्वे | रुचिम् | यः | मात्रोः | उमयोः | वपुः-धरः | इति | द्वैमात्रुरः | स्तात् | श्रिये |
@@ -84,12 +84,12 @@ It is beneficial to have many mothers, but not many fathers or many wives. Refle
 रक्षाया अपरः पिता तदपि हा ! हासाय सम्पद्यते |<br/>
 नन्दोऽभूदवनाय केवलपिता कृष्णः प्रहासं गतः ||<br/>
 हंहो ! अस्य शिशो र्भवानपि पितेत्याश्रुत्य साकूततः |<br/>
-बालोऽपि त्रपतेतमामिति शिशुष्वाभीक्ष्ण्यतो दृश्यते ||<br/>
+बालोऽपि त्रपतेतमामिति शिशुष्वाभीक्ष्ण्यतो दृश्यते || ४३ ||<br/>
 
 rakṣāyā aparaḥ pitā tadapi hā ! hāsāya sampadyate |<br/>
 nando'bhūdavanāya kevalapitā kṛṣṇaḥ prahāsaṃ gataḥ ||<br/>
 haṃho ! asya śiśo rbhavānapi pitetyāśrutya sākūtataḥ |<br/>
-bālo'pi trapatetāmāmiti śiśuṣvābhīkṣṇyato dṛśyate ||
+bālo'pi trapatetāmāmiti śiśuṣvābhīkṣṇyato dṛśyate || 43 ||
 
 ### पदच्छेदम् (Padacchedam):
 रक्षायाः | अपरः | पिता | तदपि | हा | हासाय | सम्पद्यते | नन्दः | अभूत् | अवनाय | केवल-पिता | कृष्णः | प्रहासम् | गतः | हंहो | अस्य | शिशोः | भवान् | अपि | पिता | इति | आश्रुत्य | स-आकूततः | बालः | अपि | त्रपतेतमाम् | इति | शिशुषु | आभीक्ष्ण्यतः | दृश्यते |
@@ -122,12 +122,12 @@ Even if one appoints a second father for protection, it becomes a matter of ridi
 पार्थः कृष्णनिदेशतोऽप्युदवहत् तस्य स्वसारम् हरन् |<br/>
 द्रोपद्याः सविधे परन्तु हतवाक् संकोचतोऽभूदलम् ||<br/>
 मन्तु मेऽत्र न चास्ति कोऽपि दयिते ! ग्लानिं वृथा मा कृथाः |<br/>
-येन त्वं च पुराविता स यदुपो मामत्र सग्नं व्यधात् ||<br/>
+येन त्वं च पुराविता स यदुपो मामत्र सग्नं व्यधात् || ४४ ||<br/>
 
 pārthaḥ kṛṣṇanideśato'pyudavahat tasya svasāram haran |<br/>
 dropadyāḥ savidhe parantu hatavāk saṃkocato'bhūdalam ||<br/>
 mantu me'tra na cāsti ko'pi dayite ! glāniṃ vṛthā mā kṛthāḥ |<br/>
-yena tvaṃ ca purāvitā sa yadupo māmatra sagnaṃ vyadhāt ||
+yena tvaṃ ca purāvitā sa yadupo māmatra sagnaṃ vyadhāt || 44 ||
 
 ### पदच्छेदम् (Padacchedam):
 पार्थः | कृष्ण-निदेशतः | अपि | उदवहत् | तस्य | स्वसारम् | हरन् | द्रौपद्याः | सविधे | परन्तु | हतवाक् | सङ्कोचतः | अभूत् | अलम् | मन्तुः | मे | अत्र | न | च | अस्ति | कः अपि | दयिते | ग्लानिम् | वृथा | मा | कृथाः | येन | त्वम् | च | पुरा | अविता | सः | यदुपः | माम् | अत्र | लग्नम् | व्यधात् |
@@ -158,12 +158,12 @@ Arjuna abducted and married Subhadra at the command of Krishna, but in the prese
 सोचे शोच न किन्तु चिन्त्यमिदकं स्वाभावियं यद्भवे |<br/>
 शैथिल्यं मनसो नितान्तनियातं कान्ताद्वयाऽऽश्लेषतः ||<br/>
 भारस्यापि च बन्धने प्रथमजः ग्रन्थिः श्लथः श्रूयते |<br/>
-द्विग्रन्थौ न भवेत् कथं श्लथगति स्वान्तं पुनः कान्त ! ते ||
+द्विग्रन्थौ न भवेत् कथं श्लथगति स्वान्तं पुनः कान्त ! ते || ४५ ||
 
 Soche śoca na kintu cintyamidakaṃ svābhāviyaṃ yadbhave |<br/>
 śaithilyaṃ manaso nitāntaniyātaṃ kāntādvayā'śleṣataḥ ||<br/>
 bhārasyāpi ca bandhane prathamajaḥ granthiḥ ślathaḥ śrūyate |<br/>
-dvigranthau na bhavet kathaṃ ślathagati svāntaṃ punaḥ kānta ! te ||
+dvigranthau na bhavet kathaṃ ślathagati svāntaṃ punaḥ kānta ! te || 45 ||
 
 ### पदच्छेदम् (Padacchedam):
 सा | ऊचे | शोच | न | किन्तु | चिन्त्यम् | इदकम् | स्वाभावियम् | यत् | भवे | शैथिल्यम् | मनसः | नितान्त-नियतुम् | कान्ता-द्वय-आश्लेषतः | भारस्य | अपि | च | बन्धने | प्रथमजः | ग्रन्थिः | श्लथः | श्रूयते | द्विः-ग्रन्थौ | न | भवेत् | कथम् | श्लथगति | स्वान्तम् | पुनः | कान्त ! | ते |
@@ -196,12 +196,12 @@ Draupadi spoke thus: "Do not grieve, but reflect upon this natural occurrence in
 पङ्क्तिस्यन्दनभूपतेरपि न किम् ! पत्नीबहुत्वोद्भवम् |<br/>
 अद्यावध्यपि भूविभूषणसमं रामायणं श्रूयते ||<br/>
 पल्लीनां लघुकीटभक्षककृतां भित्त्येकमात्रश्रिताम् |<br/>
-स्याद्युद्धं न पुनः कथं गृहबृहद्भागश्रितां योषिताम् ||
+स्याद्युद्धं न पुनः कथं गृहबृहद्भागश्रितां योषिताम् || ४६ ||
 
 Paṅktisyandanabhūpaterapi na kim ! patnībahutvodbhavam |<br/>
 adyāvadhyapi bhūvibhūṣaṇasamaṃ rāmāyaṇaṃ śrūyate ||<br/>
 pallīnāṃ laghukīṭabhakṣakakṛtāṃ bhittyekamātraśritām |<br/>
-syādyuddhaṃ na punaḥ kathaṃ gṛhabṛhadbhāgaśritāṃ yoṣitām ||
+syādyuddhaṃ na punaḥ kathaṃ gṛhabṛhadbhāgaśritāṃ yoṣitām || 46 ||
 
 ### पदच्छेदम् (Padacchedam):
 पङ्क्तिस्यन्दन-भूपतेः | अपि | न | किम् ! | पत्नी-बहुत्व-उद्भवम् | अद्यावधि | अपि | भू-विभूषण-समम् | रामायणम् | श्रूयते | पल्लीनाम् | लघु-कीट-भक्षक-कृताम् | भित्ति-एक-मात्र-श्रिताम् | स्यात् | युद्धम् | न | पुनः | कथम् | गृह-बृहत्-भाग-श्रिताम् | योषिताम् |
@@ -230,12 +230,12 @@ Have you not heard of the Ramayana, which arose from the plurality of wives of K
 एतद्वन्नियमाश्रयैः प्रचलितं स्थैर्यं भजेत् शासनम् |<br/>
 वासोवासविलासनं कृषिविधेर्यत् स्यात् सदा साऽशनम् ||<br/>
 रोगत्रासननाशनं नवनवाविष्कार माश्वासनम् |<br/>
-पाराधीन्यपराभवं विजयते गाजाननं शासनम् ||
+पाराधीन्यपराभवं विजयते गाजाननं शासनम् || ४७ ||
 
 Etadvanniyamāśrayaiḥ pracalitaṃ sthairyaṃ bhajet śāsanam |<br/>
 vāsovāsavilāsanaṃ kṛṣividheryat syāt sadā sāśanam ||<br/>
 rogatrāsananāśanaṃ navanavāviṣkāra māśvāsanam |<br/>
-pārādhīnyaparābhavaṃ vijayate gājānanaṃ śāsanam ||
+pārādhīnyaparābhavaṃ vijayate gājānanaṃ śāsanam || 47 ||
 
 ### पदच्छेदम् (Padacchedam):
 एतद्वत् | नियम-आश्रयैः | प्रचलितम् | स्थैर्यम् | भजेत् | शासनम् | वास-आवास-विलासनम् | कृषि-विधेः | यत् | स्यात् | सदा | स-अशनम् | रोग-त्रासन-नाशनम् | नव-नव-आविष्कारम् | आश्वासनम् | पाराधीन्य-पराभवम् | विजयते | गाजाननम् | शासनम् |

@@ -6,12 +6,12 @@ Remembrance of the 12 new names of Ganapati and the greatness of Vyasa.
 मात्राज्ञा रणपः पितुश्च गणपो विद्यार्थिनां ज्ञानपः <br/>
 व्यासर्षेः पणपश्च पुण्यकणपो लेख्यस्थ यो वर्णपः ॥ <br/>
 साफल्यैः क्षणपः वपुः प्रणवपः श्रुत्यै बृहत्कर्णपः <br/>
-वीराणां व्रणपः सतां पणवपो भूयात् कृपाद्वयर्णपः ॥ <br/>
+वीराणां व्रणपः सतां पणवपो भूयात् कृपाद्वयर्णपः ॥ १ ॥<br/>
 
 mātrājñā raṇapaḥ pituśca gaṇapo vidyārthināṃ jñānapaḥ <br/>
 vyāsarṣeḥ paṇapaśca puṇyakaṇapo lekhyastha yo varṇapaḥ || <br/>
 sāphalyaiḥ kṣaṇapaḥ vapuḥ praṇavapaḥ śrutyai bṛhatkarṇapaḥ <br/>
-vīrāṇāṃ vraṇapaḥ satāṃ paṇavapo bhūyāt kṛpādvayarṇapaḥ || <br/>
+vīrāṇāṃ vraṇapaḥ satāṃ paṇavapo bhūyāt kṛpādvayarṇapaḥ || 1 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 मात्राज्ञा-रणपः | पितुः | च | गणपः | विद्यार्थिनाम् | ज्ञानपः | व्यासर्षेः | पणपः | च | पुण्यकणपः | लेख्यस्थः | यः | वर्णपः | साफल्यैः | क्षणपः | वपुः-प्रणवपः | श्रुत्यै | बृहत्कर्णपः | वीराणाम् | व्रणपः | सताम् | पणवपः | भूयात् | कृपा-द्वय-अर्णपः [possible reading: कृपा-द्वय-वर्णपः — The source text says 'कृपादद्वयर्णपः', which implies 'kṛpā-dvaya-varṇapaḥ' or 'kṛpā-dvaya-arṇapaḥ']
@@ -40,12 +40,12 @@ May that Ganapati protect us—he who obeyed his mother's command to enter the f
 यं द्वैपायन आजुहाव वितते मत्वेव लेखेश्वरम् <br/>
 शैघ्र्यस्वाच्छ्यलिखिषाकुलतया ग्रन्थे महाभारते ॥ <br/>
 द्व्यर्थश्लेषपदद्विदन्तबहुले गीर्वाणवाग्वारिधौ <br/>
-सूक्ष्माक्षः क्षयतान् मतिक्षतिततिं द्वैमातुरो द्वयाकृतिः ॥ <br/>
+सूक्ष्माक्षः क्षयतान् मतिक्षतिततिं द्वैमातुरो द्वयाकृतिः ॥ २ ॥<br/>
 
 yaṃ dvaipāyana ājuhāva vitate matveva lekheśvaram <br/>
 śaighryasvācchyalikhiṣākulatayā granthe mahābhārate || <br/>
 dvyarthaśleṣapadadvidantabahule gīrvāṇavāgvāridhau <br/>
-sūkṣmākṣaḥ kṣayatān matikṣatitatiṃ dvaimāturo dvayākṛtiḥ || <br/>
+sūkṣmākṣaḥ kṣayatān matikṣatitatiṃ dvaimāturo dvayākṛtiḥ || 2 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 यम् | द्वैपायनः | आजुहाव | वितते | मत्वा | इव | लेखेश्वरम् | शैघ्र्य-स्वाच्छ्य-लिखिषा-आकुलतया | ग्रन्थे | महाभारते | द्व्यर्थ-श्लेष-पद-द्विदन्त-बहुले | गीर्वाण-वाक्-वारिधौ | सूक्ष्माक्षः | क्षयतात् | मति-क्षति-ततिम् | द्वैमातुरः | द्वयाकृतिः
@@ -73,12 +73,12 @@ In the vast ocean of the Sanskrit language, which is the Mahabharata, filled wit
 देवः किं स न यो जनावนครते यायात् तदाह्वानतः <br/>
 तं यो नाह्वयते स्वकार्यविधये भ्रान्तस्ततः को नरः ॥ <br/>
 देवा भूभवमानवावनकरा देवावना मानवाः <br/>
-अन्योन्यं नरदेवयुग्मकमिदं कार्ये सदाकार्यते ॥ <br/>
+अन्योन्यं नरदेवयुग्मकमिदं कार्ये सदाकार्यते ॥ ३ ॥<br/>
 
 devaḥ kiṃ sa na yo janāvanakṛte yāyāt tadāhvānataḥ <br/>
 taṃ yo nāhvayate svakāryavidhaye bhrāntastataḥ ko naraḥ || <br/>
 devā bhūbhavamānavāvanakarā devāvanā mānavāḥ <br/>
-anyonyaṃ naradevayugmakamidaṃ kārye sadā kāryate || <br/>
+anyonyaṃ naradevayugmakamidaṃ kārye sadā kāryate || 3 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 देवः | किम् | सः | न | यः | जनावนครते [possible reading: जनावनाय/जनावनाकृते] | यायात् | तद्-आह्वानतः | तम् | यः | न | आह्वयते | स्व-कार्य-विधये | भ्रान्तः | ततः | कः | नरः | देवाः | भू-भव-मानव-अवन-कराः | देव-अवनाः | मानवाः | अन्योन्यम् | नर-देव-युग्मकम् | इदम् | कार्ये | सदा | आकार्यते
@@ -103,12 +103,12 @@ Is he even a God who does not come to protect the people when they call him? And
 गङ्गोत्तुङ्गतरङ्गतारणकरी कैवर्तकन्याभवत् <br/>
 नाम्ना सत्यवती तदङ्गजनितः पाराशरो यः सुतः ॥ <br/>
 स द्वैपायननामवान् द्विपथगास्वप्सु स्थिरोऽभूद्यतः <br/>
-दधे चापि स बादरायण इति स्थैर्यार्थधातोर्बदेः ॥ <br/>
+दधे चापि स बादरायण इति स्थैर्यार्थधातोर्बदेः ॥ ४ ॥<br/>
 
 gaṅgottuṅgataraṅgatāraṇakarī kaivartakanyābhavat <br/>
 nāmnā satyavatī tadaṅgajanitaḥ pārāśaro yaḥ sutaḥ || <br/>
 sa dvaipāyananāmavān dvipathagāsvapsu sthiro'bhūdyataḥ <br/>
-dadhe cāpi sa bādarāyaṇa iti sthairyārthadhātorbadeḥ || <br/>
+dadhe cāpi sa bādarāyaṇa iti sthairyārthadhātorbadeḥ || 4 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 गङ्गोत्तुङ्ग-तरङ्ग-तारण-करी | कैवर्त-कन्या | अभवत् | नाम्ना | सत्यवती | तद्-अङ्ग-जनितः | पाराशरः | यः | सुतः | सः | द्वैपायन-नामवान् | द्विपथगासु | अप्सु | स्थिरः | अभूत् | यतः | दधे | च | अपि | सः | बादरायणः | इति | स्थैर्य-अर्थ-धातोः | बदेः
@@ -133,12 +133,12 @@ There was a fisherman's daughter named Satyavati who used to ferry people across
 कृष्णः श्यामतया हृषीकविजयी देहेन यो दैर्घ्यवान् <br/>
 वेदव्यासकरः पुराणपटलस्रष्टा हरेरंशधृत् <br/>
 सोऽप्यैच्छत् किल लेखकं स्वरचिते ग्रन्थे महाभारते <br/>
-ध्यानं वाग्वदनं तथा च लेखनं नैकेन शक्यक्रियम् <br/>
+ध्यानं वाग्वदनं तथा च लेखनं नैकेन शक्यक्रियम् ॥ ५ ॥<br/>
 
 Kṛṣṇaḥ śyāmatayā hṛṣīkavijayī dehena yo dairghyavān <br/>
 Vedavyāsakaraḥ purāṇapaṭalasraṣṭā hareraṃśadhṛt <br/>
 So'pyaicchat kila lekhakaṃ svaracite granthe mahābhārate <br/>
-Dhyānaṃ vāgvadanaṃ tathā ca lekhanaṃ naikena śakyakriyam <br/>
+Dhyānaṃ vāgvadanaṃ tathā ca lekhanaṃ naikena śakyakriyam || 5 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 कृष्णः | श्यामतया | हृषीकविजयी | देहेन | यः | दैर्घ्यवान् | वेदव्यासकरः | पुराणपटलस्रष्टा | हरेः | अंशधृत् | सः | अपि | ऐच्छत् | किल | लेखकम् | स्वरचिते | ग्रन्थे | महाभारते | ध्यानम् | वाग्वदनम् | तथा | च | लेखनम् | न | एकेन | शक्यक्रियम्

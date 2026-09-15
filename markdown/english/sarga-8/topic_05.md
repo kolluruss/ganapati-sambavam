@@ -6,12 +6,12 @@ Ganapati, through his wisdom, circumambulates his parents and attains the merit 
 तौन्दिल्यं पुन राखुना च गमनं हास्यास्पदं स्याद् भवे <br/>
 तावत् स्कन्द इहत्य मोदकमिमं निःशेष मेवात्स्यति <br/>
 नो तेनास्ति ममेह शुक् परमहो स्पर्धा तु जय्या सदा <br/>
-तस्यै नूतन यत्न एव सुधियाऽन्वेष्यो न दोषोऽधियत् <br/>
+तस्यै नूतन यत्न एव सुधियाऽन्वेष्यो न दोषोऽधियत् ॥ ४० ॥<br/>
 
 taundilyaṃ puna rākhunā ca gamanaṃ hāsyāspadaṃ syād bhave <br/>
 tāvat skanda ihatya modakamimaṃ niḥśeṣa mevātsyati <br/>
 no tenāsti mameha śuk paramaho spardhā tu jayyā sadā <br/>
-tasyai nūtana yatna eva sudhiyā'nveṣyo na doṣo'dhiyat <br/>
+tasyai nūtana yatna eva sudhiyā'nveṣyo na doṣo'dhiyat || 40 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 तौन्दिल्यम् | पुनः | आखुना | च | गमनम् | हास्यास्पदम् | स्यात् | भवे | तावत् | स्कन्दः | इहत्य | मोदकम् | इमम् | निःशेषम् | एव | अत्स्यति | नो | तेन | अस्ति | मम | इह | शुक् | परम् | अहो | स्पर्धा | तु | जय्या | सदा | तस्यै | नूतनयत्नः | एव | सुधिया | अन्वेष्यः | न | दोषः | अधियत्
@@ -38,12 +38,12 @@ tasyai nūtana yatna eva sudhiyā'nveṣyo na doṣo'dhiyat <br/>
 एनां स्कन्द परिक्रमां न गणये पक्षैः कृतां बर्हिणः <br/>
 यः ख्यातो विहगो जगत्सु न गुहस्यात्रास्ति किञ्चिद् बलम् <br/>
 एवं वायुकुलं करोति सततं ह्येकोनपञ्चाशकम् <br/>
-व्योमाद्युड्डयनं परिक्रमविधौ संख्यां गतं न क्वचिद् <br/>
+व्योमाद्युड्डयनं परिक्रमविधौ संख्यां गतं न क्वचिद् ॥ ४१ ॥<br/>
 
 enāṃ skanda parikramāṃ na gaṇaye pakṣaiḥ kṛtāṃ barhiṇaḥ <br/>
 yaḥ khyāto vihago jagatsu na guhasyātrāsti kiñcid balam <br/>
 evaṃ vāyukulaṃ karoti satataṃ hyekonapañcāśakam <br/>
-vyomādyuḍḍayanaṃ parikramavidhau saṅkhyāṃ gataṃ na kvacid <br/>
+vyomādyuḍḍayanaṃ parikramavidhau saṅkhyāṃ gataṃ na kvacid || 41 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 एनाम् | स्कन्दपरिक्रमाम् | न | गणये | पक्षैः | कृताम् | बर्हिणः | यः | ख्यातः | विहगः | जगत्सु | न | गुहस्य | अत्र | अस्ति | किञ्चित् | बलम् | एवम् | वायुकुलम् | करोति | सततम् | हि | एकोनपञ्चाशकम् | व्योमाद्युड्डयनम् | परिक्रमविधौ | संख्याम् | गतम् | न | क्वचित्
@@ -68,12 +68,12 @@ vyomādyuḍḍayanaṃ parikramavidhau saṅkhyāṃ gataṃ na kvacid <br/>
 एवं वारिधि वारिणोऽप्युपरितः कश्चित् कदाचिद् व्रजेत् <br/>
 स स्यात् किं जलधे स्तलस्य विषये गाम्भीर्यबोधान्वितः ? <br/>
 योष गर्भवति यथापि सघटा यान्ती शनैरीक्ष्यते <br/>
-सा प्रोक्ताऽस्ति परिक्रमा तदपरा सर्वाक्रिया व्युत्क्रमा <br/>
+सा प्रोक्ताऽस्ति परिक्रमा तदपरा सर्वाक्रिया व्युत्क्रमा ॥ ४२ ॥<br/>
 
 evaṃ vāridhi vāriṇo'pyuparitaḥ kaścit kadācid vrajet <br/>
 sa syāt kiṃ jaladhe stalasya viṣaye gāmbhīryabodhānvitaḥ ? <br/>
 yoṣā garbhavatī yathāpi saghaṭā yāntī śanairīkṣyate <br/>
-sā proktā'sti parikramā tadaparā sarvākriyā vyutkramā <br/>
+sā proktā'sti parikramā tadaparā sarvākriyā vyutkramā || 42 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 एवम् | वारिधि-वारिणः | अपि | उपरितः | कश्चित् | कदाचित् | व्रजेत् | सः | स्यात् | किम् | जलधेः | तलस्य | विषये | गाम्भीर्यबोधान्वितः | योष | गर्भवति | यथा | अपि | सघटा | यान्ती | शनैः | ईक्ष्यते | सा | प्रोक्ता | अस्ति | परिक्रमा | तदपरा | सर्वा | क्रिया | व्युत्क्रमा
@@ -99,12 +99,12 @@ sā proktā'sti parikramā tadaparā sarvākriyā vyutkramā <br/>
 देवस्तुन्दिलता मपि प्रकटयन् नानाधियां पेटिकाम् <br/>
 शास्त्रस्तुत्यपथे प्रवृत्ति विधया चक्रे नवीनं क्रमम् <br/>
 वेदो नित्यमहो निजस्य पितरौ भुरूपिणौ मन्यते <br/>
-श्रद्धत्ते सच बुद्धिमानिति परिक्राम्यामि तौ नो कथम् ? <br/>
+श्रद्धत्ते सच बुद्धिमानिति परिक्राम्यामि तौ नो कथम् ? ॥ ४३ ॥<br/>
 
 devastundilatā mapi prakaṭayan nānādhiyāṃ peṭikām <br/>
 śāstrastutyapathe pravṛtti vidhayā cakre navīnaṃ kramam <br/>
 vedo nityamaho nijasya pitarau bhurūpiṇau manyate <br/>
-śraddhatte saca buddhimāniti parikrāmyāmi tau no katham ? <br/>
+śraddhatte saca buddhimāniti parikrāmyāmi tau no katham ? || 43 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 देवः | तुन्दिलताम् | अपि | प्रकटयन् | नानाधियाम् | पेटिकाम् | शास्त्रस्तुत्यपथे | प्रवृत्तिविधया | चक्रे | नवीनम् | क्रमम् | वेदः | नित्यम् | अहो | निजस्य | पितरौ | भुरूपिणौ | मन्यते | श्रद्धत्ते | सः | च | बुद्धिमान् | इति | परिक्राम्यामि | तौ | नो | कथम्
@@ -131,12 +131,12 @@ Lord Ganesha, while displaying his large belly—which is like a treasure chest 
 नाहं स्यां च वृथा परिश्रमकरो नाप्युन्दुरोः स्यात् श्रमः <br/>
 को मे शास्त्रसमर्थितं मतमिदं शोद्धुं विरोद्धुं क्षमः <br/>
 दृष्ट्वाऽम्बा गिरिजापि तं परिचरन्तं स्वां स्वनाथं च वा <br/>
-स्मेरास्येव धियं दधार जयदामस्यैव पक्षे निजाम् <br/>
+स्मेरास्येव धियं दधार जयदामस्यैव पक्षे निजाम् ॥ ४४ ॥<br/>
 
 nāhaṃ syāṃ ca vṛthā pariśramakaro nāpyunduroḥ syāt śramaḥ <br/>
 ko me śāstrasamarthitaṃ matamidaṃ śoddhuṃ viroddhuṃ kṣamaḥ <br/>
 dṛṣṭvā'mbā girijāpi taṃ paricarantam svāṃ svanāthaṃ ca vā <br/>
-smerāsyeva dhiyam dadhāra jayadāmasyaiva pakṣe nijām <br/>
+smerāsyeva dhiyam dadhāra jayadāmasyaiva pakṣe nijām || 44 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 न | अहम् | स्याम् | च | वृथापरिश्रमकरः | न | अपि | उन्दुरोः | स्यात् | श्रमः | कः | मे | शास्त्रसमर्थितम् | मतम् | इदम् | शोद्धुम् | विरोद्धुम् | क्षमः | दृष्ट्वा | अम्बा | गिरिजा | अपि | तम् | परिचरन्तम् | स्वाम् | स्वनाथम् | च | वा | स्मेरास्या | इव | धियम् | दधार | जयदाम् | अस्य | एव | पक्षे | निजाम्

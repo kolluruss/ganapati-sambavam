@@ -4,12 +4,12 @@
 एवं नैकजयोपलब्धिमुदितः स्तम्बेरमास्याः शिशुः <br/>
 हेरम्बः स्वगणैर्युतः प्रियतमैश्चिक्रीड नानाविधम् <br/>
 जन्माहे च बभौ शिवाननलसत् हासांशुलिप्तोऽप्यलम् <br/>
-मातुस्तातकुलाप्तशुक्लवसनैर्मन्ये यथा वेष्टितः <br/>
+मातुस्तातकुलाप्तशुक्लवसनैर्मन्ये यथा वेष्टितः ॥ १ ॥<br/>
 
 Evam naikajayopalabdhimuditaḥ stamberamāsyaḥ śiśuḥ <br/>
 Herambaḥ svagaṇairyutaḥ priyatamaiścikrīḍa nānāvidham <br/>
 Janmāhe ca babhau śivānanalasat hāsāṃśulipto'pyalam <br/>
-Mātustātakulāptaśuklavasanairmanye yathā veṣṭitaḥ <br/>
+Mātustātakulāptaśuklavasanairmanye yathā veṣṭitaḥ || 1 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 एवम् | नैक-जय-उपलब्धि-मुदितः | स्तम्बेरम्-आस्यः | शिशुः | हेरम्बः | स्व-गणैः | युतः | प्रियतमैः | चिक्रीड | नानाविधम् | जन्म-अहे | च | बभौ | शिव-आनन-लसत्-हास-अंशु-लिप्तः | अपि | अलम् | मातुः | तात-कुल-आप्त-शुक्ल-वसनैः | मन्ये | यथा | वेष्टितः
@@ -40,12 +40,12 @@ In this manner, the elephant-faced child Ganapati, rejoicing in his many victori
 चक्रे बालविनोदनामबहुला लीला इलाधूलितः <br/>
 निर्मात्यप्तजनाननेक्षणपरे खेलन्ति बालाः स्थले <br/>
 शुण्डाग्रेण विशालकन्दुकमिवाकं मृन्मयं मोदकम् <br/>
-विक्षेपोध्वमलम् स्वतुन्दपटले वीक्ष्यापतन्तं हसन् <br/>
+विक्षेपोध्वमलम् स्वतुन्दपटले वीक्ष्यापतन्तं हसन् ॥ २ ॥<br/>
 
 Cakre bālavinodanāmabahulā līlā ilādhūlitaḥ <br/>
 Nirmātyaptajanānanekṣaṇapare khelanti bālāḥ sthale <br/>
 Śuṇḍāgreṇa viśālakandukamivākaṃ mṛnmayaṃ modakam <br/>
-Vikṣepordhvamalam svatundapaṭale vīkṣyāpatantaṃ hasan <br/>
+Vikṣepordhvamalam svatundapaṭale vīkṣyāpatantaṃ hasan || 2 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 चक्रे | बाल-विनोद-नाम-बहुलाः | लीलाः | इला-धूलितः | निर्मात्यप्त-जन-आननेक्षण-परे | खेलन्ति | बालाः | स्थले | शुण्ड-अग्रेण | विशाल-कन्दुकम् | इव | एकम् | मृन्मयम् | मोदकम् | चिक्षेप | ऊर्ध्वम् | अलम् | स्व-तुन्द-पटले | वीक्ष्य | आपतन्तम् | हसन्
@@ -73,12 +73,12 @@ Covered in the dust of the earth, Ganapati engaged in various pastimes known as 
 नृत्ये पद्ध्वनिभिर्धनं धनमिति व्यञ्जन् ध्वानं दुन्दुभेः <br/>
 चीत्कारांश्च तुरीमुखध्वनिनिभान् तेने स्वकण्ठेन यः <br/>
 गण्डूषैरिव शुण्डजैर्जलतरङ्गाणां ध्वानं दर्शयन् <br/>
-वाद्यानामनुकारवान् गणपतिर्बृन्दारकैर्वन्दितः <br/>
+वाद्यानामनुकारवान् गणपतिर्बृन्दारकैर्वन्दितः ॥ ३ ॥<br/>
 
 Nṛtye paddhvanibhrdhanaṃ dhanamiti vyañjan dhvānaṃ dundubheḥ <br/>
 Cītkārāṃśca turīmukhadhvaninibhān tene svakaṇṭhena yaḥ <br/>
 Gaṇḍūṣairiva śuṇḍajairjalataraṅgāṇāṃ dhvānaṃ darśayan <br/>
-Vādyānāmanukāravān gaṇapatirbṛndārakairvanditaḥ <br/>
+Vādyānāmanukāravān gaṇapatirbṛndārakairvanditaḥ || 3 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 नृत्ये | पद-ध्वनिभिः | धनम् | धनम् | इति | व्यञ्जन् | ध्वानम् | दुन्दुभेः | चीत्कारान् | च | तुरी-मुख-ध्वनि-निभान् | तेने | स्व-कण्ठेन | यः | गण्डूषैः | इव | शुण्ड-जैः | जल-तरङ्गाणाम् | ध्वानम् | दर्शयन् | वाद्यानाम् | अनुकारवान् | गणपतिः | बृन्दारकैः | वन्दितः

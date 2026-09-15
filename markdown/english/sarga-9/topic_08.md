@@ -6,12 +6,12 @@ In the lamps of Deepavali and the celebrations of Holi, Ganesha serves as a guid
 यो नो धावितु मीहते स्वविपदः स क्षुद्रपत्रो भवेत् | <br/>
 सर्वस्यापि धरेत् प्रियाप्रियवचश्छेत् स्यान्महाकुक्षिभूत् || <br/>
 सूक्ष्माक्षै र्निभृतं दिद्रेक्षतु जगत्प्रीतिं मतैः स्वार्जितैः | <br/>
-इत्युद्बोधितवस्तुतत्त्वविबुधः स्यात् शास्तृपङ्क्तिस्थितः || <br/>
+इत्युद्बोधितवस्तुतत्त्वविबुधः स्यात् शास्तृपङ्क्तिस्थितः || ४८ ||<br/>
 
 yo no dhāvitu mīhate svavipadaḥ sa kṣudrapatro bhavet | <br/>
 sarvasyāpi dharet priyāpriyavacaśchet syānmahākukṣibhūt || <br/>
 sūkṣmākṣai rnibhṛtaṃ didrekṣatu jagatprītiṃ mataiḥ svārjitaiḥ | <br/>
-ityudbodhitavastutattvavibudhaḥ syāt śāstṛpaṅktisthitaḥ || <br/>
+ityudbodhitavastutattvavibudhaḥ syāt śāstṛpaṅktisthitaḥ || 48 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 यः | नो | धावितुम् | ईहते | स्व-विपदः | सः | क्षुद्र-पत्रः | भवेत् | सर्वस्य | अपि | धरेत् | प्रिय-अप्रिय-वचः | चेत् | स्यात् | महा-कुक्षि-भूत् | सूक्ष्म-अक्षैः | निभृतम् | दिद्रेक्षतु | जगत्-प्रीतिम् | मतैः | स्व-अर्जितैः | इति | उद्बोधित-वस्तु-तत्त्व-विबुधः | स्यात् | शास्तृ-पङ्क्ति-स्थितः |
@@ -41,12 +41,12 @@ One who desires to stand firm without running away from calamities should posses
 दत्त्वाऽऽत्मशिरोबलं गणपतिः प्राप्तोऽभवत् पूज्यताम् | <br/>
 एवं राष्ट्रसुशासनेच्छुचरिते लोकेलिमः स्याद् बलिः || <br/>
 न स्यात् केवलमुत्सवेषु मिलितो राष्ट्रध्वजस्पर्शकः | <br/>
-बाह्येनैव गलेन गायति च यः स्वां राष्ट्रगीतावलीम् || <br/>
+बाह्येनैव गलेन गायति च यः स्वां राष्ट्रगीतावलीम् || ४९ ||<br/>
 
 dattvā'tmaśirobalaṃ gaṇapatiḥ prāpto'bhavat pūjyatām | <br/>
 evaṃ rāṣṭrasuśāsanecc hucarite lokelimaḥ syād baliḥ || <br/>
 na syāt kevalamutsaveṣu milito rāṣṭradhvajasparśakaḥ | <br/>
-bāhyenaiva galena gāyati ca yaḥ svāṃ rāṣṭragītāvalīm || <br/>
+bāhyenaiva galena gāyati ca yaḥ svāṃ rāṣṭragītāvalīm || 49 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 दत्त्वा | एव | आत्म-शिरः-बलिम् | गणपतिः | प्राप्तः | अभवत् | पूज्यताम् | एवम् | राष्ट्र-सुशासन-इच्छु-चरिते | लोकेलिमः | स्यात् | बलिः | न | स्यात् | केवलम् | उत्सवेषु | मिलितः | राष्ट्रध्वज-स्पर्शकः | बाह्येन | एव | गलेन | गायति | च | यः | स्वाम् | राष्ट्र-गीत-आवलीम् |
@@ -74,12 +74,12 @@ Ganesha attained the status of being worshipped only by offering his own head as
 चक्रे भारतमातृमृच्च जननी गौर्या स्वयं स्वश्रमैः | <br/>
 ईशेनांश निवेशनेन च कृतो मन्ये करेणो ऋणी || <br/>
 स्वाद्याम्बां परिगोपयन् प्रणववत् स्पष्टं तु शिष्टे धरन् | <br/>
-सिध्यत्त्र्यम्बकतागुणो द्विकरतो द्वैमातुरो नम्यताम् || <br/>
+सिध्यत्त्र्यम्बकतागुणो द्विकरतो द्वैमातुरो नम्यताम् || ५० ||<br/>
 
 cakre bhāratamātṛmṛcca jananī gauryā svayaṃ svaśramaiḥ | <br/>
 īśenāṃśa niveśanena ca kṛto manye kareṇo ṛṇī || <br/>
 svādyāmbāṃ parigopayan praṇavavat spaṣṭaṃ tu śiṣṭe dharan | <br/>
-sidhyattryambakatāguṇo dvikarato dvaimāturo namyatām || <br/>
+sidhyattryambakatāguṇo dvikarato dvaimāturo namyatām || 50 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 चक्रे | भारत-मातृ-मृत् | च | जननी | गौर्या | स्वयम् | स्व-श्रमैः | ईशेन | अंश-निवेशनेन | च | कृतः | मन्ये | करेणोः | ऋणी | स्व-आद्य-अम्बाम् | परिगोपयन् | प्रणववत् | स्पष्टम् | तु | शिष्टे | धरन् | सिध्यत्-त्र्यम्बकता-गुणः | द्विकरतः | द्वैमातुरः | नम्यताम् |
@@ -106,12 +106,12 @@ Gauri, through her own labor, created Ganesha from the soil of Mother Bharat and
 सिन्दूराभिधराक्षसस्य हनने तद्रूपवान् योऽभवत् | <br/>
 तच्छोणै रुधिरै रिदानीमपि यो व्यङ्क्ते निजां तां कथाम् || <br/>
 सिन्ध्वाख्यं च जघान राक्षस मयं बन्धुर्मुनीनां भवन् | <br/>
-कारुण्यान्धु रयं क्रियाद् विजयितां स्वाख्यायुते शासने || <br/>
+कारुण्यान्धु रयं क्रियाद् विजयितां स्वाख्यायुते शासने || ५१ ||<br/>
 
 sindūrābhidharākṣasasya hanane tad rūpavān yo'bhavat | <br/>
 tacchoṇai rudhirai ridānīmapi yo vyaṅkte nijāṃ tāṃ kathām || <br/>
 sindhvākhyaṃ ca jaghāna rākṣasamayaṃ bandhurmunīnāṃ bhavan | <br/>
-kāruṇyāndhu rayaṃ kriyād vijayitāṃ svākhyāyute śāsane || <br/>
+kāruṇyāndhu rayaṃ kriyād vijayitāṃ svākhyāyute śāsane || 51 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 सिन्दूर-अभिध-राक्षसस्य | हनने | तत्-रूपवान् | यः | अभवत् | तत्-शोणैः | रुधिरैः | इदानीम् | अपि | यः | व्यङ्क्ते | निजाम् | ताम् | कथाम् | सिन्धु-आख्यम् | च | जघान | राक्षसम् | अयम् | बन्धुः | मुनीनाम् | भवन् | कारुण्य-अन्धुः | अयम् | क्रियात् | विजयिताम् | स्व-आख्या-युते | शासने |
@@ -138,12 +138,12 @@ When Ganesha killed the demon named Sindura, he became the color of the demon's 
 यो वैरिञ्चिरुचिप्रचारिततमे यज्ञेऽकरोद्रक्षणम् |<br/>
 लेभे दक्षिणया सुबुद्धि ममलां सिद्धिं च कन्ये उभे ||<br/>
 एते केवलसेवनाय पदयोर्वा चामरैर्वीजने |<br/>
-सोऽयं सौरतवासनाविजयकृद्विश्यान्निजे शासने ||<br/>
+सोऽयं सौरतवासनाविजयकृद्विश्यान्निजे शासने || ५२ ||<br/>
 
 yo vairiñcirucipracāritatame yajñe'karodrakṣaṇam |<br/>
 lebhe dakṣiṇayā subuddhi mamalāṃ siddhiṃ ca kanye ubhe ||<br/>
 ete kevalasevanāya padayorvā cāmarairvījane |<br/>
-so'yaṃ sauratavāsanāvijayakṛdviśyānnije śāsane ||
+so'yaṃ sauratavāsanāvijayakṛdviśyānnije śāsane || 52 ||
 
 ### पदच्छेदम् (Padacchedam):
 यः | वैरिञ्चि-रुचि-प्रचारित-तमे | यज्ञे | अकरोत् | रक्षणम् | लेभे | दक्षिणया | सुबुद्धिम् | अमलाम् | सिद्धिम् | च | कन्ये | उभे | एते | केवल-सेवनाय | पदयोः | वा | चामरैः | वीजने | सः | अयम् | सौरत-वासना-विजयकृत् | विश्यात् | निजे | शासने |
@@ -171,12 +171,12 @@ He who protected the sacrifice initiated by the desire of Brahma, and in return 
 प्राग्द्वैतभ्रम एव भाति नितरामद्वैतमेवान्ततः |<br/>
 एतद्बोधयते रदो गणपतेरेकत्वमेवाश्रयन् ||<br/>
 तस्माज्जातिविभेदवर्जनमयी या भावना पोक्ष्यते |<br/>
-साप्यस्यैव कृपाप्रपाविलसिता मन्येऽद्य नः शासने ||<br/>
+साप्यस्यैव कृपाप्रपाविलसिता मन्येऽद्य नः शासने || ५३ ||<br/>
 
 prāgdvaitabhrama eva bhāti nitarāmadvaitamevāntataḥ |<br/>
 etadbodhayate rado gaṇapaterekattamevāśrayan ||<br/>
 tasmājjātivibhedavarjanamayī yā bhāvanā pokṣyate |<br/>
-sāpyasyaiva kṛpāprapāvilasitā manye'dya naḥ śāsane ||
+sāpyasyaiva kṛpāprapāvilasitā manye'dya naḥ śāsane || 53 ||
 
 ### पदच्छेदम् (Padacchedam):
 प्राक् | द्वैत-भ्रमः | एव | भाति | नितराम् | अद्वैतम् | एव | अन्ततः | एतत् | बोधयते | रदः | गणपतेः | एकत्वम् | एव | आश्रयन् | तस्मात् | जाति-विभेद-वर्जनमयी | या | भावना | पोक्ष्यते | सा | अपि | अस्य | एव | कृपा-प्रपा-विलसिता | मन्ये | अद्य | नः | शासने |
@@ -204,12 +204,12 @@ Initially, the illusion of duality constantly appears, but ultimately, only non-
 वर्तिर्यत्र च शुण्डरूपलसिता द्वैगुण्यनेत्रद्युतिः |<br/>
 नानारूपकमन्दिरेषु नितरां पूजासु लाजाचितः ||<br/>
 ध्वान्तान्तीकरणव्रतो गणपती राराज्यते सज्जितः |<br/>
-प्रत्यब्दं गणशासनासनगतो दीपावलीदीपभः ||<br/>
+प्रत्यब्दं गणशासनासनगतो दीपावलीदीपभः || ५४ ||<br/>
 
 vartiryatra ca śuṇḍarūpalasitā dvaiguṇyanetradyutiḥ |<br/>
 nānārūpakamandireṣu nitarāṃ pūjāsu lājācitaḥ ||<br/>
 dhvāntāntīkaraṇavrato gaṇapatī rārājyate sajjitaḥ |<br/>
-pratyabdaṃ gaṇaśāsanāsanagato dīpāvalīdīpabhaḥ ||
+pratyabdaṃ gaṇaśāsanāsanagato dīpāvalīdīpabhaḥ || 54 ||
 
 ### पदच्छेदम् (Padacchedam):
 वर्तिः | यत्र | च | शुण्ड-रूप-लसिता | द्वैगुण्य-नेत्र-द्युतिः | नाना-रूपक-मन्दिरेषु | नितराम् | पूजासु | लाजा-अचितः | ध्वान्त-अन्तीकरण-व्रतः | गणपतिः | आराज्यते | सज्जितः | प्रत्यब्दम् | गणशासन-आसनगतः | दीपावली-दीप-भः |
@@ -235,12 +235,12 @@ In whom the trunk shines like the wick of a lamp, whose eye-radiance is doubled 
 सिन्दूरेण हरिद्रयाचिततमश्चूर्णैस्तथा भूरिभिः |<br/>
 अम्भोमोचकयन्त्रिकाच्युतजलैः सेसिच्यमानाननः ||<br/>
 उच्छिष्टीकरणाय मिष्टकृतये यस्याग्रगो मोदकः |<br/>
-होलीखेलरसायनो गणपति र्जीयान्निजे शासने ||<br/>
+होलीखेलरसायनो गणपति र्जीयान्निजे शासने || ५५ ||<br/>
 
 sindūreṇa haridrayācitatamaścūrṇaistathā bhūribhiḥ |<br/>
 ambhōmocakayantrikācyutajalaiḥ sesicyamānānanaḥ ||<br/>
 ucchiṣṭīkaraṇāya miṣṭakṛtaye yasyāgrago modakaḥ |<br/>
-holīkhelarasāyano gaṇapati rjīyānnije śāsane ||
+holīkhelarasāyano gaṇapati rjīyānnije śāsane || 55 ||
 
 ### पदच्छेदम् (Padacchedam):
 सिन्दूरेण | हरिद्रया | आचिततमः | चूर्णैः | तथा | भूरिभिः | अम्भः-मोचक-यन्त्रिका-च्युत-जलैः | सेसिच्यमान-आननः | उच्छिष्टीकरणाय | मिष्टकृतये | यस्य | अग्रगः | मोदकः | होली-खेल-रसायनः | गणपतिः | जीयात् | निजे | शासने |
@@ -267,11 +267,11 @@ Adorned with vermilion, turmeric, and abundant colored powders, his face drenche
 स्वाद् भक्ष्यादपि यो ददाति सततं ग्रासार्थकं भिक्षवे |<br/>
 सोच्छिष्टाह्वयदान् भवन्नपि च यो विख्याति माप्तश्चिरात् ||<br/>
 काशीवासिविदां मुखात् प्रतिपलं श्रोतुं व्यवस्थां निजाम् |<br/>
-तत्राऽऽवासरसायनो गणपतिः स्वे शासने माद्यतात् ||<br/>
+तत्राऽऽवासरसायनो गणपतिः स्वे शासने माद्यतात् || ५६ ||<br/>
 svād bhakṣyādapi yo dadāti satataṃ grāsārthakaṃ bhikṣave |<br/>
 socchiṣṭāhvayadān bhavannapi ca yo vikhyāti māptaścirāt ||<br/>
 kāśīvāsividāṃ mukhāt pratipalaṃ śrotuṃ vyavasthāṃ nijām |<br/>
-tatrā''vāsarasāyano gaṇapatiḥ sve śāsane mādyatāt ||
+tatrā''vāsarasāyano gaṇapatiḥ sve śāsane mādyatāt || 56 ||
 
 ### पदच्छेदम् (Padacchedam):
 स्वात् | भक्ष्यात् | अपि | यः | ददाति | सततं | ग्रास-अर्थकं | भिक्षवे | सः | उच्छिष्ट-आह्वय-दान् | भवन् | अपि | च | यः | विख्यातिम् | आप्तः | चिरात् | काशीवासि-विदां | मुखात् | प्रतिपलं | श्रोतुं | व्यवस्थां | निजां | तत्र | आवास-रसायनः | गणपतिः | स्वे | शासने | माद्यतात् |
@@ -302,11 +302,11 @@ He who, even from the food he is consuming, constantly gives a morsel to the beg
 मातुर्द्विस्तनलालसः परिपपौ वेकस्तनस्थं पयः |<br/>
 एकं वीक्ष्य गुहानने गति मितं तद् रक्षितुं स्फूर्तिमान् ||<br/>
 शुण्डानं स्वमुखे न्यसन् स्तन मिव स्वस्थानुजं दर्शयन् |<br/>
-हासोन्मुक्तकुचं पिबन् जयतु नः सिन्दूरवान् शुण्डवान् ||<br/>
+हासोन्मुक्तकुचं पिबन् जयतु नः सिन्दूरवान् शुण्डवान् || ५७ ||<br/>
 māturdvistanalālasaḥ paripapau vekastanasthaṃ payaḥ |<br/>
 ekaṃ vīkṣya guhānane gati mitaṃ tad rakṣituṃ sphūrtimān ||<br/>
 śuṇḍānaṃ svamukhe nyasan stana miva svasthānujaṃ darśayan |<br/>
-hāsonmuktakucaṃ piban jayatu naḥ sindūravān śuṇḍavān ||
+hāsonmuktakucaṃ piban jayatu naḥ sindūravān śuṇḍavān || 57 ||
 
 ### पदच्छेदम् (Padacchedam):
 मातुः | द्वि-स्तन-लालसः | परिपपौ | एक-स्तन-स्थं | पयः | एकम् | वीक्ष्य | गुह-आनने | गतिम् | इतम् | तत् | रक्षितुं | स्फूर्तिमान् | शुण्डा-अग्रं | स्व-मुखे | न्यसन् | स्तनम् | इव | स्वस्य | अनुजं | दर्शयन् | हास-उन्मुक्त-कुचं | पिबन् | जयतु | नः | सिन्दूरवान् | शुण्डवान् |
@@ -335,11 +335,11 @@ Desirous of drinking from both of his mother’s breasts, he was drinking from o
 ईड्यो द्वादश नामभिश्चिरतनै रनव्यैश्च भव्यैश्च मे |<br/>
 दूर्वापल्लवशोभितोऽरुणवपु र्यो लाङ्गलीमस्तकः ||<br/>
 न्यस्तो मङ्गलकुम्भबद् गिरिजयया स्थूलो जगन्मण्डपे |<br/>
-'कैलाश-प्रभु-दत्त'कात्मज इवै तन्नाम धामाऽवतात् ||<br/>
+'कैलाश-प्रभु-दत्त'कात्मज इवै तन्नाम धामाऽवतात् || ५८ ||<br/>
 īḍyo dvādaśa nāmabhiściratanai ranavyaiśca bhavyaiśca me |<br/>
 dūrvāpallavaśobhito'ruṇavapu ryo lāṅgalīmastakaḥ ||<br/>
 nyasto maṅgalakumbhabad girijayayā sthūlo jaganmaṇḍape |<br/>
-'kailāśa-prabhu-datta'kātmaja ivai tannāma dhāmā'vatāt ||
+'kailāśa-prabhu-datta'kātmaja ivai tannāma dhāmā'vatāt || 58 ||
 
 ### पदच्छेदम् (Padacchedam):
 ईड्यः | द्वादश-नामभिः | चिरतनैः | नव्यैः | च | भव्यैः | च | मे | दूर्वा-पल्लव-शोभितः | अरुण-वपुः | यः | लाङ्गली-मस्तकः | न्यस्तः | मङ्गल-कुम्भ-वत् | गिरिजयया | स्थूलः | जगत्-मण्डपे | कैलाश-प्रभु-दत्तक-आत्मजः | इव | एतत्-नाम | धाम | अवतात् |

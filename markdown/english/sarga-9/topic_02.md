@@ -8,11 +8,11 @@ The Pure Form of the Republic: The sanctified form of the Republic.
 सौभाग्योनयनं समस्तजनताऽऽनन्दारविन्दप्रदम् |<br/>
 नानाऽऽवासनिवाससुप्ति सुखदं दुर्भीतिविध्वंसनम् ||<br/>
 दारिद्र्यद्रवणं सदान्नजननं नग्नाङ्गसङ्गोपनम् |<br/>
-ख्यातं तद् गणशासनं तदपरं भ्रष्टाऽसनं नाशनम् ||<br/>
+ख्यातं तद् गणशासनं तदपरं भ्रष्टाऽसनं नाशनम् || १५ ||<br/>
 Saubhāgyonayanaṃ samastajanatā'nandaravindapradam |<br/>
 Nānā'vāsanivāsasupti sukhadaṃ durbhītividhvaṃsanam ||<br/>
 Dāridryadravaṇaṃ sadānnajananaṃ nagnāṅgasangopanam |<br/>
-Khyātaṃ tad gaṇaśāsanaṃ tadaparaṃ bhraṣṭā'sanaṃ nāśanam ||
+Khyātaṃ tad gaṇaśāsanaṃ tadaparaṃ bhraṣṭā'sanaṃ nāśanam || 15 ||
 
 ### पदच्छेदम् (Padacchedam):
 सौभाग्य-उन्नयनम् | समस्त-जनता-आनन्द-अरविन्द-प्रदम् | नाना-आवास-निवास-सुप्ति-सुखदम् | दुर्भीति-विध्वंसनम् | दारिद्र्य-द्रवणम् | सदा-अन्न-जननम् | नग्न-अङ्ग-सङ्गोपनम् | ख्यातम् | तत् | गणशासनम् | तत्-अपरम् | भ्रष्ट-आसनम् | नाशनाम् |
@@ -40,11 +40,11 @@ That which enhances prosperity, causes the lotus of joy to bloom for all people,
 यन्न स्याद् रणतन्त्रमेव च मिथो मुष्टिप्रहारप्रियम् |<br/>
 न स्यान्मुष्टिकरं समागतजनग्रन्थिस्थवित्तस्य वा ||<br/>
 चेतस्तुष्टिकरं सुपुष्टिकरणं स्नेहस्य देहस्य वा |<br/>
-तत् प्रोक्तं गणशासनाऽपर पदं गाजाननं शासनम् ||<br/>
+तत् प्रोक्तं गणशासनाऽपर पदं गाजाननं शासनम् || १६ ||<br/>
 Yanna syād raṇatantrameva ca mitho muṣṭiprahārapriyam |<br/>
 Na syānmuṣṭikaraṃ samāgatajanagranthisthavittasya vā ||<br/>
 Cetastuṣṭikaraṃ supuṣṭikaraṇaṃ snehasya dehasya vā |<br/>
-Tat proktaṃ gaṇaśāsanā'para padaṃ gājānanaṃ śāsanam ||
+Tat proktaṃ gaṇaśāsanā'para padaṃ gājānanaṃ śāsanam || 16 ||
 
 ### पदच्छेदम् (Padacchedam):
 यत् | न | स्यात् | रणतन्त्रम् | एव | च | मिथः | मुष्टि-प्रहार-प्रियम् | न | स्यात् | मुष्टिकम् | समागत-जन-ग्रन्थि-स्थ-वित्तस्य | वा | चेतः-तुष्टिकम् | सुपुष्टिकरणम् | स्नेहस्य | देहस्य | वा | तत् | प्रोक्तम् | गणशासन-अपर-पदम् | गाजाननम् | शासनम् |
@@ -70,11 +70,11 @@ That which is not merely a strategy of war involving mutual fisticuffs, and whic
 विद्यानामभिनन्द्यताप्रतरणं विस्थापिशारण्यदम् |<br/>
 नानास्वोन्नतिखाननं जनमतानां मूल्यसम्बन्धनम् ||<br/>
 आईदानीन्तनभारते द्रुततमं लक्ष्मीसमावासनम् |<br/>
-गुप्तश्रीगणपाननं शुभविभं गाजाननं शासनम् ||<br/>
+गुप्तश्रीगणपाननं शुभविभं गाजाननं शासनम् || १७ ||<br/>
 Vidyānāmabhinandyatāprataraṇaṃ visthāpiśāraṇyadam |<br/>
 Nānāsvonnatikhānanaṃ janamatānāṃ mūlyasambandhanam ||<br/>
 Aidānīntanabhārate drutatamaṃ lakṣmīsamāvāsanam |<br/>
-Guptaśrīgaṇapānanaṃ śubhavibhaṃ gājānanaṃ śāsanam ||
+Guptaśrīgaṇapānanaṃ śubhavibhaṃ gājānanaṃ śāsanam || 17 ||
 
 ### पदच्छेदम् (Padacchedam):
 विद्यानाम् | अभिनन्द्यता-प्रतरणम् | विस्थापि-शारण्यदम् | नाना-स्व-उन्नति-खाननम् | जन-मतानाम् | मूल्य-सम्बन्धनम् | आईदानीन्तन-भारते | द्रुततमम् | लक्ष्मी-समावासनम् | गुप्त-श्री-गणप-आननम् | शुभ-विभम् | गाजाननम् | शासनम् |
@@ -100,11 +100,11 @@ That which promotes knowledge, provides refuge to the displaced, creates various
 विभ्रन् मङ्गलमोदकं गुरुतमैः कार्यैर्भवेत् तुन्दिलः |<br/>
 सिध्यद्योजनया विशालतमया शुण्डश्रिया शोभितः ||<br/>
 सत्कारं जनताऽऽननात् करयुगात् सिन्दूरवद् धारयन् |<br/>
-वन्द्यं शासनरूपगोपितवपुः श्रीतुन्दिलं शासनम् ||<br/>
+वन्द्यं शासनरूपगोपितवपुः श्रीतुन्दिलं शासनम् || १८ ||<br/>
 Vibhran maṅgalamodakaṃ gurutamaiḥ kāryairbhavet tundilaḥ |<br/>
 Sidhyadyojanayā viśālatamayā śuṇḍaśriyā śobhitaḥ ||<br/>
 Satkāraṃ janatā'nanāt karayugāt sindūravad dhārayan |<br/>
-Vandyaṃ śāsanarūpagopitavapuḥ śrītundilaṃ śāsanam ||
+Vandyaṃ śāsanarūpagopitavapuḥ śrītundilaṃ śāsanam || 18 ||
 
 ### पदच्छेदम् (Padacchedam):
 विभ्रन् | मङ्गल-मोदकम् | गुरुतमैः | कार्यैः | भवेत् | तुन्दिलः | सिध्यत्-योजनया | विशालतमया | शुण्ड-श्रिया | शोभितः | सत्कारम् | जनता-आननात् | कर-युगात् | सिन्दूर-वत् | धारयन् | वन्द्यम् | शासन-रूप-गोपित-वपुः | श्री-तुन्दिलम् | शासनम् |
@@ -131,12 +131,12 @@ Bearing the auspicious Modaka, becoming corpulent through great and heavy tasks,
 यस्मिन् दूषक मूषकोऽपि न भजेन्मृत्युं क्षुधा पीडितः |<br/>
 किं यः स्यान्मनुजो गजेन सदृशो नेता समाजस्यवा ||<br/>
 हस्ते मोदकवान् परं च कमलान्नि लिप्ततां द्योतयेत् |<br/>
-पर्शुं दुष्ट कृते सते त्वभयतां दध्यादिदं शासनम् ||
+पर्शुं दुष्ट कृते सते त्वभयतां दध्यादिदं शासनम् || १९ ||
 
 Yasmin dūṣaka mūṣako'pi na bhajenmṛtyuṃ kṣudhā pīḍitaḥ |<br/>
 Kiṃ yaḥ syānmanujo gajena sadṛśo netā samājasya vā ||<br/>
 Haste modakavān paraṃ ca kamalānni liptatāṃ dyotayet |<br/>
-Parśuṃ duṣṭa kṛte sate tvabhayatāṃ dadhyādidaṃ śāsanam ||
+Parśuṃ duṣṭa kṛte sate tvabhayatāṃ dadhyādidaṃ śāsanam || 19 ||
 
 ### पदच्छेदम् (Padacchedam):
 यस्मिन् | दूषक-मूषकः | अपि | न | भजेन्-मृत्युं | क्षुधा-पीडितः | किं | यः | स्यात्-मनुजः | गजेन | सदृशः | नेता | समाजस्य | वा | हस्ते | मोदकवान् | परं | च | कमलात् | निलिप्ततां | द्योतयेत् | पर्शुं | दुष्ट-कृते | सते | तु | अभयतां | दध्यात् | इदं | शासनम् |
@@ -167,12 +167,12 @@ In a state where even a destructive mouse, though afflicted by hunger, does not 
 विष्णोः पङ्कज धारणं तु सरसं पत्न्यासनं तद् यतः |<br/>
 निस्वार्थं कमलं करे धरति यः कर्यासणः केवलम् ||<br/>
 सम्मर्दं गमितं च यद् बलिजनैः स्वो नितम्बैश्च वा |<br/>
-तच्छान्त्यै करधारणं गणपते र्बाभास्यतेऽद्यावधौ ||
+तच्छान्त्यै करधारणं गणपते र्बाभास्यतेऽद्यावधौ || २० ||
 
 Viṣṇoḥ paṅkaja dhāraṇaṃ tu sarasaṃ patnyāsanaṃ tad yataḥ |<br/>
 Nisvārthaṃ kamalaṃ kare dharati yaḥ karyāsaṇaḥ kevalam ||<br/>
 Sammardaṃ gamitaṃ ca yad balijanaiḥ svo nitambaiśca vā |<br/>
-Tacchāntyai karadhāraṇaṃ gaṇapate rbābhāsyate'dyāvadhau ||
+Tacchāntyai karadhāraṇaṃ gaṇapate rbābhāsyate'dyāvadhau || 20 ||
 
 ### पदच्छेदम् (Padacchedam):
 विष्णोः | पङ्कज-धारणं | तु | सरसं | पत्नी-आसनं | तत् | यतः | निस्वार्थं | कमलं | करे | धरति | यः | करि-आसनः [possible reading: कर्यासणः — Gajanana/Elephant-faced] | केवलम् | सम्मर्दं | गमितं | च | यत् | बलिजनैः | स्व-नितम्बैः | च | वा | तत्-शान्त्यै | कर-धारणं | गणपतेः | बाभास्यते | अद्यावधौ |

@@ -7,13 +7,13 @@ The heroism of Rani Lakshmibai of Jhansi, and the significance of the eighth day
 गौराङ्गोच्छलता ऽसृजा स्वतिलकं भाले विशालाकृतिम् |<br/>
 या धत्तेस्म च शाक्तमार्गरसिका झांसीधराऽधीश्वरी ||<br/>
 सत्ताया अवनाय या कृतवती सत्तावनं वत्सरम् |<br/>
-सार्थं वा विदधे रणं व्रणकरं क्षेत्रं स्वपुण्यश्रियाम् ||
+सार्थं वा विदधे रणं व्रणकरं क्षेत्रं स्वपुण्यश्रियाम् || ६६ ||
 
 Jhāṃśīśvarī śauryāmṛtāt -<br/>
 Gaurāṅgocchalatā 'sṛjā svatilakaṃ bhāle viśālākṛtim |<br/>
 Yā dhattesma ca śāktamārgarasikā jhāṃśīdharā'dhīśvarī ||<br/>
 Sattāyā avanāya yā kṛtavatī sattāvanaṃ vatsaram |<br/>
-Sārthaṃ vā vidadhe raṇaṃ vraṇakaraṃ kṣetraṃ svapuṇyaśriyām ||
+Sārthaṃ vā vidadhe raṇaṃ vraṇakaraṃ kṣetraṃ svapuṇyaśriyām || 66 ||
 
 ### पदच्छेदम् (Padacchedam):
 गौरा-अङ्ग-उच्छलता | असृजा | स्व-तिलकम् | भाले | विशाल-आकृतिम् | या | धत्तेस्म | च | शाक्त-मार्ग-रसिका | झांसी-धरा-अधीश्वरी | सत्तायाः | अवनाय | या | कृतवती | सत्तावनम् | वत्सरम् | सार्थम् | वा | विदधे | रणम् | व्रणकरम् | क्षेत्रम् | स्व-पुण्य-श्रियाम् |
@@ -35,12 +35,12 @@ The Queen of Jhansi, who possessed a deep devotion to Shakti, would adorn her fo
 या पृष्ठ स्थित बालकं स्म मनुते गोपालबालं हरिम् |<br/>
 बालोऽमन्यत मेऽङ्कगास्ति जननी त्यानन्द मेवान्वभूत् ||<br/>
 खड्गानां खटकारतोऽस्मरदयं स्वं जन्मजं कीर्तनम् |<br/>
-सुप्तश्चापि च जाग्रतोऽप्यनुपलं द्वेधा सुखे तस्थिवान् ||
+सुप्तश्चापि च जाग्रतोऽप्यनुपलं द्वेधा सुखे तस्थिवान् || ६७ ||
 
 Yā pṛṣṭha sthita bālakaṃ sma manute gopālabālaṃ harim |<br/>
 Bālo'manyata me'ṅkagāsti jananī tyānanda mevānvabhūt ||<br/>
 Khaḍgānāṃ khaṭakārato'smaradayaṃ svaṃ janmajaṃ kīrtanam |<br/>
-Suptaścāpi ca jāgrato'pyanupalaṃ dvedhā sukhe tasthivān ||
+Suptaścāpi ca jāgrato'pyanupalaṃ dvedhā sukhe tasthivān || 67 ||
 
 ### पदच्छेदम् (Padacchedam):
 या | पृष्ठ-स्थित-बालकम् | स्म | मनुते | गोपाल-बालम् | हरिम् | बालः | अमन्यत | मे | अङ्क-गा | अस्ति | जननीति | आनन्दम् | एव | अन्वभूत् | खड्गानाम् | खटकारतः | अस्मरात् | अयम् | स्वम् | जन्मजम् | कीर्तनम् | सुप्तः | च | अपि | च | जाग्रतः | अपि | अनुपलाम् | द्वेधा | सुखे | तस्थिवान् |
@@ -65,13 +65,13 @@ The Queen of Jhansi perceived the child tied to her back as the infant Gopala-Kr
 यो ऽष्टम्यां जनिमेत्य मातुल मिवा वोचत् स्वसंकेतः |<br/>
 सोऽहं यत्करतो गिराऽभ्रभवया मृत्यु स्तवोक्तो ध्रुवः ||<br/>
 न स्यान्नारदरीतितस्तव मनो भ्रान्तं नितान्तं क्वचित् |<br/>
-संख्येयं तु विशेषणं तिथि रिति त्वद् वञ्चनामात्मकम् ||
+संख्येयं तु विशेषणं तिथि रिति त्वद् वञ्चनामात्मकम् || ६८ ||
 
 Śrīkṛṣṇacandra janmāṅgādaṣṭamī janma kāraṇam -<br/>
 Yo 'ṣṭamyāṃ janimetya mātula mivā vocat svasaṃketaḥ |<br/>
 So'haṃ yatkarato girā'bhrabhavayā mṛtyu stavokto dhruvaḥ ||<br/>
 Na syānnāradarītitastava mano bhrāntaṃ nitāntaṃ kvacit |<br/>
-Saṃkhyeyaṃ tu viśeṣaṇaṃ tithi riti tvad vañcanātmakam ||
+Saṃkhyeyaṃ tu viśeṣaṇaṃ tithi riti tvad vañcanātmakam || 68 ||
 
 ### पदच्छेदम् (Padacchedam):
 यः | अष्टम्याम् | जनिम् | एत्य | मातुलम् | इव | अवोचत् | स्व-संकेतः | सः | अहम् | यत्-करतः | गिरा | अभ्र-भवया | मृत्युः | तव | उक्तः | ध्रुवः | न | स्यात् | नारद-रीतितः | तव | मनः | भ्रान्तम् | नितान्तम् | क्वचित् | संख्या | इयम् | तु | विशेषणम् | तिथिः | इति | त्वत्-वञ्चना-आत्मकम् |
@@ -95,12 +95,12 @@ Having taken birth on the Ashtami, Sri Krishna spoke to his uncle Kamsa as if to
 दर्शाद् व्युत्क्रमतः क्रमात् प्रतिपदो गण्येत चेदष्टमी |<br/>
 स्वां संख्यां न जहाति वीक्ष्य तदहं तस्यामवापं जनुः ||<br/>
 तत् स्याद् सोदयगाऽर्धरात्रिमिलिता द्वेधापि मे जन्मनः |<br/>
-संख्यां ख्यापयते ततो मम जने र्मद्रूपिणी मन्यते ||
+संख्यां ख्यापयते ततो मम जने र्मद्रूपिणी मन्यते || ६९ ||
 
 Darśād vyutkramataḥ kramāt pratipado gaṇyeta cedaṣṭamī |<br/>
 Svāṃ saṃkhyāṃ na jahāti vīkṣya tadahaṃ tasyāmavāpaṃ januḥ ||<br/>
 Tat syād sodayagā'rdharātrimilitā dvedhāpi me janmanaḥ |<br/>
-Saṃkhyāṃ khyāpayate tato mama jane rmadrūpiṇī manyate ||
+Saṃkhyāṃ khyāpayate tato mama jane rmadrūpiṇī manyate || 69 ||
 
 ### पदच्छेदम् (Padacchedam):
 दर्शात् | व्युत्क्रमतः | क्रमात् | प्रतिपदः | गण्येत | चेत् | अष्टमी | स्वाम् | संख्याम् | न | जहाति | वीक्ष्य | तत् | अहम् | तस्याम् | अवापम् | जनुः | तत् | स्यात् | सा | उदय-गा | अर्धरात्रि-मिलिता | द्वेधा | अपि | मे | जन्मनः | संख्याम् | ख्यापयते | ततः | मम | जनेः | मत्-रूपिणी | मन्यते |
@@ -123,12 +123,12 @@ Whether one counts backwards from the New Moon or forwards from the first day of
 अर्धांशंविलिखन्ति यच्च वणिजोऽन्येभ्यो धनाद्यर्पणे |<br/>
 तद् बोधाय बुधाभिधं दिनमिदं पिप्राय कृष्णं प्रभुम् ||<br/>
 यस्या अर्धमिता भवन्ति गणने चत्वार एव स्फुटम् |<br/>
-एषव्युत्क्रमतः क्रमादपितथा दार्ढ्याय संकेतःये ||
+एषव्युत्क्रमतः क्रमादपितथा दार्ढ्याय संकेतःये || ७० ||
 
 Ardhāṃśaṃvilikhanti yacca vaṇijo'nyebhyo dhanādyarpaṇe |<br/>
 tad bodhāya budhābhidhaṃ dinamidaṃ piprāya kṛṣṇaṃ prabhum ||<br/>
 yasyā ardhamitā bhavanti gaṇane catvāra eva sphuṭam |<br/>
-eṣavyutkramataḥ kramādapitathā dārḍhyāya saṃketaye ||
+eṣavyutkramataḥ kramādapitathā dārḍhyāya saṃketaye || 70 ||
 
 ### पदच्छेदम् (Padacchedam):
 अर्ध-अंशम् | विलिखन्ति | यत् | च | वणिजः | अन्येभ्यः | धन-आदि-अर्पणे | तत् | बोधाय | बुध-अभिधम् | दिनम् | इदम् | पिप्राय | कृष्णम् | प्रभुम् | यस्याः | अर्ध-मिताः | भवन्ति | गणने | चत्वारः | एव | स्फुटम् | एषः | व्युत्क्रमतः | क्रमात् | अपि | तथा | दार्ढ्याय | संकेतःये |
