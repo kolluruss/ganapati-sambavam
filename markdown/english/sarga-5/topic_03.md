@@ -6,12 +6,12 @@ The act of Shiva bestowing life by attaching the elephant's head to the boy's to
 शम्भौ जीवनदे क्षणेन तदपि प्राविधिः स्तूयते |<br/>
 तस्मात्तत्र समैतिजैः सहचरै र्योगः प्रभार्पितः ||<br/>
 शम्भोः संयुहि संयुहीति च गिरो जीवेति या बोद् गताः |<br/>
-मन्ये मन्त्र सुयन्त्र तन्त्र शतकं प्रोच्चार्यते स्मर्यते ||
+मन्ये मन्त्र सुयन्त्र तन्त्र शतकं प्रोच्चार्यते स्मर्यते || 37 ||
 
 Śambhau jīvanade kṣaṇena tadapi prāvidhiḥ stūyate |<br/>
 Tasmāttatra samaitijaiḥ sahacarai ryogaḥ prabhārpitaḥ ||<br/>
 Śambhoḥ saṃyuhi saṃyuhīti ca giro jīveti yā bod gatāḥ |<br/>
-Manye mantra suyantra tantra śatakaṃ proc-cāryate smaryate ||
+Manye mantra suyantra tantra śatakaṃ proc-cāryate smaryate || 37 ||
 
 ### पदच्छेदम् (Padacchedam):
 शम्भौ | जीवनदे | क्षणेन | तत् | अपि | प्राविधिः | स्तूयते | तस्मात् | तत्र | समैतिजैः | सहचरैः | योगः | प्रभार्पितः | शम्भोः | संयुहि | संयुहि | इति | च | गिरः | जीव | इति | याः | वा | उद्गताः | मन्ये | मन्त्रसुयन्त्रतन्त्रशतकम् | प्रोच्चार्यते | स्मर्यते
@@ -42,12 +42,12 @@ Although Lord Shiva is capable of bestowing life in a mere moment, the great one
 शम्भोः सम्मिलिताश्च नेत्रनिबहा स्तल्लोचनेऽमीमिलन् |<br/>
 पार्वत्या सहसा जहास सह स द्वेधा द्विरूपो यतः ||<br/>
 दृष्टिं तत्र गिरीन्द्रजापि निदधे तस्मात् क्षयस्य क्षणात् |<br/>
-सान्तः शक्तिप्रदा बभूव न परं पत्यु र्यशोऽचूचुरत् ||
+सान्तः शक्तिप्रदा बभूव न परं पत्यु र्यशोऽचूचुरत् || 38 ||
 
 Śambhoḥ sammilitāśca netranibahā stallocane'mīmilan |<br/>
 Pārvatyā sahasā jahāsa saha sa dvedhā dvirūpo yataḥ ||<br/>
 Dṛṣṭiṃ tatra girīndrajāpi nidadhe tasmāt kṣayasya kṣaṇāt |<br/>
-Sāntaḥ śaktipradā babhūva na paraṃ patyu ryaśo'cūcurat ||
+Sāntaḥ śaktipradā babhūva na paraṃ patyu ryaśo'cūcurat || 38 ||
 
 ### पदच्छेदम् (Padacchedam):
 शम्भोः | सम्मिलिताः | च | नेत्रनिबहाः | तल्लोचने | अमीमिलन् | पार्वत्या | सहसा | जहास | सह | सः | द्वेधा | द्विरूपः | यतः | दृष्टिम् | तत्र | गिरीन्द्रजा | अपि | निदधे | तस्मात् | क्षयस्य | क्षणात् | सा | अन्तः | शक्तिप्रदा | बभूव | न | परम् | पत्युः | यशः | अचूचुरत्
@@ -78,12 +78,12 @@ The radiance of Lord Shiva's many eyes united and merged with the eyes of the bo
 मृत्योराननगो जनो ऽक्षिपुरतः स्याच्चेत् पुनर्जीवितः |<br/>
 आश्चर्याम्बुधि रिन्दुरश्मिविरहे ऽप्युद्वेलते मानसे ||<br/>
 सर्वे रेव चमत्कार प्रतिनतै र्भक्त्याव बोभूयते |<br/>
-आश्चर्यं च चमत्कारश्च चिरतो मन्ये मतौ दम्पती ||
+आश्चर्यं च चमत्कारश्च चिरतो मन्ये मतौ दम्पती || 39 ||
 
 Mṛtyorānanago jano 'kṣipurataḥ syāccet punarjīvitaḥ |<br/>
 Āścaryāmbudhi rinduraśmivirahe 'pyudvelate mānase ||<br/>
 Sarve reva camatkāra pratinatai rbhaktyāva bobhūyate |<br/>
-Āścaryaṃ ca camatkāraśca cirato manye matau dampatī ||
+Āścaryaṃ ca camatkāraśca cirato manye matau dampatī || 39 ||
 
 ### पदच्छेदम् (Padacchedam):
 मृत्योः | आननगः | जनः | अक्षिपुरतः | स्यात् | चेत् | पुनर्जीवितः | आश्चर्याम्बुधिः | इन्दुरश्मिविरहे | अपि | उद्वेलते | मानसे | सर्वैः | एव | चमत्कारप्रतिनतैः | भक्त्या | एव | बोभूयते | आश्चर्यम् | च | चमत्कारः | च | चिरतः | मन्ये | मतौ | दम्पती
@@ -113,12 +113,12 @@ If a person who has fallen into the mouth of death comes back to life before one
 अन्तर्योग विधि र्बहि र्व्यवहृति र्नित्यं गृहस्थक्रमैः |<br/>
 दृष्टे यैः शिवयोस्त एव स-शिवे तेनुःशिवे सम्मतिम् ||<br/>
 नो चित्ते सुधरौ गिरा न सुवचौ नित्या विमौ दम्पती |<br/>
-लीलामात्रमिदं तयोर्विहरणम् को वेद तौ तत्वतः ? ||
+लीलामात्रमिदं तयोर्विहरणम् को वेद तौ तत्वतः ? || 40 ||
 
 Antaryoga vidhi rbahi rvyahavṛti rnityaṃ gṛhasthakramaiḥ |<br/>
 Dṛṣṭe yaiḥ śivayosta eva sa-śive tenuḥśive sammatim ||<br/>
 No citte sudharau girā na suvacau nityā vimau dampatī |<br/>
-Līlāmātramidam tayorviharaṇam ko veda tau tatvataḥ ? ||
+Līlāmātramidam tayorviharaṇam ko veda tau tatvataḥ ? || 40 ||
 
 ### पदच्छेदम् (Padacchedam):
 अन्तर्योगविधिः | बहिः | व्यवहारः [possible reading: व्यवहारः — vyavahāraḥ] | नित्यम् | गृहस्थक्रमैः | दृष्टे | यैः | शिवयोः | ते | एव | सशिवे | तेनुः | शिवे | सम्मतिम् | नो | चित्ते | सुधरौ | गिरा | न | सुवचौ | नित्यौ | इमौ | दम्पती | लीलामात्रम् | इदम् | तयोः | विहरणम् | कः | वेद | तौ | तत्वतः
@@ -151,12 +151,12 @@ Gadyam: The beginning of the boy's play.
 सा जागृतिमिता गजी हतसुतं दृष्ट्वा चिखेद क्षणम् |<br/>
 मत्वा व्याघ्रविशेषकृत्यमिदकं सन्तोष माशिश्रयत् ||<br/>
 दिष्ट्या ! यन्न स पापकः मयि दधे स्वीयोन्नखानां क्षतीः |<br/>
-तादृक् सुप्तिजुषो ममापि सुखतोऽवश्यं भवेद् हा ! हतिः ||
+तादृक् सुप्तिजुषो ममापि सुखतोऽवश्यं भवेद् हा ! हतिः || 41 ||
 
 sā jāgṛtimitā gajī hatasutaṃ dṛṣṭvā cikheda kṣaṇam |<br/>
 matvā vyāghraviśeṣakṛtyamidakaṃ santoṣa māśiśrayat ||<br/>
 diṣṭyā ! yanna sa pāpakaḥ mayi dadhe svīyonnakhānāṃ kṣatīḥ |<br/>
-tādṛk suptijuṣo mamāpi sukhato'vaśyaṃ bhaved hā ! hatiḥ ||
+tādṛk suptijuṣo mamāpi sukhato'vaśyaṃ bhaved hā ! hatiḥ || 41 ||
 
 ### पदच्छेदम् (Padacchedam):
 सा | जागृतिमिता | गजी | हतसुतम् | दृष्ट्वा | चिखेद | क्षणम् | मत्वा | व्याघ्रविशेषकृत्यम् | इदकम् | सन्तोषम् | आशिश्रयत् | दिष्ट्या | यत् | न | सः | पापकः | मयि | दधे | स्वीयोन्नखानाम् | क्षतीः | तादृक् | सुप्तिजुषः | मम् | अपि | सुखतः | अवश्यम् | भवेत् | हा | हतिः
@@ -196,12 +196,12 @@ Upon waking from sleep, the female elephant saw her son lying dead and lamented 
 वागारम्भण मेव मानवगणे त्वात्मा पदार्थः प्रियः |<br/>
 तस्मा एव सुतो धनं च वनिता मित्राणि माता पिता ||<br/>
 पुत्रादे र्न हिताय ते ह्यभिमता नक्तं दिनं घोष्यते |<br/>
-आचारावसरे तु तत्तदखिलं स्वत्त्वेन संस्मर्यते ||
+आचारावसरे तु तत्तदखिलं स्वत्त्वेन संस्मर्यते || 42 ||
 
 vāgārambhaṇa meva mānavagaṇe tvātmā padārthaḥ priyaḥ |<br/>
 tasmā eva suto dhanaṃ ca vanitā mitrāṇi mātā pitā ||<br/>
 putrāde rna hitāya te hyabhimatā naktaṃ dinaṃ ghoṣyate |<br/>
-ācārāvasare tu tattadakhilaṃ svattvena saṃsmaryate ||
+ācārāvasare tu tattadakhilaṃ svattvena saṃsmaryate || 42 ||
 
 ### पदच्छेदम् (Padacchedam):
 वागारम्भणम् | एव | मानवगणे | तु | आत्मा | पदार्थः | प्रियः | तस्मै | एव | सुतः | धनम् | च | वनिता | मित्राणि | माता | पिता | पुत्रादेः | न | हिताय | ते | हि | अभिमताः | नक्तम् | दिनम् | घोष्यते | आचारावसरे | तु | तत्तदखिलम् | स्वत्त्वेन | संस्मर्यते
@@ -240,12 +240,12 @@ Among humans, the assertion that "the Atman is the most beloved" is often merely
 आचारस्तु वनेचरेषु सकलेष्वालोक्यते ऽसंशयम् |<br/>
 यत्तै द्विक्षणतः परं सुतगृहध्याना दुपारम्यते ||<br/>
 स्वात्मकः परिचिन्त्यतेऽशनपिपासस्वप्नकर्मव्रजे |<br/>
-सा इभी [possible reading: सेभी — see note] चापि चकार चंक्रमणकं निर्भी र्भवन्ती वने ||
+सा इभी [possible reading: सेभी — see note] चापि चकार चंक्रमणकं निर्भी र्भवन्ती वने || 43 ||
 
 ācārastu vaneclareṣu sakaleṣvālokyate 'saṃśayam |<br/>
 yattai dvikṣaṇataḥ paraṃ sutagṛhadhyānā dupāramyate ||<br/>
 svātmakaḥ paricintyate'śanapipāsāsvapnakarmavraje |<br/>
-sā ibhī [possible reading: sebhī — see note] cāpi cakāra caṃkramaṇakaṃ nirbhī rbhavantī vane ||
+sā ibhī [possible reading: sebhī — see note] cāpi cakāra caṃkramaṇakaṃ nirbhī rbhavantī vane || 43 ||
 
 ### पदच्छेदम् (Padacchedam):
 आचारः | तु | वनेचरेषु | सकलेषु | आलोक्यते [आलोक्यते] | असंशयम् | यत् | तैः | द्विक्षणतः | परम् | सुतगृहध्यानात् | उपारम्यते | स्वात्मकः | परिचिन्त्यते | अशनपिपासस्वप्नकर्मव्रजे | सा | इभी [possible reading: सेभी] | च | अपि | चकार | चंक्रमणकम् | निर्भीः | भवन्ती | वने

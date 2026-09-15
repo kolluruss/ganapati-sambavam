@@ -8,11 +8,11 @@ Prose: The pastimes of the boy's commencement of education— Meaning: The pasti
 योऽलेखी दिव शुण्ड कुण्डल विधे रोमक्षरं त्र्यक्षरम् |<br/>
 व्याकृत्या गुणवृद्दि संज्ञकतया विख्यात वर्णावलीम् ||<br/>
 नाऽऽधारो न च लेखनी न च मसी व्योम्न्येव शुण्डभ्रमः |<br/>
-नत्यौन्नत्यसुशिल्पकल्पनपर स्तातस्थ मातुः पुरः ||<br/>
+नत्यौन्नत्यसुशिल्पकल्पनपर स्तातस्थ मातुः पुरः || 53 ||<br/>
 yo’lekhī diva śuṇḍa kuṇḍala vidhe romakṣaraṃ tryakṣaram |<br/>
 vyākṛtyā guṇavṛddi saṃjñakatayā vikhyāta varṇāvalīm ||<br/>
 nā’’dhāro na ca lekhanī na ca masī vyomnyeva śuṇḍabhramaḥ |<br/>
-natyaunnatyasuśilpakalpanapara stātastha mātuḥ puraḥ ||
+natyaunnatyasuśilpakalpanapara stātastha mātuḥ puraḥ || 53 ||
 
 ### पदच्छेदम् (Padacchedam):
 यः | अलेखीत् | इव | शुण्डकुण्डलविधेः | ओम्क्षरम् [possible reading: ओम्क्षरम् — Omkṣaram] | त्र्यक्षरम् | व्याकृत्या | गुणवृद्दिसंज्ञकतया | विख्यातवर्णावलीम् | न | आधारः | न | च | लेखनी | न | च | मसी | व्योम्नि | एव | शुण्डभ्रमः | नत्यौन्नत्यसुशिल्पकल्पनपरः | तातस्थमातुः | पुरः
@@ -44,11 +44,11 @@ Ganapati appeared as if he were writing the 'Omkara', consisting of three letter
 जग्राहाऽमरा दकार मलुना दिन्द्रा ह्वयात् हासयन् |<br/>
 उच्चा 'दु'ञ्च स ऋक्षतो ऋम धरत् स्वाग्रेभयाद् धावतः ||<br/>
 कण्ठस्थानी ककारं कमलतश्चन्द्रा च्चकारं च वा |<br/>
-तत्तन् नाम निशम्य रम्यविधिना वर्णान् समा नग्रहीत् ||<br/>
+तत्तन् नाम निशम्य रम्यविधिना वर्णान् समा नग्रहीत् || 54 ||<br/>
 jagrāhā’marā dakāra malunāt dindrā hvayāt hāsayan |<br/>
 uccā 'du'ñca sa ṛkṣato ṛma dharat svāgrebhayād dhāvataḥ ||<br/>
 kaṇṭhasthāni kakāraṃ kamalataścandrā ccakāraṃ ca vā |<br/>
-tattan nāma niśamya ramyavidhinā varṇān samān agrahīt ||
+tattan nāma niśamya ramyavidhinā varṇān samān agrahīt || 54 ||
 
 ### पदच्छेदम् (Padacchedam):
 जग्राह | अमरात् | अकारम् | अलूनात् [possible reading: अलूनात् — Alūnāt] | इन्द्राह्वयात् | इकारम् | हासयन् | उच्चात् | उम् | च | सः | ऋक्षतः | ऋम् | अधरत् | स्वाग्रे | भयात् | धावतः | कण्ठस्थानी | ककारम् | कमलतः | चन्द्रात् | चकारम् | च | वा | तत्तन्नाम | निशम्य | रम्यविधिना | वर्णान् | समान् | अग्रहीत्
@@ -83,11 +83,11 @@ The boy grasped the letter 'A' from the word 'Amara', and while making everyone 
 आम्नायं डमरुध्वने र्भगवता दन्ध्वन्यमानाद् घनम् |<br/>
 संगीतं जननी पदाम्बुज रणत्कारे रता न्नूपुरात् ||<br/>
 नृत्यं ताण्डव दर्शनात् प्रतिदिनं स्वाभ्यास वृद्धेर्बलात् |<br/>
-सर्वज्ञान निधानमेव मभवन् मन्ये ततस्तुन्दिलः ||<br/>
+सर्वज्ञान निधानमेव मभवन् मन्ये ततस्तुन्दिलः || 55 ||<br/>
 āmnāyaṃ ḍamarudhvane rbhagavatā dandhvanyamānād ghanam |<br/>
 saṃgītaṃ jananī padāmbuja raṇatkāre ratā nnūpurāt ||<br/>
 nṛtyaṃ tāṇḍava darśanāt pratidinaṃ svābhyāsa vṛddherbalāt |<br/>
-sarvajñāna nidhānameva mabhavan manye tatastundilaḥ ||
+sarvajñāna nidhānameva mabhavan manye tatastundilaḥ || 55 ||
 
 ### पदच्छेदम् (Padacchedam):
 आम्नायम् | डमरुध्वनेः | भगवता | दन्ध्वन्यमानात् | घनम् | संगीतम् | जननीपदाम्बुजरणत्कारेरतात् | नूपुरात् | नृत्यम् | ताण्डवदर्शनात् | प्रतिदिनम् | स्वाभ्यासवृद्धेः | बलात् | सर्वज्ञाननिधानम् | एवम् | अभवन् | मन्ये | ततः | तुन्दिलः
@@ -119,11 +119,11 @@ From the sound of the Damaru being played intensely by the Lord (Shiva), the boy
 यं दृष्ट्वा गगने कृत स्थितिरभूत् श्री सप्तसप्तिः क्षणम् |<br/>
 ताम्बूलेन समान्श्चचार्वच चिरं सत्सप्तपर्णच्छदान् ||<br/>
 दूर्वाग्रा नविवेश्ट देश हरितान द्राघीयसः पादयोः |<br/>
-तत्रैवोप्ति मिता निवा विरकरोत् पत् पङ्कजाधस्तनान् ||<br/>
+तत्रैवोप्ति मिता निवा विरकरोत् पत् पङ्कजाधस्तनान् || 56 ||<br/>
 yaṃ dṛṣṭvā gagane kṛta sthitirabhūt śrī saptasaptiḥ kṣaṇam |<br/>
 tāmbūlena samāñścacārvaca ciraṃ satsaptaparṇacchadān ||<br/>
 dūrvāgrā naviveṣṭa deṣa haritān drāghīyasaḥ pādayoḥ |<br/>
-tatraivopti mitā nivā virakarot pat paṅkajādhastanān ||
+tatraivopti mitā nivā virakarot pat paṅkajādhastanān || 56 ||
 
 ### पदच्छेदम् (Padacchedam):
 यम् | दृष्ट्वा | गगने | कृतस्थितिः | अभूत् | श्रीसप्तसप्तिः | क्षणम् | ताम्बूलेन | समान् | चचार्व | च | चिरम् | सत्सप्तपर्णच्छदान् | दूर्वाग्रान् | अविवेश्टत् | एषः | हरि तान् [possible reading: हरितान् — Haritān] | द्राघीयसः | पादयोः | तत्र | एव | उप्तिम् | इतान् | इव | आविरकरोत् | पत्पङ्कजाधस्तनान्
@@ -154,12 +154,12 @@ Seeing him, the Sun God, who possesses seven horses, stood still in the sky for 
 जम्बूनामफलं चुष च भृशं सद्भृङ्गसङ्घप्रभम् | <br/>
 मन्ये जङ्गमविघ्नबालशतकं प्रादीदरद् दर्पतः || <br/>
 चक्रे कन्दुकवत् कपित्थफलकं स्वक्रीडनेष्वादृतम् | <br/>
-यत् स्यात् खेलसमापने क्षुधितता-शान्त्यै सुखं भोजनम् || <br/>
+यत् स्यात् खेलसमापने क्षुधितता-शान्त्यै सुखं भोजनम् || 57 ||<br/>
 
 Jambūnāmaphalaṃ cuṣa ca bhṛśaṃ sadbhṛṅgasaṅghaprabham | <br/>
 Manye jaṅgamavighnabālaśatakaṃ prādīdarad darpataḥ || <br/>
 Cakre kandukavat kapitthaphalakaṃ svakrīḍaneṣvādṛtam | <br/>
-Yat syāt khelasamāpane kṣudhitatā-śāntyai sukhaṃ bhojanam || <br/>
+Yat syāt khelasamāpane kṣudhitatā-śāntyai sukhaṃ bhojanam || 57 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 जम्बूनामफलम् | चुष | च | भृशम् | सद्भृङ्गसङ्घप्रभम् | मन्ये | जङ्गमविघ्नबालशतकम् | प्रादीदरत् | दर्पतः | चक्रे | कन्दुकवत् | कपित्थफलकम् | स्वक्रीडनेषु | आदृतम् | यत् | स्यात् | खेलसमापने | क्षुधितताशान्त्यै | सुखम् | भोजनम्
@@ -190,12 +190,12 @@ He would intensely suck upon the Jambu fruits, which possessed the luster of a s
 हासोल्लासकरीं हिमाद्रितनया चेतश्चमत्কারিणीम् | <br/>
 ऊर्ध्वाऽधोभ्रमयन् स्वशुण्डलतिकां चक्राकृति प्रापयत् || <br/>
 शम्भु शुक्लमिति स्पृशन्निव मुहुः श्वेतत्वलिप्साऽऽकुलः | <br/>
-सिन्दूरं गिरिजाङ्कतोऽपिच हरन् शोणीबभूव च सः || <br/>
+सिन्दूरं गिरिजाङ्कतोऽपिच हरन् शोणीबभूव च सः || 58 ||<br/>
 
 Hāsollāsakarīṃ himādritanayā cetaścamatkāriṇīm | <br/>
 Ūrdhvā'dhobhramayan svaśuṇḍalatikāṃ cakrākṛti prāpayat || <br/>
 Śambhu śuklamiti spṛśanniva muhuḥ śvetatvalipsā''kulaḥ | <br/>
-Sindūraṃ girijāṅkato'pica haran śoṇībabhūva ca saḥ || <br/>
+Sindūraṃ girijāṅkato'pica haran śoṇībabhūva ca saḥ || 58 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 हासोल्लासकरीम् | हिमाद्रितनयाचेतश्चमत्কারিणीम् | ऊर्ध्वाधोभ्रमयन् | स्वशुण्डलतिकाम् | चक्राकृतिम् | प्रापयत् | शम्भुम् | शुक्लम् | इति | स्पृशन् | इव | मुहुः | श्वेतत्वलिप्साकुलः | सिन्दूरम् | गिरिजाङ्कतः | अपि | च | हरन् | शोणीबभूव | च | सः

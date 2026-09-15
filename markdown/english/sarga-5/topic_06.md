@@ -6,11 +6,11 @@ The appointment of the Lord of the Ganas and the joyous dances of the Yoginis.
 आर्द्राप्यर्कगभस्तिभिः प्रतपिता चण्डैर्निदाघोद्धतैः |<br/>
 स्वच्छा स्फाटिकजा शिला सुरगवीक्षीरैः पुनः क्षालिता ||<br/>
 प्राक् स्नातैव भृशं पुनः शुचमिता स्नातात्मजानन्दतः |<br/>
-भूयस्तामुपमां दधाति गिरિજા पत्याप्तपुत्रोद्भवात् ||<br/>
+भूयस्तामुपमां दधाति गिरિજા पत्याप्तपुत्रोद्भवात् || 59 ||<br/>
 Ārdrāpyarkagabhastibhiḥ pratapitā caṇḍairnidāghoddhataiḥ |<br/>
 Svacchā sphāṭikajā śilā suragavīkṣīraiḥ punaḥ kṣālitā ||<br/>
 Prāk snātaiva bhṛśaṃ punaḥ śucamitā snātātmajānandataḥ |<br/>
-Bhūyastāmupamāṃ dadhāti girijā patyāptaputrodbhavāt ||
+Bhūyastāmupamāṃ dadhāti girijā patyāptaputrodbhavāt || 59 ||
 
 ### पदच्छेदम् (Padacchedam):
 आर्द्रा | अपि | अर्कगभस्तिभिः | प्रतपिता | चण्डैः | निदाघोद्धतैः | स्वच्छा | स्फाटिकजा | शिला | सुरगवीक्षीरैः | पुनः | क्षालिता | प्राक् | स्नाता | एव | भृशम् | पुनः | शुचम् | इता | स्नाता | आत्मजानन्दतः | भूयः | ताम् | उपमाम् | दधाति | गिरિજા | पत्याप्तपुत्रोद्भवात्
@@ -39,11 +39,11 @@ Just as a pure crystal stone, even if moist, becomes scorched by the intense ray
 दुग्धं तत् कुचकूपिकाननभवं मिष्टं कवोष्णं स्वयम् |<br/>
 भित्त्वा स्वावरणं स्रवत् सुतनसश्छिद्रद्वये प्राविशत् ||<br/>
 भूमेर्भाग युगाद्यथा प्रचलितं तोयं द्विधारी भवत् |<br/>
-शम्भोश्चापि न पीतमित्यनुशयैर्मातृप्सिताऽऽप्यायनम् ||<br/>
+शम्भोश्चापि न पीतमित्यनुशयैर्मातृप्सिताऽऽप्यायनम् || 60 ||<br/>
 Dugdhaṃ tat kucakūpikānanabhavaṃ miṣṭaṃ kavoṣṇaṃ svayam |<br/>
 Bhittvā svāvaraṇaṃ sravat sutanasaśchidradvaye prāviśat ||<br/>
 Bhūmerbhāga yugādyathā pracalitaṃ toyaṃ dvidhārī bhavat |<br/>
-Śambhoścāpi na pītamityanuśayairmātṛpsitā''pyāyanam ||
+Śambhoścāpi na pītamityanuśayairmātṛpsitā''pyāyanam || 60 ||
 
 ### पदच्छेदम् (Padacchedam):
 दुग्धम् | तत् | कुचकूपिकाननभवम् | मिष्टम् | कवोष्णम् | स्वयम् | भित्त्वा | स्वावरणम् | स्रवत् | सुतनसः | छिद्रद्वये | प्राविशत् | भूमेः | भागयुगात् | यथा | प्रचलितम् | तोयम् | द्विधारीभवत् | शम्भोः | च | अपि | न | पीतम् | इति | अनुशयैः | मातृप्सिताप्यायनम्
@@ -72,11 +72,11 @@ The sweet, lukewarm milk flowing from the "bottles" of her breasts broke through
 नृत्यन्तश्च गणाः समेत्य सकलाः स्वेष्वाधिपत्यं ददुः |<br/>
 स्पर्श स्पर्श महो सुशुण्डमिति ते स्वात्मानमामोदयान् ||<br/>
 वक्रैः स्वैः सरलैस्तथोर्ध्वनयनैर्वक्त्रे हसन्तो मुहुः |<br/>
-प्रोचुः श्री गणराजदिव्य विजयं दीर्घः स्वरैर्वा प्लुतैः ||<br/>
+प्रोचुः श्री गणराजदिव्य विजयं दीर्घः स्वरैर्वा प्लुतैः || 61 ||<br/>
 Nṛtyantaśca gaṇāḥ sametya sakalāḥ sveṣvādhipatyaṃ daduḥ |<br/>
 Sparśa sparśa maho suśuṇḍamiti te svātmānamāmodayān ||<br/>
 Vakraiḥ svaiḥ saralaistathordhvanayanairvaktre hasanto muhuḥ |<br/>
-Procuḥ śrī gaṇarājadivya vijayaṃ dīrghaḥ svarairvā plutaiḥ ||
+Procuḥ śrī gaṇarājadivya vijayaṃ dīrghaḥ svarairvā plutaiḥ || 61 ||
 
 ### पदच्छेदम् (Padacchedam):
 नृत्यन्तः | च | गणाः | समेत्य | सकलाः | स्वेषु | आधिपत्यम् | ददुः | स्पर्शम् | स्पर्शम् | अहो | सुशुण्डम् | इति | ते | स्वात्मानम् | आमोदयान् | वक्रैः | स्वैः | सरलैः | तथा | ऊर्ध्वनयनैः | वक्त्रे | हसन्तः | मुहुः | प्रोचुः | श्री | गणराजदिव्य | विजयम् | दीर्घः | स्वरैः | वा | प्लुतैः
@@ -106,11 +106,11 @@ All the Ganas gathered together, dancing, and bestowed the lordship over themsel
 योगिन्यो ननृतुः करद्वयतलोत्तालैस्तडातङ्करैः |<br/>
 श्रोणीबद्ध सुघण्टिकाध्वनिरणत्काऽऽराकरैः कूर्दनैः ||<br/>
 खी खी खीति कखन्मुखैस्तडतडत् तोत्रोटनैः पर्वणाम् |<br/>
-आकारैर्विकृतैर्गलद्वसनकैर्नग्नैश्च मग्नैः सुखे ||<br/>
+आकारैर्विकृतैर्गलद्वसनकैर्नग्नैश्च मग्नैः सुखे || 62 ||<br/>
 Yoginyo nanṛtuḥ karadvayatalottālaistadātaṅkaraiḥ |<br/>
 Śroṇībaddha sughaṇṭikādhvaniraṇatkā''rākaraiḥ kūrdanaiḥ ||<br/>
 Khī khī khīti kakhanmukhaistadatadat toṭroṭanaiḥ parvaṇām |<br/>
-Ākārairvikṛtairgaladvasanakairnagnaiśca magnaiḥ sukhe ||
+Ākārairvikṛtairgaladvasanakairnagnaiśca magnaiḥ sukhe || 62 ||
 
 ### पदच्छेदम् (Padacchedam):
 योगिन्यः | ननृतुः | करद्वयतलोत्तालैः | तडातङ्करैः | श्रोणीबद्ध | सुघण्टिकाध्वनि | रणत्काराकरैः | कूर्दनैः | खी | खी | खी | इति | कखन्मुखैः | तडतडत् | तोत्रोटनैः | पर्वणाम् | आकारैः | विकृतैः | गलत् | वसनकैः | नग्नैः | च | मग्नैः | सुखे
@@ -138,11 +138,11 @@ The Yoginis danced, creating "tada-tada" sounds with the high-pitched clapping o
 पुच्छाच्छच्छविगुच्छिनी वनचरी वनह्याननी नः सखी |<br/>
 प्रोक्ता सापि शिवा, परन्त्वतिशिवो बालोऽय साभाति नः ||<br/>
 यस्मा दस्य पुरः सुशुण्डलतिका नैरबाल्यलाल्याऽधिकम् |<br/>
-सुच्छिद्रद्वयधृत् स्पृहैधनकरी स्वस्याऽभिषेक्त्री स्वयम् ||<br/>
+सुच्छिद्रद्वयधृत् स्पृहैधनकरी स्वस्याऽभिषेक्त्री स्वयम् || 63 ||<br/>
 pucchācchacchavigucchini vanacari vanahyānani naḥ sakhi |<br/>
 proktā sāpi śivā, parantvatisivo bālo'ya sābhāti naḥ ||<br/>
 yasmā dasya puraḥ suśuṇḍalatikā nairbālyalālyā'dhikam |<br/>
-succhidradvayadhṛt spṛhaidhanakari svasyā'bhiṣektri svayam ||
+succhidradvayadhṛt spṛhaidhanakari svasyā'bhiṣektri svayam || 63 ||
 
 ### पदच्छेदम् (Padacchedam):
 पुच्छाच्छच्छविगुच्छिनी | वनचरी | वनह्याननी | नः | सखी | प्रोक्ता | सा | अपि | शिवा | परन्तु | अतिशिवः | बालः | अयम् | साभाति | नः | यस्मात् | अस्य | पुरः | सुशुण्डलतिका | नैरबाल्यलाल्या | अधिकम् | सुच्छिद्रद्वयधृत् | स्पृहैधनकरी | स्वस्याभिषेक्त्री | स्वयम्
@@ -171,11 +171,11 @@ The Yoginis spoke thus: "Our companion, the one who wanders the forest and posse
 यद्यप्यस्त्यभिषेककर्म रसिकः श्रीमान् शिवेशः शिवः |<br/>
 नित्यं धारितवांश्च जन्हुतनयां तस्मै निजे मस्तके ||<br/>
 अस्यान्त र्वहतीव कापिसुनदी यस्या जलानि क्षिपन् |<br/>
-लोकान्त निजमस्तकेष्वतिशिवो बालोऽभिषेच्योऽस्त्ययम् ||<br/>
+लोकान्त निजमस्तकेष्वतिशिवो बालोऽभिषेच्योऽस्त्ययम् || 64 ||<br/>
 yadyapyastyabhiṣekakarma rasikaḥ śrimān śiveśaḥ śivaḥ |<br/>
 nityaṃ dhāritavāṃśca janhutanayāṃ tasmai nije mastake ||<br/>
 asyānta rvahativa kāpisunadi yasyā jalāni kṣipan |<br/>
-lokānta nijamastakeṣvatiśivo bālo'bhiṣecyo'styayam ||
+lokānta nijamastakeṣvatiśivo bālo'bhiṣecyo'styayam || 64 ||
 
 ### पदच्छेदम् (Padacchedam):
 यद्यपि | अस्ति | अभिषेककर्म | रसिकः | श्रीमान् | शिवेशः | शिवः | नित्यम् | धारितवान् | च | जन्हुतनयाम् | तस्मै | निजे | मस्तके | अस्य | अन्तः | वहति | इव | कापि | सुनदी | यस्याः | जलानि | क्षिपन् | लोकान्त | निजमस्तकेषु | अतिशिवः | बालः | अभिषेच्यः | अस्ति | अयम्
@@ -204,11 +204,11 @@ Although the glorious Shiva, the husband of Parvati, is fond of the ritual of Ab
 गन्धर्वा अपि नूतनगाननिरता हस्तभ्रमच्चामराः |<br/>
 गन्धर्वोसहिता गणेशविषये गानप्रताने रताः ||<br/>
 गौर्गङ्गा गरुडध्वजोऽपि च गया गीता च गायत्रिका |<br/>
-सर्वे गेन विभूषिता अपि पुनर्देवो गणेशोऽद्भुतः ||<br/>
+सर्वे गेन विभूषिता अपि पुनर्देवो गणेशोऽद्भुतः || 65 ||<br/>
 gandharvā api nūtanagānaniratā hastabhramaccāmarāḥ |<br/>
 gandharvosahitā gaṇeśaviṣaye gānapratāne ratāḥ ||<br/>
 gaurgangā garuḍadhvajo'pi ca gayā gitā ca gāyatrikā |<br/>
-sarve gena vibhūṣitā api punardevo gaṇeśo'dbhutaḥ ||
+sarve gena vibhūṣitā api punardevo gaṇeśo'dbhutaḥ || 65 ||
 
 ### पदच्छेदम् (Padacchedam):
 गन्धर्वाः | अपि | नूतनगाननिरताः | हस्तभ्रमच्चामराः | गन्धर्वोसहिताः | गणेशविषये | गानप्रताने | रताः | गौः | गङ्गा | गरुडध्वजः | अपि | च | गया | गीता | च | गायत्रिका | सर्वे | गेन | विभूषिताः | अपि | पुनः | देवः | गणेशः | अद्भुतः

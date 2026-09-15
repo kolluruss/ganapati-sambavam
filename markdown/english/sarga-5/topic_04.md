@@ -8,11 +8,11 @@ Prose: The beginning of the child's play — Meaning: The commencement of the ch
 चिव्रीड द्विविध स्वभावसुलभै र्नुर्माऽऽकरैः कर्मभिः |<br/>
 बालः शुण्डक पुण्ड्रकेण रचयन् सर्वाननानां छटाम् ||<br/>
 वर्षा पुष्पमयी पुरन्दरपुरीसव्यापसव्यादभूत् |<br/>
-नेदु र्दुन्दुभयो धनं धन मिति प्राच्यादिदिक्चक्रगम् ||<br/>
+नेदु र्दुन्दुभयो धनं धन मिति प्राच्यादिदिक्चक्रगम् || 44 ||<br/>
 civrīḍa dvividha svabhāvasulabhair nurmā''karaiḥ karmabhiḥ |<br/>
 bālaḥ śuṇḍaka puṇḍrakeṇa racayan sarvānanānāṃ chaṭām ||<br/>
 varṣā puṣpamayī purandarapurīsavyāpasavyādabhūt |<br/>
-nedu rdundubhayō dhanaṃ dhana miti prācyādidikcakragam ||
+nedu rdundubhayō dhanaṃ dhana miti prācyādidikcakragam || 44 ||
 
 ### पदच्छेदम् (Padacchedam):
 चिव्रीड | द्विविधस्वभावसुलभैः | नर्माकरैः | कर्मभिः | बालः | शुण्डकपुण्ड्रकेण | रचयन् | सर्वाननानाम् | छटाम् | वर्षा | पुष्पमयी | पुरन्दरपुरीसव्यापसव्यात् | अभूत् | नेदुः | दुन्दुभयः | धनम् | धनम् | इति | प्राच्यादिदिक्चक्रगम्
@@ -45,11 +45,11 @@ Prose: Shiva and Parvati's amusement regarding their son — Meaning: The playfu
 कुम्भ द्वन्द्व मिदं स्तनद्वयसमं गौरीं जगादेश्वरः |<br/>
 पुत्रस्ते स्तनपोऽभवत् प्रथमस्तल्लाञ्छनोऽयं यतः ||<br/>
 नो मृत्युञ्जरूपकेऽ ष्ट कलशा यस्मात्त्वया धारिताः |<br/>
-मृत्युं चापि जिगाय यच्छिशु रयं त्वल्लाञ्छनोऽयं ततः ||<br/>
+मृत्युं चापि जिगाय यच्छिशु रयं त्वल्लाञ्छनोऽयं ततः || 45 ||<br/>
 kumbha dvandva midaṃ stanadvayasamaṃ gaurīṃ jagādēśvaraḥ |<br/>
 putrastē stanapo'bhavat prathamastallāñchanō'yaṃ yataḥ ||<br/>
 nō mṛtyuñjarūpakē' ṣṭa kalaśā yasmāttvayā dhāritāḥ |<br/>
-mṛtyuṃ cāpi jigāya yacchiśu rayaṃ tvallāñchanō'yaṃ tataḥ ||
+mṛtyuṃ cāpi jigāya yacchiśu rayaṃ tvallāñchanō'yaṃ tataḥ || 45 ||
 
 ### पदच्छेदम् (Padacchedam):
 कुम्भद्वन्द्वम् | इदम् | स्तनद्वयसमम् | गौरीम् | जगाद | ईश्वरः | पुत्रः | ते | स्तनपः | अभवत् | प्रथमतः | तल्लाञ्छनः | अयम् | यतः | नो | मृत्युञ्जरूपके | अष्ट | कलशाः | यस्मात् | त्वया | धारिताः | मृत्युम् | च | अपि | जिगाय | यत् | शिशुः | अयम् | त्वल्लाञ्छनः | अयम् | ततः
@@ -84,11 +84,11 @@ Shiva playfully said to Parvati, "Gauri! These two frontal globes on the child's
 शुण्डं कुण्डलितं च मुण्डमिलितं यन्नौ नमस्याकरम् |<br/>
 तत्ते मूर्ध जटास्थ सन् मुकुटभं त्वच्चिन्हमेव स्फुटम् ||<br/>
 पुष्पा पीडनपीडिता शिरसि या चूडा भवत्याः प्रिये ! |<br/>
-अग्रेकृत्य विधित्सते प्रकटितां पृष्ठे त्वया गोपिताम् ||<br/>
+अग्रेकृत्य विधित्सते प्रकटितां पृष्ठे त्वया गोपिताम् || 46 ||<br/>
 śuṇḍaṃ kuṇḍalitaṃ ca muṇḍamilitaṃ yannau namasyākaram |<br/>
 tattē mūrdha jaṭāstha san mukuṭabhaṃ tvacchinhameva sphuṭam ||<br/>
 puṣpā pīḍanapīḍitā śirasi yā cūḍā bhavatyāḥ priyē ! |<br/>
-agrēkṛtya vidhitsatē prakaṭitāṃ pṛṣṭhē tvayā gōpitām ||
+agrēkṛtya vidhitsatē prakaṭitāṃ pṛṣṭhē tvayā gōpitām || 46 ||
 
 ### पदच्छेदम् (Padacchedam):
 शुण्डम् | कुण्डलितम् | च | मुण्डमिलितम् | यत् | नौ | नमस्याकरम् | तत् | ते | मूर्धजटास्थसन्मुकुटभम् | त्वच्चिन्हम् | एव | स्फुटम् | पुष्पापीडनपीडिता | शिरसि | या | चूडा | भवत्याः | प्रिये | अग्रे | कृत्य | विधित्सते | प्रकटिताम् | पृष्ठे | त्वया | गोपिताम्
@@ -122,11 +122,11 @@ Gauri said, "The trunk that is curled and touching his head, offering us salutat
 भर्तु र्हासि विलास मानसतलं ज्ञात्वा प्रसन्नानना |<br/>
 गौरी गौरिव वत्सकेन मुदिता गोवाहनं प्रार्थयत् ||<br/>
 यद् यन्नाथ ! मया भवत्सु गदितं यद् यच्च पुत्रेण मे |<br/>
-तद् भस्मेव विलिप्त मङ्गवलये गङ्गाम्भसा क्षाल्यताम् ||<br/>
+तद् भस्मेव विलिप्त मङ्गवलये गङ्गाम्भसा क्षाल्यताम् || 47 ||<br/>
 bhartu rhāsi vilāsa mānasatalaṃ jñātvā prasannānanā |<br/>
 gaurī gauriva vatsakēna muditā gōvāhanaṃ prārthayat ||<br/>
 yad yannātha ! mayā bhavatsu gaditaṃ yad yacca putrēṇa mē |<br/>
-tad bhasmēva vilipta maṅgavalayē gaṅgāmbhasā kṣālyatām ||
+tad bhasmēva vilipta maṅgavalayē gaṅgāmbhasā kṣālyatām || 47 ||
 
 ### पदच्छेदम् (Padacchedam):
 भर्तुः | हासि-विलास-मानसतलम् | ज्ञात्वा | प्रसन्नानना | गौरी | गौः | इव | वत्सेन | मुदिता | गोवाहनम् | प्रार्थयत् | यत् | यत् | नाथ | मया | भवत्सु | गदितम् | यत् | यत् | च | पुत्रेण | मे | तत् | भस्म | इव | विलिप्तम् | अङ्गवलये | गङ्गाम्भसा | क्षाल्यताम्
@@ -164,12 +164,12 @@ Prose: Shiva — Meaning: Shiva said thus —
 लग्नं चेत् परिमार्जनं भवति हे प्राण-प्रिये ! साम्प्रतम् |<br/>
 किं स्या त्पुष्कर पत्रकेऽपि च मलस्पर्शो भवत्या श्रुतः ? ||<br/>
 किञ्चैषा भवतीकथा श्रुतिमिता भूयाज् जगच्छ्रेयसे |<br/>
-निष्पुत्रापि लभेता पुत्रक धनं या कापि वामा भवेत् ||<br/>
+निष्पुत्रापि लभेता पुत्रक धनं या कापि वामा भवेत् || 48 ||<br/>
 
 Lagnaṃ cet parimārjanaṃ bhavati he prāṇa-priye ! sāmpratam |<br/>
 Kiṃ syā tpuṣkara patrake'pi ca malasparśo bhavatyā śrutaḥ ? ||<br/>
 Kiñcaiṣā bhavatīkathā śrutimitā bhūyāj jagacchreyase |<br/>
-Niṣputrāpi labhetā putraka dhanaṃ yā kāpi vāmā bhavet ||
+Niṣputrāpi labhetā putraka dhanaṃ yā kāpi vāmā bhavet || 48 ||
 
 ### पदच्छेदम् (Padacchedam):
 लग्नम् | चेत् | परिमार्जनम् | भवति | हे | प्राणप्रिये | साम्प्रतम् | किम् | स्यात् | पुष्करपत्रके | अपि | च | मलस्पर्शः | भवत्या | श्रुतः | किञ्च | एषा | भवतीकथा | श्रुतिमिता | भूयात् | जगच्छ्रेयसे | निष्पुत्रा | अपि | लभेता | पुत्रकधनम् | या | कापि | वामा | भवेत्
@@ -201,12 +201,12 @@ Niṣputrāpi labhetā putraka dhanaṃ yā kāpi vāmā bhavet ||
 या वाक् प्रस्फुटिताऽभव त्तव शिशौ किं वारणः ? किं नरः ? |<br/>
 सैषौत्पत्तिक मङ्गलेऽङ्ग ! सुखदे सत्य द्वित्याहरी ||<br/>
 हन्त !! स्यात् समरे क्वचित् पुनरियं मिथ्यापथस्पर्शिनी |<br/>
-वृद्ध ब्राह्मण हत्यायाऽन्वितकरी किं मानवो वा गजः ||<br/>
+वृद्ध ब्राह्मण हत्यायाऽन्वितकरी किं मानवो वा गजः || 49 ||<br/>
 
 Yā vāk prasphuṭitā'bhava ttava śiśau kiṃ vāraṇaḥ ? kiṃ naraḥ ? |<br/>
 Saiṣautpattika maṅgale'ṅga ! sukhade satya dvityāharī ||<br/>
 Hanta !! syāt samare kvacit punariyaṃ mithyāpathasparśinī |<br/>
-Vṛddha brāhmaṇa hatyayā'nvitakarī kiṃ mānavo vā gajaḥ ||
+Vṛddha brāhmaṇa hatyayā'nvitakarī kiṃ mānavo vā gajaḥ || 49 ||
 
 ### पदच्छेदम् (Padacchedam):
 या | वाक् | प्रस्फुटिता | अभवत् | तव | शिशौ | किम् | वारणः | किम् | नरः | सा | एषा | औत्पत्तिकमङ्गले | अङ्ग | सुखदे | सत्या | द्वित्याहरी | हन्त | स्यात् | समरे | क्वचित् | पुनः | इयम् | मिथ्यापथस्पर्शिनी | वृद्धब्राह्मणहत्याया | अन्वितकरी | किम् | मानवः | वा | गजः
@@ -236,12 +236,12 @@ Vṛddha brāhmaṇa hatyayā'nvitakarī kiṃ mānavo vā gajaḥ ||
 आयु र्हस्ति मनुष्ययोः समतमं विंशोत्तरं यत् शतम् |<br/>
 तद् विख्यापयितुं तवात्मजवपु र्मर्त्येभरूपं दधे ||<br/>
 तस्मान् मानव मात्रकेण यतनै रास्वादनीयं च तत् |<br/>
-विघ्नांस्तत्र भवान् निहन्तु मनसा शीघ्रावधेयं ततः ||<br/>
+विघ्नांस्तत्र भवान् निहन्तु मनसा शीघ्रावधेयं ततः || 50 ||<br/>
 
 Āyu rhasti manuṣyayoḥ samatamaṃ viṃśottaraṃ yat śatam |<br/>
 Tad vikhyāpayituṃ tavātmajavapu rmartyebharūpaṃ dadhe ||<br/>
 Tasmān mānava mātrakeṇa yatanai rāsvādanīyaṃ ca tat |<br/>
-Vighnāṃstatra bhavān nihantu manasā śīghrāvadheyaṃ tataḥ ||
+Vighnāṃstatra bhavān nihantu manasā śīghrāvadheyaṃ tataḥ || 50 ||
 
 ### पदच्छेदम् (Padacchedam):
 आयुः | हस्तिमनुष्ययोः | समतमम् | विंशोत्तरम् | यत् | शतम् | तत् | विख्यापयितुम् | तव | आत्मजवपुः | मर्त्येभरूपम् | दधे | तस्मात् | मानवमात्रकेण | यतनैः | आस्वादनीयम् | च | तत् | विघ्नान् | तत्र | भवान् | निहन्तु | मनसा | शीघ्रम् | अवधेयम् | ततः
@@ -273,12 +273,12 @@ Vighnāṃstatra bhavān nihantu manasā śīghrāvadheyaṃ tataḥ ||
 लोके यो गजराजपूजनकरो मान्यः स धन्यो नरः |<br/>
 यं स्वे मूर्धनि धारयेत् स करतः धन्य स्तदन्यश्च कः ? ||<br/>
 अन्योऽन्यं कृतबन्धनौ नर गजौ व्यङ्क्ते जगत्याभिदम् |<br/>
-मत् त्वत् स्नेह सुदेह लेहनरसो मर्त्येभरूपः सुतः ||<br/>
+मत् त्वत् स्नेह सुदेह लेहनरसो मर्त्येभरूपः सुतः || 51 ||<br/>
 
 Loke yo gajarājapūjanakaro mānyaḥ sa dhanyo naraḥ |<br/>
 Yaṃ sve mūrdhani dhārayet sa karataḥ dhanya stadanyaśca kaḥ ? ||<br/>
 Anyo'nyaṃ kṛtabandhanau nara gajau vyaṅkte jagatyābhidam |<br/>
-Mat tvat sneha sudeha lehanaraso martyebharūpaḥ sutaḥ ||
+Mat tvat sneha sudeha lehanaraso martyebharūpaḥ sutaḥ || 51 ||
 
 ### पदच्छेदम् (Padacchedam):
 लोके | यः | गजराजपूजनकरः | मान्यः | सः | धन्यः | नरः | यम् | स्वे | मूर्धनि | धारयेत् | सः | करतः | धन्यः | तदन्यः | च | कः | अन्योन्यम् | कृतबन्धनौ | नरगजौ | व्यङ्क्ते | जगति | आभिदम् | मत् | त्वत् | स्नेह | सुदेह | लेहनरसः | मर्त्येभरूपः | सुतः
@@ -307,12 +307,12 @@ Mat tvat sneha sudeha lehanaraso martyebharūpaḥ sutaḥ ||
 लक्ष्मीः खेलतु शुण्डयोरिव सदा मर्त्यस्य बाह्वो द्वयोः |<br/>
 दन्ताग्रे वसताच्च सा द्विगुणिता शुक्ला च वागीश्वरी ||<br/>
 कुर्याद् भोजन मप्युरु प्रजहतात् पौरीष पिण्डञ्च तत् |<br/>
-मर्त्येभ द्वयरूपतः प्रकटक स्त्वन्मद् द्वयाऽऽज्ञासुतः ||
+मर्त्येभ द्वयरूपतः प्रकटक स्त्वन्मद् द्वयाऽऽज्ञासुतः || 52 ||
 
 Lakṣmīḥ khelatu śuṇḍayoriva sadā martyasya bāhvo dvayoḥ |<br/>
 Dantāgre vasatācca sā dviguṇitā śuklā ca vāgīśvarī ||<br/>
 Kuryād bhojana mapyuru prajahatāt paurīṣa piṇḍañca tat |<br/>
-Martyebha dvayarūpataḥ prakaṭaka stvanmad dvayā'jñāsutaḥ ||
+Martyebha dvayarūpataḥ prakaṭaka stvanmad dvayā'jñāsutaḥ || 52 ||
 
 ### पदच्छेदम् (Padacchedam):
 लक्ष्मीः | खेलतु | शुण्डयोः | इव | सदा | मर्त्यस्य | बाह्वोः | द्वयोः | दन्ताग्रे | वसतात् | च | सा | द्विगुणिता | शुक्ला | च | वागीश्वरी | कुर्यात् | भोजनम् | अपि | उरु | प्रजहतात् | पौरीषपिण्डम् | च | तत् | मर्त्येभद्वयरूपतः | प्रकटकः | त्वन्मद्द्वयाज्ञासुतः

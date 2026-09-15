@@ -6,11 +6,11 @@ The songs of the Gandharvas and the manifestation of Ganapati in the 'Sarvatobha
 गवां सुपुच्छगुच्छजं शिरीषपुष्पकोमलम् |<br/>
 हिमांशुरश्मिवत्प्रियं प्रवातशैत्यधृच्च यत् ||<br/>
 सुवर्णखण्डमण्डितं सुहीरपुञ्जदण्डितम् |<br/>
-त्वदीयकर्णतालवृन्तवच्च पञ्चचामरम् ||<br/>
+त्वदीयकर्णतालवृन्तवच्च पञ्चचामरम् || 66 ||<br/>
 gavāṃ supucchagucchajaṃ śirīṣapuṣpakomalam |<br/>
 himāṃśuraśmivatpriyaṃ pravātaśaityadhṛcca yat ||<br/>
 suvarṇakhaṇḍamaṇḍitaṃ suhīrapuñjadaṇḍitam |<br/>
-tvadīyakarṇatālavṛntavacca pañcacāmaram ||
+tvadīyakarṇatālavṛntavacca pañcacāmaram || 66 ||
 
 ### पदच्छेदम् (Padacchedam):
 गवाम् | सुपुच्छगुच्छजम् | शिरीषपुष्पकोमलम् | हिमांशुरश्मिवत् | प्रियम् | प्रवातशैत्यधृत् | च | यत् | सुवर्णखण्डमण्डितम् | सुहीरपुञ्जदण्डितम् | त्वदीयकर्णतालवृन्तवत् | च | पञ्चचामरम्
@@ -35,11 +35,11 @@ These five chamaras (or the Panchachamara meter), which resemble the beautiful t
 प्रकम्पते शिरो यथोवरीकृतौ निषेधने |<br/>
 द्विधा तथा च कुण्डलं प्रकम्पभुग्विलोक्यते ||<br/>
 तथा निषेधभुग्भवान् पुनर्गृहीतताधरः |<br/>
-अतो भवन्तमीड्महे यथैव कर्णकुण्डलम् ||<br/>
+अतो भवन्तमीड्महे यथैव कर्णकुण्डलम् || 67 ||<br/>
 prakampate śiro yathovarīkṛtau niṣedhane |<br/>
 dvidhā tathā ca kuṇḍalaṃ prakampabhugvilokyate ||<br/>
 tathā niṣedhabhugbhavān punargṛhītatādharaḥ |<br/>
-ato bhavantamīḍmahe yathaiva karṇakuṇḍalam ||
+ato bhavantamīḍmahe yathaiva karṇakuṇḍalam || 67 ||
 
 ### पदच्छेदम् (Padacchedam):
 प्रकम्पते | शिरः | यथा | उवरीकृतौ [possible reading: उररीकृतौ — accepted/agreed] | निषेधने | द्विधा | तथा | च | कुण्डलम् | प्रकम्पभुक् | विलोक्यते | तथा | निषेधभुक् | भवान् | पुनः | गृहीतताधरः | अतः | भवन्तम् | ईड्महे | यथा | एव | कर्णकुण्डलम्
@@ -64,11 +64,11 @@ Just as the head shakes in two ways—when expressing agreement and when express
 यदेव कुण्डलं भवान् करोति शुण्डतः स्फुटम् |<br/>
 तदेव वीक्ष्य कुण्डली बुभूषतीव भूषणम् ||<br/>
 शिवाऽऽख्ययोश्च कर्णयोः प्रियायते च यद् द्वयोः |<br/>
-समस्तकुण्डलक्रियाकरं भवन्तमीड्महे ||<br/>
+समस्तकुण्डलक्रियाकरं भवन्तमीड्महे || 68 ||<br/>
 yadeva kuṇḍalaṃ bhavān karoti śuṇḍataḥ sphuṭam |<br/>
 tadeva vīkṣya kuṇḍalī bubhūṣatīva bhūṣaṇam ||<br/>
 śivākhyayośca karṇayoḥ priyāyate ca yad dvayoḥ |<br/>
-samastakuṇḍalakriyākaraṃ bhavantamīḍmahe ||
+samastakuṇḍalakriyākaraṃ bhavantamīḍmahe || 68 ||
 
 ### पदच्छेदम् (Padacchedam):
 यत् | एव | कुण्डलम् | भवान् | करोति | शुण्डतः | स्फुटम् | तत् | एव | वीक्ष्य | कुण्डली | बुभूषति | इव | भूषणम् | शिवाख्ययोः | च | कर्णयोः | प्रियायते | च | यत् | द्वयोः | समस्तकुण्डलक्रियाकरम् | भवन्तम् | ईड्महे
@@ -92,11 +92,11 @@ You clearly make a circular shape (kundala) with your trunk. Seeing that, even t
 दधानयाऽ‌ङ्गुलीयकानि निर्मितो भवानभूत् |<br/>
 नवाङ्गुलीयवत् प्रकाशमापितः समुद्धृतः ||<br/>
 तदङ्गुलीग्रहप्रियश्च भ्रातृताधिकारतः |<br/>
-ततोभवन्तमीड्महे नगेन्द्रजाङ्गुलीयकम ||<br/>
+ततोभवन्तमीड्महे नगेन्द्रजाङ्गुलीयकम || 69 ||<br/>
 dadhānayāṅgulīyakāni nirmito bhavānabhūt |<br/>
 navāṅgulīyavat prakāśamāpitaḥ samuddhṛtaḥ ||<br/>
 tadaṅgulīgrahapriyaśca bhrātṛtādhārakataḥ |<br/>
-tatobhavantamīḍmahe nagendrajāṅgulīyakam ||
+tatobhavantamīḍmahe nagendrajāṅgulīyakam || 69 ||
 
 ### पदच्छेदम् (Padacchedam):
 दधानया | अङ्गुलीयकानि | निर्मितः | भवान् | अभूत् | नवाङ्गुलीयवत् | प्रकाशमापितः | समुद्धृतः | तदङ्गुलीग्रहप्रियः | च | भ्रातृताधिकारतः [possible reading: मातृताधिकारतः — maternal right] | ततः | भवन्तम् | ईड्महे | नगेन्द्रजाङ्गुलीयकम्
@@ -120,11 +120,11 @@ You were created by the hands of the mother who wears rings; like a new ring, yo
 पुरा नगेन्द्रजा स्तुता ततो ऽप्यनामिकिऽङ्गुलिः |<br/>
 ततोऽत्र धारितं सुवर्णवर्ण मङ्गुलीयकम् ||<br/>
 ततोऽपि नूतनरत्नकं यथा विभाति तद् गतम् |<br/>
-तथा स्तुमश्चतुःक्रमै र्भवन्त मङ्गुलीयकम् ||<br/>
+तथा स्तुमश्चतुःक्रमै र्भवन्त मङ्गुलीयकम् || 70 ||<br/>
 purā nagendrajā stutā tato 'pyanāmiki'ṅguliḥ |<br/>
 tato'tra dhāritaṃ suvarṇavarṇa maṅgulīyakam ||<br/>
 tato'pi nūtnaratnakaṃ yathā vibhāti tad gatam |<br/>
-tathā stumaścatuḥkramai rbhavanta maṅgulīyakam ||
+tathā stumaścatuḥkramai rbhavanta maṅgulīyakam || 70 ||
 
 ### पदच्छेदम् (Padacchedam):
 पुरा | नगेन्द्रजा | स्तुता | ततः | अपि | अनामिकिऽङ्गुलिः | ततः | अत्र | धारितम् | सुवर्णवर्णम् | अङ्गुलीयकम् | ततः | अपि | नूतनरत्नकम् | यथा | विभाति | तद्गतम् | तथा | स्तुमः | चतुःक्रमैः | भवन्तम् | अङ्गुलीयकम्
@@ -149,11 +149,11 @@ First, the daughter of the mountain (Parvati) is worthy of praise. Thereafter, h
 पदस्थकर्दमान्वितं झणत्कृतं मुहुर्मुहुः |<br/>
 पुरा पुरारि सम्मुखे त्रुटिं गतं प्रमादतः ||<br/>
 पुनश्च यत् समाहितं समुद्धृतं स्वशिल्पतः |<br/>
-स्तुमोऽद्य तं गिरीन्द्रजापदारविन्दनूपुरम् ||<br/>
+स्तुमोऽद्य तं गिरीन्द्रजापदारविन्दनूपुरम् || 71 ||<br/>
 padasthakardamānvitaṃ jhaṇatkṛtaṃ muhurmuhuḥ |<br/>
 purā purāri sammukhe truṭiṃ gataṃ pramādataḥ ||<br/>
 punaśca yat samāhitaṃ samuddhṛtaṃ svaśilpataḥ |<br/>
-stumo'dya taṃ girīndrajāpādāravindanūpuram ||
+stumo'dya taṃ girīndrajāpādāravindanūpuram || 71 ||
 
 ### पदच्छेदम् (Padacchedam):
 पदस्थकर्दमान्वितम् | झणत्कृतम् | मुहुः | मुहुः | पुरा | पुरारिसम्मुखे | त्रुटिम् | गतम् | प्रमादतः | पुनः | च | यत् | समाहितम् | समुद्धृतम् | स्वशिल्पतः | स्तुमः | अद्य | तम् | गिरीन्द्रजापदारविन्दनूपुरम्
@@ -177,11 +177,11 @@ We praise that anklet of the lotus-feet of the daughter of the mountain (Parvati
 जय जय गिरिजा-धन ! हे ! जय जय साधन-बन ! हे |<br/>
 जय सुख वर्षा-घन हे ! जय शुभदायिन् ! दिन ! हे ||<br/>
 जय मय जल झष ! हे जय कनकराशिकष ! हे |<br/>
-जय भारत-भाऽवन ! हे ! जय जय गण शासन ! हे ||<br/>
+जय भारत-भाऽवन ! हे ! जय जय गण शासन ! हे || 72 ||<br/>
 jaya jaya girijā-dhana ! he ! jaya jaya sādhana-bana ! he |<br/>
 jaya sukha varṣā-ghana he ! jaya śubhadāyin ! dina ! he ||<br/>
 jaya maya jala jhaṣa ! he jaya kanakaraśikaṣa ! he |<br/>
-jaya bhārata-bhā'vana ! he ! jaya jaya gaṇa śāsana ! he ||
+jaya bhārata-bhā'vana ! he ! jaya jaya gaṇa śāsana ! he || 72 ||
 
 ### पदच्छेदम् (Padacchedam):
 जय | जय | गिरिजाधन | हे | जय | जय | साधनबन | हे | जय | सुखवर्षाघन | हे | जय | शुभदायिन् | दिन | हे | जय | मय | जलझष | हे | जय | कनकराशिकष [possible reading: कनकराशिकष — kanakaraśikaṣa] | हे | जय | भारतभावन | हे | जय | जय | गणशासन | हे
@@ -208,11 +208,11 @@ O wealth of Girija! O forest of spiritual practices! O cloud that showers happin
 भस्मोच्चयै गिरिसुतां सुसितै व्यलिम्पन् |<br/>
 आनन्दथु प्रबलतावशगा निलिम्पाः ||<br/>
 सिन्दूरबिन्दुशतकेन शिवं लिलिम्पः |<br/>
-निर्होली वासर मभूदिव होलिकायाः ||<br/>
+निर्होली वासर मभूदिव होलिकायाः || 73 ||<br/>
 bhasmoccayai girisutāṃ susitai vyalimpan |<br/>
 ānandathu prabalatāvaśagā nilimpāḥ ||<br/>
 sindūrabinduśatakena śivaṃ lilimpaḥ |<br/>
-nirholī vāsara mabhūdiva holikāyāḥ ||
+nirholī vāsara mabhūdiva holikāyāḥ || 73 ||
 
 ### पदच्छेदम् (Padacchedam):
 भस्मोच्चयैः | गिरिसुताम् | सुसितैः | व्यलिम्पन् | आनन्दथुप्रबलतावशगाः | निलिम्पाः | सिन्दूरबिन्दुशतकेन | शिवम् | लिलिम्पः | निर्होलीवासरम् | अभूत् | इव | होलिकायाः
@@ -233,12 +233,12 @@ The gods, overcome by the intensity of their bliss, smeared the daughter of the 
 शम्भु र्बभौ गिरिसुता सदृश स्तदानीम् | <br/>
 शम्भुप्रभा गिरिसुता भवतिस्म चित्रम् || <br/>
 एतद् द्वयाऽऽभ इव तत्सुत आबभासे | <br/>
-रक्तोऽप्यहो सिततमोऽ प्युभयाऽऽकृतिः प्राक् || <br/>
+रक्तोऽप्यहो सिततमोऽ प्युभयाऽऽकृतिः प्राक् || 74 ||<br/>
 
 Śambhu rbabhau girisutā sadṛśa stadānīm | <br/>
 Śambhuprabhā girisutā bhavatisma citram || <br/>
 Etad dvayā''bha iva tatsuta ābabhāse | <br/>
-Rakto'pyaho sitatamo' pyubhayā''kṛtiḥ prāk || <br/>
+Rakto'pyaho sitatamo' pyubhayā''kṛtiḥ prāk || 74 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 शम्भुः | बभौ | गिरिसुतासदृशः | तदानीम् | शम्भुप्रभा | गिरिसुता | भवति | स्म | चित्रम् | एतद्द्वयाभः | इव | तत्सुतः | आबभासे | रक्तः | अपि | अहो | सिततमः | अपि | उभयाकृतिः | प्राक्
@@ -261,12 +261,12 @@ It is a wonder! At that time, due to the application of vermilion, Shiva shone l
 यत् सिन्धुरानन मभूज्जनितोऽति कृष्णम् | <br/>
 तद्भस्मभि मृदित मीषद भूत् सिताभम् || <br/>
 हारिद्र चूर्ण चयतश्च बभूव पीतम् | <br/>
-सिन्दूर पूर परिलेपनतः प्ररक्तम् || <br/>
+सिन्दूर पूर परिलेपनतः प्ररक्तम् || 75 ||<br/>
 
 Yat sindhurānana mabhūjjanito'ti kṛṣṇam | <br/>
 Tadbhasmabhi mṛdita mīṣada bhūt sitābham || <br/>
 Hāridra cūrṇa cayataśca babhūva pītam | <br/>
-Sindūra pūra parilepanataḥ praraktam || <br/>
+Sindūra pūra parilepanataḥ praraktam || 75 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 यत् | सिन्धुराननम् | अभूत् | जनितः | अतिकृष्णम् | तत् | भस्मभिः | मृदितम् | ईषत् | अभूत् | सिताभम् | हारिद्रचूर्णचयतः | च | बभूव | पीतम् | सिन्दूरपूरपरिलेपनतः | प्ररक्तम्
@@ -289,12 +289,12 @@ The face of the elephant-headed deity, which was very dark at birth, became slig
 दूर्बादलै र्हरिततामपि तद् दधानम् | <br/>
 चक्रं बभाविव नवं ननु 'सर्वभद्रम्' || <br/>
 यद् यज्ञविज्ञजनता ऽननहर्षवर्षम् | <br/>
-यस्मिन् व्यधुः सुरगणा अपि वासतृषम् || <br/>
+यस्मिन् व्यधुः सुरगणा अपि वासतृषम् || 76 ||<br/>
 
 Dūrbādalai rhariṭatāmapi tad dadhānam | <br/>
 Cakraṃ babhāviva navaṃ nanu 'sarvabhadram' || <br/>
 Yad yajñavijñajanatā 'nanaharṣavarṣam | <br/>
-Yasmin vyadhuḥ suragaṇā api vāsatṛṣam || <br/>
+Yasmin vyadhuḥ suragaṇā api vāsatṛṣam || 76 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 दूर्बादलैः | हरितताम् | अपि | तत् | दधानम् | चक्रम् | बभौ | इव | नवम् | ननु | सर्वभद्रम् | यत् | यज्ञविज्ञजनताननहर्षवर्षम् | यस्मिन् | व्यधुः | सुरगणाः | अपि | वासतृषम्
@@ -315,12 +315,12 @@ Bearing the green hue of Durva grass blades, the child indeed shone like a new '
 निजमुखबिल विलसद् बिल्वपत्रं शिवाय | <br/>
 प्रणिदददिव रेजे बिल्ववृक्षप्रभोऽयम् || <br/>
 शिरसि च जलधारां शुण्डकुण्डात् प्रवर्षन् | <br/>
-अकृत गिरि सुतावत् शम्भु पूजां सदैव || <br/>
+अकृत गिरि सुतावत् शम्भु पूजां सदैव || 77 ||<br/>
 
 Nijamukhabila vilasad bilvapatraṃ śivāya | <br/>
 Praṇidadadiva reje bilvavṛkṣaprabho'yam || <br/>
 Śirasi ca jaladhārāṃ śuṇḍakuṇḍāt pravarṣan | <br/>
-Akṛta giri sutāvat śambhu pūjāṃ sadaiva || <br/>
+Akṛta giri sutāvat śambhu pūjāṃ sadaiva || 77 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 निजमुखबिलविलसद्बिल्वपत्रम् | शिवाय | प्रणिददत् | इव | रेजे | बिल्ववृक्षप्रभः | अयम् | शिरसि | च | जलधाराम् | शुण्डकुण्डात् | प्रवर्षन् | अकृत | गिरिसुतावत् | शम्भुपूजाम् | सदा | एव
@@ -342,12 +342,12 @@ As if offering the Bilva leaf shining within his mouth-cave to Shiva, the child 
 गणपतिरिति पदवी मत्र लेभे गणेभ्यः | <br/>
 रणपतिपदवीं यो भार्गवा ल्लव्स्यतेऽग्रे || <br/>
 चरति च विपदन्तं स्वैकदन्ताऽग्रतो यः | <br/>
-भवति यदि कदाचिद् स्वैकदन्त स्ततः किम् ? ||
+भवति यदि कदाचिद् स्वैकदन्त स्ततः किम् ? || 78 ||
 
 Gaṇapatiriti padavī matra lebhe gaṇebhyaḥ | <br/>
 Raṇapatipadavīṃ yo bhārgavā llavsyate'gre || <br/>
 Carati ca vipadantaṃ svaikadantā'grato yaḥ | <br/>
-Bhavati yadi kadācid svaikadanta stataḥ kim ? ||
+Bhavati yadi kadācid svaikadanta stataḥ kim ? || 78 ||
 
 ### पदच्छेदम् (Padacchedam):
 गणपतिः | इति | पदवीम् | अत्र | लेभे | गणेभ्यः | रणपतिपदवीम् | यः | भार्गवात् | लप्स्यते | अग्रे | चरति | च | विपदन्तम् | स्वैकदन्त | अग्रतः | यः | भवति | यदि | कदाचित् | स्वैकदन्तः | ततः | किम्

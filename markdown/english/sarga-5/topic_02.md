@@ -6,11 +6,11 @@ The Pramatha Ganas, acting upon the command of Shiva, set out in search and, upo
 पुत्रे मातृमनःस्थितीक्षणकरश्चिन्तां गतस्त्रीक्षणः<br/>
 माऽऽपः खेदमुदग्रमंगमिलिते ! दाताऽस्मि पुत्रं तवे-<br/>
 त्युच्चार्यैव गणान्निजानच कथत्कस्यापि मृग्यं शिरः<br/>
-गौरीपुत्रमिमं विचित्रवपुषं संपादयाम त्वरा<br/>
+गौरीपुत्रमिमं विचित्रवपुषं संपादयाम त्वरा ॥ 19 ॥<br/>
 Putre mātṛmanaḥsthitīkṣaṇakaraścintāṃ gatastrīkṣaṇaḥ<br/>
 mā'paḥ khedamudagramaṃgamilite ! dātāsmi putraṃ tave-<br/>
 tyuccāryaiva gaṇānnijānaca kathatkasyāpi mṛgyaṃ śiraḥ<br/>
-gaurīputramimaṃ vicitravapuṣaṃ saṃpādayāma tvarā<br/>
+gaurīputramimaṃ vicitravapuṣaṃ saṃpādayāma tvarā || 19 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 पुत्रे | मातृमनःस्थितीक्षणकरः | चिन्ताम् | गतः | त्रीक्षणः | मा | आपः | खेदम् | उदग्रम् | अंगमिलिते | दाता | अस्मि | पुत्रम् | तव | इति | उच्चार्य | एव | गणान् | निजान् | अचथत् | कस्य | अपि | मृग्यम् | शिरः | गौरीपुत्रम् | इमम् | विचित्रवपुषम् | संपादयाम | त्वरा
@@ -40,11 +40,11 @@ Observing the state of the mother's mind and her deep grief regarding her son, t
 या माता स्वसुतात्पराङ्मुखतया निद्रां दरीद्रा श्रयेत्<br/>
 तत्पुत्रस्य शिरोऽत्र योगविधये छित्वा त्वराऽऽनीयताम्<br/>
 गर्भाभेऽपि रिरक्षिषावशतया तत्संहतौ वा हतौ<br/>
-याथैव प्रतिवासरं तदतुलोऽभ्यासोऽस्ति वोऽस्मिन् विधौ<br/>
+याथैव प्रतिवासरं तदतुलोऽभ्यासोऽस्ति वोऽस्मिन् विधौ ॥ 20 ॥<br/>
 Yā mātā svasutātparāṅmukhatayā nidrāṃ darīdrā śrayet<br/>
 tatputrasya śiro'tra yogavidhaye chittvā tvarā'nīyatām<br/>
 garbhābhe'pi rirakṣiṣāvaśatayā tatsaṃhatau vā hatau<br/>
-yāthaiva prativāsaraṃ tadatulo'bhyāso'sti vo'smin vidhau<br/>
+yāthaiva prativāsaraṃ tadatulo'bhyāso'sti vo'smin vidhau || 20 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 या | माता | स्वसुतात् | पराङ्मुखतया | निद्राम् | दरीद्रा | श्रयेत् | तत्पुत्रस्य | शिरः | अत्र | योगविधये | छित्वा | त्वरा | आनीयताम् | गर्भाभे | अपि | रिरक्षिषावशतया | तत्संहतौ | वा | हतौ | याथ | एव | प्रतिवासरम् | तत् | अतुलः | अभ्यासः | अस्ति | वः | अस्मिन् | विधौ
@@ -73,11 +73,11 @@ yāthaiva prativāsaraṃ tadatulo'bhyāso'sti vo'smin vidhau<br/>
 आः ! शोचामि यथा तथान्यजननी खेदिष्ट मा मानसे |<br/>
 यन्मत्पुत्रशिरः सुसन्धिकृतयेऽन्यन्मस्तकं मुष्यते ||<br/>
 शोच्या ते सुबलिच्छलैरपि वृथा हिंसन्ति दीना नजान् |<br/>
-नैतल्लेशकतोऽपि मे रुचिकरं मन्मूर्तिमनन्दिरे ||<br/>
+नैतल्लेशकतोऽपि मे रुचिकरं मन्मूर्तिमनन्दिरे || 21 ||<br/>
 Āḥ ! śocāmi yathā tathānyajananī khediṣṭa mā mānase |<br/>
 yanmatputraśiraḥ susandhikṛtaye'nyanmastakaṃ muṣyate ||<br/>
 śocyā te subalicchalairapi vṛthā hiṃsanti dīnān najān |<br/>
-naitalleśakato'pi me rucikaraṃ manmūrtimanandire ||
+naitalleśakato'pi me rucikaraṃ manmūrtimanandire || 21 ||
 
 ### पदच्छेदम् (Padacchedam):
 आः | शोचामि | यथा | तथा | अन्यजननी | खेदिष्ट | मा | मानसे | यत् | मत्पुत्रशिरः | सुसन्धिकृतये | अन्यन्मस्तकम् | मुष्यते | शोच्याः | ते | सुबलिच्छलैः | अपि | वृथा | हिंसन्ति | दीनान् | अजान् | न | एतत् | लेशकतः | अपि | मे | रुचिकरम् | मन्मूर्तिमनन्दिरे
@@ -105,11 +105,11 @@ naitalleśakato'pi me rucikaraṃ manmūrtimanandire ||
 नैतद्भाामिनि ! ते वचोऽस्ति रुचिरं योऽधोऽपतत् कर्मभिः |<br/>
 सोद्धार्यो न महाजनै र्न च तदुच्चे वा निवेश्यः पदे ? ||<br/>
 यद् वत्स्य शिरोऽत्र योगविधये छित्वाऽधुनाऽऽयोक्ष्यते |<br/>
-तत् स्यात् सत्सुकृतस्य कस्यचिदपि प्राग्जन्मनः सत्फलम् ||<br/>
+तत् स्यात् सत्सुकृतस्य कस्यचिदपि प्राग्जन्मनः सत्फलम् || 22 ||<br/>
 Naitadbhāmini ! te vaco'sti ruciraṃ yo'dho'patat karmabhiḥ |<br/>
 soddhāryo na mahājanai rna ca taducce vā niveśyaḥ pade ? ||<br/>
 yad vatsasya śiro'tra yogavidhaye chittvā'dhunā'yokṣyate |<br/>
-tat syāt satsukṛtasya kasyacidapi prāgjanmanaḥ satphalam ||
+tat syāt satsukṛtasya kasyacidapi prāgjanmanaḥ satphalam || 22 ||
 
 ### पदच्छेदम् (Padacchedam):
 न | एतत् | भामिनि | ते | वचः | अस्ति | रुचिरम् | यः | अधः | अपतत् | कर्मभिः | सः | उद्धार्यः | न | महाजनैः | न | च | तदुच्चे | वा | निवेश्यः | पदे | यत् | वत्स्य | शिरः | अत्र | योगविधये | छित्वा | अधुना | आयोक्ष्यते | तत् | स्यात् | सत्सुकृतस्य | कस्यचित् | अपि | प्राग्जन्मनः | सत्फलम्
@@ -134,12 +134,12 @@ tat syāt satsukṛtasya kasyacidapi prāgjanmanaḥ satphalam ||
 या माता सुतदत्तपृष्ठपटला ऽप्रीणान्मनो निद्रया |<br/>
 सा पुत्रं परिदत्तवत्यपि जनो गृह्णातु कोप्यद्य तम् ||<br/>
 वैमुख्यैः प्रकटी करोति मनसो भावाँस्ततः श्रान्तिजान् |<br/>
-वायुश्चापि तदङ्गतो हरति हा गुप्ताङ्ग वस्त्रोच्चयम् ||
+वायुश्चापि तदङ्गतो हरति हा गुप्ताङ्ग वस्त्रोच्चयम् || 23 ||
 
 Yā mātā sutadattapṛṣṭhapaṭalā 'prīṇānmano nidrayā |<br/>
 Sā putraṃ paridattavatyapi jano gṛhṇātu kopyadya tam ||<br/>
 Vaimukhyaiḥ prakaṭī karoti manaso bhāvāṃstataḥ śrāntijān |<br/>
-Vāyuścāpi tadaṅgato harati hā guptāṅga vastroccayam ||
+Vāyuścāpi tadaṅgato harati hā guptāṅga vastroccayam || 23 ||
 
 ### पदच्छेदम् (Padacchedam):
 या | माता | सुतदत्तपृष्ठपटला | अप्रीणात् | मनः | निद्रया | सा | पुत्रम् | परिदत्तवती | अपि | जनः | गृह्णातु | कः | अपि | अद्य | तम् | वैमुख्यैः | प्रकटीकरोति | मनसः | भावान् | ततः | श्रान्तिजान् | वायुः | च | अपि | तदङ्गतः | हरति | हा | गुप्ताङ्गवस्त्रोच्चयम्
@@ -170,12 +170,12 @@ Vāyuścāpi tadaṅgato harati hā guptāṅga vastroccayam ||
 तद् वत्सस्य शिरस्ततोऽधिकतमं सम्मानमत्राप्स्यति- |<br/>
 प्राप्तस्तजठरे स्वकर्म वशतो मुञ्चेच्च दीनोऽपि सः ||<br/>
 आयाया च्च मृदोभवेऽपि तनये स्नेहोन्मुचोऽङ्केऽनसः |<br/>
-हस्तद्वित्वकमोदकाशनसुखं दृश्येत मत् कृत्यतः ||
+हस्तद्वित्वकमोदकाशनसुखं दृश्येत मत् कृत्यतः || 24 ||
 
 Tad vatsasya śirastato'dhikatamaṃ sammānamatrāpsyati- |<br/>
 Prāptastajaṭhare svakarma vaśato muñcecca dīno'pi saḥ ||<br/>
 Āyāyā cca mṛdobhave'pi tanaye snehonmuco'ṅke'nasaḥ |<br/>
-Hastadvitvakamo-dakāśanasukhaṃ dṛśyeta mat kṛtyataḥ ||
+Hastadvitvakamo-dakāśanasukhaṃ dṛśyeta mat kṛtyataḥ || 24 ||
 
 ### पदच्छेदम् (Padacchedam):
 तत् | वत्सस्य | शिरः | ततः | अधिकतमम् | सम्मानम् | अत्र | आप्स्यति | प्राप्तः | तज्जठरे | स्वकर्मवशतः | मुञ्चेत् | च | दीनः | अपि | सः | आयायात् | च | मृदोभवे | अपि | तनये | स्नेहोन्मुचः | अङ्के | अनसः | हस्तद्वित्वकमोदकाशनसुखम् | दृश्येत | मत्कृत्यतः
@@ -206,12 +206,12 @@ Hastadvitvakamo-dakāśanasukhaṃ dṛśyeta mat kṛtyataḥ ||
 या स्वे कृत्रिमबालकेऽपि दशनान् सूक्ष्मान् व्यथाद् दुग्धजान् |<br/>
 या तत्पाणि सरोरुहेऽपतवती कीरप्रभां वेत्रिकाम् ||<br/>
 तत् पित्रा सह सूक्तियुक्तिसरसं वादं पपौ कर्णतः |<br/>
-स्नानागार कपाटपृष्ठ पटलै रहिताऽऽनन्दतः ||
+स्नानागार कपाटपृष्ठ पटलै रहिताऽऽनन्दतः || 25 ||
 
 Yā sve kṛtrimabālake'pi daśanān sūkṣmān vyathād dugdhajān |<br/>
 Yā tatpāṇi saroruhe'patavatī kīraprabhāṃ vetrikām ||<br/>
 Tat pitrā saha sūktiyuktisarasaṃ vādaṃ papau karṇataḥ |<br/>
-Snānāgāra kapāṭapṛṣṭha paṭalai rahitā'ānandataḥ ||
+Snānāgāra kapāṭapṛṣṭha paṭalai rahitā'ānandataḥ || 25 ||
 
 ### पदच्छेदम् (Padacchedam):
 या | स्वे | कृत्रिमबालके | अपि | दशनान् | सूक्ष्मान् | व्यधात् | दुग्धजान् | या | तत्पाणि-सरोरुहे | अपतवती | कीरप्रभाम् | वेत्रिकाम् | तत्पित्रा | सह | सूक्ति-युक्ति-सरसम् | वादम् | पपौ | कर्णतः | स्नानागार-कपाट-पृष्ठ-पटलैः | रहिता | आनन्दतः
@@ -241,12 +241,12 @@ Snānāgāra kapāṭapṛṣṭha paṭalai rahitā'ānandataḥ ||
 तद्धस्तेऽन्य शिशोः समर्पणमपि स्यात् श्रेयसे प्रेयसे |<br/>
 मा भैषी स्त्वमिवाऽम्बिका नहि समा चेखिद्यते स्विद्यते ||<br/>
 श्रीमत्यास्तनयस्य मस्तक कृते नो केवलं छिद्यते |<br/>
-बह्वर्थाश्रयिणी क्रिया भवति मे द्व्यर्थां स्तुतेऽन्यो जनः ||
+बह्वर्थाश्रयिणी क्रिया भवति मे द्व्यर्थां स्तुतेऽन्यो जनः || 26 ||
 
 Taddhaste'nya śiśoḥ samarpaṇamapi syāt śreyase preyase |<br/>
 Mā bhaiṣī stvamivā'mbikā nahi samā chekhidyate svidyate ||<br/>
 Śrīmatyāstanayasya mastaka kṛte no kevalaṃ chidyate |<br/>
-Bahvarthāśrayiṇī kriyā bhavati me dvyarthāṃ stute'nyo janaḥ ||
+Bahvarthāśrayiṇī kriyā bhavati me dvyarthāṃ stute'nyo janaḥ || 26 ||
 
 ### पदच्छेदम् (Padacchedam):
 तद्धस्ते | अन्य | शिशोः | समर्पणम् | अपि | स्यात् | श्रेयसे | प्रेयसे | मा | भैषीः | त्वम् | इव | अम्बिकाः | न | हि | समाः | चेखिद्यते | स्विद्यते | श्रीमत्याः | तनयस्य | मस्तक-कृते | नो | केवलम् | छिद्यते | बह्वर्थाश्रयिणी | क्रिया | भवति | मे | द्व्यर्थाम् | स्तुते | अन्यः | जनः
@@ -275,12 +275,12 @@ Bahvarthāśrayiṇī kriyā bhavati me dvyarthāṃ stute'nyo janaḥ ||
 भूख्यातौ वनपालकै स्तरुतते श्छेदो ऽन्य सन्धिश्च वा |<br/>
 नावीन्यायनया दुभावपि मतौ संस्कार इत्याख्यया ||<br/>
 प्राग्दोषपनयाय चेत् क्वचिदिमौ साद् गुण्य वृद्धयै क्वचित् |<br/>
-दग्धे सस्यचयेऽ ग्निनाऽवनितले माकन्दकन्दोद् भवः ||
+दग्धे सस्यचयेऽ ग्निनाऽवनितले माकन्दकन्दोद् भवः || 27 ||
 
 bhūkhyātau vanapālakai starutate śchedo 'nya sandhiśca vā |<br/>
 nāvīnyānayanā dubhāvapi matau saṃskāra ityākhyayā ||<br/>
 prāgdoṣapanayāya cet kvacidimau sād guṇya vṛddhayai kvacit |<br/>
-dagdhe sasyacaye' gninā'vanitale mākandakandodbhavaḥ ||
+dagdhe sasyacaye' gninā'vanitale mākandakandodbhavaḥ || 27 ||
 
 ### पदच्छेदम् (Padacchedam):
 भूख्यातौ | वनपालकैः | तरुततेः | छेदः | अन्यसन्धिः | च | वा | नावीन्यायनयात् | उभौ | अपि | मतौ | संस्कारः | इति | आख्यया | प्राग्दोषपनयाय | चेत् | क्वचित् | इमौ | साद्गुण्यवृद्धयै | क्वचित् | दग्धे | सस्यचये | अग्निना | अवनितले | माकन्दकन्दोद्भवः
@@ -312,12 +312,12 @@ The pruning of tree branches and the grafting of plants by gardeners are well-kn
 अन्हाय प्रमथा इतस्तत उमानाथाज्ञया प्राद्रवन् |<br/>
 हृष्टा वीक्ष्य मिधः करीन्द्र गृहिणीं रात्यर्ध खण्ड प्रभाम् ||<br/>
 सद्यो बालपराङ्मुखीमपि मनाग् व्यात्ताननां निद्रया |<br/>
-सामीप्येतपिपीलिकापरिहृतौ भस्त्रा मिवाु च्छ्वासिनीम् ||
+सामीप्येतपिपीलिकापरिहृतौ भस्त्रा मिवाु च्छ्वासिनीम् || 28 ||
 
 anhāya pramathā itastata umānāthājñayā prādravan |<br/>
 hṛṣṭā vīkṣya midhaḥ karīndra gṛhiṇīṃ rātyardha khaṇḍa prabhām ||<br/>
 sadyo bālaparāṅmukhīmapi manāg vyāttānanāṃ nidrayā |<br/>
-sāmīpyetapipīlikāparihṛtau bhastrā mivāucchvāsinīm ||
+sāmīpyetapipīlikāparihṛtau bhastrā mivāucchvāsinīm || 28 ||
 
 ### पदच्छेदम् (Padacchedam):
 अन्हाय | प्रमथाः | इतस्ततः | उमानाथाज्ञया | प्राद्रवन् | हृष्टाः | वीक्ष्य | मिधः | करीन्द्रगृहिणीम् | रात्यर्धखण्डप्रभाम् | सद्यः | बालपराङ्मुखीम् | अपि | मनाक् | व्यात्ताननाम् | निद्रया | सामीप्येतपिपीलिकापरिहृतौ | भस्त्राम् | इव | उच्छ्वासिनीम्
@@ -350,12 +350,12 @@ At the command of Lord Shiva, the Pramatha ganas immediately ran here and there.
 हंहो एष गजी सुतो मसृणमृत् कार्ण्य प्रभामण्डितः |<br/>
 नूनं पार्थिव पूजकै र्विरचितो भायात् त्रिरूपः शिवः ||<br/>
 दीर्घः शम्भु शरीर मेक मतुलं धत्ते स्वमूर्ध्वा यथा |<br/>
-गोलाकारकरूपयुग्मपि यत् स्वस्य स्वयं धारकः ||
+गोलाकारकरूपयुग्मपि यत् स्वस्य स्वयं धारकः || 29 ||
 
 haṃho eṣa gajī suto masṛṇamṛt kārṇya prabhāmaṇḍitaḥ |<br/>
 nūnaṃ pārthiva pūjakai rviracito bhāyāt trirūpaḥ śivaḥ ||<br/>
 dīrghaḥ śambhu śarīra meka matulaṃ dhatte svamūrdhvā yathā |<br/>
-golākārakarūpayugmapi yat svasya svayaṃ dhārakaḥ ||
+golākārakarūpayugmapi yat svasya svayaṃ dhārakaḥ || 29 ||
 
 ### पदच्छेदम् (Padacchedam):
 हंहो | एषः | गजीसुतः | मसृणमृत्कार्ण्यप्रभामण्डितः | नूनम् | पार्थिवपूजकैः | विरचितः | भायात् | त्रिरूपः | शिवः | दीर्घः | शम्भुशरीरम् | एकम् | अतुलम् | धत्ते | स्वमूर्ध्वा | यथा | गोलाकारकरूपयुक् | अपि | यत् | स्वस्य | स्वयम् | धारकः
@@ -385,12 +385,12 @@ Oh! This elephant calf, adorned with the dark luster of smooth clay, certainly s
 एकां सद् घटिकां धरन्ति मनुजाः शम्भोः प्रिये मस्तके |<br/>
 अत्र द्वे घटिके शुभे शिव शिरस्थे केनचि न्निर्मिते ||<br/>
 लिङ्गोपासना शुद्ध बुद्धिभिरहो साण्डः सलिङ्गः शिवः |<br/>
-हस्तिन्या स्तनयस्य मस्तक मिषात् सम्पादितः पण्डितैः ||
+हस्तिन्या स्तनयस्य मस्तक मिषात् सम्पादितः पण्डितैः || 30 ||
 
 ekāṃ sad ghaṭikāṃ dharanti manujāḥ śambhoḥ priye mastake |<br/>
 atra dve ghaṭike śubhe śiva śirasthe kenaci nnirmite ||<br/>
 liṅgopāsanā śuddha buddhibhiraho sāṇḍaḥ saliṅgaḥ śivaḥ |<br/>
-hastinyā stanayasya mastaka miṣāt sampāditaḥ paṇḍitaiḥ ||
+hastinyā stanayasya mastaka miṣāt sampāditaḥ paṇḍitaiḥ || 30 ||
 
 ### पदच्छेदम् (Padacchedam):
 एकाम् | सद्घटिकाम् | धरन्ति | मनुजाः | शम्भोः | प्रिये | मस्तके | अत्र | द्वे | घटिके | शुभे | शिवशिरस्थे | केनचित् | निर्मिते | लिङ्गोपासनाशुद्धबुद्धिभिः | अहो | साण्डः | सलिङ्गः | शिवः | हस्तिन्याः | तनयस्य | मस्तकमिषात् | सम्पादितः | पण्डितैः
@@ -420,12 +420,12 @@ Humans typically place one auspicious pot upon the head of Shambhu for worship. 
 शुम्भेत कुम्भकमण्डलद्वय धरः स्तम्भो यथा जङ्गमः |<br/>
 बाभातां च महाभुजङ्गफणगौ पीयूष पूर्णौ घटौ ||<br/>
 सम्बन्धं बिभ्रियात् कबन्धक शिशौ तस्यान्धकारे गृहे |<br/>
-आयाया ज्जनता प्रदर्शनकृते सम्मर्दतो गर्धतः ||<br/>
+आयाया ज्जनता प्रदर्शनकृते सम्मर्दतो गर्धतः || 31 ||<br/>
 
 śumbheta kumbhakamaṇḍaladvaya dharaḥ stambho yathā jaṅgamaḥ |<br/>
 bābhātāṃ ca mahābhujaṅgaphaṇagau pīyūṣa pūrṇau ghaṭau ||<br/>
 sambandhaṃ bibhriyāt kabandhaka śiśau tasyāndhakāre gṛhe |<br/>
-āyāyā jjanatā pradarśanakṛte sammardato gardhataḥ ||
+āyāyā jjanatā pradarśanakṛte sammardato gardhataḥ || 31 ||
 
 ### पदच्छेदम् (Padacchedam):
 शुम्भेत | कुम्भकमण्डलद्वयधरः | स्तम्भः | यथा | जङ्गमः | बाभातां | च | महाभुजङ्गफणगौ | पीयूषपूर्णौ | घटौ | सम्बन्धम् | बिभ्रियात् | कबन्धकशिशौ | तस्य | अन्धकारे | गृहे | आयायात् | जनता | प्रदर्शनकृते | सम्मर्दतः | गर्धतः
@@ -458,12 +458,12 @@ After the head is attached, the child shines like a moving pillar bearing two po
 धत्ते यो गजचर्म नर्मवशतो ऽनेन श्रयेत् शर्म सः |<br/>
 दर्शं दर्शमिमं प्रसेत्स्यति भृशं नश्च प्रशंसिष्यति ||<br/>
 लोकाश्चेत् शशशावकानपि निजाङ्के क्रीडयन्त्यन्वहम् |<br/>
-सन्मातङ्ग शिशोः शिरोधर शिशू रोचेत तस्मै न किम् ? ||<br/>
+सन्मातङ्ग शिशोः शिरोधर शिशू रोचेत तस्मै न किम् ? || 32 ||<br/>
 
 dhatte yo gajacarma narmavaśato 'nena śrayet śarma saḥ |<br/>
 darśaṃ darśamimaṃ prasetsyati bhṛśaṃ naśca praśaṃsiṣyati ||<br/>
 lokāścet śaśaśāvakānapi nijāṅke krīḍayantyanvaham |<br/>
-sanmātaṅga śiśoḥ śirodhara śiśū roceta tasmai na kim ? ||
+sanmātaṅga śiśoḥ śirodhara śiśū roceta tasmai na kim ? || 32 ||
 
 ### पदच्छेदम् (Padacchedam):
 धत्ते | यः | गजचर्म | नर्मवशतः | अनेन | श्रयेत् | शर्म | सः | दर्शम् | दर्शम् | इमम् | प्रसेत्स्यति | भृशम् | नः | च | प्रशंसिष्यति | लोकाः | चेत् | शशशावकान् | अपि | निजाङ्के | क्रीडयन्ति | अन्वहम् | सन्मातङ्गशिशोः | शिरोधरः | शिशुः | रोचेत | तस्मै | न | किम्
@@ -496,12 +496,12 @@ Lord Shiva, who wears elephant skin merely for amusement, will find great joy in
 भाशन्ते च स-मुद्रशास्त्र कुशला मूर्खा न ना दन्तुरः |<br/>
 एषत्वात्मरदै बहिर्गति करै र्विद्याधरः स्यात् स्वयम् ||<br/>
 दन्तावेव सुलेखनी प्रतिभटौ भातां यथा कर्णगौ |<br/>
-निर्लेखोऽपि च लेखकाग्र सदृशो भायात् स गौरी-शिशुः ||<br/>
+निर्लेखोऽपि च लेखकाग्र सदृशो भायात् स गौरी-शिशुः || 33 ||<br/>
 
 bhāśante ca sa-mudraśāstra kuśalā mūrkhā na nā danturaḥ |<br/>
 eṣatvātmaradai bahirgati karai rvidyādharaḥ syāt svayam ||<br/>
 dantāveva sulekhanī pratibhaṭau bhātāṃ yathā karṇagau |<br/>
-nirlekho'pi ca lekhakāgra sadṛśo bhāyāt sa gaurī-śiśuḥ ||
+nirlekho'pi ca lekhakāgra sadṛśo bhāyāt sa gaurī-śiśuḥ || 33 ||
 
 ### पदच्छेदम् (Padacchedam):
 भाशन्ते | च | समुद्रशास्त्रकुशलाः | मूर्खाः | न | ना | दन्तुरः | एषः | तु | आत्मरदैः | बहिर्गतिकरैः | विद्याधरः | स्यात् | स्वयम् | दन्तौ | एव | सुलेखनीप्रतिभटौ | भाताम् | यथा | कर्णगौ | निर्लेखः | अपि | च | लेखकाग्रसदृशः | भायात् | सः | गौरीशिशुः
@@ -534,12 +534,12 @@ Experts in the science of physiognomy declare that one with protruding teeth is 
 प्रत्यासत्ति नयेन ते सकलका एकां व्यधुः सम्मतिम् |<br/>
 चौर्याचार मपीश दीश दधरन् स्वीयप्रभो राज्ञया ||<br/>
 स्वामीष्टं विदधत् कयापि विधया प्रेष्ठः स्वयं जायते |<br/>
-स्वीयार्थं सफलं निरीक्ष्य स शिवः सर्वत्र नश्चारयेत् ||<br/>
+स्वीयार्थं सफलं निरीक्ष्य स शिवः सर्वत्र नश्चारयेत् || 34 ||<br/>
 
 pratyāsatti nayena te sakalakā ekāṃ vyadhuḥ sammatim |<br/>
 cauryācāra mapīśa dīśa dadharan svīyaprabho rājñayā ||<br/>
 svāmīṣṭaṃ vidadhat kayāpi vidhayā preṣṭhaḥ svayaṃ jāyate |<br/>
-svīyārthaṃ saphalaṃ nirīkṣya sa śivaḥ sarvatra naścārayet ||
+svīyārthaṃ saphalaṃ nirīkṣya sa śivaḥ sarvatra naścārayet || 34 ||
 
 ### पदच्छेदम् (Padacchedam):
 प्रत्यासत्तिनयेन | ते | सकलकाः | एकाम् | व्यधुः | सम्मतिम् | चौर्याचारम् | अपि | ईशत् | ईशत् | अधरन् | स्वीयप्रभोः | आज्ञया | स्वामीष्टम् | विदधत् | कयापि | विधया | प्रेष्ठः | स्वयम् | जायते | स्वीयार्थम् | सफलम् | निरीक्ष्य | सः | शिवः | सर्वत्र | नः | चारयेत्
@@ -567,12 +567,12 @@ Following the principle of proximity, all the Ganas reached a consensus. To fulf
 क्षेप्तुं वारिकणान् बहिः सुशिशिरान् धत्ते प्रणालीद्वयम् |<br/>
 नासायाश्छलतस्तदस्य सुशिरोऽ न्तर्वक्त्र कुम्भ द्वयम् ||<br/>
 कर्त्त्वा शिवयोः पदाम्बुज पुरस्तेऽतिष्ठिपन् मोदतः |<br/>
-संयोगस्य विधौ च दत्तनायना उद्ग्रीवतोत्का मिथः ||
+संयोगस्य विधौ च दत्तनायना उद्ग्रीवतोत्का मिथः || 35 ||
 
 kṣeptuṃ vārikaṇān bahiḥ suśiśirān dhatte praṇālīdvayam |<br/>
 nāsāyāśchalatastadasya suśiro' ntarvaktra kumbha dvayam ||<br/>
 karttvā śivayoḥ padāmbuja puraste'tiṣṭhipan modataḥ |<br/>
-saṃyogasya vidhau ca dattanayanā udgrīvatotkā mithaḥ ||
+saṃyogasya vidhau ca dattanayanā udgrīvatotkā mithaḥ || 35 ||
 
 ### पदच्छेदम् (Padacchedam):
 क्षेप्तुम् | वारिकणान् | बहिः | सुशिशिरान् | धत्ते | प्रणालीद्वयम् | नासायाः | छलतः | तत् | अस्य | सुशिरः | अन्तर्वक्त्रकुम्भद्वयम् | कर्त्त्वा | शिवयोः | पदाम्बुजपुरः | ते | अतिष्ठिपन् | मोदतः | संयोगस्य | विधौ | च | दत्तनायनाः | उद्ग्रीवतः | उत्काः | मिथः
@@ -607,12 +607,12 @@ The head of the elephant calf possesses two channels in the form of a trunk to s
 पीयूषस्य च बिन्दवः शिवजटा चन्द्रादपप्तन् त्वरा |<br/>
 मन्ये ब्राह्मणराजतापदधरो ऽपवित्रस्य पावित्र्य कृत् ||<br/>
 गङ्गाम्भोऽपि पपात तत्र शिशिरी कारि इव शुद्धयै च वा |<br/>
-सर्पफूतकृतकृतिनोदितं पतितवद् भस्मापि तस्मिन् युगे ||
+सर्पफूतकृतकृतिनोदितं पतितवद् भस्मापि तस्मिन् युगे || 36 ||
 
 pīyūṣasya ca bindavaḥ śivajaṭā candrādapaptan tvarā |<br/>
 manye brāhmaṇarājatāpadadharo 'pavitrasya pāvitrya kṛt ||<br/>
 gaṅgāmbho'pi papāta tatra śiśirī kāri iva śuddhyai ca vā |<br/>
-sarpaphūtakṛtakṛtinoditaṃ patitavad bhasmāpi tasmin yuge ||
+sarpaphūtakṛtakṛtinoditaṃ patitavad bhasmāpi tasmin yuge || 36 ||
 
 ### पदच्छेदम् (Padacchedam):
 पीयूषस्य | च | बिन्दवः | शिवजटाचन्द्रात् | अपप्तन् | त्वरा | मन्ये | ब्राह्मणराजतापदधरः | अपवित्रस्य | पावित्र्यकृत् | गङ्गाम्भः | अपि | पपात | तत्र | शिशिरीकारि | इव | शुद्धयै | च | वा | सर्पफूतकृतकृतिनोदितम् | पतितवत् | भस्म | अपि | तस्मिन् | युगे

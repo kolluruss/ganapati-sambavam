@@ -6,12 +6,12 @@ Shiva consoles Parvati and promises to restore the boy to life.
 प्रोक्तं धूर्जटिना नगेशतनये! शाशम्यतां क्षम्यताम्<br/>
 सम्राज्ञी नवचक्रवरिसदृशी त्वं योगिनां मण्डले<br/>
 नैवाध्यायि मया त्वया स्वमहसां पुञ्जेन सूतः सुतः<br/>
-योगस्ते जयतिस्म मामिति महान् आनन्दभिद्योऽवहत्<br/>
+योगस्ते जयतिस्म मामिति महान् आनन्दभिद्योऽवहत् ॥ 1 ॥<br/>
 
 Proktaṃ dhūrjaṭinā nageśatanaye! śāśamyatāṃ kṣamyatām<br/>
 Samrājñī navacakravartisadṛśī tvaṃ yogināṃ maṇḍale<br/>
 Naivādhyāyi mayā tvayā svamahasāṃ puñjena sūtaḥ sutaḥ<br/>
-Yogaste jayatisma māmiti mahān ānandabhidyo'vahat<br/>
+Yogaste jayatisma māmiti mahān ānandabhidyo'vahat || 1 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 प्रोक्तम् | धूर्जटिना | नगेशतनये | शाशम्यताम् | क्षम्यताम् | सम्राज्ञी | नवचक्रवरिसदृशी | त्वम् | योगिनाम् | मण्डले | न | एव | अध्यायि | मया | त्वया | स्वमहसाम् | पुञ्जेन | सूतः | सुतः | योगः | ते | जयतिस्म | माम् | इति | महान् | आनन्दभिद्यः | अवहत्
@@ -53,12 +53,12 @@ The matted-haired Lord Shiva spoke to Parvati, saying, "O daughter of the Mounta
 गौर्यूचे म्रिड! कोऽनया मृदुतया लाभोऽस्य वा मेऽधुना?<br/>
 अङ्कक्रीडनकं विहाप्य सहसा भूयः क्षमाभीक्षणम्<br/>
 येनासीवि पटः श्रमेणमहता मृत्स्नाघटोऽघाटि वा<br/>
-तं छिद्यात्तरसा भवत्सम महादेवोऽपि हा! हन्त! ही!!!<br/>
+तं छिद्यात्तरसा भवत्सम महादेवोऽपि हा! हन्त! ही!!! ॥ 2 ॥<br/>
 
 Gauryūce mriḍa! ko'nayā mṛdutayā lābho'sya vā me'dhunā?<br/>
 Aṅkakrīḍanakaṃ vihāpya sahasā bhūyaḥ kṣamābhīkṣaṇam<br/>
 Yenāsīvi paṭaḥ śrameṇamahatā mṛtsnāghaṭo'ghāṭi vā<br/>
-Taṃ chidyāttarasā bhavatsama mahādevo'pi hā! hanta! hī!!!<br/>
+Taṃ chidyāttarasā bhavatsama mahādevo'pi hā! hanta! hī!!! || 2 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 गौरी | ऊचे | म्रिड | कः | अनया | मृदुतया | लाभः | अस्य | वा | मे | अधुना | अङ्कक्रीडनकम् | विहाप्य | सहसा | भूयः | क्षमाभीक्षणम् | येन | असीवि | पटः | श्रमेण | महता | मृत्स्नाघटः | अघाटि | वा | तम् | छिद्यात् | तरसा | भवत्समः | महादेवः | अपि | हा | हन्त | ही
@@ -99,12 +99,12 @@ Goddess Parvati spoke with anguish, "O abode of happiness, what is the gain for 
 स्वाज्ञानात्परवस्तुनाश इह चेत् त्वादृक् सुरैरिष्यते<br/>
 का स्या ल्लोकतले स्थितिः? प्रतिगृहं चिन्ताचिताग्नि ज्वलेत्<br/>
 त्वन् मृत्युञ्जयतऽपि मे सुतमृति र्दण्डः प्रचण्डो विधेः<br/>
-किं देवान् महतऽपि दैवपदभृत् पत्युः परं दैवतम्?<br/>
+किं देवान् महतऽपि दैवपदभृत् पत्युः परं दैवतम्? ॥ 3 ॥<br/>
 
 Svājñānātparavastunāśa iha cet tvādṛk surairiṣyate<br/>
 Kā syā llokatale sthitiḥ? Pratigṛhaṃ cintācitāgni jvalet<br/>
 Tvan mṛtyuñjayata'pi me sutamṛti rdaṇḍaḥ pracaṇḍo vidheḥ<br/>
-Kiṃ devān mahata'pi daivapadabhṛt patyuḥ paraṃ daivatam?<br/>
+Kiṃ devān mahata'pi daivapadabhṛt patyuḥ paraṃ daivatam? || 3 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 स्वअज्ञानात् | परवस्तुनाशः | इह | चेत् | त्वादृक् | सुरैः | इष्यते | का | स्यात् | लोकतले | स्थितिः | प्रतिगृहम् | चिन्ताचिताग्निः | ज्वलेत् | त्वत् | मृत्युञ्जयतः | अपि | मे | सुतमृतिः | दण्डः | प्रचण्डः | विधेः | किम् | देवान् | महतः | अपि | दैवपदभृत् | पत्युः | परम् | दैवतम्
@@ -142,12 +142,12 @@ Kiṃ devān mahata'pi daivapadabhṛt patyuḥ paraṃ daivatam?<br/>
 निःशीतर्तु हिमानिका निपतनं जातं हृदब्जेऽद्य मे<br/>
 हेमन्तीय दिवाकस्य किरणा जाता ललाटं तपाः<br/>
 सूर्यो हा! हिमहा पितुर्ममगृहे राशौ वृषे स्याद्यदा<br/>
-पुत्राख्यस्य च हृद् हिमस्य वृषभारोहात् तथाऽभूद् धतिः<br/>
+पुत्राख्यस्य च हृद् हिमस्य वृषभारोहात् तथाऽभूद् धतिः ॥ 4 ॥<br/>
 
 Niḥśītartu himānikā nipatanaṃ jātaṃ hṛdabje'dya me<br/>
 Hemantīya divākasya kiraṇā jātā lalāṭaṃ tapāḥ<br/>
 Sūryo hā! Himahā piturmamagṛhe rāśau vṛṣe syādyadā<br/>
-Putrākhyasya ca hṛd himasya vṚṣabhārohāt tathā'bhūd dhatiḥ<br/>
+Putrākhyasya ca hṛd himasya vṚṣabhārohāt tathā'bhūd dhatiḥ || 4 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 निःशीतर्तु | हिमानिका | निपतन् | जातम् | हृदब्जे | अद्य | मे | हेमन्तीय | दिवाकस्य | किरणाः | जाताः | ललाटम् | तपाः | सूर्यः | हा | हिमहा | पितुः | मम | गृहे | राशौ | वृषे | स्यात् | यदा | पुत्राख्यस्य | च | हृत् | हिमस्य | वृषभारोहात् | तथा | अभूत् | हतिः
@@ -182,12 +182,12 @@ Putrākhyasya ca hṛd himasya vṚṣabhārohāt tathā'bhūd dhatiḥ<br/>
 किं मासैर्नवभिर्गृहीतजठरो यः सैव पुत्रो भवेत्?<br/>
 अम्बा यौवन सद्वनक्षयकरः प्रोक्तः कुठारोऽस्ति यः<br/>
 एवं दत्तकता हता क्रयकथा [possible reading: क्रयकथा — Krayakathā] याता कथाशेषताम्<br/>
-वृक्षाणां पशुपक्षिणामपि च सा यायाच्च निःसारताम्
+वृक्षाणां पशुपक्षिणामपि च सा यायाच्च निःसारताम् ॥ 5 ॥
 
 kiṃ māsairnavabhirgṛhītajaṭharo yaḥ saiva putro bhavet?<br/>
 ambā yauvana sadvanakṣayakaraḥ proktaḥ kuṭhāro'sti yaḥ<br/>
 evaṃ dattakatā hatā krayakathā yātā kathāśeṣatām<br/>
-vṛkṣāṇāṃ paśupakṣiṇāmapi ca sā yāyācca niḥsāratām
+vṛkṣāṇāṃ paśupakṣiṇāmapi ca sā yāyācca niḥsāratām || 5 ||
 
 ### पदच्छेदम् (Padacchedam):
 किम् | मासैः | नवभिः | गृहीतजठरः | यः | सः | एव | पुत्रः | भवेत् | अम्बा | यौवन | सद्वनक्षयकरः | प्रोक्तः | कुठारः | अस्ति | यः | एवम् | दत्तकता | हता | क्रयकथा | याता | कथाशेषताम् | वृक्षाणाम् | पशुपक्षिणाम् | अपि | च | सा | यायात् | च | निःसारताम्
@@ -214,12 +214,12 @@ Is the one who has been carried in the womb for nine months the only one who can
 शास्त्रार्थं ततवान् भवान् प्रथमतो लीलामयं स्वास्यतः<br/>
 मद्वक्षोजघटस्रवत् सितपयः पातोत्तरं दत्तवान्<br/>
 वाग्युद्धेऽपि न चेत्भवेत् प्रतिभटो जीवेत् स किं संसृतौ?<br/>
-ज्ञाने पूर्णतमे न तातसुतताऽज्ञानेत्वसिद्धा स्वतः
+ज्ञाने पूर्णतमे न तातसुतताऽज्ञानेत्वसिद्धा स्वतः ॥ 6 ॥
 
 śāstrārthaṃ tatavān bhavān prathamato līlāmayaṃ svāsyataḥ<br/>
 madvakṣojaghaṭasravat sitapayaḥ pātottaraṃ dattavān<br/>
 vāgyuddhe'pi na cetbhavet pratibhaṭo jīvet sa kiṃ saṃsṛtau?<br/>
-jñāne pūrṇatame na tātasutatā'jñānetvasiddhā svataḥ
+jñāne pūrṇatame na tātasutatā'jñānetvasiddhā svataḥ || 6 ||
 
 ### पदच्छेदम् (Padacchedam):
 शास्त्रार्थम् | ततवान् | भवान् | प्रथमतः | लीलामयम् | स्वास्यतः | मत् | वक्षोजघटस्रवत् | सितपयः | पातोत्तरम् | दत्तवान् | वाग्युद्धे | अपि | न | चेत् | भवेत् | प्रतिभटः | जीवेत् | सः | किम् | संसृतौ | ज्ञाने | पूर्णतमे | न | तातसुतता | अज्ञाने | तु | असिद्धा | स्वतः
@@ -249,12 +249,12 @@ You were the one who first initiated this playful scriptural debate. This child,
 शास्त्रार्थो गतवान् भवादृश महादेवस्य शस्त्रार्थताम्<br/>
 त्वत्-काशीवसति प्रियेष्वपि ततो विद्वत्सु मन्ये ततः<br/>
 तत्रेयात् पितृपुत्रयोरियमहो! घोरा वचःसन्ततिः<br/>
-स्यादेषा प्रचुरप्रचारणकरी दृष्टान्ततो द्वयोः
+स्यादेषा प्रचुरप्रचारणकरी दृष्टान्ततो द्वयोः ॥ 7 ॥
 
 śāstrārtho gatavān bhavādṛśa mahādevasya śastrārthatām<br/>
 tvat-kāśīvasati priyeṣvapi tato vidvatsu manye tataḥ<br/>
 tatreyāt pitṛputrayoriyamaho! ghorā vacaḥsantatiḥ<br/>
-syādeṣā pracurapracāraṇakarī dṛṣṭāntato dvayoḥ
+syādeṣā pracurapracāraṇakarī dṛṣṭāntato dvayoḥ || 7 ||
 
 ### पदच्छेदम् (Padacchedam):
 शास्त्रार्थः | गतवान् | भवादृशमहादेवस्य | शस्त्रार्थताम् | त्वत्काशीवसति | प्रियेषु | अपि | ततः | विद्वत्सु | मन्ये | ततः | तत्र | इयात् | पितृपुत्रयोः | इयम् | अहो | घोरा | वचःसन्ततिः | स्यात् | एषा | प्रचुरप्रचारणकरी | दृष्टान्ततः | द्वयोः
@@ -278,12 +278,12 @@ The scriptural debate of a great deity like you has turned into a war of weapons
 तत्र व्याकरणे रणो व्रणकरो जञ्जन्यमानः श्रुतः<br/>
 श्रीमत्सूत्र चतुर्दशीमयमहामूल त्रिशूलेश! हे<br/>
 अब्दान् शब्द विवेचनैः प्रगमयन्त्येते महाकोविदाः<br/>
-संसन्मात्रक वीथि, गीति, गमनेश्वोकः सु वेवेशने
+संसन्मात्रक वीथि, गीति, गमनेश्वोकः सु वेवेशने ॥ 8 ॥
 
 tatra vyākaraṇe raṇo vraṇakaro jañjanyamānaḥ śrutaḥ<br/>
 śrīmatsūtra caturdaśīmayamahāmūla triśūleśa! he<br/>
 abdān śabda vivecanaiḥ pragamayantyete mahākovidāḥ<br/>
-saṃsanmātraka vīthi, gīti, gamaneśvokaḥ su veveśane
+saṃsanmātraka vīthi, gīti, gamaneśvokaḥ su veveśane || 8 ||
 
 ### पदच्छेदम् (Padacchedam):
 तत्र | व्याकरणे | रणः | व्रणकरः | जञ्जन्यमानः | श्रुतः | श्रीमत्सूत्र | चतुर्दशीमयमहामूलः | त्रिशूलेश | हे | अब्दान् | शब्द | विवेचनैः | प्रगमयन्ति | एते | महाकोविदाः | संसन्मात्रकवीथिगीतिगमनेषु | ओकः | सु | वेवेशने
@@ -310,11 +310,11 @@ O Lord of the Trident! It is heard that in Kashi, a wounding war is continuously
 न्यायोऽन्याय इव प्रभाति बहुधाऽवच्छेदविच्छेदकैः<br/>
 नीलः कोऽपि घटो न मुञ्चति च कण्ठनीलाङ्कवत्<br/>
 उत्पत्तिर्जगतोऽणुभिः प्रतिपलं वाङ्मात्रतः साध्यते<br/>
-यैरेवाद्य भवता समैः क्रुधिरतैः जगद् ध्वंस्यते<br/>
+यैरेवाद्य भवता समैः क्रुधिरतैः जगद् ध्वंस्यते ॥ 9 ॥<br/>
 Nyāyo'nyāya iva prabhāti bahudhā'vacchedavicchedakaiḥ<br/>
 Nīlaḥ ko'pi ghaṭo na muñcati ca kaṇṭhanīlāṅkavat<br/>
 Utpattirjagato'ṇubhiḥ pratipalaṃ vāṅmātrataḥ sādhyate<br/>
-Yairevādya bhavatā samaiḥ krudhirataiḥ jagad dhvaṃsyate
+Yairevādya bhavatā samaiḥ krudhirataiḥ jagad dhvaṃsyate || 9 ||
 
 ### पदच्छेदम् (Padacchedam):
 न्यायः | अन्यायः | इव | प्रभाति | बहुधा | अवच्छेदविच्छेदकैः | नीलः | कः | अपि | घटः | न | मुञ्चति | च | कण्ठनीलाङ्कवत् | उत्पत्तिः | जगतः | अणुभिः | प्रतिपलम् | वाङ्मात्रतः | साध्यते | यैः | एव | अद्य | भवता | समैः | क्रुधिरतैः | जगत् | ध्वंस्यते
@@ -353,11 +353,11 @@ In Kashi, the science of logic appears as injustice due to the clever manipulati
 वीनामाप्तिरिति ब्रुवन्ति न परं पक्षोऽपि वेर्लभ्यते<br/>
 व्याप्त्याख्यं प्रियशब्दरत्नकमिदं धूमध्वजे जुह्वते<br/>
 अव्याप्तिं च वदन्ति किन्तु शिशिरे नोर्णापि येषांकरे<br/>
-नाना वर्णवती यतो विरचयेत् स्वोरस्त्रवस्त्रं प्रिया<br/>
+नाना वर्णवती यतो विरचयेत् स्वोरस्त्रवस्त्रं प्रिया ॥ 10 ॥<br/>
 Vīnāmāptiriti bruvanti na paraṃ pakṣo'pi verlabhyate<br/>
 Vyāptyākhyaṃ priyaśabdaratnakamidaṃ dhūmadhvaje juhvate<br/>
 Avyāptiṃ ca vadanti kintu śiśire norṇāpi yeṣāṃkare<br/>
-Nānā varṇavatī yato viracayet svorastravastraṃ priyā
+Nānā varṇavatī yato viracayet svorastravastraṃ priyā || 10 ||
 
 ### पदच्छेदम् (Padacchedam):
 वीनाम् | आप्तिः | इति | ब्रुवन्ति | न | परम् | पक्षः | अपि | वेः | लभ्यते | व्याप्त्याख्यम् | प्रियशब्दरत्नकम् | इदम् | धूमध्वजे | जुह्वते | अव्याप्तिम् | च | वदन्ति | किन्तु | शिशिरे | न | ऊर्णा | अपि | येषाम् | करे | नानावर्णवती | यतः | विरचयेत् | स्वोरस्त्रवस्त्रम् | प्रिया
@@ -397,11 +397,11 @@ These logicians frequently use the term 'Vyapti' (which they interpret as 'attai
 नेत्राग्रस्थितयोश्च कृष्णसितयोः पञ्चाङ्गतः पक्षयोः<br/>
 कः पक्षोऽथ विपक्षकोऽप्यथ च कः पक्षः सपक्षोऽस्ति वः ?<br/>
 सन्देहे पतिता मिथो युधिरताः प्रायः स्वभावा दिमे<br/>
-तत्रेयाद् यदि वामियं रणकथा स्याद्दद्रुकण्डूपमा<br/>
+तत्रेयाद् यदि वामियं रणकथा स्याद्दद्रुकण्डूपमा ॥ 11 ॥<br/>
 Netrāgrasthitayośca kṛṣṇasitayoḥ pañcāṅgataḥ pakṣayoḥ<br/>
 Kaḥ pakṣo'tha vipakṣako'pyatha ca kaḥ pakṣaḥ sapakṣo'sti vaḥ ?<br/>
 Sandehe patitā mitho yudhiratāḥ prāyaḥ svabhāvā dime<br/>
-Tatreyād yadi vāmiyaṃ raṇakathā syāddadrukaṇḍūpamā
+Tatreyād yadi vāmiyaṃ raṇakathā syāddadrukaṇḍūpamā || 11 ||
 
 ### पदच्छेदम् (Padacchedam):
 नेत्राग्रस्थितयोः | च | कृष्णसितयोः | पञ्चाङ्गतः | पक्षयोः | कः | पक्षः | अथ | विपक्षकः | अपि | अथ | च | कः | पक्षः | सपक्षः | अस्ति | वः | सन्देहे | पतिताः | मिथो | युधिरताः | प्रायः | स्वभावात् | इमे | तत्र | इयात् | यदि | वाम् | इयम् | रणकथा | स्यात् | दद्रुकण्डूपमा
@@ -433,11 +433,11 @@ Even though the two sides—the dark and light fortnights—are placed right bef
 येऽतिव्याप्तिपदादरा अपि गृहात् पादद्वयं यान्ति नो<br/>
 आस्तां व्यापकता तु संकुचितता पृष्ठं पिशाची त्यजेत्<br/>
 एते लक्षणलक्ष्ययोः पदमिदं सञ्चारयन्तः स्तुताः<br/>
-एतेऽमूं तु भवादृशोऽपि न सहन्ते हन्त ! काशीबुधाः<br/>
+एतेऽमूं तु भवादृशोऽपि न सहन्ते हन्त ! काशीबुधाः ॥ 12 ॥<br/>
 Ye'tivyāptipadādarā api gṛhāt pādadvayaṃ yānti no<br/>
 Āstāṃ vyāpakatā tu saṃkucitatā pṛṣṭhaṃ piśācī tyajet<br/>
 Ete lakṣaṇalakṣyayoḥ padamidaṃ sañcārayantaḥ stutāḥ<br/>
-Ete'mūṃ tu bhavādṛśo'pi na sahante hanta ! Kāśībudhāḥ
+Ete'mūṃ tu bhavādṛśo'pi na sahante hanta ! Kāśībudhāḥ || 12 ||
 
 ### पदच्छेदम् (Padacchedam):
 ये | अतिव्याप्तिपदादराः | अपि | गृहात् | पादद्वयम् | यान्ति | नो | आस्ताम् | व्यापकता | तु | संकुचितता | पृष्ठम् | पिशाची | त्यजेत् | एते | लक्षणलक्ष्ययोः | पदम् | इदम् | सञ्चारयन्तः | स्तुताः | एते | अमूम् | तु | भवादृशः | अपि | न | सहन्ते | हन्त | काशीबुधाः
@@ -471,12 +471,12 @@ Those scholars are very fond of the term 'Ativyapti' (over-pervasion), yet they 
 सङ्ख्याद् ये विरमन्त्यसङ्ख्यपुरुषाणां सैन्यवन्तोऽपि ये<br/>
 ते साङ्ख्याः प्रकृतौ कदापि विकृतौ तिष्ठन्त्यजोपासकाः<br/>
 गृह्णीयुर्युवयोरातः कुकलहात् तत्त्वं महत् किञ्च ते<br/>
-रुन्धे तेन न तत्र यातु विषयोऽयं वां विषोद्वर्षकः<br/>
+रुन्धे तेन न तत्र यातु विषयोऽयं वां विषोद्वर्षकः ॥ 13 ॥<br/>
 <br/>
 saṅkhyād ye viramantyasaṅkhyapuruṣāṇāṃ sainyavanto'pi ye<br/>
 te sāṅkhyāḥ prakṛtau kadāpi vikṛtau tiṣṭhantyajopāsakāḥ<br/>
 gṛhṇīyuryuvayorātaḥ kukalahāt tattvaṃ mahat kiñca te<br/>
-rundhe tena na tatra yātu viṣayo'yaṃ vāṃ viṣodvarṣakaḥ<br/>
+rundhe tena na tatra yātu viṣayo'yaṃ vāṃ viṣodvarṣakaḥ || 13 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 सङ्ख्यात् | ये | विरमन्ति | असङ्ख्यपुरुषाणाम् | सैन्यवन्तः | अपि | ये | ते | साङ्ख्याः | प्रकृतौ | कदापि | विकृतौ | तिष्ठन्ति | अजोपासकाः | गृह्णीयुः | युवयोः | अतः | कुकलहात् | तत्त्वम् | महत् | किञ्च | ते | रुन्धे | तेन | न | तत्र | यातु | विषयः | अयम् | वाम् | विषोद्वर्षकः
@@ -504,12 +504,12 @@ rundhe tena na tatra yātu viṣayo'yaṃ vāṃ viṣodvarṣakaḥ<br/>
 एकं ब्रह्म न च द्वितीयमिति ये वेदान्तदान्ताः स्थिताः<br/>
 दन्तोदन्तपराः विजितपटाः कौपीनवन्तो मनाक्<br/>
 मूर्धोर्ध्वस्थशिखाकचद्वयलघु स्वब्रह्मसूत्रत्यजः<br/>
-तेऽपीमं तु निपिय वादविषयं यायुर्मनोम्लानताम्<br/>
+तेऽपीमं तु निपिय वादविषयं यायुर्मनोम्लानताम् ॥ 14 ॥<br/>
 <br/>
 ekaṃ brahma na ca dvitīyamiti ye vedāntadāntāḥ sthitāḥ<br/>
 dantodantaparāḥ vijitapaṭāḥ kaupīnavanto manāk<br/>
 mūrdhordhvasthaśikhākacadvayalaghu svabrahmasūtratyajaḥ<br/>
-te'pīmaṃ tu nipīya vādaviṣayaṃ yāyurmanomlānatām<br/>
+te'pīmaṃ tu nipīya vādaviṣayaṃ yāyurmanomlānatām || 14 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 एकम् | ब्रह्म | न | च | द्वितीयम् | इति | ये | वेदान्तदान्ताः | स्थिताः | दन्तोदन्तपराः | विजितपटाः | कौपीनवन्तः | मनाक् | मूर्धोर्ध्वस्थशिखाकचद्वयलघु | स्वब्रह्मसूत्रत्यजः | ते | अपि | इमम् | तु | निपिय | वादविषयम् | यायुः | मनोम्लानताम्
@@ -535,12 +535,12 @@ te'pīmaṃ tu nipīya vādaviṣayaṃ yāyurmanomlānatām<br/>
 मीमांसांशविशेषलब्धपदका ये मांसलांसा यतः<br/>
 सम्भृज्जन्ति कपाळकेषु च पुरोडाशं सदैव्राष्टसु<br/>
 गच्छन्तः परिसङ्ख्यया निजकृताविष्कारया निर्भयम्<br/>
-ते मीमांसकपण्डिता न शृणुयुः शास्त्रार्थमेतं च वाम्<br/>
+ते मीमांसकपण्डिता न शृणुयुः शास्त्रार्थमेतं च वाम् ॥ 15 ॥<br/>
 <br/>
 mīmāṃsāṃśaviśeṣalabdha-padakā ye māṃsalāṃsā yataḥ<br/>
 sambhṛjjanti kapālakeṣu ca puroḍāśaṃ sadaivāṣṭasu<br/>
 gacchantaḥ parisaṅkhyayā nijakṛtāviṣkārayā nirbhayam<br/>
-te mīmāṃsakapaṇḍitā na śṛṇuyuḥ śāstrārthametaṃ ca vām<br/>
+te mīmāṃsakapaṇḍitā na śṛṇuyuḥ śāstrārthametaṃ ca vām || 15 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 मीमांसांशविशेषलब्धपदकाः | ये | मांसलांसाः | यतः | सम्भृज्जन्ति | कपाळकेषु | च | पुरोडाशम् | सदा | एव | अष्टसु | गच्छन्तः | परिसङ्ख्यया | निजकृताविष्कारया | निर्भयम् | ते | मीमांसकपण्डिताः | न | शृणुयुः | शास्त्रार्थम् | एतम् | च | वाम्
@@ -565,12 +565,12 @@ te mīmāṃsakapaṇḍitā na śṛṇuyuḥ śāstrārthametaṃ ca vām<br/>
 एवं यत्र च बालवल्कलकृशः पाण्डित्यचण्डश्रियः<br/>
 राजन्ते शिशुपाठदाननिरता नौ नामजापप्रियाः<br/>
 यद्वाऽन्ये पितरः सुतैः सुरसुधावागुत्तरङ्गाननाः<br/>
-स्युः स्वाचारविचारतः परतमास्तस्मान्न चेयादिदम्<br/>
+स्युः स्वाचारविचारतः परतमास्तस्मान्न चेयादिदम् ॥ 16 ॥<br/>
 <br/>
 evaṃ yatra ca bālavalkalakṛśaḥ pāṇḍityacaṇḍaśriyaḥ<br/>
 rājante śiśupāṭhadānaniratā nau nāmajāpapriyāḥ<br/>
 yadvā'nye pitaraḥ sutaiḥ surasudhāvāguttaraṅgānanāḥ<br/>
-syuḥ svācāravicārataḥ paratamāstasmānna ceyādidam<br/>
+syuḥ svācāravicārataḥ paratamāstasmānna ceyādidam || 16 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 एवम् | यत्र | च | बालवल्कलकृशः | पाण्डित्यचण्डश्रियः | राजन्ते | शिशुपाठदाननिरताः | नौ | नामजापप्रियाः | यद्वा | अन्ये | पितरः | सुतैः | सुरसुधावागुत्तरङ्गाननाः | स्युः | स्वाचारविचारतः | परतमाः | तस्मात् | न | च | इयात् | इदम्
@@ -594,12 +594,12 @@ syuḥ svācāravicārataḥ paratamāstasmānna ceyādidam<br/>
 आसीदत्र भवत्करातप्रियपदार्थाशा पुरस्करातः<br/>
 मा भूत् सा विषयोऽपि तस्य भवता छिन्नीकृतो मूलतः<br/>
 षड्विंशं पदमाप्तुमेव चलितः कश्चिच्चतुर्विंशकः<br/>
-द्वाविंशं धृतवान् पदं हतविधिस्तादृग्गतिर्मेऽभवत्<br/>
+द्वाविंशं धृतवान् पदं हतविधिस्तादृग्गतिर्मेऽभवत् ॥ 17 ॥<br/>
 
 Āsīdatra bhavatkarāt priyapadārthāśā puraskārataḥ<br/>
 Mā bhūt sā viṣayo'pi tasya bhavatā chinnīkṛto mūlataḥ<br/>
 Ṣaḍviṃśaṃ padamāptumeva calitaḥ kaściccaturviṃśakaḥ<br/>
-Dvāviṃśaṃ dhṛtavān padaṃ hatavidhistādṛggatirme'bhavat<br/>
+Dvāviṃśaṃ dhṛtavān padaṃ hatavidhistādṛggatirme'bhavat || 17 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 आसीत् | अत्र | भवत्करात् | प्रियपदार्थाशा | पुरस्करातः | मा | भूत् | सा | विषयः | अपि | तस्य | भवता | छिन्नीकृतः | मूलतः | षड्विंशम् | पदम् | आप्तुम् | एव | चलितः | कश्चित् | चतुर्विंशकः | द्वाविंशम् | धृतवान् | पदम् | हतविधिः | तादृग्गतिः | मे | अभवत्
@@ -628,12 +628,12 @@ I had hoped to receive some cherished object as a gift from your hands. If that 
 पीयूषं विषतामुपैति च विषं पीयूषयूषायते<br/>
 यस्य क्रीडनतः स एव विषभुल्लिप्तो विषं क्षिप्तवान्<br/>
 इत्थं क्षोभपराऽद्रिजा श्रमवती श्वासान् दधे तुन्दिलान्<br/>
-हा हा मेऽपि सुतो हतो भगवतः पत्न्या विधिश्चेष्टितात्<br/>
+हा हा मेऽपि सुतो हतो भगवतः पत्न्या विधिश्चेष्टितात् ॥ 18 ॥<br/>
 
 Pīyūṣaṃ viṣatāmupaiti ca viṣaṃ pīyūṣayūṣāyate<br/>
 Yasya krīḍanataḥ sa eva viṣabhullipto viṣaṃ kṣiptavān<br/>
 Itthaṃ kṣobhaparā'drijā śramavatī śvāsān dadhe tundilān<br/>
-Hā hā me'pi suto hato bhagavataḥ patnyā vidiśceṣṭitāt<br/>
+Hā hā me'pi suto hato bhagavataḥ patnyā vidiśceṣṭitāt || 18 ||<br/>
 
 ### पदच्छेदम् (Padacchedam):
 पीयूषम् | विषताम् | उपैति | च | विषम् | पीयूषयूषायते | यस्य | क्रीडनतः | सः | एव | विषभुल्लिप्तः | विषम् | क्षिप्तवान् | इत्थम् | क्षोभपरा | अद्रिजा | श्रमवती | श्वासान् | दधे | तुन्दिलान् | हा हा | मे | अपि | सुतः | हतः | भगवतः | पत्न्याः | विधेः | चेष्टितात्
